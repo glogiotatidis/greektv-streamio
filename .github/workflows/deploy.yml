@@ -21,7 +21,9 @@ jobs:
     steps:
       - id: set
         run: |
-          if [ -z "${{ github.event.inputs.stations }}" ]; then
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            echo 'stations=["mega_tv","skai","star_channel","ant1"]' >> "$GITHUB_OUTPUT"
+          elif [ -z "${{ github.event.inputs.stations }}" ]; then
             echo 'stations=["mega_tv","skai","star_channel","alpha_tv","ert","ant1"]' >> "$GITHUB_OUTPUT"
           else
             python -c "import json,os; raw=os.environ['STATIONS']; slugs=[s.strip() for s in raw.split(',') if s.strip()]; open(os.environ['GITHUB_OUTPUT'],'a').write('stations='+json.dumps(slugs)+'\n')"
