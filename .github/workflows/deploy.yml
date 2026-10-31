@@ -12,9 +12,29 @@ concurrency:
   group: deploy
   cancel-in-progress: true
 jobs:
-  build:
+  prepare:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    outputs:
+      stations: ${{ steps.set.outputs.stations }}
+    steps:
+      - id: set
+        run: |
+          if [ -z "${{ github.event.inputs.stations }}" ]; then
+            echo 'stations=["mega_tv","skai","star_channel","alpha_tv","ert","ant1"]' >> "$GITHUB_OUTPUT"
+          else
+            python -c "import json,os; raw=os.environ['STATIONS']; slugs=[s.strip() for s in raw.split(',') if s.strip()]; open(os.environ['GITHUB_OUTPUT'],'a').write('stations='+json.dumps(slugs)+'\n')"
+          fi
+        env:
+          STATIONS: ${{ github.event.inputs.stations }}
+
+  build:
+    needs: prepare
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix:
+        station: ${{ fromJson(needs.prepare.outputs.stations) }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -24,12 +44,34 @@ jobs:
       - uses: actions/cache@v4
         with:
           path: site
-          key: greektv-site-${{ github.sha }}
+          key: greektv-site-${{ matrix.station }}-${{ github.sha }}
           restore-keys: |
-            greektv-site-
+            greektv-site-${{ matrix.station }}-
       - run: python static_export.py
         env:
-          GREEKTV_STATIONS: ${{ github.event.inputs.stations }}
+          GREEKTV_STATIONS: ${{ matrix.station }}
+      - run: test -s site/manifest.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site-${{ matrix.station }}
+          path: site/
+
+  merge:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install fastapi beautifulsoup4 curl_cffi
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: site-*
+          path: site
+          merge-multiple: true
+      - run: python static_export.py
       - run: test -s site/manifest.json
       - uses: peaceiris/actions-gh-pages@v4
         with:
