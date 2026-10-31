@@ -84,22 +84,23 @@ def _embedded_episodes(html):
 
 def _ajax_episodes(html):
     result = []
-    pattern = (
-        r'<a[^>]+href="(/tv/episode/[^"]+)"[^>]*>.*?'
-        r"<h3[^>]*>(.*?)</h3>"
-    )
+    pattern = r'<a[^>]+href="(/tv/episode/[^"]+)"[^>]*>(.*?)</a>'
     for match in re.finditer(pattern, html, re.S):
-        url = BASE + match.group(1)
-        title = clean(re.sub(r"<[^>]+>", " ", match.group(2)))
+        block = match.group(2)
+        h3 = re.search(r"<h3[^>]*>(.*?)</h3>", block, re.S)
+        title = clean(re.sub(r"<[^>]+>", " ", h3.group(1))) if h3 else ""
         number_match = re.search(r"(\d+)", title)
         number = int(number_match.group(1)) if number_match else 0
+        img_match = re.search(r'<img[^>]+src="([^"]+)"', block, re.S)
+        thumbnail = img_match.group(1) if img_match else ""
+        url = BASE + match.group(1)
         result.append(
             {
                 "id": match.group(1).strip("/").split("/")[-1],
                 "url": url,
                 "title": title or "Επεισόδιο",
                 "episode": number,
-                "thumbnail": "",
+                "thumbnail": thumbnail,
             }
         )
     return result
