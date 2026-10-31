@@ -7,6 +7,13 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg",
     "videos": [
       {
+        "id": "greek_tv:skai:cddaf72d:2026-10-23-18",
+        "title": "23/10/2026",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
+      },
+      {
         "id": "greek_tv:skai:cddaf72d:2026-10-25-17",
         "title": "Επεισόδιο 63",
         "season": 1,
