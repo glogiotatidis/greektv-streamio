@@ -2,7 +2,7 @@ import hashlib
 import logging
 import os
 import threading
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from greektv.common import safe_id
 from greektv.stations import ORDER, STATIONS
@@ -54,6 +54,7 @@ def all_refs():
 
         refs = []
         for station, items in results:
+            logger.info("Discovered %d shows for %s", len(items), station)
             seen = set()
             for ref in items:
                 url = ref.get("url")
@@ -177,8 +178,13 @@ def _ensure_loaded():
                 "show": get_show(entry),
             }
 
+        entries = []
         with ThreadPoolExecutor(max_workers=workers) as pool:
-            entries = list(pool.map(build, refs))
+            futures = [pool.submit(build, entry) for entry in refs]
+            for index, future in enumerate(as_completed(futures), start=1):
+                entries.append(future.result())
+                if index % 25 == 0 or index == len(refs):
+                    logger.info("Loaded %d/%d shows", index, len(refs))
 
         _loaded = [entry for entry in entries if entry["show"].get("episodes")]
         _by_sid = {entry["sid"]: entry for entry in _loaded}
