@@ -97,7 +97,6 @@ jobs:
           GREEKTV_STATIONS: ${{ join(fromJson(needs.prepare.outputs.stations), ',') }}
           GREEKTV_FULL: ${{ github.event.inputs.full }}
           GREEKTV_FULL_STATIONS: ${{ github.event.inputs.full_stations }}
-          GREEKTV_FULL_STATIONS: ${{ github.event.inputs.full_stations }}
       - run: test -s site/manifest.json
       - uses: peaceiris/actions-gh-pages@v4
         with:
