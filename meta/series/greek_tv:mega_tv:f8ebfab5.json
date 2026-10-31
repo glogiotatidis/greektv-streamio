@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "id": "greek_tv:mega_tv:f8ebfab5",
+    "type": "series",
+    "name": "Στον Δρόμο για το 5άρι",
+    "poster": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg",
+    "background": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:mega_tv:f8ebfab5:epeisodio-1-23",
+        "title": "Επεισόδιο 1 -",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:f8ebfab5:epeisodio-2-22",
+        "title": "Επεισόδιο 2 -",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:f8ebfab5:epeisodio-3-25",
+        "title": "Επεισόδιο 3 -",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:f8ebfab5:epeisodio-4-25",
+        "title": "Επεισόδιο 4 -",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:f8ebfab5:epeisodio-5-25",
+        "title": "Επεισόδιο 5 -",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:f8ebfab5:epeisodio-6-27",
+        "title": "Επεισόδιο 6 -",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:f8ebfab5:epeisodio-7-24",
+        "title": "Επεισόδιο 7 -",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:f8ebfab5:epeisodio-8-22",
+        "title": "Επεισόδιο 8 -",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:f8ebfab5:epeisodio-9-23",
+        "title": "Επεισόδιο 9 -",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:f8ebfab5:epeisodio-10-24",
+        "title": "Επεισόδιο 10 -",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+      }
+    ]
+  }
+}

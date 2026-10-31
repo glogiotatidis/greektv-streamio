@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:b2f9c4d9",
+    "type": "series",
+    "name": "Ώρα για Φαγητό με την Αργυρώ",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2020-08-31-11",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2020-09-01-11",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2020-09-02-11",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2020-09-03-11",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2020-09-04-11",
+        "title": "Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2020-09-07-11",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2020-09-08-11",
+        "title": "Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2020-09-09-11",
+        "title": "Επεισόδιο 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2020-09-10-11",
+        "title": "Επεισόδιο 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2020-09-11-11",
+        "title": "Επεισόδιο 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2020-09-14-11",
+        "title": "Επεισόδιο 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2020-09-15-11",
+        "title": "Επεισόδιο 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2021-05-12-11",
+        "title": "Επεισόδιο 169",
+        "season": 1,
+        "episode": 169,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2021-05-13-11",
+        "title": "Επεισόδιο 170",
+        "season": 1,
+        "episode": 170,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2021-05-14-11",
+        "title": "Επεισόδιο 171",
+        "season": 1,
+        "episode": 171,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2021-05-17-11",
+        "title": "Επεισόδιο 172",
+        "season": 1,
+        "episode": 172,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2021-05-18-11",
+        "title": "Επεισόδιο 173",
+        "season": 1,
+        "episode": 173,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2021-05-19-11",
+        "title": "Επεισόδιο 174",
+        "season": 1,
+        "episode": 174,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2021-05-20-11",
+        "title": "Επεισόδιο 175",
+        "season": 1,
+        "episode": 175,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2021-05-21-11",
+        "title": "Επεισόδιο 176",
+        "season": 1,
+        "episode": 176,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2021-05-24-11",
+        "title": "Επεισόδιο 177",
+        "season": 1,
+        "episode": 177,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2021-05-25-11",
+        "title": "Επεισόδιο 178",
+        "season": 1,
+        "episode": 178,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2021-05-26-11",
+        "title": "Επεισόδιο 179",
+        "season": 1,
+        "episode": 179,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b2f9c4d9:2021-05-27-11",
+        "title": "Επεισόδιο 180",
+        "season": 1,
+        "episode": 180,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      }
+    ]
+  }
+}

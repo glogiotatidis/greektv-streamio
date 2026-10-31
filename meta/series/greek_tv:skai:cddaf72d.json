@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:cddaf72d",
+    "type": "series",
+    "name": "Δελτίο στη Νοηματική",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:cddaf72d:2026-10-31-17",
+        "title": "31/10/2026",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:cddaf72d:2026-10-23-18",
+        "title": "Επεισόδιο 61",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:cddaf72d:2026-10-25-17",
+        "title": "Επεισόδιο 63",
+        "season": 1,
+        "episode": 63,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:cddaf72d:2026-10-26-18",
+        "title": "Επεισόδιο 64",
+        "season": 1,
+        "episode": 64,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:cddaf72d:2026-10-27-18",
+        "title": "Επεισόδιο 65",
+        "season": 1,
+        "episode": 65,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:cddaf72d:2026-10-28-17",
+        "title": "Επεισόδιο 66",
+        "season": 1,
+        "episode": 66,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:cddaf72d:2026-10-29-18",
+        "title": "Επεισόδιο 67",
+        "season": 1,
+        "episode": 67,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:cddaf72d:2026-10-30-18",
+        "title": "Επεισόδιο 68",
+        "season": 1,
+        "episode": 68,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
+      }
+    ]
+  }
+}

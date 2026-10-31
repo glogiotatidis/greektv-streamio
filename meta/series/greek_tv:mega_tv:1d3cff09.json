@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "id": "greek_tv:mega_tv:1d3cff09",
+    "type": "series",
+    "name": "Δυο Μαύρα Πουκάμισα",
+    "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg",
+    "background": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-1-122",
+        "title": "Επεισόδιο 1 -",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-2-120",
+        "title": "Επεισόδιο 2 -",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-3-122",
+        "title": "Επεισόδιο 3 -",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-4-123",
+        "title": "Επεισόδιο 4 -",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-5-119",
+        "title": "Επεισόδιο 5 -",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-6-122",
+        "title": "Επεισόδιο 6 -",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-7-120",
+        "title": "Επεισόδιο 7 -",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-8-119",
+        "title": "Επεισόδιο 8 -",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-9-119",
+        "title": "Επεισόδιο 9 -",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-10-116",
+        "title": "Επεισόδιο 10 -",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-11-116",
+        "title": "Επεισόδιο 11 -",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-12-114",
+        "title": "Επεισόδιο 12 -",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-13-114",
+        "title": "Επεισόδιο 13 -",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-14-109",
+        "title": "Επεισόδιο 14 -",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-15-106",
+        "title": "Επεισόδιο 15 -",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-16-106",
+        "title": "Επεισόδιο 16 -",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-17-103",
+        "title": "Επεισόδιο 17 -",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-18-100",
+        "title": "Επεισόδιο 18 -",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-19-97",
+        "title": "Επεισόδιο 19 -",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-20-97",
+        "title": "Επεισόδιο 20 -",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-21-85",
+        "title": "Επεισόδιο 21 -",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-22-85",
+        "title": "Επεισόδιο 22 -",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-23-82",
+        "title": "Επεισόδιο 23 -",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:1d3cff09:epeisodio-24-83",
+        "title": "Επεισόδιο 24 -",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+      }
+    ]
+  }
+}

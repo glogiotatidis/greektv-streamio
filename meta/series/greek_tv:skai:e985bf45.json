@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:e985bf45",
+    "type": "series",
+    "name": "STOIXIMAN GBL 2026-27 TV ONLY",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/gbl/stoiximan_gpl_landscape.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/gbl/stoiximan_gpl_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:e985bf45:2026-10-17-16",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/gbl/kolossos_paok_gbl_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:e985bf45:2026-10-24-17",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/gbl/paok_aek_gbl_landscape.jpg"
+      }
+    ]
+  }
+}

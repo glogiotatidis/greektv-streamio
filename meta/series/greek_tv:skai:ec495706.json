@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:ec495706",
+    "type": "series",
+    "name": "Μέλλον Ένα",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_landscape.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:ec495706:2025-09-13-13",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/mellon_ena/epeisodia_2/1_nyfantopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ec495706:2025-09-20-13",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/mellon_ena/epeisodia_2/2_katsis.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ec495706:2025-09-27-13",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/mellon_ena/epeisodia_2/3_avgoulas.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ec495706:2025-10-04-13",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/mellon_ena/epeisodia_2/4_vasileiadis.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ec495706:2025-10-11-13",
+        "title": "Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/mellon_ena/epeisodia_2/5_loukas.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ec495706:2025-10-18-13",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/mellon_ena/epeisodia_2/6_driva.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ec495706:2025-11-01-13",
+        "title": "Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/mellon_ena/logos/mellon_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ec495706:2025-05-10-16",
+        "title": "Επεισόδιο 1",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/mellon_ena/epeisodia/mellon_1_papaggelis.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ec495706:2025-05-17-16",
+        "title": "Επεισόδιο 2",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/mellon_ena/epeisodia/mellon_2_cool_crips.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ec495706:2025-05-24-16",
+        "title": "Επεισόδιο 3",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/mellon_ena/epeisodia/vrana.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ec495706:2025-05-31-16",
+        "title": "Επεισόδιο 4",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/mellon_ena/epeisodia/mellon_4_lagaria.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ec495706:2025-06-14-17",
+        "title": "Επεισόδιο 5",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/mellon_ena/epeisodia/mellon_5_mitsaki.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ec495706:2025-06-21-17",
+        "title": "Επεισόδιο 6",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/mellon_ena/epeisodia/mellon_6_tasoula.jpg"
+      }
+    ]
+  }
+}

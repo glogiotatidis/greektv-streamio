@@ -1,0 +1,1278 @@
+{
+  "meta": {
+    "id": "greek_tv:star_channel:6474b95a",
+    "type": "series",
+    "name": "BREAKFAST@STAR",
+    "poster": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg",
+    "background": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:star_channel:6474b95a:10102025-breakfaststar",
+        "title": "10/10/2025",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:13102025-breakfaststar",
+        "title": "13/10/2025",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:14102025-breakfaststar",
+        "title": "14/10/2025",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:15102025-breakfaststar",
+        "title": "15/10/2025",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:16102025-breakfaststar",
+        "title": "16/10/2025",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:17102025-breakfaststar",
+        "title": "17/10/2025",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:20102025-breakfaststar",
+        "title": "20/10/2025",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:21102025-breakfaststar",
+        "title": "21/10/2025",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:22102025-breakfaststar",
+        "title": "22/10/2025",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:23102025-breakfaststar",
+        "title": "23/10/2025",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:24102025-breakfaststar",
+        "title": "24/10/2025",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:29102025-breakfaststar",
+        "title": "29/10/2025",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:30102025-breakfaststar",
+        "title": "30/10/2025",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:31102025-breakfaststar",
+        "title": "31/10/2025",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:03112025-breakfaststar",
+        "title": "03/11/2025",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:10112025-breakfaststar",
+        "title": "10/11/2025",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:11112025-breakfaststar",
+        "title": "11/11/2025",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:12112025-breakfaststar",
+        "title": "12/11/2025",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:13112025-breakfaststar",
+        "title": "13/11/2025",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:14112025-breakfaststar",
+        "title": "14/11/2025",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:17112025-breakfaststar",
+        "title": "17/11/2025",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:18112025-breakfaststar",
+        "title": "18/11/2025",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:19112025-breakfaststar",
+        "title": "19/11/2025",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:20112025-breakfaststar",
+        "title": "20/11/2025",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:21112025-breakfaststar",
+        "title": "21/11/2025",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:24112025-breakfaststar",
+        "title": "24/11/2025",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:25112025-breakfaststar",
+        "title": "25/11/2025",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:26112025-breakfaststar",
+        "title": "26/11/2025",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:27112025-breakfaststar",
+        "title": "27/11/2025",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:28112025-breakfaststar",
+        "title": "28/11/2025",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:01122025-breakfaststar",
+        "title": "01/12/2025",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:02122025-breakfaststar",
+        "title": "02/12/2025",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:10122025-breakfaststar",
+        "title": "10/12/2025",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:11122025-breakfaststar",
+        "title": "11/12/2025",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:12122025-breakfaststar",
+        "title": "12/12/2025",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:15122025-breakfaststar",
+        "title": "15/12/2025",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:16122025-breakfaststar",
+        "title": "16/12/2025",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:17122025-breakfaststar",
+        "title": "17/12/2025",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:18122025-breakfaststar",
+        "title": "18/12/2025",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:19122025-breakfaststar",
+        "title": "19/12/2025",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:22122025-breakfaststar",
+        "title": "22/12/2025",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:23122025-breakfaststar",
+        "title": "23/12/2025",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:24122025-breakfaststar",
+        "title": "24/12/2025",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:372026-breakfaststar",
+        "title": "372026 Breakfaststar",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:272026-breakfaststar",
+        "title": "272026 Breakfaststar",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:172026-breakfaststar",
+        "title": "172026 Breakfaststar",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:3062026-breakfaststar",
+        "title": "3062026 Breakfaststar",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2962026-breakfaststar",
+        "title": "2962026 Breakfaststar",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2662026-breakfaststar",
+        "title": "2662026 Breakfaststar",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2562026-breakfaststar",
+        "title": "2562026 Breakfaststar",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2462026-breakfaststar",
+        "title": "2462026 Breakfaststar",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2362026-breakfaststar",
+        "title": "2362026 Breakfaststar",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2262026-breakfaststar",
+        "title": "2262026 Breakfaststar",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1962026-breakfaststar",
+        "title": "1962026 Breakfaststar",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1862026-breakfaststar",
+        "title": "1862026 Breakfaststar",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1762026-breakfaststar",
+        "title": "1762026 Breakfaststar",
+        "season": 1,
+        "episode": 56,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1662026-breakfaststar",
+        "title": "1662026 Breakfaststar",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1562026-breakfaststar",
+        "title": "1562026 Breakfaststar",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1262026-breakfaststar",
+        "title": "1262026 Breakfaststar",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1162026-breakfaststar",
+        "title": "1162026 Breakfaststar",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1062026-breakfaststar",
+        "title": "1062026 Breakfaststar",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:962026-breakfaststar",
+        "title": "962026 Breakfaststar",
+        "season": 1,
+        "episode": 62,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:862026-breakfaststar",
+        "title": "862026 Breakfaststar",
+        "season": 1,
+        "episode": 63,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:562026-breakfaststar",
+        "title": "562026 Breakfaststar",
+        "season": 1,
+        "episode": 64,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:462026-breakfaststar",
+        "title": "462026 Breakfaststar",
+        "season": 1,
+        "episode": 65,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:362026-breakfaststar",
+        "title": "362026 Breakfaststar",
+        "season": 1,
+        "episode": 66,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:262026-breakfaststar",
+        "title": "262026 Breakfaststar",
+        "season": 1,
+        "episode": 67,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2952026-breakfaststar",
+        "title": "2952026 Breakfaststar",
+        "season": 1,
+        "episode": 68,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2852026-breakfaststar",
+        "title": "2852026 Breakfaststar",
+        "season": 1,
+        "episode": 69,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2752026-breakfaststar",
+        "title": "2752026 Breakfaststar",
+        "season": 1,
+        "episode": 70,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2652026-breakfaststar",
+        "title": "2652026 Breakfaststar",
+        "season": 1,
+        "episode": 71,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2552026-breakfaststar",
+        "title": "2552026 Breakfaststar",
+        "season": 1,
+        "episode": 72,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2252026-breakfaststar",
+        "title": "2252026 Breakfaststar",
+        "season": 1,
+        "episode": 73,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2152026-breakfaststar",
+        "title": "2152026 Breakfaststar",
+        "season": 1,
+        "episode": 74,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2052026-breakfaststar",
+        "title": "2052026 Breakfaststar",
+        "season": 1,
+        "episode": 75,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1952026-breakfaststar",
+        "title": "1952026 Breakfaststar",
+        "season": 1,
+        "episode": 76,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1852026-breakfaststar",
+        "title": "1852026 Breakfaststar",
+        "season": 1,
+        "episode": 77,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1552026-breakfaststar",
+        "title": "1552026 Breakfaststar",
+        "season": 1,
+        "episode": 78,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1452026-breakfaststar",
+        "title": "1452026 Breakfaststar",
+        "season": 1,
+        "episode": 79,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1352026-breakfaststar",
+        "title": "1352026 Breakfaststar",
+        "season": 1,
+        "episode": 80,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1252026-breakfaststar",
+        "title": "1252026 Breakfaststar",
+        "season": 1,
+        "episode": 81,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1152026-breakfaststar",
+        "title": "1152026 Breakfaststar",
+        "season": 1,
+        "episode": 82,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:852026-breakfaststar",
+        "title": "852026 Breakfaststar",
+        "season": 1,
+        "episode": 83,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:752026-breakfaststar",
+        "title": "752026 Breakfaststar",
+        "season": 1,
+        "episode": 84,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:652026-breakfaststar",
+        "title": "652026 Breakfaststar",
+        "season": 1,
+        "episode": 85,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:552026-breakfaststar",
+        "title": "552026 Breakfaststar",
+        "season": 1,
+        "episode": 86,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:452026-breakfaststar",
+        "title": "452026 Breakfaststar",
+        "season": 1,
+        "episode": 87,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:3042026-breakfaststar",
+        "title": "3042026 Breakfaststar",
+        "season": 1,
+        "episode": 88,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2942026-breakfaststar",
+        "title": "2942026 Breakfaststar",
+        "season": 1,
+        "episode": 89,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2842026-breakfaststar",
+        "title": "2842026 Breakfaststar",
+        "season": 1,
+        "episode": 90,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2742026-breakfaststar",
+        "title": "2742026 Breakfaststar",
+        "season": 1,
+        "episode": 91,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2442026-breakfaststar",
+        "title": "2442026 Breakfaststar",
+        "season": 1,
+        "episode": 92,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2342026-breakfaststar",
+        "title": "2342026 Breakfaststar",
+        "season": 1,
+        "episode": 93,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2242026-breakfaststar",
+        "title": "2242026 Breakfaststar",
+        "season": 1,
+        "episode": 94,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2142026-breakfaststar",
+        "title": "2142026 Breakfaststar",
+        "season": 1,
+        "episode": 95,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2042026-breakfaststar",
+        "title": "2042026 Breakfaststar",
+        "season": 1,
+        "episode": 96,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1742026-breakfaststar",
+        "title": "1742026 Breakfaststar",
+        "season": 1,
+        "episode": 97,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1642026-breakfaststar",
+        "title": "1642026 Breakfaststar",
+        "season": 1,
+        "episode": 98,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1542026-breakfaststar",
+        "title": "1542026 Breakfaststar",
+        "season": 1,
+        "episode": 99,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1442026-breakfaststar",
+        "title": "1442026 Breakfaststar",
+        "season": 1,
+        "episode": 100,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:842026-breakfaststar",
+        "title": "842026 Breakfaststar",
+        "season": 1,
+        "episode": 101,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:742026-breakfaststar",
+        "title": "742026 Breakfaststar",
+        "season": 1,
+        "episode": 102,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:642026-breakfaststar",
+        "title": "642026 Breakfaststar",
+        "season": 1,
+        "episode": 103,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:342026-breakfaststar",
+        "title": "342026 Breakfaststar",
+        "season": 1,
+        "episode": 104,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:242026-breakfaststar",
+        "title": "242026 Breakfaststar",
+        "season": 1,
+        "episode": 105,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:142026-breakfaststar",
+        "title": "142026 Breakfaststar",
+        "season": 1,
+        "episode": 106,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:3132026-breakfaststar",
+        "title": "3132026 Breakfaststar",
+        "season": 1,
+        "episode": 107,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:3032026-breakfaststar",
+        "title": "3032026 Breakfaststar",
+        "season": 1,
+        "episode": 108,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2732026-breakfaststar",
+        "title": "2732026 Breakfaststar",
+        "season": 1,
+        "episode": 109,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2632026-breakfaststar",
+        "title": "2632026 Breakfaststar",
+        "season": 1,
+        "episode": 110,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2432026-breakfaststar",
+        "title": "2432026 Breakfaststar",
+        "season": 1,
+        "episode": 111,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2332026-breakfaststar",
+        "title": "2332026 Breakfaststar",
+        "season": 1,
+        "episode": 112,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2032026-breakfaststar",
+        "title": "2032026 Breakfaststar",
+        "season": 1,
+        "episode": 113,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1932026-breakfaststar",
+        "title": "1932026 Breakfaststar",
+        "season": 1,
+        "episode": 114,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1832026-breakfaststar",
+        "title": "1832026 Breakfaststar",
+        "season": 1,
+        "episode": 115,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1732026-breakfaststar",
+        "title": "1732026 Breakfaststar",
+        "season": 1,
+        "episode": 116,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1632026-breakfaststar",
+        "title": "1632026 Breakfaststar",
+        "season": 1,
+        "episode": 117,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1332026-breakfaststar",
+        "title": "1332026 Breakfaststar",
+        "season": 1,
+        "episode": 118,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1232026-breakfaststar",
+        "title": "1232026 Breakfaststar",
+        "season": 1,
+        "episode": 119,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1132026-breakfaststar",
+        "title": "1132026 Breakfaststar",
+        "season": 1,
+        "episode": 120,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1032026-breakfaststar",
+        "title": "1032026 Breakfaststar",
+        "season": 1,
+        "episode": 121,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:932026-breakfaststar",
+        "title": "932026 Breakfaststar",
+        "season": 1,
+        "episode": 122,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:632026-breakfaststar",
+        "title": "632026 Breakfaststar",
+        "season": 1,
+        "episode": 123,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:532026-breakfaststar",
+        "title": "532026 Breakfaststar",
+        "season": 1,
+        "episode": 124,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:432026-breakfaststar",
+        "title": "432026 Breakfaststar",
+        "season": 1,
+        "episode": 125,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:332026-breakfaststar",
+        "title": "332026 Breakfaststar",
+        "season": 1,
+        "episode": 126,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:232026-breakfaststar",
+        "title": "232026 Breakfaststar",
+        "season": 1,
+        "episode": 127,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2722026-breakfaststar",
+        "title": "2722026 Breakfaststar",
+        "season": 1,
+        "episode": 128,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2622026-breakfaststar",
+        "title": "2622026 Breakfaststar",
+        "season": 1,
+        "episode": 129,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2522026-breakfaststar",
+        "title": "2522026 Breakfaststar",
+        "season": 1,
+        "episode": 130,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2422026-breakfaststar",
+        "title": "2422026 Breakfaststar",
+        "season": 1,
+        "episode": 131,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2022026-breakfaststar",
+        "title": "2022026 Breakfaststar",
+        "season": 1,
+        "episode": 132,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1922026-breakfaststar",
+        "title": "1922026 Breakfaststar",
+        "season": 1,
+        "episode": 133,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1822026-breakfaststar",
+        "title": "1822026 Breakfaststar",
+        "season": 1,
+        "episode": 134,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1722026-breakfaststar",
+        "title": "1722026 Breakfaststar",
+        "season": 1,
+        "episode": 135,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1622026-breakfaststar",
+        "title": "1622026 Breakfaststar",
+        "season": 1,
+        "episode": 136,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1322026-breakfaststar",
+        "title": "1322026 Breakfaststar",
+        "season": 1,
+        "episode": 137,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1222026-breakfaststar",
+        "title": "1222026 Breakfaststar",
+        "season": 1,
+        "episode": 138,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1122026-breakfaststar",
+        "title": "1122026 Breakfaststar",
+        "season": 1,
+        "episode": 139,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1022026-breakfaststar",
+        "title": "1022026 Breakfaststar",
+        "season": 1,
+        "episode": 140,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:922026-breakfaststar",
+        "title": "922026 Breakfaststar",
+        "season": 1,
+        "episode": 141,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:622026-breakfaststar",
+        "title": "622026 Breakfaststar",
+        "season": 1,
+        "episode": 142,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:522026-breakfaststar",
+        "title": "522026 Breakfaststar",
+        "season": 1,
+        "episode": 143,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:422026-breakfaststar",
+        "title": "422026 Breakfaststar",
+        "season": 1,
+        "episode": 144,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:322026-breakfaststar",
+        "title": "322026 Breakfaststar",
+        "season": 1,
+        "episode": 145,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:222026-breakfaststar",
+        "title": "222026 Breakfaststar",
+        "season": 1,
+        "episode": 146,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:3012026-breakfaststar",
+        "title": "3012026 Breakfaststar",
+        "season": 1,
+        "episode": 147,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2912026-breakfaststar",
+        "title": "2912026 Breakfaststar",
+        "season": 1,
+        "episode": 148,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2812026-breakfaststar",
+        "title": "2812026 Breakfaststar",
+        "season": 1,
+        "episode": 149,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2712026-breakfaststar",
+        "title": "2712026 Breakfaststar",
+        "season": 1,
+        "episode": 150,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2612026-breakfaststar",
+        "title": "2612026 Breakfaststar",
+        "season": 1,
+        "episode": 151,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2312026-breakfaststar",
+        "title": "2312026 Breakfaststar",
+        "season": 1,
+        "episode": 152,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2212026-breakfaststar",
+        "title": "2212026 Breakfaststar",
+        "season": 1,
+        "episode": 153,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2112026-breakfaststar",
+        "title": "2112026 Breakfaststar",
+        "season": 1,
+        "episode": 154,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2012026-breakfaststar",
+        "title": "2012026 Breakfaststar",
+        "season": 1,
+        "episode": 155,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1912026-breakfaststar",
+        "title": "1912026 Breakfaststar",
+        "season": 1,
+        "episode": 156,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1612026-breakfaststar",
+        "title": "1612026 Breakfaststar",
+        "season": 1,
+        "episode": 157,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1512026-breakfaststar",
+        "title": "1512026 Breakfaststar",
+        "season": 1,
+        "episode": 158,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1412026-breakfaststar",
+        "title": "1412026 Breakfaststar",
+        "season": 1,
+        "episode": 159,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1312026-breakfaststar",
+        "title": "1312026 Breakfaststar",
+        "season": 1,
+        "episode": 160,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1212026-breakfaststar",
+        "title": "1212026 Breakfaststar",
+        "season": 1,
+        "episode": 161,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:912026-breakfaststar",
+        "title": "912026 Breakfaststar",
+        "season": 1,
+        "episode": 162,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:812026-breakfaststar",
+        "title": "812026 Breakfaststar",
+        "season": 1,
+        "episode": 163,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:712026-breakfaststar",
+        "title": "712026 Breakfaststar",
+        "season": 1,
+        "episode": 164,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:612026-breakfaststar",
+        "title": "612026 Breakfaststar",
+        "season": 1,
+        "episode": 165,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:512026-breakfaststar",
+        "title": "512026 Breakfaststar",
+        "season": 1,
+        "episode": 166,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:9122025-breakfaststar",
+        "title": "9122025 Breakfaststar",
+        "season": 1,
+        "episode": 167,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:8122025-breakfaststar",
+        "title": "8122025 Breakfaststar",
+        "season": 1,
+        "episode": 168,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:5122025-breakfaststar",
+        "title": "5122025 Breakfaststar",
+        "season": 1,
+        "episode": 169,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:4122025-breakfaststar",
+        "title": "4122025 Breakfaststar",
+        "season": 1,
+        "episode": 170,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:3122025-breakfaststar",
+        "title": "3122025 Breakfaststar",
+        "season": 1,
+        "episode": 171,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:7112025-breakfaststar",
+        "title": "7112025 Breakfaststar",
+        "season": 1,
+        "episode": 172,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:6112025-breakfaststar",
+        "title": "6112025 Breakfaststar",
+        "season": 1,
+        "episode": 173,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:5112025-breakfaststar",
+        "title": "5112025 Breakfaststar",
+        "season": 1,
+        "episode": 174,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:4112025-breakfaststar",
+        "title": "4112025 Breakfaststar",
+        "season": 1,
+        "episode": 175,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:9102025-breakfaststar",
+        "title": "9102025 Breakfaststar",
+        "season": 1,
+        "episode": 176,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:7102025-breakfaststar",
+        "title": "7102025 Breakfaststar",
+        "season": 1,
+        "episode": 177,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:6102025-breakfaststar",
+        "title": "6102025 Breakfaststar",
+        "season": 1,
+        "episode": 178,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:3102025-breakfaststar",
+        "title": "3102025 Breakfaststar",
+        "season": 1,
+        "episode": 179,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:2102025-breakfaststar",
+        "title": "2102025 Breakfaststar",
+        "season": 1,
+        "episode": 180,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:6474b95a:1102025-breakfaststar",
+        "title": "1102025 Breakfaststar",
+        "season": 1,
+        "episode": 181,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+      }
+    ]
+  }
+}

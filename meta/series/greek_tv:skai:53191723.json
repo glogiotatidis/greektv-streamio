@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:53191723",
+    "type": "series",
+    "name": "8 Λέξεις",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/1920x1080_8lexeis-b_1.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/1920x1080_8lexeis-b_1.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:53191723:2019-09-08-21",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.1.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-09-21",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.3.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-10-21",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.5.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-11-21",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.7.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-12-21",
+        "title": "Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.9.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-16-21",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.13.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-17-21",
+        "title": "Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.15.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-18-21",
+        "title": "Επεισόδιο 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.17.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-19-21",
+        "title": "Επεισόδιο 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.19.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-23-21",
+        "title": "Επεισόδιο 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.22.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-24-21",
+        "title": "Επεισόδιο 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.24.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-25-21",
+        "title": "Επεισόδιο 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.26.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-18-21",
+        "title": "Επεισόδιο 107",
+        "season": 1,
+        "episode": 107,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.213.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-19-21",
+        "title": "Επεισόδιο 108",
+        "season": 1,
+        "episode": 108,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.214.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-20-21",
+        "title": "Επεισόδιο 109",
+        "season": 1,
+        "episode": 109,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.215.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-23-21",
+        "title": "Επεισόδιο 110",
+        "season": 1,
+        "episode": 110,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.216.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-24-21",
+        "title": "Επεισόδιο 111",
+        "season": 1,
+        "episode": 111,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.218.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-25-21",
+        "title": "Επεισόδιο 112",
+        "season": 1,
+        "episode": 112,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.219.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-26-21",
+        "title": "Επεισόδιο 113",
+        "season": 1,
+        "episode": 113,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.220.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-27-21",
+        "title": "Επεισόδιο 114",
+        "season": 1,
+        "episode": 114,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.221.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-30-21",
+        "title": "Επεισόδιο 115",
+        "season": 1,
+        "episode": 115,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.222.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-31-21",
+        "title": "Επεισόδιο 116",
+        "season": 1,
+        "episode": 116,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.223.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-04-01-21",
+        "title": "Επεισόδιο 117",
+        "season": 1,
+        "episode": 117,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.224.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-04-02-21",
+        "title": "Επεισόδιο 118",
+        "season": 1,
+        "episode": 118,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_1.225.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-08-31-21",
+        "title": "Επεισόδιο 1",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-01-21",
+        "title": "Επεισόδιο 2",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.4.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-02-21",
+        "title": "Επεισόδιο 3",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.6.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-03-21",
+        "title": "Επεισόδιο 4",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.8.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-07-21",
+        "title": "Επεισόδιο 5",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.10.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-08-21",
+        "title": "Επεισόδιο 6",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.12.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-09-21",
+        "title": "Επεισόδιο 7",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.13.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-10-21",
+        "title": "Επεισόδιο 8",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.15.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-14-21",
+        "title": "Επεισόδιο 9",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.17.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-15-21",
+        "title": "Επεισόδιο 10",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.20.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-16-21",
+        "title": "Επεισόδιο 11",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.22.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-17-21",
+        "title": "Επεισόδιο 12",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.24.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-17-21",
+        "title": "Επεισόδιο 161",
+        "season": 2,
+        "episode": 161,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.238.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-18-21",
+        "title": "Επεισόδιο 162",
+        "season": 2,
+        "episode": 162,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.239.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-21-21",
+        "title": "Επεισόδιο 163",
+        "season": 2,
+        "episode": 163,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.240.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-22-21",
+        "title": "Επεισόδιο 164",
+        "season": 2,
+        "episode": 164,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.241.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-23-21",
+        "title": "Επεισόδιο 165",
+        "season": 2,
+        "episode": 165,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.242.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-24-21",
+        "title": "Επεισόδιο 166",
+        "season": 2,
+        "episode": 166,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.243.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-25-21",
+        "title": "Επεισόδιο 167",
+        "season": 2,
+        "episode": 167,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.244.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-28-21",
+        "title": "Επεισόδιο 168",
+        "season": 2,
+        "episode": 168,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.33.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-29-21",
+        "title": "Επεισόδιο 169",
+        "season": 2,
+        "episode": 169,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.18.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-30-21",
+        "title": "Επεισόδιο 170",
+        "season": 2,
+        "episode": 170,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.246.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-07-01-21",
+        "title": "Επεισόδιο 171",
+        "season": 2,
+        "episode": 171,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.245_1.jpg"
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-07-02-21",
+        "title": "Επεισόδιο 172",
+        "season": 2,
+        "episode": 172,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/8_lexeis/8_lexeis_2.247.jpg"
+      }
+    ]
+  }
+}

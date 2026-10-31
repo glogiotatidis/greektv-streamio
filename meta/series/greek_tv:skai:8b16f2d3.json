@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:8b16f2d3",
+    "type": "series",
+    "name": "Σκοτεινή Δεκαετία 1964-1974",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:8b16f2d3:2024-10-14-21",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/skotini_dekaetia/skotini_1_new.jpg"
+      },
+      {
+        "id": "greek_tv:skai:8b16f2d3:2024-10-21-21",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/skotini_dekaetia/skotini_2_new.jpg"
+      },
+      {
+        "id": "greek_tv:skai:8b16f2d3:2024-10-28-21",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/skotini_dekaetia/skotini_3_new.jpg"
+      },
+      {
+        "id": "greek_tv:skai:8b16f2d3:2024-11-04-21",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/skotini_dekaetia/skotini_4_new.jpg"
+      },
+      {
+        "id": "greek_tv:skai:8b16f2d3:2024-11-11-21",
+        "title": "Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/skotini_dekaetia/skotini_5_new.jpg"
+      },
+      {
+        "id": "greek_tv:skai:8b16f2d3:2024-11-18-21",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/skotini_dekaetia/skotini_6_new.jpg"
+      }
+    ]
+  }
+}

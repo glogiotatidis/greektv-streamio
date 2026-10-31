@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "id": "greek_tv:star_channel:3f92c17e",
+    "type": "series",
+    "name": "ΜΑΥΡΟΙ ΠΙΝΑΚΕΣ",
+    "poster": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png",
+    "background": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png",
+    "videos": [
+      {
+        "id": "greek_tv:star_channel:3f92c17e:mauroi-pinakes-perilipsi-10ou-epeisodiou-to-teleutaio-epeisodio",
+        "title": "Mauroi Pinakes Perilipsi 10Ou Epeisodiou To Teleutaio Epeisodio",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png"
+      },
+      {
+        "id": "greek_tv:star_channel:3f92c17e:mauroi-pinakes-perilipsi-9ou-epeisodiou",
+        "title": "Mauroi Pinakes Perilipsi 9Ou Epeisodiou",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png"
+      },
+      {
+        "id": "greek_tv:star_channel:3f92c17e:mauroi-pinakes-perilipsi-8ou-epeisodiou",
+        "title": "Mauroi Pinakes Perilipsi 8Ou Epeisodiou",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png"
+      },
+      {
+        "id": "greek_tv:star_channel:3f92c17e:mauroi-pinakes-perilipsi-7ou-epeisodiou",
+        "title": "Mauroi Pinakes Perilipsi 7Ou Epeisodiou",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png"
+      },
+      {
+        "id": "greek_tv:star_channel:3f92c17e:mauroi-pinakes-perilipsi-6ou-epeisodiou",
+        "title": "Mauroi Pinakes Perilipsi 6Ou Epeisodiou",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png"
+      },
+      {
+        "id": "greek_tv:star_channel:3f92c17e:mauroi-pinakes-perilipsi-5ou-epeisodiou",
+        "title": "Mauroi Pinakes Perilipsi 5Ou Epeisodiou",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png"
+      },
+      {
+        "id": "greek_tv:star_channel:3f92c17e:mauroi-pinakes-perilipsi-4ou-epeisodiou",
+        "title": "Mauroi Pinakes Perilipsi 4Ou Epeisodiou",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png"
+      },
+      {
+        "id": "greek_tv:star_channel:3f92c17e:mauroi-pinakes-perilipsi-3ou-epeisodiou",
+        "title": "Mauroi Pinakes Perilipsi 3Ou Epeisodiou",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png"
+      },
+      {
+        "id": "greek_tv:star_channel:3f92c17e:mauroi-pinakes-perilipsi-2ou-epeisodiou",
+        "title": "Mauroi Pinakes Perilipsi 2Ou Epeisodiou",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png"
+      },
+      {
+        "id": "greek_tv:star_channel:3f92c17e:mauroi-pinakes-perilipsi-1ou-epeisodiou",
+        "title": "Mauroi Pinakes Perilipsi 1Ou Epeisodiou",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png"
+      }
+    ]
+  }
+}

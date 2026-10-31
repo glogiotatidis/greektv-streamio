@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "greek_tv:mega_tv:5e6158e2",
+    "type": "series",
+    "name": "ΣΤΟ ΠΑΡΑ ΠΕΝΤΕ – 20 ΧΡΟΝΙΑ ΜΕΤΑ",
+    "poster": "https://www.megatv.com/wp-content/uploads/2025/09/Image_para5_960X600_3.jpg",
+    "background": "https://www.megatv.com/wp-content/uploads/2025/09/Image_para5_960X600_3.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:mega_tv:5e6158e2:sto-para-pente-20-xronia-meta",
+        "title": "Στο Παρά Πέντε – 20 Χρόνια Μετά -",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2025/09/Image_para5_960X600_3.jpg"
+      }
+    ]
+  }
+}

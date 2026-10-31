@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:mega_tv:5291cf2e",
+    "type": "series",
+    "name": "Άγιος Παΐσιος | O ασυρματιστής του Θεού",
+    "poster": "https://www.megatv.com/wp-content/uploads/2025/11/Άγιος-Παΐσιος_Image_960X600.jpg",
+    "background": "https://www.megatv.com/wp-content/uploads/2025/11/Άγιος-Παΐσιος_Image_960X600.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:mega_tv:5291cf2e:agios-paisios-o-asyrmatistis-tou-theou-meros-a",
+        "title": "Άγιος Παΐσιος, ο ασυρματιστής του Θεού | Μέρος Α’ -",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2025/11/Άγιος-Παΐσιος_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5291cf2e:agios-paisios-o-asyrmatistis-tou-theou-meros-v",
+        "title": "Άγιος Παΐσιος, ο ασυρματιστής του Θεού | Μέρος Β’ -",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2025/11/Άγιος-Παΐσιος_Image_960X600.jpg"
+      }
+    ]
+  }
+}

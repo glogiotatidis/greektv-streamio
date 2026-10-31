@@ -3,36 +3,36 @@
     "id": "greek_tv:ant1:4638e85a",
     "type": "series",
     "name": "ΝΥΧΤΑ ΑΠΟΚΑΛΥΨΕΩΝ",
-    "poster": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1",
-    "background": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1",
+    "poster": "https://www.antenna.gr/imgHandler/1920/Header_Antenna_gr_1920x780_Nixta_Apokalipseon_a83726da94.jpg",
+    "background": "https://www.antenna.gr/imgHandler/1920/Header_Antenna_gr_1920x780_Nixta_Apokalipseon_a83726da94.jpg",
     "videos": [
       {
         "id": "greek_tv:ant1:4638e85a:e80j26hrhpci24sd16x5hghi",
         "title": "ΝΥΧΤΑ ΑΠΟΚΑΛΥΨΕΩΝ – 28/10/2026",
         "season": 1,
         "episode": 1,
-        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Antenna_gr_1920x780_Nixta_Apokalipseon_a83726da94.jpg"
       },
       {
         "id": "greek_tv:ant1:4638e85a:gnvym8g6lkl1y4mgji3qxysy",
         "title": "ΝΥΧΤΑ ΑΠΟΚΑΛΥΨΕΩΝ – 21/10/2026",
         "season": 1,
         "episode": 2,
-        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Antenna_gr_1920x780_Nixta_Apokalipseon_a83726da94.jpg"
       },
       {
         "id": "greek_tv:ant1:4638e85a:hv0xckkgphn12wrwcytgyoyt",
         "title": "ΝΥΧΤΑ ΑΠΟΚΑΛΥΨΕΩΝ – 14/10/2026",
         "season": 1,
         "episode": 3,
-        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Antenna_gr_1920x780_Nixta_Apokalipseon_a83726da94.jpg"
       },
       {
         "id": "greek_tv:ant1:4638e85a:itpwftzzc2l5ts5g0cbbiapq",
         "title": "Νύχτα Αποκαλύψεων - Τετάρτη στις 24:00",
         "season": 1,
         "episode": 4,
-        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Antenna_gr_1920x780_Nixta_Apokalipseon_a83726da94.jpg"
       }
     ]
   }
