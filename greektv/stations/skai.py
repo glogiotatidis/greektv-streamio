@@ -76,6 +76,7 @@ def _embedded_episodes(html):
                 "url": url,
                 "title": f"Επεισόδιο {number}" if number else "Επεισόδιο",
                 "episode": number,
+                "thumbnail": episode.get("img") or "",
             }
         )
     return result
@@ -98,6 +99,7 @@ def _ajax_episodes(html):
                 "url": url,
                 "title": title or "Επεισόδιο",
                 "episode": number,
+                "thumbnail": "",
             }
         )
     return result

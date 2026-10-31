@@ -253,6 +253,7 @@ def get_meta(sid):
             "title": episode["title"],
             "season": episode["season"],
             "episode": episode["episode"],
+            "thumbnail": episode.get("thumbnail") or "",
         }
         for episode in entry["show"]["episodes"]
     ]

@@ -88,6 +88,10 @@ def show(ref):
                 or clean(episode.get("Title"))
                 or f"Επεισόδιο {number}"
             )
+            image_url = ""
+            image = episode.get("Image")
+            if isinstance(image, dict):
+                image_url = image.get("Url") or ""
             episodes.append(
                 {
                     "id": codename,
@@ -95,6 +99,7 @@ def show(ref):
                     "title": episode_title,
                     "season": season,
                     "episode": number,
+                    "thumbnail": image_url,
                     "extra": {"codename": codename},
                 }
             )
