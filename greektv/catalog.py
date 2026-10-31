@@ -6,7 +6,7 @@ import time as _time
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from greektv.common import safe_id
+from greektv.common import placeholder, safe_id
 from greektv.stations import ORDER, STATIONS
 
 logger = logging.getLogger("greektv")
@@ -138,21 +138,24 @@ def _normalize_episodes(episodes):
 
 _disk_cache = None
 _disk_cache_loaded = False
+_disk_cache_lock = threading.Lock()
 
 
 def _load_disk_cache():
     global _disk_cache, _disk_cache_loaded
-    if _disk_cache_loaded:
+    with _disk_cache_lock:
+        if _disk_cache_loaded:
+            return _disk_cache
+        try:
+            with open(CACHE_FILE, encoding="utf-8") as handle:
+                loaded = _json.load(handle)
+        except (OSError, ValueError):
+            loaded = {}
+        if not isinstance(loaded, dict):
+            loaded = {}
+        _disk_cache = loaded
+        _disk_cache_loaded = True
         return _disk_cache
-    _disk_cache_loaded = True
-    try:
-        with open(CACHE_FILE, encoding="utf-8") as handle:
-            _disk_cache = _json.load(handle)
-    except (OSError, ValueError):
-        _disk_cache = {}
-    if not isinstance(_disk_cache, dict):
-        _disk_cache = {}
-    return _disk_cache
 
 
 def _save_disk_cache():
@@ -160,8 +163,10 @@ def _save_disk_cache():
         return
     try:
         os.makedirs(os.path.dirname(CACHE_FILE) or ".", exist_ok=True)
-        with open(CACHE_FILE, "w", encoding="utf-8") as handle:
+        tmp = CACHE_FILE + ".tmp"
+        with open(tmp, "w", encoding="utf-8") as handle:
             _json.dump(_disk_cache, handle, ensure_ascii=False)
+        os.replace(tmp, CACHE_FILE)
     except OSError:
         logger.exception("Failed to save show cache")
 
@@ -205,8 +210,8 @@ def get_show(entry):
         if not episode.get("thumbnail"):
             episode["thumbnail"] = data.get("poster") or ""
 
-    disk[cache_key] = {"ts": _time.time(), "data": data}
-    _save_disk_cache()
+    with _disk_cache_lock:
+        _disk_cache[cache_key] = {"ts": _time.time(), "data": data}
 
     with _show_lock:
         _show_cache[key] = data
@@ -241,6 +246,7 @@ def _ensure_loaded():
 
         _loaded = [entry for entry in entries if entry["show"].get("episodes")]
         _by_sid = {entry["sid"]: entry for entry in _loaded}
+        _save_disk_cache()
     return _loaded
 
 
