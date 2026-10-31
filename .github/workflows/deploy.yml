@@ -51,10 +51,11 @@ jobs:
         env:
           GREEKTV_STATIONS: ${{ matrix.station }}
       - run: test -s site/manifest.json
+      - run: cd site && zip -r ../site.zip .
       - uses: actions/upload-artifact@v4
         with:
           name: site-${{ matrix.station }}
-          path: site/
+          path: site.zip
 
   merge:
     needs: build
@@ -69,8 +70,10 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           pattern: site-*
-          path: site
-          merge-multiple: true
+          path: /tmp/artifacts
+      - run: |
+          mkdir -p site
+          for z in /tmp/artifacts/site-*/site.zip; do unzip -o "$z" -d site; done
       - run: python static_export.py
       - run: test -s site/manifest.json
       - uses: peaceiris/actions-gh-pages@v4
