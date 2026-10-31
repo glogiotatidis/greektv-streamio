@@ -55,10 +55,11 @@ def discover():
 def _poster(images):
     if not images:
         return None
-    for image in images:
-        if image.get("Role") == "photo" and image.get("IsMain"):
-            return image.get("Url")
-    for role in ("photo", "photo-details", "hbbtv-icon"):
+    for role in ("poster", "photo"):
+        for image in images:
+            if image.get("Role") == role and image.get("IsMain"):
+                return image.get("Url")
+    for role in ("poster", "photo", "photo-details", "hbbtv-icon"):
         for image in images:
             if image.get("Role") == role:
                 return image.get("Url")
