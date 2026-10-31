@@ -9,19 +9,22 @@
         "id": "greek_tv:skai:e8d3cfe5:2026-10-26-09",
         "title": "Επεισόδιο 46",
         "season": 1,
-        "episode": 46
+        "episode": 46,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg"
       },
       {
         "id": "greek_tv:skai:e8d3cfe5:2026-10-29-09",
         "title": "Επεισόδιο 49",
         "season": 1,
-        "episode": 49
+        "episode": 49,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg"
       },
       {
         "id": "greek_tv:skai:e8d3cfe5:2026-10-30-09",
         "title": "Επεισόδιο 50",
         "season": 1,
-        "episode": 50
+        "episode": 50,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg"
       }
     ]
   }

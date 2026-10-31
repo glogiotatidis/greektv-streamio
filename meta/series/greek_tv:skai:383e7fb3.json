@@ -9,37 +9,43 @@
         "id": "greek_tv:skai:383e7fb3:2026-05-04-21",
         "title": "Επεισόδιο 1",
         "season": 1,
-        "episode": 1
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/xiliosto/xiliosto_1_1.jpg"
       },
       {
         "id": "greek_tv:skai:383e7fb3:2026-05-11-21",
         "title": "Επεισόδιο 2",
         "season": 1,
-        "episode": 2
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/xiliosto/xiliosto_2.jpg"
       },
       {
         "id": "greek_tv:skai:383e7fb3:2026-05-18-21",
         "title": "Επεισόδιο 3",
         "season": 1,
-        "episode": 3
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/xiliosto/xiliosto_3.jpg"
       },
       {
         "id": "greek_tv:skai:383e7fb3:2026-05-25-21",
         "title": "Επεισόδιο 4",
         "season": 1,
-        "episode": 4
+        "episode": 4,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/xiliosto/xiliosto_4.jpg"
       },
       {
         "id": "greek_tv:skai:383e7fb3:2026-06-01-21",
         "title": "Επεισόδιο 5",
         "season": 1,
-        "episode": 5
+        "episode": 5,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/xiliosto/xiliosto_5.jpg"
       },
       {
         "id": "greek_tv:skai:383e7fb3:2026-06-08-21",
         "title": "Επεισόδιο 6",
         "season": 1,
-        "episode": 6
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/xiliosto/xiliosto_6.jpg"
       }
     ]
   }

@@ -9,13 +9,15 @@
         "id": "greek_tv:skai:05ca6b09:2026-10-29-06",
         "title": "Επεισόδιο 50",
         "season": 1,
-        "episode": 50
+        "episode": 50,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/simera_landscape_1.jpg"
       },
       {
         "id": "greek_tv:skai:05ca6b09:2026-10-30-06",
         "title": "Επεισόδιο 51",
         "season": 1,
-        "episode": 51
+        "episode": 51,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/simera_landscape_1.jpg"
       }
     ]
   }

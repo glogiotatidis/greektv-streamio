@@ -9,19 +9,22 @@
         "id": "greek_tv:skai:279bb5b0:2026-10-28-19",
         "title": "Επεισόδιο 67",
         "season": 1,
-        "episode": 67
+        "episode": 67,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/news_landscape.jpg"
       },
       {
         "id": "greek_tv:skai:279bb5b0:2026-10-29-19",
         "title": "Επεισόδιο 68",
         "season": 1,
-        "episode": 68
+        "episode": 68,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/flitzani_landscape.jpg"
       },
       {
         "id": "greek_tv:skai:279bb5b0:2026-10-30-19",
         "title": "Επεισόδιο 69",
         "season": 1,
-        "episode": 69
+        "episode": 69,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/flitzani_landscape.jpg"
       }
     ]
   }

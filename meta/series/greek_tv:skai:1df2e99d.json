@@ -9,37 +9,43 @@
         "id": "greek_tv:skai:1df2e99d:2026-07-10-03",
         "title": "Επεισόδιο 1",
         "season": 1,
-        "episode": 1
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/presidents/presidents_rigkan.jpg"
       },
       {
         "id": "greek_tv:skai:1df2e99d:2026-07-12-03",
         "title": "Επεισόδιο 2",
         "season": 1,
-        "episode": 2
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/presidents/presidents_biden.jpg"
       },
       {
         "id": "greek_tv:skai:1df2e99d:2026-07-15-03",
         "title": "Επεισόδιο 3",
         "season": 1,
-        "episode": 3
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/presidents/presidents_bush.jpg"
       },
       {
         "id": "greek_tv:skai:1df2e99d:2026-07-16-03",
         "title": "Επεισόδιο 4",
         "season": 1,
-        "episode": 4
+        "episode": 4,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/presidents/presidents_trump.jpg"
       },
       {
         "id": "greek_tv:skai:1df2e99d:2026-08-01-06",
         "title": "Επεισόδιο 5",
         "season": 1,
-        "episode": 5
+        "episode": 5,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/presidents/presidents_clinton.jpg"
       },
       {
         "id": "greek_tv:skai:1df2e99d:2026-08-02-03",
         "title": "Επεισόδιο 6",
         "season": 1,
-        "episode": 6
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/presidents/presidents_obama.jpg"
       }
     ]
   }

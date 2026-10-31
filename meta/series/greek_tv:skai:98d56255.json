@@ -9,37 +9,43 @@
         "id": "greek_tv:skai:98d56255:2023-03-24-23",
         "title": "Επεισόδιο 1",
         "season": 1,
-        "episode": 1
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/docs/1821_iroes_kolokotronis.jpg"
       },
       {
         "id": "greek_tv:skai:98d56255:2023-03-25-00",
         "title": "Επεισόδιο 2",
         "season": 1,
-        "episode": 2
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/1821eroes_g.karaiskakes.jpg"
       },
       {
         "id": "greek_tv:skai:98d56255:2023-03-25-15",
         "title": "Επεισόδιο 3",
         "season": 1,
-        "episode": 3
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/1821eroes15.10.jpg"
       },
       {
         "id": "greek_tv:skai:98d56255:2023-03-25-16",
         "title": "Επεισόδιο 4",
         "season": 1,
-        "episode": 4
+        "episode": 4,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/1821eroes22.10.png"
       },
       {
         "id": "greek_tv:skai:98d56255:2023-10-29-21",
         "title": "Επεισόδιο 5",
         "season": 1,
-        "episode": 5
+        "episode": 5,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/1821eroes29.10.png"
       },
       {
         "id": "greek_tv:skai:98d56255:2023-11-05-21",
         "title": "Επεισόδιο 6",
         "season": 1,
-        "episode": 6
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/eroes-philellenes.jpg"
       }
     ]
   }

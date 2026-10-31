@@ -9,13 +9,15 @@
         "id": "greek_tv:skai:e3a2013f:2026-10-28-17",
         "title": "Επεισόδιο 1",
         "season": 1,
-        "episode": 1
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/kypello_elladas/pao_aris_superbet_kypello.jpg"
       },
       {
         "id": "greek_tv:skai:e3a2013f:2026-10-28-20",
         "title": "Επεισόδιο 2",
         "season": 1,
-        "episode": 2
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/kypello_elladas/paok_aek_superbet_kypello.jpg"
       }
     ]
   }

@@ -9,13 +9,15 @@
         "id": "greek_tv:skai:e985bf45:2026-10-17-16",
         "title": "Επεισόδιο 2",
         "season": 1,
-        "episode": 2
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/gbl/kolossos_paok_gbl_landscape.jpg"
       },
       {
         "id": "greek_tv:skai:e985bf45:2026-10-24-17",
         "title": "Επεισόδιο 3",
         "season": 1,
-        "episode": 3
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/gbl/paok_aek_gbl_landscape.jpg"
       }
     ]
   }

@@ -9,13 +9,15 @@
         "id": "greek_tv:skai:fa309bea:2026-01-21-21",
         "title": "Επεισόδιο 1",
         "season": 1,
-        "episode": 1
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/imia/imia_1.jpg"
       },
       {
         "id": "greek_tv:skai:fa309bea:2026-01-22-21",
         "title": "Επεισόδιο 2",
         "season": 1,
-        "episode": 2
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/imia/imia_2.jpg"
       }
     ]
   }

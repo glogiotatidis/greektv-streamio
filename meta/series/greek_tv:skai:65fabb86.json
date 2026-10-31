@@ -9,19 +9,22 @@
         "id": "greek_tv:skai:65fabb86:2026-10-28-13",
         "title": "Επεισόδιο 66",
         "season": 1,
-        "episode": 66
+        "episode": 66,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/news_landscape.jpg"
       },
       {
         "id": "greek_tv:skai:65fabb86:2026-10-29-13",
         "title": "Επεισόδιο 67",
         "season": 1,
-        "episode": 67
+        "episode": 67,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
       },
       {
         "id": "greek_tv:skai:65fabb86:2026-10-30-13",
         "title": "Επεισόδιο 68",
         "season": 1,
-        "episode": 68
+        "episode": 68,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
       }
     ]
   }

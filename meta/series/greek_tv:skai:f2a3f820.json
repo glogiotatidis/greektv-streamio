@@ -9,19 +9,22 @@
         "id": "greek_tv:skai:f2a3f820:2026-10-28-20",
         "title": "Επεισόδιο 58",
         "season": 1,
-        "episode": 58
+        "episode": 58,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/athlitika_sb_landscape.jpg"
       },
       {
         "id": "greek_tv:skai:f2a3f820:2026-10-29-20",
         "title": "Επεισόδιο 59",
         "season": 1,
-        "episode": 59
+        "episode": 59,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/athlitika_sb_landscape.jpg"
       },
       {
         "id": "greek_tv:skai:f2a3f820:2026-10-30-20",
         "title": "Επεισόδιο 60",
         "season": 1,
-        "episode": 60
+        "episode": 60,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/athlitika_sb_landscape.jpg"
       }
     ]
   }

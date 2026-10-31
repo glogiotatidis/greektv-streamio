@@ -9,97 +9,113 @@
         "id": "greek_tv:skai:619b4323:2026-10-10-12",
         "title": "Επεισόδιο 1",
         "season": 1,
-        "episode": 1
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/2026_2027/zo_kala_1_pasxalis.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-10-17-12",
         "title": "Επεισόδιο 2",
         "season": 1,
-        "episode": 2
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/2026_2027/zo_kala_1_kastani.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-10-24-12",
         "title": "Επεισόδιο 3",
         "season": 1,
-        "episode": 3
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/2026_2027/zo_kala_3_solomou.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-10-31-12",
         "title": "Επεισόδιο 4",
         "season": 1,
-        "episode": 4
+        "episode": 4,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/2026_2027/zo_kala_4_moukiou.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-06-20-11",
         "title": "Επεισόδιο 62",
         "season": 2,
-        "episode": 62
+        "episode": 62,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/epeisodia/zo_kala_62_lampiri.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-06-21-11",
         "title": "Επεισόδιο 63",
         "season": 2,
-        "episode": 63
+        "episode": 63,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/epeisodia/zo_kala_63_xatzidakis.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-06-27-11",
         "title": "Επεισόδιο 64",
         "season": 2,
-        "episode": 64
+        "episode": 64,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/epeisodia/zo_kala_64_negka.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-06-28-11",
         "title": "Επεισόδιο 65",
         "season": 2,
-        "episode": 65
+        "episode": 65,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/epeisodia/zo_kala_65_gkountaras.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-07-04-11",
         "title": "Επεισόδιο 66",
         "season": 2,
-        "episode": 66
+        "episode": 66,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/epeisodia/zo_kala_66_fragkaki.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-07-05-11",
         "title": "Επεισόδιο 67",
         "season": 2,
-        "episode": 67
+        "episode": 67,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/epeisodia/zo_kala_67_galyfa.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-07-11-11",
         "title": "Επεισόδιο 68",
         "season": 2,
-        "episode": 68
+        "episode": 68,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/epeisodia/zo_kala_68_thodi.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-07-12-11",
         "title": "Επεισόδιο 69",
         "season": 2,
-        "episode": 69
+        "episode": 69,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/epeisodia/zo_kala_69_zirdeli.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-07-18-11",
         "title": "Επεισόδιο 70",
         "season": 2,
-        "episode": 70
+        "episode": 70,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/epeisodia/zo_kala_70_gkletsos.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-07-19-11",
         "title": "Επεισόδιο 71",
         "season": 2,
-        "episode": 71
+        "episode": 71,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/epeisodia/zo_kala_71_xenakis.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-07-25-11",
         "title": "Επεισόδιο 72",
         "season": 2,
-        "episode": 72
+        "episode": 72,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/epeisodia/zo_kala_72_iliaki.jpg"
       },
       {
         "id": "greek_tv:skai:619b4323:2026-07-26-11",
         "title": "Επεισόδιο 73",
         "season": 2,
-        "episode": 73
+        "episode": 73,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/epeisodia/zo_kala_73_giannopoulos.jpg"
       }
     ]
   }

@@ -9,19 +9,22 @@
         "id": "greek_tv:skai:bb308465:2026-10-08-00",
         "title": "Επεισόδιο 1",
         "season": 1,
-        "episode": 1
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/israel/israel_1.jpg"
       },
       {
         "id": "greek_tv:skai:bb308465:2026-10-09-00",
         "title": "Επεισόδιο 2",
         "season": 1,
-        "episode": 2
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/israel/israel_2.jpg"
       },
       {
         "id": "greek_tv:skai:bb308465:2026-10-09-02",
         "title": "Επεισόδιο 3",
         "season": 1,
-        "episode": 3
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/israel/israel_3.jpg"
       }
     ]
   }
