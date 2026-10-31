@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:2b316d82",
+    "type": "series",
+    "name": "ΣΚΑΪ Καιρός",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/kairos_new_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:2b316d82:2026-10-30-09",
+        "title": "Επεισόδιο 60",
+        "season": 1,
+        "episode": 60
+      }
+    ]
+  }
+}

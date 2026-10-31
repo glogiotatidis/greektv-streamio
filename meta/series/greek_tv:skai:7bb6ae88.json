@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:7bb6ae88",
+    "type": "series",
+    "name": "Οι Πανθέοι",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/pantheoir-landscape-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:7bb6ae88:2023-09-18-21",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2023-09-19-21",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2023-09-20-21",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2023-09-21-21",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2023-09-22-21",
+        "title": "Επεισόδιο 5",
+        "season": 1,
+        "episode": 5
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2023-09-25-21",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2023-09-26-21",
+        "title": "Επεισόδιο 7",
+        "season": 1,
+        "episode": 7
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2023-09-27-21",
+        "title": "Επεισόδιο 8",
+        "season": 1,
+        "episode": 8
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2023-09-28-21",
+        "title": "Επεισόδιο 9",
+        "season": 1,
+        "episode": 9
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2023-09-29-21",
+        "title": "Επεισόδιο 10",
+        "season": 1,
+        "episode": 10
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2023-10-02-21",
+        "title": "Επεισόδιο 11",
+        "season": 1,
+        "episode": 11
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2023-10-03-21",
+        "title": "Επεισόδιο 12",
+        "season": 1,
+        "episode": 12
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2024-07-01-18",
+        "title": "Επεισόδιο 100",
+        "season": 1,
+        "episode": 100
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2024-07-02-18",
+        "title": "Επεισόδιο 101",
+        "season": 1,
+        "episode": 101
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2024-07-03-18",
+        "title": "Επεισόδιο 102",
+        "season": 1,
+        "episode": 102
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2024-07-04-18",
+        "title": "Επεισόδιο 103",
+        "season": 1,
+        "episode": 103
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2024-07-05-18",
+        "title": "Επεισόδιο 104",
+        "season": 1,
+        "episode": 104
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2024-07-06-18",
+        "title": "Επεισόδιο 105",
+        "season": 1,
+        "episode": 105
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2024-07-07-18",
+        "title": "Επεισόδιο 106",
+        "season": 1,
+        "episode": 106
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2024-07-08-18",
+        "title": "Επεισόδιο 107",
+        "season": 1,
+        "episode": 107
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2024-07-09-18",
+        "title": "Επεισόδιο 108",
+        "season": 1,
+        "episode": 108
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2024-07-10-18",
+        "title": "Επεισόδιο 109",
+        "season": 1,
+        "episode": 109
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2024-07-11-18",
+        "title": "Επεισόδιο 110",
+        "season": 1,
+        "episode": 110
+      },
+      {
+        "id": "greek_tv:skai:7bb6ae88:2024-07-12-18",
+        "title": "Επεισόδιο 111",
+        "season": 1,
+        "episode": 111
+      }
+    ]
+  }
+}

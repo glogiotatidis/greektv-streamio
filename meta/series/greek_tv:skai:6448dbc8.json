@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:6448dbc8",
+    "type": "series",
+    "name": "Kitchen Lab",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/kitchen_lab/2026_2027/kithen_lab_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:6448dbc8:2026-10-03-16",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1
+      },
+      {
+        "id": "greek_tv:skai:6448dbc8:2026-10-04-16",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2
+      },
+      {
+        "id": "greek_tv:skai:6448dbc8:2026-10-10-16",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "id": "greek_tv:skai:6448dbc8:2026-10-11-15",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4
+      },
+      {
+        "id": "greek_tv:skai:6448dbc8:2026-10-17-18",
+        "title": "Επεισόδιο 5",
+        "season": 1,
+        "episode": 5
+      },
+      {
+        "id": "greek_tv:skai:6448dbc8:2026-10-18-16",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6
+      },
+      {
+        "id": "greek_tv:skai:6448dbc8:2026-10-24-16",
+        "title": "Επεισόδιο 7",
+        "season": 1,
+        "episode": 7
+      },
+      {
+        "id": "greek_tv:skai:6448dbc8:2026-10-25-16",
+        "title": "Επεισόδιο 8",
+        "season": 1,
+        "episode": 8
+      }
+    ]
+  }
+}

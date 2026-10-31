@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:05ca6b09",
+    "type": "series",
+    "name": "Σήμερα",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/simera_landscape_1.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:05ca6b09:2026-10-29-06",
+        "title": "Επεισόδιο 50",
+        "season": 1,
+        "episode": 50
+      },
+      {
+        "id": "greek_tv:skai:05ca6b09:2026-10-30-06",
+        "title": "Επεισόδιο 51",
+        "season": 1,
+        "episode": 51
+      }
+    ]
+  }
+}

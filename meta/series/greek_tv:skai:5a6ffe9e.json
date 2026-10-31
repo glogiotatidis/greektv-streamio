@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:5a6ffe9e",
+    "type": "series",
+    "name": "8ο ΤΟΥΡΝΟΥΑ ΜΠΑΣΚΕΤ ΠΑΥΛΟΣ ΓΙΑΝΝΑΚΟΠΟΥΛΟΣ 2026",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/giannakopoulos/giannakopoulos_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:5a6ffe9e:2026-09-18-17",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1
+      },
+      {
+        "id": "greek_tv:skai:5a6ffe9e:2026-09-18-21",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2
+      },
+      {
+        "id": "greek_tv:skai:5a6ffe9e:2026-09-19-17",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "id": "greek_tv:skai:5a6ffe9e:2026-09-19-20",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4
+      }
+    ]
+  }
+}

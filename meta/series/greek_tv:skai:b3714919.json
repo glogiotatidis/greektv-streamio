@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:b3714919",
+    "type": "series",
+    "name": "Διαχωρίζω τη Θέση Μου",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:b3714919:2026-10-14-18",
+        "title": "Επεισόδιο 18",
+        "season": 1,
+        "episode": 18
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-10-15-18",
+        "title": "Επεισόδιο 19",
+        "season": 1,
+        "episode": 19
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-10-16-18",
+        "title": "Επεισόδιο 20",
+        "season": 1,
+        "episode": 20
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-10-19-18",
+        "title": "Επεισόδιο 21",
+        "season": 1,
+        "episode": 21
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-10-20-18",
+        "title": "Επεισόδιο 22",
+        "season": 1,
+        "episode": 22
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-10-21-18",
+        "title": "Επεισόδιο 23",
+        "season": 1,
+        "episode": 23
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-10-22-18",
+        "title": "Επεισόδιο 24",
+        "season": 1,
+        "episode": 24
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-10-23-18",
+        "title": "Επεισόδιο 25",
+        "season": 1,
+        "episode": 25
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-10-26-18",
+        "title": "Επεισόδιο 26",
+        "season": 1,
+        "episode": 26
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-10-27-18",
+        "title": "Επεισόδιο 27",
+        "season": 1,
+        "episode": 27
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-10-29-18",
+        "title": "Επεισόδιο 28",
+        "season": 1,
+        "episode": 28
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-10-30-18",
+        "title": "Επεισόδιο 29",
+        "season": 1,
+        "episode": 29
+      }
+    ]
+  }
+}

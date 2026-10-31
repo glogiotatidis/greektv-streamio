@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:44d8b4ff",
+    "type": "series",
+    "name": "The Voice of Greece powered by Telekom",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/voice/2026_2027/voice_new_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:44d8b4ff:2026-10-10-21",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1
+      },
+      {
+        "id": "greek_tv:skai:44d8b4ff:2026-10-11-21",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2
+      },
+      {
+        "id": "greek_tv:skai:44d8b4ff:2026-10-17-21",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "id": "greek_tv:skai:44d8b4ff:2026-10-18-21",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4
+      },
+      {
+        "id": "greek_tv:skai:44d8b4ff:2026-10-24-21",
+        "title": "Επεισόδιο 5",
+        "season": 1,
+        "episode": 5
+      },
+      {
+        "id": "greek_tv:skai:44d8b4ff:2026-10-25-21",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6
+      }
+    ]
+  }
+}

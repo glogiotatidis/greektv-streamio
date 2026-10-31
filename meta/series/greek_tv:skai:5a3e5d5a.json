@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:5a3e5d5a",
+    "type": "series",
+    "name": "Η Ευρωπαϊκή Στήριξη στην Ελλάδα",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2025_2026/extra_ekpompes/european_commission_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:5a3e5d5a:2026-06-21-09",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1
+      },
+      {
+        "id": "greek_tv:skai:5a3e5d5a:2026-10-26-09",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:b368edc1",
+    "type": "series",
+    "name": "Όπου Υπάρχει Ελλάδα",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/opou_yparxei_ellada/2024_2025/logos/ellada_new_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:b368edc1:2025-07-17-14",
+        "title": "Επεισόδιο 132",
+        "season": 1,
+        "episode": 132
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2025-07-18-14",
+        "title": "Επεισόδιο 133",
+        "season": 1,
+        "episode": 133
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2025-07-21-14",
+        "title": "Επεισόδιο 134",
+        "season": 1,
+        "episode": 134
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2025-07-22-14",
+        "title": "Επεισόδιο 135",
+        "season": 1,
+        "episode": 135
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2025-07-23-14",
+        "title": "Επεισόδιο 136",
+        "season": 1,
+        "episode": 136
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2025-07-24-14",
+        "title": "Επεισόδιο 137",
+        "season": 1,
+        "episode": 137
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2025-07-25-14",
+        "title": "Επεισόδιο 138",
+        "season": 1,
+        "episode": 138
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2025-07-28-15",
+        "title": "Επεισόδιο 139",
+        "season": 1,
+        "episode": 139
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2025-07-29-14",
+        "title": "Επεισόδιο 140",
+        "season": 1,
+        "episode": 140
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2025-07-30-14",
+        "title": "Επεισόδιο 141",
+        "season": 1,
+        "episode": 141
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2025-07-31-14",
+        "title": "Επεισόδιο 142",
+        "season": 1,
+        "episode": 142
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2025-08-01-14",
+        "title": "Επεισόδιο 143",
+        "season": 1,
+        "episode": 143
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2026-06-17-14",
+        "title": "Επεισόδιο 183",
+        "season": 2,
+        "episode": 183
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2026-06-18-14",
+        "title": "Επεισόδιο 184",
+        "season": 2,
+        "episode": 184
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2026-06-19-14",
+        "title": "Επεισόδιο 185",
+        "season": 2,
+        "episode": 185
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2026-06-22-14",
+        "title": "Επεισόδιο 186",
+        "season": 2,
+        "episode": 186
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2026-06-23-14",
+        "title": "Επεισόδιο 187",
+        "season": 2,
+        "episode": 187
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2026-06-24-14",
+        "title": "Επεισόδιο 188",
+        "season": 2,
+        "episode": 188
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2026-06-25-14",
+        "title": "Επεισόδιο 189",
+        "season": 2,
+        "episode": 189
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2026-06-26-14",
+        "title": "Επεισόδιο 190",
+        "season": 2,
+        "episode": 190
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2026-06-29-14",
+        "title": "Επεισόδιο 191",
+        "season": 2,
+        "episode": 191
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2026-07-01-14",
+        "title": "Επεισόδιο 192",
+        "season": 2,
+        "episode": 192
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2026-07-02-14",
+        "title": "Επεισόδιο 193",
+        "season": 2,
+        "episode": 193
+      },
+      {
+        "id": "greek_tv:skai:b368edc1:2026-07-03-14",
+        "title": "Επεισόδιο 194",
+        "season": 2,
+        "episode": 194
+      }
+    ]
+  }
+}

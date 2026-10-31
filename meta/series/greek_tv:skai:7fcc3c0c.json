@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:7fcc3c0c",
+    "type": "series",
+    "name": "Στην Αγκαλιά του Φάνη",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/stin_agkalia_tou_fani/2026_2027/fanis_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-10-17-00",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1
+      },
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-10-24-00",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2
+      },
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-10-31-00",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-04-24-22",
+        "title": "Επεισόδιο 42",
+        "season": 2,
+        "episode": 42
+      },
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-05-01-22",
+        "title": "Επεισόδιο 43",
+        "season": 2,
+        "episode": 43
+      },
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-05-08-22",
+        "title": "Επεισόδιο 44",
+        "season": 2,
+        "episode": 44
+      },
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-05-15-22",
+        "title": "Επεισόδιο 45",
+        "season": 2,
+        "episode": 45
+      },
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-05-22-22",
+        "title": "Επεισόδιο 46",
+        "season": 2,
+        "episode": 46
+      },
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-05-29-22",
+        "title": "Επεισόδιο 47",
+        "season": 2,
+        "episode": 47
+      },
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-06-05-22",
+        "title": "Επεισόδιο 48",
+        "season": 2,
+        "episode": 48
+      },
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-06-12-22",
+        "title": "Επεισόδιο 49",
+        "season": 2,
+        "episode": 49
+      },
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-06-19-22",
+        "title": "Επεισόδιο 50",
+        "season": 2,
+        "episode": 50
+      },
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-06-26-23",
+        "title": "Επεισόδιο 51",
+        "season": 2,
+        "episode": 51
+      },
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-07-03-23",
+        "title": "Επεισόδιο 52",
+        "season": 2,
+        "episode": 52
+      },
+      {
+        "id": "greek_tv:skai:7fcc3c0c:2026-07-10-23",
+        "title": "Επεισόδιο 53",
+        "season": 2,
+        "episode": 53
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:34b4b592",
+    "type": "series",
+    "name": "Έκτακτη Επικαιρότητα",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/ektakti_epikairotita.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:34b4b592:2026-09-22-17",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1
+      }
+    ]
+  }
+}

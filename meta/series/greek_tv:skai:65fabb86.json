@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:65fabb86",
+    "type": "series",
+    "name": "Ειδήσεις Ι Μεσημβρινό Δελτίο",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/news_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:65fabb86:2026-10-28-13",
+        "title": "Επεισόδιο 66",
+        "season": 1,
+        "episode": 66
+      },
+      {
+        "id": "greek_tv:skai:65fabb86:2026-10-29-13",
+        "title": "Επεισόδιο 67",
+        "season": 1,
+        "episode": 67
+      },
+      {
+        "id": "greek_tv:skai:65fabb86:2026-10-30-13",
+        "title": "Επεισόδιο 68",
+        "season": 1,
+        "episode": 68
+      }
+    ]
+  }
+}

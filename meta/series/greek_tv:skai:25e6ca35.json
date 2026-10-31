@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:25e6ca35",
+    "type": "series",
+    "name": "Weekend Live",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/weekend_live/2026_2027/weekwnd_live_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:25e6ca35:2026-09-12-14",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "id": "greek_tv:skai:25e6ca35:2026-09-19-14",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4
+      },
+      {
+        "id": "greek_tv:skai:25e6ca35:2026-09-20-14",
+        "title": "Επεισόδιο 5",
+        "season": 1,
+        "episode": 5
+      },
+      {
+        "id": "greek_tv:skai:25e6ca35:2026-09-26-14",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6
+      },
+      {
+        "id": "greek_tv:skai:25e6ca35:2026-09-27-14",
+        "title": "Επεισόδιο 7",
+        "season": 1,
+        "episode": 7
+      },
+      {
+        "id": "greek_tv:skai:25e6ca35:2026-10-03-14",
+        "title": "Επεισόδιο 8",
+        "season": 1,
+        "episode": 8
+      },
+      {
+        "id": "greek_tv:skai:25e6ca35:2026-10-10-14",
+        "title": "Επεισόδιο 9",
+        "season": 1,
+        "episode": 9
+      },
+      {
+        "id": "greek_tv:skai:25e6ca35:2026-10-11-14",
+        "title": "Επεισόδιο 10",
+        "season": 1,
+        "episode": 10
+      },
+      {
+        "id": "greek_tv:skai:25e6ca35:2026-10-17-14",
+        "title": "Επεισόδιο 11",
+        "season": 1,
+        "episode": 11
+      },
+      {
+        "id": "greek_tv:skai:25e6ca35:2026-10-18-14",
+        "title": "Επεισόδιο 12",
+        "season": 1,
+        "episode": 12
+      },
+      {
+        "id": "greek_tv:skai:25e6ca35:2026-10-24-14",
+        "title": "Επεισόδιο 13",
+        "season": 1,
+        "episode": 13
+      },
+      {
+        "id": "greek_tv:skai:25e6ca35:2026-10-25-14",
+        "title": "Επεισόδιο 14",
+        "season": 1,
+        "episode": 14
+      }
+    ]
+  }
+}

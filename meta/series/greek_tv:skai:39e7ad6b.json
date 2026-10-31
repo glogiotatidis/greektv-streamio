@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:39e7ad6b",
+    "type": "series",
+    "name": "Η Δίκη στον ΣΚΑΪ",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2024_2025/diki_land.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:39e7ad6b:2026-08-25-01",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1
+      },
+      {
+        "id": "greek_tv:skai:39e7ad6b:2026-09-01-01",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2
+      },
+      {
+        "id": "greek_tv:skai:39e7ad6b:2026-09-08-01",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "id": "greek_tv:skai:39e7ad6b:2026-09-15-01",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4
+      },
+      {
+        "id": "greek_tv:skai:39e7ad6b:2026-09-22-01",
+        "title": "Επεισόδιο 5",
+        "season": 1,
+        "episode": 5
+      },
+      {
+        "id": "greek_tv:skai:39e7ad6b:2026-09-29-01",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6
+      },
+      {
+        "id": "greek_tv:skai:39e7ad6b:2026-10-06-01",
+        "title": "Επεισόδιο 7",
+        "season": 1,
+        "episode": 7
+      },
+      {
+        "id": "greek_tv:skai:39e7ad6b:2026-10-13-01",
+        "title": "Επεισόδιο 8",
+        "season": 1,
+        "episode": 8
+      },
+      {
+        "id": "greek_tv:skai:39e7ad6b:2026-10-20-01",
+        "title": "Επεισόδιο 9",
+        "season": 1,
+        "episode": 9
+      },
+      {
+        "id": "greek_tv:skai:39e7ad6b:2026-10-27-01",
+        "title": "Επεισόδιο 10",
+        "season": 1,
+        "episode": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:04d929c3",
+    "type": "series",
+    "name": "The Voice of Greece | Αφιέρωμα στον Γιώργο Μαζωνάκη",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/voice/2025_2026/logos/voice_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:04d929c3:2026-10-03-21",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1
+      }
+    ]
+  }
+}

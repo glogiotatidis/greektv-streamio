@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:53191723",
+    "type": "series",
+    "name": "8 Λέξεις",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/1920x1080_8lexeis-b_1.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:53191723:2019-09-08-21",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-09-21",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-10-21",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-11-21",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-12-21",
+        "title": "Επεισόδιο 5",
+        "season": 1,
+        "episode": 5
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-16-21",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-17-21",
+        "title": "Επεισόδιο 7",
+        "season": 1,
+        "episode": 7
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-18-21",
+        "title": "Επεισόδιο 8",
+        "season": 1,
+        "episode": 8
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-19-21",
+        "title": "Επεισόδιο 9",
+        "season": 1,
+        "episode": 9
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-23-21",
+        "title": "Επεισόδιο 10",
+        "season": 1,
+        "episode": 10
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-24-21",
+        "title": "Επεισόδιο 11",
+        "season": 1,
+        "episode": 11
+      },
+      {
+        "id": "greek_tv:skai:53191723:2019-09-25-21",
+        "title": "Επεισόδιο 12",
+        "season": 1,
+        "episode": 12
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-18-21",
+        "title": "Επεισόδιο 107",
+        "season": 1,
+        "episode": 107
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-19-21",
+        "title": "Επεισόδιο 108",
+        "season": 1,
+        "episode": 108
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-20-21",
+        "title": "Επεισόδιο 109",
+        "season": 1,
+        "episode": 109
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-23-21",
+        "title": "Επεισόδιο 110",
+        "season": 1,
+        "episode": 110
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-24-21",
+        "title": "Επεισόδιο 111",
+        "season": 1,
+        "episode": 111
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-25-21",
+        "title": "Επεισόδιο 112",
+        "season": 1,
+        "episode": 112
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-26-21",
+        "title": "Επεισόδιο 113",
+        "season": 1,
+        "episode": 113
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-27-21",
+        "title": "Επεισόδιο 114",
+        "season": 1,
+        "episode": 114
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-30-21",
+        "title": "Επεισόδιο 115",
+        "season": 1,
+        "episode": 115
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-03-31-21",
+        "title": "Επεισόδιο 116",
+        "season": 1,
+        "episode": 116
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-04-01-21",
+        "title": "Επεισόδιο 117",
+        "season": 1,
+        "episode": 117
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-04-02-21",
+        "title": "Επεισόδιο 118",
+        "season": 1,
+        "episode": 118
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-08-31-21",
+        "title": "Επεισόδιο 1",
+        "season": 2,
+        "episode": 1
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-01-21",
+        "title": "Επεισόδιο 2",
+        "season": 2,
+        "episode": 2
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-02-21",
+        "title": "Επεισόδιο 3",
+        "season": 2,
+        "episode": 3
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-03-21",
+        "title": "Επεισόδιο 4",
+        "season": 2,
+        "episode": 4
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-07-21",
+        "title": "Επεισόδιο 5",
+        "season": 2,
+        "episode": 5
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-08-21",
+        "title": "Επεισόδιο 6",
+        "season": 2,
+        "episode": 6
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-09-21",
+        "title": "Επεισόδιο 7",
+        "season": 2,
+        "episode": 7
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-10-21",
+        "title": "Επεισόδιο 8",
+        "season": 2,
+        "episode": 8
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-14-21",
+        "title": "Επεισόδιο 9",
+        "season": 2,
+        "episode": 9
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-15-21",
+        "title": "Επεισόδιο 10",
+        "season": 2,
+        "episode": 10
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-16-21",
+        "title": "Επεισόδιο 11",
+        "season": 2,
+        "episode": 11
+      },
+      {
+        "id": "greek_tv:skai:53191723:2020-09-17-21",
+        "title": "Επεισόδιο 12",
+        "season": 2,
+        "episode": 12
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-17-21",
+        "title": "Επεισόδιο 161",
+        "season": 2,
+        "episode": 161
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-18-21",
+        "title": "Επεισόδιο 162",
+        "season": 2,
+        "episode": 162
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-21-21",
+        "title": "Επεισόδιο 163",
+        "season": 2,
+        "episode": 163
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-22-21",
+        "title": "Επεισόδιο 164",
+        "season": 2,
+        "episode": 164
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-23-21",
+        "title": "Επεισόδιο 165",
+        "season": 2,
+        "episode": 165
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-24-21",
+        "title": "Επεισόδιο 166",
+        "season": 2,
+        "episode": 166
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-25-21",
+        "title": "Επεισόδιο 167",
+        "season": 2,
+        "episode": 167
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-28-21",
+        "title": "Επεισόδιο 168",
+        "season": 2,
+        "episode": 168
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-29-21",
+        "title": "Επεισόδιο 169",
+        "season": 2,
+        "episode": 169
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-06-30-21",
+        "title": "Επεισόδιο 170",
+        "season": 2,
+        "episode": 170
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-07-01-21",
+        "title": "Επεισόδιο 171",
+        "season": 2,
+        "episode": 171
+      },
+      {
+        "id": "greek_tv:skai:53191723:2021-07-02-21",
+        "title": "Επεισόδιο 172",
+        "season": 2,
+        "episode": 172
+      }
+    ]
+  }
+}

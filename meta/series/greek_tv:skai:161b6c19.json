@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:161b6c19",
+    "type": "series",
+    "name": "Πρωταγωνιστές Μικρού Μήκους",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/docs/protagonistes_mikrou_mikous/theodwrakis_movie_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:161b6c19:2026-09-27-09",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1
+      }
+    ]
+  }
+}

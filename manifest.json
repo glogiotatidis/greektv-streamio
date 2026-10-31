@@ -1,0 +1,29 @@
+{
+  "id": "com.greektv.streamio",
+  "version": "2.0.0",
+  "name": "Greek TV Streamio",
+  "description": "On-demand streams from Greek TV stations",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "greek_tv_all",
+      "name": "Greek TV — All"
+    },
+    {
+      "type": "series",
+      "id": "greek_tv_skai",
+      "name": "Greek TV — Skai"
+    }
+  ],
+  "idPrefixes": [
+    "greek_tv:"
+  ]
+}
