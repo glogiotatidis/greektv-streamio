@@ -79,9 +79,6 @@ def _poster(html, title):
     )
     if match:
         return match.group(1)
-    match = re.search(r'(https://www\.antenna\.gr/imgHandler/\d+/[A-Za-z0-9-]+\.jpg)', html)
-    if match:
-        return match.group(1)
     return placeholder(title)
 
 
