@@ -75,6 +75,8 @@ def write_index(path, manifest_url):
 
 
 def main(full=False):
+    if full:
+        os.environ["GREEKTV_FULL"] = "1"
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s"
     )

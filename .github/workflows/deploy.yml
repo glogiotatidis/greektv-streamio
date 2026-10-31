@@ -45,7 +45,9 @@ jobs:
       - run: pip install fastapi beautifulsoup4 curl_cffi
       - uses: actions/cache@v4
         with:
-          path: site
+          path: |
+            site
+            .cache
           key: greektv-site-${{ matrix.station }}-${{ github.sha }}
           restore-keys: |
             greektv-site-${{ matrix.station }}-

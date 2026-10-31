@@ -1,6 +1,8 @@
 import hashlib
 import logging
+import json as _json
 import os
+import time as _time
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -9,6 +11,8 @@ from greektv.stations import ORDER, STATIONS
 
 logger = logging.getLogger("greektv")
 WORKERS = int(os.environ.get("GREEKTV_WORKERS", "10"))
+CACHE_TTL = int(os.environ.get("GREEKTV_CACHE_TTL", "86400"))
+CACHE_FILE = os.environ.get("GREEKTV_CACHE_FILE", ".cache/shows.json")
 
 _refs = None
 _refs_lock = threading.Lock()
@@ -132,12 +136,54 @@ def _normalize_episodes(episodes):
     return result
 
 
+_disk_cache = None
+_disk_cache_loaded = False
+
+
+def _load_disk_cache():
+    global _disk_cache, _disk_cache_loaded
+    if _disk_cache_loaded:
+        return _disk_cache
+    _disk_cache_loaded = True
+    try:
+        with open(CACHE_FILE, encoding="utf-8") as handle:
+            _disk_cache = _json.load(handle)
+    except (OSError, ValueError):
+        _disk_cache = {}
+    if not isinstance(_disk_cache, dict):
+        _disk_cache = {}
+    return _disk_cache
+
+
+def _save_disk_cache():
+    if _disk_cache is None:
+        return
+    try:
+        os.makedirs(os.path.dirname(CACHE_FILE) or ".", exist_ok=True)
+        with open(CACHE_FILE, "w", encoding="utf-8") as handle:
+            _json.dump(_disk_cache, handle, ensure_ascii=False)
+    except OSError:
+        logger.exception("Failed to save show cache")
+
+
 def get_show(entry):
+    global _disk_cache
     key = (entry["station"], entry["ref"]["url"])
     with _show_lock:
         cached = _show_cache.get(key)
     if cached is not None:
         return cached
+
+    disk = _load_disk_cache()
+    cache_key = entry["ref"]["url"]
+    if os.environ.get("GREEKTV_FULL") != "1":
+        cached_entry = disk.get(cache_key)
+        if cached_entry and (not CACHE_TTL or _time.time() - cached_entry.get("ts", 0) < CACHE_TTL):
+            data = cached_entry.get("data")
+            if isinstance(data, dict) and data.get("episodes") is not None:
+                with _show_lock:
+                    _show_cache[key] = data
+                return data
 
     station = entry["station"]
     ref = entry["ref"]
@@ -158,6 +204,9 @@ def get_show(entry):
     for episode in data["episodes"]:
         if not episode.get("thumbnail"):
             episode["thumbnail"] = data.get("poster") or ""
+
+    disk[cache_key] = {"ts": _time.time(), "data": data}
+    _save_disk_cache()
 
     with _show_lock:
         _show_cache[key] = data
