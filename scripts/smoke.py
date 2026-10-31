@@ -1,6 +1,7 @@
 import json, urllib.request, urllib.parse, sys, random
 
 BASE = "https://glogiotatidis.github.io/greektv-streamio"
+UA = "Stremio/4.4.0 (Linux; Android 10)"
 manifest = json.loads(urllib.request.urlopen(BASE + "/manifest.json").read())
 stations = [c["id"] for c in manifest["catalogs"] if c["id"].startswith("greek_tv_") and c["id"] != "greek_tv_all"]
 print("Stations:", stations)
@@ -33,15 +34,37 @@ for cat_id in stations:
         url = streams[0]["url"]
         tested += 1
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=30) as r:
-                body = r.read(200).decode("utf-8", "ignore")
-            if r.status == 200 and "#EXTM3U" in body:
-                ok_streams += 1
-                print(f"[{slug}] OK: {url[:60]}...")
-            else:
-                print(f"[{slug}] BAD status/content: {r.status}")
-                failures.append(f"{slug}: bad stream {url}")
+                body = r.read(4096).decode("utf-8", "ignore")
+                final_url = r.geturl()
+                ctype = r.headers.get("Content-Type", "")
+            if r.status != 200 or "#EXTM3U" not in body:
+                print(f"[{slug}] BAD playlist: status={r.status} ctype={ctype}")
+                failures.append(f"{slug}: bad playlist {url}")
+                continue
+            # fetch one segment to prove playability
+            seg_url = None
+            for line in body.splitlines():
+                line = line.strip()
+                if line and not line.startswith("#"):
+                    seg_url = urllib.parse.urljoin(final_url, line)
+                    break
+            if not seg_url:
+                print(f"[{slug}] no segment in playlist")
+                failures.append(f"{slug}: no segment {url}")
+                continue
+            seg_req = urllib.request.Request(seg_url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(seg_req, timeout=30) as sr:
+                seg_body = sr.read(64)
+                seg_status = sr.status
+                seg_ctype = sr.headers.get("Content-Type", "")
+            if seg_status != 200 or (seg_ctype.startswith("text/html") or b"<html" in seg_body.lower()):
+                print(f"[{slug}] BAD segment: status={seg_status} ctype={seg_ctype}")
+                failures.append(f"{slug}: bad segment {seg_url}")
+                continue
+            ok_streams += 1
+            print(f"[{slug}] OK: {url[:60]}... (seg {seg_status})")
         except Exception as e:
             print(f"[{slug}] FAIL: {e}")
             failures.append(f"{slug}: {e}")
@@ -53,4 +76,3 @@ if failures:
         print(" -", f)
     sys.exit(1)
 print("\nAll smoke tests passed.")
-PY
