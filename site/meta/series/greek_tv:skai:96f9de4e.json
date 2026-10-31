@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:96f9de4e",
+    "type": "series",
+    "name": "Τότε και Τώρα | Πάσχα",
+    "videos": [
+      {
+        "id": "greek_tv:skai:96f9de4e:latest",
+        "title": "Τότε και Τώρα | Πάσχα",
+        "season": 1,
+        "episode": 1
+      }
+    ]
+  }
+}

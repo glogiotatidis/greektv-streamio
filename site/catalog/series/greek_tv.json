@@ -1,0 +1,34 @@
+{
+  "metas": [
+    {
+      "id": "greek_tv:mega_tv:e99ec70f",
+      "type": "series",
+      "name": "Κάμπινγκ | MEGA TV",
+      "poster": "https://placehold.co/300x450?text=Mega TV"
+    },
+    {
+      "id": "greek_tv:skai:96f9de4e",
+      "type": "series",
+      "name": "Τότε και Τώρα | Πάσχα",
+      "poster": "https://placehold.co/300x450?text=Skai"
+    },
+    {
+      "id": "greek_tv:star_channel:20efd380",
+      "type": "series",
+      "name": "ΤΑ ΦΑΝΤΑΣΜΑΤΑ  | Star TV",
+      "poster": "https://placehold.co/300x450?text=Star Channel"
+    },
+    {
+      "id": "greek_tv:alpha_tv:ebf01967",
+      "type": "series",
+      "name": "Σειρά: Σασμός | AlphaTV",
+      "poster": "https://placehold.co/300x450?text=Alpha TV"
+    },
+    {
+      "id": "greek_tv:ert:667a9011",
+      "type": "series",
+      "name": "ERTFLIX",
+      "poster": "https://placehold.co/300x450?text=ERT"
+    }
+  ]
+}

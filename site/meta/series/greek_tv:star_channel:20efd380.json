@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "greek_tv:star_channel:20efd380",
+    "type": "series",
+    "name": "ΤΑ ΦΑΝΤΑΣΜΑΤΑ  | Star TV",
+    "videos": [
+      {
+        "id": "greek_tv:star_channel:20efd380:ta-fadasmata-epeisodio-3-2os-kuklos",
+        "title": "ta fadasmata epeisodio 3 2os kuklos",
+        "season": 1,
+        "episode": 1
+      },
+      {
+        "id": "greek_tv:star_channel:20efd380:ta-fadasmata-epeisodio-4-2os-kuklos",
+        "title": "ta fadasmata epeisodio 4 2os kuklos",
+        "season": 1,
+        "episode": 2
+      },
+      {
+        "id": "greek_tv:star_channel:20efd380:ta-fadasmata-epeisodio-2-2os-kuklos",
+        "title": "ta fadasmata epeisodio 2 2os kuklos",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "id": "greek_tv:star_channel:20efd380:ta-fadasmata-epeisodio-1-2os-kuklos",
+        "title": "ta fadasmata epeisodio 1 2os kuklos",
+        "season": 1,
+        "episode": 4
+      },
+      {
+        "id": "greek_tv:star_channel:20efd380:ta-fadasmata-trailer-5ou-epeisodiou-kuriaki-111-2os-kuklos",
+        "title": "ta fadasmata trailer 5ou epeisodiou kuriaki 111 2os kuklos",
+        "season": 1,
+        "episode": 5
+      }
+    ]
+  }
+}

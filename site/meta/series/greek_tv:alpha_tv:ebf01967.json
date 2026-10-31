@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:ebf01967",
+    "type": "series",
+    "name": "Σειρά: Σασμός | AlphaTV",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:ebf01967:latest",
+        "title": "Σειρά: Σασμός | AlphaTV",
+        "season": 1,
+        "episode": 1
+      }
+    ]
+  }
+}

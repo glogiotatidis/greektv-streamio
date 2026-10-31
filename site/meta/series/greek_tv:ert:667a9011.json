@@ -1,0 +1,369 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:667a9011",
+    "type": "series",
+    "name": "ERTFLIX",
+    "videos": [
+      {
+        "id": "greek_tv:ert:667a9011:elektra-528",
+        "title": "Electra",
+        "season": 1,
+        "episode": 1
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-527",
+        "title": "Electra",
+        "season": 1,
+        "episode": 2
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-526",
+        "title": "Electra",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-525",
+        "title": "Electra",
+        "season": 1,
+        "episode": 4
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-529",
+        "title": "Electra",
+        "season": 1,
+        "episode": 5
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-524",
+        "title": "Electra",
+        "season": 1,
+        "episode": 6
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-523",
+        "title": "Electra",
+        "season": 1,
+        "episode": 7
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-522",
+        "title": "Electra",
+        "season": 1,
+        "episode": 8
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-521",
+        "title": "Electra",
+        "season": 1,
+        "episode": 9
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-520",
+        "title": "Electra",
+        "season": 1,
+        "episode": 10
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-519",
+        "title": "Electra",
+        "season": 1,
+        "episode": 11
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-518",
+        "title": "Electra",
+        "season": 1,
+        "episode": 12
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-517",
+        "title": "Electra",
+        "season": 1,
+        "episode": 13
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-516",
+        "title": "Electra",
+        "season": 1,
+        "episode": 14
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-515",
+        "title": "Electra",
+        "season": 1,
+        "episode": 15
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-514",
+        "title": "Electra",
+        "season": 1,
+        "episode": 16
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-513",
+        "title": "Electra",
+        "season": 1,
+        "episode": 17
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-512",
+        "title": "Electra",
+        "season": 1,
+        "episode": 18
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-511",
+        "title": "Electra",
+        "season": 1,
+        "episode": 19
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-510",
+        "title": "Electra",
+        "season": 1,
+        "episode": 20
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-173",
+        "title": "Electra",
+        "season": 1,
+        "episode": 21
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-189",
+        "title": "Electra",
+        "season": 1,
+        "episode": 22
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-190",
+        "title": "Electra",
+        "season": 1,
+        "episode": 23
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-191",
+        "title": "Electra",
+        "season": 1,
+        "episode": 24
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-192",
+        "title": "Electra",
+        "season": 1,
+        "episode": 25
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-193",
+        "title": "Electra",
+        "season": 1,
+        "episode": 26
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-194",
+        "title": "Electra",
+        "season": 1,
+        "episode": 27
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-195",
+        "title": "Electra",
+        "season": 1,
+        "episode": 28
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-196",
+        "title": "Electra",
+        "season": 1,
+        "episode": 29
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-197",
+        "title": "Electra",
+        "season": 1,
+        "episode": 30
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-198",
+        "title": "Electra",
+        "season": 1,
+        "episode": 31
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-199",
+        "title": "Electra",
+        "season": 1,
+        "episode": 32
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-200",
+        "title": "Electra",
+        "season": 1,
+        "episode": 33
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-201",
+        "title": "Electra",
+        "season": 1,
+        "episode": 34
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-202",
+        "title": "Electra",
+        "season": 1,
+        "episode": 35
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-203",
+        "title": "Electra",
+        "season": 1,
+        "episode": 36
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-204",
+        "title": "Electra",
+        "season": 1,
+        "episode": 37
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-205",
+        "title": "Electra",
+        "season": 1,
+        "episode": 38
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-206",
+        "title": "Electra",
+        "season": 1,
+        "episode": 39
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-207",
+        "title": "Electra",
+        "season": 1,
+        "episode": 40
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-2",
+        "title": "Electra",
+        "season": 1,
+        "episode": 41
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-3",
+        "title": "Electra ",
+        "season": 1,
+        "episode": 42
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-4",
+        "title": "Electra",
+        "season": 1,
+        "episode": 43
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-5",
+        "title": "Electra",
+        "season": 1,
+        "episode": 44
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-6",
+        "title": "Electra",
+        "season": 1,
+        "episode": 45
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-7",
+        "title": "Electra ",
+        "season": 1,
+        "episode": 46
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-8",
+        "title": "Electra",
+        "season": 1,
+        "episode": 47
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-9",
+        "title": "Electra  ",
+        "season": 1,
+        "episode": 48
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-10",
+        "title": "Electra ",
+        "season": 1,
+        "episode": 49
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-11",
+        "title": "Electra ",
+        "season": 1,
+        "episode": 50
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-12",
+        "title": "Electra ",
+        "season": 1,
+        "episode": 51
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-13",
+        "title": "Electra ",
+        "season": 1,
+        "episode": 52
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-14",
+        "title": "Electra ",
+        "season": 1,
+        "episode": 53
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-15",
+        "title": "Electra ",
+        "season": 1,
+        "episode": 54
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-16",
+        "title": "Electra ",
+        "season": 1,
+        "episode": 55
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-17",
+        "title": "Electra",
+        "season": 1,
+        "episode": 56
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-18",
+        "title": "Electra",
+        "season": 1,
+        "episode": 57
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-19",
+        "title": "Electra",
+        "season": 1,
+        "episode": 58
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-20",
+        "title": "Electra",
+        "season": 1,
+        "episode": 59
+      },
+      {
+        "id": "greek_tv:ert:667a9011:elektra-21",
+        "title": "Electra",
+        "season": 1,
+        "episode": 60
+      }
+    ]
+  }
+}
