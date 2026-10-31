@@ -1,6 +1,11 @@
 name: Deploy static addon
 on:
   workflow_dispatch:
+    inputs:
+      stations:
+        description: "Comma-separated station slugs (empty = all)"
+        required: false
+        default: ""
 permissions:
   contents: write
 concurrency:
@@ -23,6 +28,8 @@ jobs:
           restore-keys: |
             greektv-site-
       - run: python static_export.py
+        env:
+          GREEKTV_STATIONS: ${{ github.event.inputs.stations }}
       - run: test -s site/manifest.json
       - uses: peaceiris/actions-gh-pages@v4
         with:
