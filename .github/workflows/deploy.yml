@@ -77,6 +77,8 @@ jobs:
           mkdir -p site
           for z in /tmp/artifacts/site-*/site.zip; do unzip -o "$z" -d site; done
       - run: python static_export.py
+        env:
+          GREEKTV_STATIONS: ${{ github.event.inputs.stations }}
       - run: test -s site/manifest.json
       - uses: peaceiris/actions-gh-pages@v4
         with:
