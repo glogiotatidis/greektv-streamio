@@ -152,8 +152,12 @@ def get_show(entry):
         }
 
     data["title"] = data.get("title") or ref.get("title") or STATIONS[station]["name"]
-    data["poster"] = data.get("poster") or ref.get("poster") or ""
+    data["poster"] = data.get("poster") or ref.get("poster") or placeholder(data["title"])
+    data["background"] = data.get("background") or data["poster"]
     data["episodes"] = _normalize_episodes(data.get("episodes") or [])
+    for episode in data["episodes"]:
+        if not episode.get("thumbnail"):
+            episode["thumbnail"] = data.get("poster") or ""
 
     with _show_lock:
         _show_cache[key] = data
