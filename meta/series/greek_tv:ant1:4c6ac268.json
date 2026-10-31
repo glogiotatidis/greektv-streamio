@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "greek_tv:ant1:4c6ac268",
+    "type": "series",
+    "name": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ",
+    "poster": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1",
+    "background": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1",
+    "videos": [
+      {
+        "id": "greek_tv:ant1:4c6ac268:d992cep28n03bk7ytta4kjr9",
+        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 30/10/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:4c6ac268:gyj6xnpl6t95sp2hhzxnxsc4",
+        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 29/10/2026",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:4c6ac268:lo64ybra7g670zlegqj7co7q",
+        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 28/10/2026",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:4c6ac268:s4uu1zk8947t5bwq3j6e20hx",
+        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 27/10/2026",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:4c6ac268:pv24t8czw206cwmfhuste50q",
+        "title": "Πλάκα - Αποκάλυψη σοκ: Σχολικό λεωφορείο πέρασε δευτερόλεπτα πριν τη μοιραία έκρηξη - Καλημέρα Ελλάδα - 30/10/2026",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:4c6ac268:vx5lmzlh2jx7nrpu4652d0hu",
+        "title": "Ο στόχος της αυτοδυναμίας και τα κυρίαρχα σενάρια για την κάλπη - Καλημέρα Ελλάδα - 30/10/2026 Ο Α. Σπηλιωτόπουλος, πολιτικός αναλυτής και ο Ν. Καραχάλιος, επικοινωνιολόγος, στο Καλημέρα Ελλάδα.",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:4c6ac268:byad4bga2nzu4xa9q5l11j73",
+        "title": "24ωρη απεργία ναυτεργατών - Ακυρώσεις και αλλαγές στα δρομολόγια - Καλημέρα Ελλάδα - 30/10/2026 Ο Αντώνης Νταλακογιώργος, πρ. Πανελλήνιας Ένωσης Ναυτών Εμπορικού Ναυτικού στο Καλημέρα Ελλάδα.",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:4c6ac268:j7rdcrzguoaty3ad8z9bzbl2",
+        "title": "Μητσοτάκης στον ΟΗΕ: \"Ανυπόστατο το τουρκολιβυκό μνημόνιο\" - Καλημέρα Ελλάδα - 30/10/2026 Ο Κ. Μητσοτάκης άνοιξε χάρτη μπροστά στα μέλη του ΟΗΕ.",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:4c6ac268:wnhtmxw5eu8tj32vlhdpo9k1",
+        "title": "Τουρκολιβυκό μνημόνιο: Ο Κ. Μητσοτάκης άνοιξε χάρτη μπροστά στα μέλη του ΟΗΕ - Καλημέρα Ελλάδα - 30/10/2026 Ο Σ. Καλεντερίδης, στρατιωτικός αναλυτής και ο Γ. Μάζης, καθηγητής Γεωπολιτικής στο Καλημέρα Ελλάδα.",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:4c6ac268:fg6nu7d808rkk4rec2n2uxg1",
+        "title": "Γλυφάδα: Έβαλε φωτιά στο σπίτι της πρώην του - Καλημέρα Ελλάδα - 30/10/2026 Έβαλε φωτιά στο σπίτι της πρώην του στη Γλυφάδα και έκαψε το αυτοκίνητο και άλλης πρώην συντρόφου...",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:4c6ac268:cndl3nhotygbgehuj07wxu4u",
+        "title": "Η πρόεδρος της \"Πλεύση Ελευθερίας\", Ζωή Κωνσταντοπούλου στο Καλημέρα Ελλάδα - 30/10/2026",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:4c6ac268:dfd3lu9a4n82vf52zat85qpe",
+        "title": "Καιρός - Καλημέρα Ελλάδα - 28/10/2026 Η πρόγνωση του καιρού από τον Ανδρέα Ζάβαλη.",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      }
+    ]
+  }
+}

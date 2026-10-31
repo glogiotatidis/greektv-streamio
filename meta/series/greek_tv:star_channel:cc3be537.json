@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "greek_tv:star_channel:cc3be537",
+    "type": "series",
+    "name": "GREECE'S NEXT TOP MODEL",
+    "poster": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png",
+    "background": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png",
+    "videos": [
+      {
+        "id": "greek_tv:star_channel:cc3be537:gntm-7-apokleistiko-apospasma-apo-to-simerino-epeisodio-299",
+        "title": "Επεισόδιο 299",
+        "season": 1,
+        "episode": 299,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"
+      },
+      {
+        "id": "greek_tv:star_channel:cc3be537:gntm-7-apokleistiko-apospasma-apo-to-simerino-epeisodio-510",
+        "title": "Επεισόδιο 510",
+        "season": 1,
+        "episode": 510,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"
+      },
+      {
+        "id": "greek_tv:star_channel:cc3be537:gntm-7-apokleistiko-apospasma-apo-to-simerino-epeisodio-1910",
+        "title": "Επεισόδιο 1910",
+        "season": 1,
+        "episode": 1910,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"
+      },
+      {
+        "id": "greek_tv:star_channel:cc3be537:gntm-7-apokleistiko-apospasma-apo-to-simerino-epeisodio-2610",
+        "title": "Επεισόδιο 2610",
+        "season": 1,
+        "episode": 2610,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"
+      },
+      {
+        "id": "greek_tv:star_channel:cc3be537:gntm-7-metamorfoseis-kai-dipli-apohorisi-sto-apopsino-epeisodio-ti-tha-doume",
+        "title": "Gntm 7 Metamorfoseis Kai Dipli Apohorisi Sto Apopsino Epeisodio Ti Tha Doume",
+        "season": 1,
+        "episode": 2611,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"
+      },
+      {
+        "id": "greek_tv:star_channel:cc3be537:gntm-7-apokleistiko-apospasma-apo-to-simerino-epeisodio",
+        "title": "Gntm 7 Apokleistiko Apospasma Apo To Simerino Epeisodio",
+        "season": 1,
+        "episode": 2612,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"
+      },
+      {
+        "id": "greek_tv:star_channel:cc3be537:gntm-apokleistiko-apospasma-apo-to-simerino-epeisodio",
+        "title": "Gntm Apokleistiko Apospasma Apo To Simerino Epeisodio",
+        "season": 1,
+        "episode": 2613,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"
+      },
+      {
+        "id": "greek_tv:star_channel:cc3be537:gntm-2026-trailer-13ou-epeisodiou-deutera-211",
+        "title": "Gntm 2026 Trailer 13Ou Epeisodiou Deutera 211",
+        "season": 1,
+        "episode": 2614,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"
+      }
+    ]
+  }
+}

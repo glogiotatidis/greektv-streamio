@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "id": "greek_tv:star_channel:b3791b03",
+    "type": "series",
+    "name": "ΤΟ ΜΠΕΡΔΕΜΑ",
+    "poster": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg",
+    "background": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-02",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-03",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-04",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-05",
+        "title": "Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-06",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-07",
+        "title": "Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-08",
+        "title": "Επεισόδιο 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-09",
+        "title": "Επεισόδιο 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-10",
+        "title": "Επεισόδιο 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-11",
+        "title": "Επεισόδιο 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-12",
+        "title": "Επεισόδιο 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-13",
+        "title": "Επεισόδιο 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-14",
+        "title": "Επεισόδιο 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-15",
+        "title": "Επεισόδιο 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-16",
+        "title": "Επεισόδιο 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-17",
+        "title": "Επεισόδιο 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-18",
+        "title": "Επεισόδιο 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-19",
+        "title": "Επεισόδιο 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-20",
+        "title": "Επεισόδιο 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-21",
+        "title": "Επεισόδιο 21",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-22",
+        "title": "Επεισόδιο 22",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-23",
+        "title": "Επεισόδιο 23",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-24",
+        "title": "Επεισόδιο 24",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-25",
+        "title": "Επεισόδιο 25",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:b3791b03:to-berdema-epeisodio-26",
+        "title": "Επεισόδιο 26",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      }
+    ]
+  }
+}

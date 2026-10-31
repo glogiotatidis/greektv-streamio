@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "id": "greek_tv:mega_tv:5bfd68cc",
+    "type": "series",
+    "name": "Ελλήνων Έργα",
+    "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg",
+    "background": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-tis-lampris-a-meros",
+        "title": "Τραγούδια της Λαμπρής | Α’ Μέρος -",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-tis-lampris-v-meros",
+        "title": "Τραγούδια της Λαμπρής | Β’ Μέρος -",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-tis-lampris-g-meros",
+        "title": "Τραγούδια της Λαμπρής | Γ’ Μέρος -",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:thrinoi-tis-panagias",
+        "title": "Θρήνοι της Παναγίας -",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-tou-mai-protomagia",
+        "title": "Τραγούδια του Μάη (Πρωτομαγιά) -",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-xoroi-vlastis-kozanis",
+        "title": "Τραγούδια και Χοροί Βλάστης Κοζάνης -",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-xoroi-galatinis-kozanis",
+        "title": "Τραγούδια και Χοροί Γαλατινής Κοζάνης -",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-diaforon-perioxon-tou-ellinismou",
+        "title": "Τραγούδια διάφορων περιοχών του Ελληνισμού -",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-skopoi-tis-mikras-asias",
+        "title": "Τραγούδια και Σκοποί της Μικράς Ασίας -",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-xoroi-makedonias-kai-kappadokias",
+        "title": "Τραγούδια και Χοροί Μακεδονίας και Καππαδοκίας -",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-xoroi-tis-ipeirou",
+        "title": "Τραγούδια και Χοροί της Ηπείρου -",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:taksideytes-politismou",
+        "title": "Ταξιδευτές πολιτισμού -",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-xoroi-tis-roumelis-a-meros",
+        "title": "Τραγούδια και Χοροί της Ρούμελης | Α’ Μέρος -",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-xoroi-tis-roumelis-v-meros",
+        "title": "Τραγούδια και Χοροί της Ρούμελης | Β’ Μέρος -",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-xoroi-tis-peloponnisou",
+        "title": "Τραγούδια και Χοροί της Πελοποννήσου -",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-xoroi-tou-moria",
+        "title": "Τραγούδια και Χοροί του Μοριά -",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:kiana-a-meros",
+        "title": "Κιανά | Α’ Μέρος -",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:kiana-v-meros",
+        "title": "Κιανά | Β’ Μέρος -",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:ta-dimotika-tragoudia-tis-athinas",
+        "title": "Τα δημοτικά τραγούδια της Αθήνας -",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-xoroi-tis-kalymnou",
+        "title": "Τραγούδια και Χοροί της Καλύμνου -",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-xoroi-tis-smyrnis",
+        "title": "Τραγούδια και Χοροί της Σμύρνης -",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-xoroi-ikarias",
+        "title": "Τραγούδια και Χοροί της Ικαρίας -",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:iroika-patriotika-tragoudia-tis-25is-martiou",
+        "title": "Ηρωικά πατριωτικά τραγούδια της 25ης Μαρτίου -",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-xoroi-serifou-a-meros",
+        "title": "Τραγούδια και Χοροί Σερίφου | Α’ Μέρος -",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-xoroi-serifou-v-meros",
+        "title": "Τραγούδια και Χοροί Σερίφου | Β’ Μέρος -",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-xoroi-serifou-g-meros",
+        "title": "Τραγούδια και Χοροί Σερίφου | Γ’ Μέρος -",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-skopoi-kythnou-kykladon-a-meros",
+        "title": "Τραγούδια και Σκοποί Κύθνου – Κυκλάδων | Α’ Μέρος -",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:tragoudia-kai-skopoi-kythnou-kykladon-v-meros",
+        "title": "Τραγούδια και Σκοποί Κύθνου – Κυκλάδων | Β’ Μέρος -",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:kalanta-xristougennon",
+        "title": "Κάλαντα Χριστουγέννων -",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5bfd68cc:kalanta-protoxronias",
+        "title": "Κάλαντα Πρωτοχρονιάς -",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+      }
+    ]
+  }
+}

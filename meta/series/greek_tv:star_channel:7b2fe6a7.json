@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:star_channel:7b2fe6a7",
+    "type": "series",
+    "name": "KI & HI",
+    "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ki___hi-1920x1080.jpg",
+    "background": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ki___hi-1920x1080.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:star_channel:7b2fe6a7:chill-out",
+        "title": "25/10/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ki___hi-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:7b2fe6a7:all-the-wontons-you-want",
+        "title": "25/10/2026",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ki___hi-1920x1080.jpg"
+      }
+    ]
+  }
+}

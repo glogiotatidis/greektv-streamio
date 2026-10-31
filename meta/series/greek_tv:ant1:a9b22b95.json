@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "greek_tv:ant1:a9b22b95",
+    "type": "series",
+    "name": "THE ROADSHOW",
+    "poster": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1",
+    "background": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1",
+    "videos": [
+      {
+        "id": "greek_tv:ant1:a9b22b95:kfv8bodctttx2dub0u49idei",
+        "title": "The Roadshow – Σάββατο στις 21:00",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:a9b22b95:gq3hmesawxyb7imtmge2q7zy",
+        "title": "THE ROADSHOW – ΕΠΕΙΣΟΔΙΟ 01 – 3η ΣΕΖΟΝ",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:a9b22b95:ig797z4vvzfd5lbz7fldt4g2",
+        "title": "THE ROADSHOW – ΕΠΕΙΣΟΔΙΟ 02 – 3η ΣΕΖΟΝ",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:a9b22b95:k96r5i2ze5f66zxjwdd8tnhb",
+        "title": "THE ROADSHOW – ΕΠΕΙΣΟΔΙΟ 03 – 3η ΣΕΖΟΝ",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      }
+    ]
+  }
+}

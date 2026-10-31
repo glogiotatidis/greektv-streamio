@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "id": "greek_tv:ant1:3fd4340e",
+    "type": "series",
+    "name": "ANT1 NEWS",
+    "poster": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1",
+    "background": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1",
+    "videos": [
+      {
+        "id": "greek_tv:ant1:3fd4340e:zyx8p7goo73jcuww3vmgxecc",
+        "title": "ANT1 NEWS 31-10-2026 ΣΤΙΣ 18:45",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:3fd4340e:ss4jduxfolp9nvicq2rzs9yc",
+        "title": "ANT1 NEWS 29-10-2026 ΣΤΙΣ 18:45",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:3fd4340e:b8qsz7mkbvl8aauae9zjboaw",
+        "title": "ANT1 NEWS 28-10-2026 ΣΤΙΣ 18:45",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:3fd4340e:mg847zlzoodbidy2i29ry7gg",
+        "title": "ANT1 NEWS 27-09-2026 ΣΤΙΣ 18:45",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:3fd4340e:pmuo369mny170q9vnd134xde",
+        "title": "ANT1 NEWS 31-10-2026 ΣΤΙΣ 13:00",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:3fd4340e:ps53ahxe7ntc9ud8o6kuhna9",
+        "title": "ANT1 NEWS 31-10-2026 ΣΤΗ ΝΟΗΜΑΤΙΚΗ",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      }
+    ]
+  }
+}
