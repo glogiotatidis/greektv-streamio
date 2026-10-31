@@ -10,6 +10,10 @@ on:
         description: "Force re-fetch all streams (true/false)"
         required: false
         default: "false"
+      full_stations:
+        description: "Comma-separated stations to force re-fetch (e.g. ert)"
+        required: false
+        default: ""
   schedule:
     - cron: "0 */4 * * *"
 permissions:
@@ -63,6 +67,7 @@ jobs:
           GREEKTV_WORKERS: "4"
           GREEKTV_STREAM_WORKERS: "2"
           GREEKTV_FULL: ${{ github.event.inputs.full }}
+          GREEKTV_FULL_STATIONS: ${{ github.event.inputs.full_stations }}
       - run: test -s site/manifest.json
       - run: cd site && zip -r ../site.zip .
       - uses: actions/upload-artifact@v4
@@ -91,6 +96,8 @@ jobs:
         env:
           GREEKTV_STATIONS: ${{ join(fromJson(needs.prepare.outputs.stations), ',') }}
           GREEKTV_FULL: ${{ github.event.inputs.full }}
+          GREEKTV_FULL_STATIONS: ${{ github.event.inputs.full_stations }}
+          GREEKTV_FULL_STATIONS: ${{ github.event.inputs.full_stations }}
       - run: test -s site/manifest.json
       - uses: peaceiris/actions-gh-pages@v4
         with:

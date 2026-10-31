@@ -77,6 +77,8 @@ def write_index(path, manifest_url):
 def main(full=False):
     if full:
         os.environ["GREEKTV_FULL"] = "1"
+    full_stations = {s.strip() for s in os.environ.get("GREEKTV_FULL_STATIONS", "").split(",") if s.strip()}
+    os.environ["GREEKTV_FULL_STATIONS"] = ",".join(full_stations)
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s"
     )
@@ -117,7 +119,8 @@ def main(full=False):
 
     def existing_stream(item_id):
         # Incremental: reuse a previously resolved stream file when possible.
-        if full:
+        station = item_id.split(":")[1] if ":" in item_id else ""
+        if full or station in full_stations:
             return None
         path = os.path.join(OUT, "stream", "series", f"{item_id}.json")
         if not os.path.exists(path):

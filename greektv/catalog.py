@@ -181,7 +181,8 @@ def get_show(entry):
 
     disk = _load_disk_cache()
     cache_key = entry["ref"]["url"]
-    if os.environ.get("GREEKTV_FULL") != "1":
+    full_stations = {s.strip() for s in os.environ.get("GREEKTV_FULL_STATIONS", "").split(",") if s.strip()}
+    if os.environ.get("GREEKTV_FULL") != "1" and entry["station"] not in full_stations:
         cached_entry = disk.get(cache_key)
         if cached_entry and (not CACHE_TTL or _time.time() - cached_entry.get("ts", 0) < CACHE_TTL):
             data = cached_entry.get("data")
