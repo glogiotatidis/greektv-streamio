@@ -73,7 +73,15 @@ def show(ref):
     )
     series = details.get("Series") or {}
     title = clean(series.get("Title")) or ref.get("title") or "ERT"
-    poster = _poster(series.get("Images")) or ref.get("poster") or placeholder(title)
+    images = series.get("Images") or []
+    poster = _poster(images) or ref.get("poster") or placeholder(title)
+    background = None
+    for image in images:
+        if image.get("Role") in ("hbbtv-background", "photo-details"):
+            background = image.get("Url")
+            break
+    if not background:
+        background = poster
 
     episodes = []
     for index, group in enumerate(details.get("EpisodeGroups") or []):
@@ -105,7 +113,7 @@ def show(ref):
             )
 
     episodes.sort(key=lambda episode: (episode["season"], episode.get("episode") or 0))
-    return {"title": title, "poster": poster, "episodes": episodes}
+    return {"title": title, "poster": poster, "background": background, "episodes": episodes}
 
 
 def _pick_media_file(media_files):

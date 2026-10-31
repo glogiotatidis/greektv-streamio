@@ -178,7 +178,7 @@ def show(ref):
 
     for episode in result:
         episode.pop("slug", None)
-    return {"title": title, "poster": poster, "episodes": result}
+    return {"title": title, "poster": poster, "background": poster, "episodes": result}
 
 
 def stream(episode):

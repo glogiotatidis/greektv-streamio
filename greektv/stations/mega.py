@@ -127,7 +127,7 @@ def show(ref):
         episode.pop("anchor", None)
         episode.pop("date_key", None)
 
-    return {"title": title, "poster": poster, "episodes": episodes}
+    return {"title": title, "poster": poster, "background": poster, "episodes": episodes}
 
 
 def stream(episode):

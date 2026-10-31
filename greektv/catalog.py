@@ -262,6 +262,7 @@ def get_meta(sid):
         "type": "series",
         "name": entry["show"]["title"],
         "poster": entry["show"]["poster"],
+        "background": entry["show"].get("background") or entry["show"]["poster"],
         "videos": videos,
     }
 

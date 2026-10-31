@@ -144,7 +144,7 @@ def show(ref):
 
     result = list(episodes.values())
     result.sort(key=lambda episode: (episode.get("season", 1), episode.get("episode") or 0))
-    return {"title": title, "poster": poster, "episodes": result}
+    return {"title": title, "poster": poster, "background": poster, "episodes": result}
 
 
 def _add(episodes, episode):
