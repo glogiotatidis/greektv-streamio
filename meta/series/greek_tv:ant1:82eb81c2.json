@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "greek_tv:ant1:82eb81c2",
+    "type": "series",
+    "name": "ANT1 SPORTS",
+    "poster": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1",
+    "background": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1",
+    "videos": [
+      {
+        "id": "greek_tv:ant1:82eb81c2:y9zhjj4tzuglhmhgqe695pil",
+        "title": "ΑΝΤ1 Sports – 30-10-2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:82eb81c2:j5nssekr4x9uteen6u7zsg58",
+        "title": "ΑΝΤ1 Sports – 29-10-2026",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:82eb81c2:ctfhttsxw9i2zmtehzcgtqul",
+        "title": "ΑΝΤ1 Sports – 28-10-2026",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:82eb81c2:d7j22laxvmwmemmlpsa2ik4p",
+        "title": "ΑΝΤ1 Sports – 27-09-2026",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      }
+    ]
+  }
+}

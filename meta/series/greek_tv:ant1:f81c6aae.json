@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "id": "greek_tv:ant1:f81c6aae",
+    "type": "series",
+    "name": "MOMENTS",
+    "poster": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1",
+    "background": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1",
+    "videos": [
+      {
+        "id": "greek_tv:ant1:f81c6aae:fjluzerdxdbkxy743q57i7zq",
+        "title": "Ένα ταξίδι που ξεκίνησε πριν από μήνες, με αφετηρία τη Θεσσαλονίκη, τόπο καταγωγής του ηθοποιού, φτάνει στην κορύφωσή του σε ένα πλατό διαμορφωμένο σαν θερινό σινεμά",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:f81c6aae:e0fofs9rhaxfiwxgx1ub5ajw",
+        "title": "Πρώτη στάση, η γειτονιά όπου μεγάλωσε ο Φάνης. Ποια ήταν η πρώτη του δουλειά και τι θυμούνται οι παιδικοί του φίλοι για εκείνον;",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:f81c6aae:be1v07967b1qryiapb7cu25g",
+        "title": "Δηλωμένος λάτρης του Άρη Θεσσαλονίκης με μια έκπληξη από τον Λευτέρη Σούμποτιτς (προπονητής τότε του Αρη) να του στέλνει ένα ξεχωριστό μήνυμα",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:f81c6aae:ikfsnyl1w93egh83b0yjnvsn",
+        "title": "Δηλωμένος λάτρης του Άρη Θεσσαλονίκης και μεγάλος θαυμαστής του Νίκου Γκάλη, ο Φάνης ζει εκπλήξεις που δεν θα μπορούσε να φανταστεί",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:f81c6aae:oiwvtuyhqobe85fwgbqcq0y6",
+        "title": "Πώς ξεκίνησε η επαγγελματική του πορεία και ποιος στάθηκε μέντοράς του; Ο Φάνης συγκινείται ακούγοντας τον δάσκαλό του, Κώστα Τσιάνος, να μιλά για εκείνον",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:f81c6aae:hs34r9qecdl37tnqjizb6dco",
+        "title": "Η αδελφή του καταφθάνει από τη Θεσσαλονίκη με το αγαπημένο του γλυκό, μιλώντας για τη σχέση και τα παιδικά τους χρόνια, ενώ η μητέρα του, Αργυρώ Μουρατίδου, θυμάται τη στιγμή που εκείνος έφυγε για την Αθήνα.",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:f81c6aae:uk4em1009tlgkt1867lzbjh2",
+        "title": "Μια από τις πιο όμορφες αλλά συνάμα αστείες στιγμές έρχεται όταν η οικογένειά του η σύζυγός του Άννα Μαρία Παπαχαραλάμπους και οι δύο γιοι τους τον αιφνιδιάζουν με έναν ιδιαίτερο τρόπο",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:f81c6aae:y1mcxbp2669pax8ki98w1w8q",
+        "title": "Οι Γεράσιμος Σκιαδαρέσης, Τζένη Μπότση και Παύλος Πιέρρος επιστρέφουν στην ταβέρνα Λαγουδέρα της σειράς Πέτα τη Φριτέζα, ο Γιάννης Μπέζος στέλνει ένα ξεχωριστό μήνυμα",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:f81c6aae:qo1rk8spsnrnfybhdut3mu6o",
+        "title": "Ο «σύζυγός» όπως αποκαλεί ο ένας τον άλλον χαριτολογώντας του και στενός του φίλος, Βασίλης Χαραλαμπόπουλος, κάνει μια απρόσμενη εμφάνιση και τον προκαλεί σε ένα χιουμοριστικό παιχνίδι",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:f81c6aae:a7d52vcboc46k33hvo7wlzsg",
+        "title": "Η εκπομπή ολοκληρώνεται με μια ξεχωριστή μουσική στιγμή, καθώς ο αγαπημένος καλλιτέχνης του Φάνη ΑPON, σε μία από τις σπάνιες εμφανίσεις του, ερμηνεύει ζωντανά τις επιτυχίες του με την ορχήστρα του Moments",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      },
+      {
+        "id": "greek_tv:ant1:f81c6aae:j09r8odmvomlpk8f69ji5d80",
+        "title": "Moments - Έρχεται",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://antenna-ott.brightcove.services/static/uploads/3ed95d2f-de1e-45ff-bb51-ab96720d43f1"
+      }
+    ]
+  }
+}
