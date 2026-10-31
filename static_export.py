@@ -17,6 +17,63 @@ def write_json(path, payload):
         json.dump(payload, handle, ensure_ascii=False, indent=2)
 
 
+INDEX_HTML = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Greek TV Streamio</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+         max-width: 760px; margin: 40px auto; padding: 0 20px; color: #222; line-height: 1.6; }
+  h1 { border-bottom: 2px solid #eee; padding-bottom: 8px; }
+  code { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; }
+  a { color: #0366d6; }
+  .stations { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+  .station { background: #f0f0f0; padding: 4px 10px; border-radius: 12px; font-size: 14px; }
+  .manifest { background: #f9f9f9; border: 1px solid #ddd; padding: 12px; border-radius: 6px;
+              word-break: break-all; font-family: monospace; font-size: 13px; }
+</style>
+</head>
+<body>
+<h1>Greek TV Streamio</h1>
+<p>A Stremio / Nuvio addon that streams on-demand shows from Greek television stations.
+Catalog browsing, series, season and episode navigation, plus stream resolution.</p>
+
+<h2>Supported stations</h2>
+<div class="stations">
+  <span class="station">Mega TV</span>
+  <span class="station">Skai</span>
+  <span class="station">Star Channel</span>
+  <span class="station">Alpha TV</span>
+  <span class="station">ERT</span>
+  <span class="station">ANT1</span>
+</div>
+
+<h2>Install</h2>
+<p>Add this manifest URL to your Stremio / Nuvio addon list:</p>
+<div class="manifest">__MANIFEST_URL__</div>
+<p>Or open <a href="manifest.json">manifest.json</a> directly.</p>
+
+<h2>Endpoints</h2>
+<ul>
+  <li><code>GET /manifest.json</code></li>
+  <li><code>GET /catalog/series/{id}.json</code></li>
+  <li><code>GET /meta/series/{id}.json</code></li>
+  <li><code>GET /stream/series/{id}.json</code></li>
+</ul>
+
+<p><a href="https://github.com/glogiotatidis/greektv-streamio">Source on GitHub</a></p>
+</body>
+</html>
+"""
+
+
+def write_index(path, manifest_url):
+    with open(path, "w", encoding="utf-8") as handle:
+        handle.write(INDEX_HTML.replace("__MANIFEST_URL__", manifest_url))
+
+
 def main(full=False):
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s"
@@ -31,6 +88,8 @@ def main(full=False):
 
     manifest = catalog.manifest()
     write_json(os.path.join(TMP, "manifest.json"), manifest)
+    manifest_url = "https://glogiotatidis.github.io/greektv-streamio/manifest.json"
+    write_index(os.path.join(TMP, "index.html"), manifest_url)
 
     entries = catalog.all_entries()
     log.info("Loaded %d shows with episodes", len(entries))
