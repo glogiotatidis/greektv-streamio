@@ -19,28 +19,8 @@
     },
     {
       "type": "series",
-      "id": "greek_tv_mega_tv",
-      "name": "Greek TV — Mega TV"
-    },
-    {
-      "type": "series",
-      "id": "greek_tv_skai",
-      "name": "Greek TV — Skai"
-    },
-    {
-      "type": "series",
-      "id": "greek_tv_star_channel",
-      "name": "Greek TV — Star Channel"
-    },
-    {
-      "type": "series",
       "id": "greek_tv_ert",
       "name": "Greek TV — ERT"
-    },
-    {
-      "type": "series",
-      "id": "greek_tv_ant1",
-      "name": "Greek TV — ANT1"
     }
   ],
   "idPrefixes": [
