@@ -100,7 +100,7 @@ def main(full=False):
             except Exception:  # noqa: BLE001
                 failed += 1
                 log.exception("Stream export crashed for %s", futures[future])
-            if index % 500 == 0:
+            if index % 100 == 0 or index == total_videos:
                 log.info("Streams %d/%d", index, total_videos)
 
     if os.path.exists(OUT):
