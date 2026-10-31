@@ -4,6 +4,7 @@
     "type": "series",
     "name": "Ζω Καλά",
     "poster": "https://media.skaitv.gr/images/1280/0/files/zo_kala/2026_2027/zw_kala_landscape.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/zo_kala/2026_2027/zw_kala_landscape.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:619b4323:2026-10-10-12",
@@ -28,9 +29,9 @@
       },
       {
         "id": "greek_tv:skai:619b4323:2026-10-31-12",
-        "title": "Ζω Καλά | Ηρώ Μουκίου 31/10/2026",
+        "title": "Επεισόδιο 4",
         "season": 1,
-        "episode": 31,
+        "episode": 4,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/zo_kala/2026_2027/zo_kala_4_moukiou.jpg"
       },
       {

@@ -4,6 +4,7 @@
     "type": "series",
     "name": "The Voice of Greece powered by Telekom",
     "poster": "https://media.skaitv.gr/images/1280/0/files/voice/2026_2027/voice_new_landscape.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/voice/2026_2027/voice_new_landscape.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:44d8b4ff:2026-10-10-21",

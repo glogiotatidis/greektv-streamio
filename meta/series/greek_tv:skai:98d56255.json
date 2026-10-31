@@ -4,6 +4,7 @@
     "type": "series",
     "name": "1821: Οι Ήρωες",
     "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/1821_2.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/docs/docs/1821_2.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:98d56255:2023-03-24-23",

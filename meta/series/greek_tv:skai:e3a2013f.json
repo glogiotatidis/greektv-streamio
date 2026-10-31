@@ -4,6 +4,7 @@
     "type": "series",
     "name": "SUPERBET ΚΥΠΕΛΛΟ ΕΛΛΑΔΑΣ TV ONLY",
     "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/kypello_elladas/generic_landscape.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/kypello_elladas/generic_landscape.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:e3a2013f:2026-10-28-17",

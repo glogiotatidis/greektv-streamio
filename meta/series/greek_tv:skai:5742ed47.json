@@ -4,6 +4,7 @@
     "type": "series",
     "name": "Πρόσφυγες 1922: Η Ζωή Μετά",
     "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/prosfyges_land.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/docs/docs/prosfyges_land.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:5742ed47:2022-09-14-22",

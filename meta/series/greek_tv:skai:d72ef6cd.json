@@ -4,6 +4,7 @@
     "type": "series",
     "name": "BBQ Stories",
     "poster": "https://media.skaitv.gr/images/1280/0/media_tv-editors/2022-fotos/202203/bbq_stories_landscape.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/media_tv-editors/2022-fotos/202203/bbq_stories_landscape.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:d72ef6cd:2022-04-03-17",

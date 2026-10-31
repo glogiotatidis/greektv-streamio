@@ -4,6 +4,7 @@
     "type": "series",
     "name": "Στην Αγκαλιά του Φάνη",
     "poster": "https://media.skaitv.gr/images/1280/0/files/stin_agkalia_tou_fani/2026_2027/fanis_landscape.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/stin_agkalia_tou_fani/2026_2027/fanis_landscape.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:7fcc3c0c:2026-10-17-00",

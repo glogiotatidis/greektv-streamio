@@ -4,6 +4,7 @@
     "type": "series",
     "name": "Οι Πανθέοι",
     "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/pantheoir-landscape-new.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/pantheoir-landscape-new.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:7bb6ae88:2023-09-18-21",

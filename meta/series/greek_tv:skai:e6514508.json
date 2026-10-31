@@ -4,6 +4,7 @@
     "type": "series",
     "name": "Γλυκάνισος",
     "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/glykanisos_landscape_1.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/glykanisos_landscape_1.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:e6514508:2022-09-19-21",

@@ -4,6 +4,7 @@
     "type": "series",
     "name": "Αταίριαστοι",
     "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:e8d3cfe5:2026-10-26-09",

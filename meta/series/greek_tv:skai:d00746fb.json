@@ -4,6 +4,7 @@
     "type": "series",
     "name": "Pet Stories",
     "poster": "https://media.skaitv.gr/images/1280/0/files/pet_stories/logos/pet_landscapejpg.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/pet_stories/logos/pet_landscapejpg.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:d00746fb:2026-04-04-12",

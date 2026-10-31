@@ -4,6 +4,7 @@
     "type": "series",
     "name": "Studio στις 3",
     "poster": "https://media.skaitv.gr/images/1280/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:d7ca8549:2026-10-15-15",

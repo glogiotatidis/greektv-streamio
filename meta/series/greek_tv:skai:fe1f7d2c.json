@@ -4,6 +4,7 @@
     "type": "series",
     "name": "Μπλε Ώρες",
     "poster": "https://media.skaitv.gr/images/1280/0/files/ellinikes_seires/ble_ores/ble_wres_landscape1.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/ellinikes_seires/ble_ores/ble_wres_landscape1.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:fe1f7d2c:2026-10-14-21",
@@ -87,7 +88,7 @@
         "title": "Επεισόδιο 40",
         "season": 1,
         "episode": 40,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/ble_ores/ble_wres_landscape1.jpg"
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/ble_ores/ble_40.jpg"
       }
     ]
   }

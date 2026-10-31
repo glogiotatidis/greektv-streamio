@@ -4,6 +4,7 @@
     "type": "series",
     "name": "Bahar - Καινούργια Αρχή",
     "poster": "https://media.skaitv.gr/images/1280/0/files/bahar/logos/bl_landscape.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/bahar/logos/bl_landscape.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:66705314:2024-07-01-21",

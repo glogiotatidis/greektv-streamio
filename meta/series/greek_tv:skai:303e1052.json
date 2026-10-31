@@ -4,6 +4,7 @@
     "type": "series",
     "name": "Δράσεις από το Ίδρυμα Vodafone",
     "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2025_2026/vodafone.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2025_2026/vodafone.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:303e1052:2025-11-24-20",

@@ -4,6 +4,7 @@
     "type": "series",
     "name": "Τότε και Τώρα",
     "poster": "https://media.skaitv.gr/images/1280/0/files/tote_vs_tora/2026_2027/tote_kai_twra_landscape.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/tote_vs_tora/2026_2027/tote_kai_twra_landscape.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:4a16248c:2026-10-12-22",

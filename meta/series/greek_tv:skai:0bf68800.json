@@ -4,6 +4,7 @@
     "type": "series",
     "name": "Στοργή",
     "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/storgi_landscape.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/storgi_landscape.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:0bf68800:2022-09-26-21",

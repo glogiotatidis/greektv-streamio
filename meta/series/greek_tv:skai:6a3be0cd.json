@@ -4,6 +4,7 @@
     "type": "series",
     "name": "Άγρια Γη",
     "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/agria_gi_landscape_1.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/agria_gi_landscape_1.jpg",
     "videos": [
       {
         "id": "greek_tv:skai:6a3be0cd:2022-09-19-18",
