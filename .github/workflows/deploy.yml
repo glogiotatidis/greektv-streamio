@@ -6,6 +6,10 @@ on:
         description: "Comma-separated station slugs (empty = all)"
         required: false
         default: ""
+      full:
+        description: "Force re-fetch all streams (true/false)"
+        required: false
+        default: "false"
   schedule:
     - cron: "0 */4 * * *"
 permissions:
@@ -58,6 +62,7 @@ jobs:
           GREEKTV_STATIONS: ${{ matrix.station }}
           GREEKTV_WORKERS: "4"
           GREEKTV_STREAM_WORKERS: "2"
+          GREEKTV_FULL: ${{ github.event.inputs.full }}
       - run: test -s site/manifest.json
       - run: cd site && zip -r ../site.zip .
       - uses: actions/upload-artifact@v4
@@ -85,6 +90,7 @@ jobs:
       - run: python static_export.py
         env:
           GREEKTV_STATIONS: ${{ join(fromJson(needs.prepare.outputs.stations), ',') }}
+          GREEKTV_FULL: ${{ github.event.inputs.full }}
       - run: test -s site/manifest.json
       - uses: peaceiris/actions-gh-pages@v4
         with:
