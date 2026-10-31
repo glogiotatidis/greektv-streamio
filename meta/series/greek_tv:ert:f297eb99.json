@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:f297eb99",
+    "type": "series",
+    "name": "Σε μια Νέα Πατρίδα",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/se-mia-nea-patrida-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/se-mia-nea-patrida-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:f297eb99:se-mia-nea-patrida-1",
+        "title": "Η Αρχή του Δράματος",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/se-mianeapatrida-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f297eb99:se-mia-nea-patrida-2",
+        "title": "Ορεστιάδα: η Νεότερη Πόλη στην Ιστορία της Ελλάδας",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/semianeapatrida-ep02-orestiada-mp4-error063.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f297eb99:se-mia-nea-patrida-3",
+        "title": "Κομοτηνή - Ξάνθη: η Συνύπαρξη",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/semianeapatrida-ep03-komothnh-antik2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f297eb99:se-mia-nea-patrida-4",
+        "title": "Καβάλα: οι Πρόσφυγες στην «Μέκκα του Καπνού»",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/semianeapatrida-ep04-kabala-antik-4mbpsmp4-error084.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f297eb99:se-mia-nea-patrida-5",
+        "title": "Παραμεθόριες Προσφυγικές Εγκαταστάσεις στο Νομό Δράμας",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/semianeapatrida-ep05-drama-antik-4mbpsmp4-error088-2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f297eb99:se-mia-nea-patrida-6",
+        "title": "Σέρρες και Κιλκίς: Οι Νέοι, Απόκληροι Ακρίτες",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/se-mia-nea-patrida-6-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f297eb99:se-mia-nea-patrida-7",
+        "title": "Θεσσαλονίκη - Α΄ μέρος",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/se-mia-nea-patrida-e7-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f297eb99:se-mia-nea-patrida-8",
+        "title": "Θεσσαλονίκη - Β΄ μέρος",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/se-mia-nea-patrida-ertflix-8.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f297eb99:se-mia-nea-patrida-9",
+        "title": "Κοζάνη, Φλώρινα, Καστοριά, Πτολεμαΐδα των Προσφύγων: Εγκατάσταση και Συλλογική Οργάνωση",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/semianeapatrida-ep09-kozanh-flwrina-kastoria-prolemaida-twn-prosfygwn-4mbpsmp4-error949-2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f297eb99:se-mia-nea-patrida-10",
+        "title": "Βέροια, Γιαννιτσά, Νάουσα, Κατερίνη",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/semianeapatrida-ep10-beroia-giannitsa-nasoysa-katerinh-antik-4mbpsmp4-error269-3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f297eb99:se-mia-nea-patrida-11",
+        "title": "Βόλος - Μαγνησία",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/se-mia-nea-patrida-ep11-bolos-magnhsia-4mbpsmp4-error606-2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f297eb99:se-mia-nea-patrida-12",
+        "title": "Οι Πρόσφυγες που Έγιναν Μετανάστες",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/semianeapatrida-ep12-oi-prosfyges-poy-eginan-metanastes-antik-4mbpsmp4-error930.jpg"
+      }
+    ]
+  }
+}

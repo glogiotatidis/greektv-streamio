@@ -1,0 +1,480 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:34597924",
+    "type": "series",
+    "name": "Τοκ - Τοκ",
+    "poster": "https://files2.app.ertflix.gr/files/paidika/tok-tok/tok-tok-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/paidika/tok-tok/tok-tok-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-1",
+        "title": "Φτερά στον Άνεμο",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008835-tok-tok-ftera-ston-anemo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-2",
+        "title": "Η Βροχή",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008787-tok-tok-h-broxh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-3",
+        "title": "Τα Σχήματα Είναι Παντού",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008829-tok-tok-ta-sxhmata-einai-pantoy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-4",
+        "title": "Οι Αριθμοί Γύρω μας",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008830-tok-tok-oi-ariumoi-gyrw-mas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-5",
+        "title": "Ο Χρόνος της Ημέρας",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008831-tok-tok-o-xronos-ths-meras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-6",
+        "title": "Ζυγίζουμε και Μετράμε",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008834-tok-tok-zygizoyme-kai-metrame.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-7",
+        "title": "Μέτρα ό,τι Βρεις",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008836-tok-tok-metra-oti-breis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-8",
+        "title": "Το Ηφαίστειο",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008837-tok-tok-to-hfaisteio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-9",
+        "title": "Τα Ζώα της Θάλασσας",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008840-tok-tok-ta-zwa-ths-ualassas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-10",
+        "title": "Το Χιόνι",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008842-tok-tok-to-xioni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-11",
+        "title": "Στο Χωριό της Γιαγιάς",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0023-tok-tok-sto-xwrio-tis-giagias-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-12",
+        "title": "Η Ανθισμένη Αμυγδαλιά",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008843-tok-tok-anthismeni-amygdalia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-13",
+        "title": "Τα Ζώα του Αγροκτήματος",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008839-tok-tok-ta-zwa-toy-agrokthmatos-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-14",
+        "title": "Τα Μαγικά Χρώματα",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008828-tok-tok-ta-magika-xromata.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-15",
+        "title": "Ο Κόσμος της Μουσικής",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008832-tok-tok-o-kosmos-tis-mousikis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-17",
+        "title": "Το Σχήμα της Γης",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008838-to-sxima-tis-gis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-16",
+        "title": "Οι Μέλισσες",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0025-oi-melisses.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-18",
+        "title": "Τα Έντομα",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0024-tok-tok-ta-entoma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-19",
+        "title": "Ο Άνεμος",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008844-tok-tok-o-anemos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-20",
+        "title": "Τα Ζώα Συντροφιάς",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0019-tok-tok-zoa-syntrofias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-21",
+        "title": "Οι Τρεις Καταστάσεις του Νερού",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0022-tok-tok-oi-3-katastaseis-tou-nerou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-22",
+        "title": "Ο Πιγκουίνος που Χορεύει στον Πάγο",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0027-tok-tok-o-pigkouinos-xoreuei-ston-pago.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-23",
+        "title": "Ταξίδι στον Κόσμο των Δεινοσαύρων",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0026-tok-tok-taxidi-ston-kosmo-ton-dinosauron.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-24",
+        "title": "Ο Σεισμός",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0021-tok-tok-o-seismos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-25",
+        "title": "Τα Πουλιά",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0032-tok-tok-ta-poulia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-26",
+        "title": "Ο Σκύλος-Οδηγός",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0031-tok-tok-o-skulos-odigos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-27",
+        "title": "Η Καρδιά που Μεγαλώνει",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0036.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-28",
+        "title": "Θέλω κι Εγώ",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0038.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-29",
+        "title": "Η Ζέστη",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks008833-tok-tok-i-zesti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-30",
+        "title": "Τα Μυστικά των Ερπετών",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0033-tok-tok-ta-mystika-ton-erpeton.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-31",
+        "title": "Ο Κάβουρας που Περπατάει στο Πλάι",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-tok-tok-o-kabouras-pou-perpataei-sto-plai.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-32",
+        "title": "Τα Πολύχρωμα Σπίτια Πάνω στο Νερό",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-tok-tok-ta-poluxrwma-spitia-panw-sto-nero.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-33",
+        "title": "Οι Φάλαινες",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/vlcsnap-2026-07-02-15h31m45s278.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-34",
+        "title": "Το Καράβι που Ξεκουράστηκε στην Άμμο",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/vlcsnap-2026-07-02-15h32m10s439.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-35",
+        "title": "Πετάμε Ψηλά στην Ακρόπολη",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/vlcsnap-2026-07-08-14h28m34s695.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-36",
+        "title": "Το Μαγικό Κουτί της Έκπληξης",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/vlcsnap-2026-07-08-15h46m07s372.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-37",
+        "title": "Τα Πέτρινα Σπίτια στο Βουνό",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/vlcsnap-2026-07-17-16h01m09s755.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-38",
+        "title": "Μικραίνω το Τέρας",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/vlcsnap-2026-07-17-16h01m40s374.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-39",
+        "title": "Οι Τρεις Πυραμίδες που δεν Έπεφταν Ποτέ",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/vlcsnap-2026-07-27-10h36m02s451.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-40",
+        "title": "Ο Ελέφαντας που Θυμάται τα Πάντα",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/vlcsnap-2026-07-27-10h38m36s776.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-41",
+        "title": "Ο Άνεμος που Γύριζε τους Μύλους",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/vlcsnap-2026-07-28-12h12m36s646.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-42",
+        "title": "Το Μυστικό της Χαράς",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/vlcsnap-2026-07-28-12h26m53s869.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-43",
+        "title": "Ο Λευκός Πύργος που Βλέπει τη Θάλασσα",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0047-o-lefkos-pyrgos-poy-vlepei-tin-thalassa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-44",
+        "title": "Τα Ανάκτορα της Κνωσσού",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0053-ta-anaktora-tis-knosou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-45",
+        "title": "Τα Άσπρα Σπιτάκια με τις Μπλε Σκεπές",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/vlcsnap-2026-08-12-10h50m37s842.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-46",
+        "title": "Καθαρή Παραλία",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/vlcsnap-2026-08-12-10h57m57s536.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-47",
+        "title": "Το Αρχαίο Θέατρο της Επιδαύρου",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0052-tok-tok-theatro-epidavrou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-48",
+        "title": "Το Μακρύ Τείχος Πάνω στο Βουνό",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0049-tok-tok-to-makry-toixos-sto-vouno.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-49",
+        "title": "Δεν Θέλω να Περιμένω την Σειρά μου",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0064-tok-tok-de-thelw-na-perimenw-th-seira-mou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-50",
+        "title": "Ο Σιδερένιος Πύργος Δίπλα στο Ποτάμι",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0057-tok-tok-o-siderenios-pyrgos-panw-sto-potami.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-51",
+        "title": "Το Ουράνιο Τόξο Μετά τη Βροχή",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0055-tok-tok-to-ouranio-toxo-meta-th-broxh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-52",
+        "title": "Το Μεγάλο Ρολόι του Λονδίνου",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0058-tok-tok-to-megalo-roloi-tou-londinou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-53",
+        "title": "Η Πρώτη Μέρα στο Νέο Σχολείο",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0071-tok-tok-h-prwth-mera-sto-neo-sxoleio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-54",
+        "title": "Θέλω τη Mαμά και τον Mπαμπά",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0063-tok-tok-thelw-thn-mama-kai-ton-mpampa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-55",
+        "title": "Το Μεγάλο Άγαλμα της Ελευθερίας",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0068-tok-tok-to-megalo-agalma-ths-elefterias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-56",
+        "title": "Ίση Μέρα, Ίση Νύχτα",
+        "season": 1,
+        "episode": 56,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0051-tok-tok-ish-mera-ish-nyxta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-57",
+        "title": "Το Ηφαίστειο του Θυμού",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0046-tok-tok-to-hfaisteio-tou-thumou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-58",
+        "title": "Η Παρέα στη Διατροφή",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0062-tok-tok-to-prasino-kai-to-kokkino-piato.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-59",
+        "title": "Η Αρκούδα",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0034-tok-tok-arkouda.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-60",
+        "title": "Φυτεύουμε Ένα Δέντρο",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0059-tok-tok-futeuoume-ena-dentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-61",
+        "title": "Σώμα Γεμάτο Υγεία",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0061-tok-tok-swma-gemato-ugeia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-62",
+        "title": "Αντίο Φίλε Μου",
+        "season": 1,
+        "episode": 62,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0056-tok-tok-antio-file-mou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-63",
+        "title": "Η Όπερα που Μοιάζει με Κοχύλι",
+        "season": 1,
+        "episode": 63,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0066-h-opera-pou-moiazei-me-koxuli.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-64",
+        "title": "Το Βρεγμένο Βιβλίο",
+        "season": 1,
+        "episode": 64,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0043-tok-tok-to-bregmeno-biblio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-65",
+        "title": "Η Αψίδα στην Πλατεία του Αστερίου",
+        "season": 1,
+        "episode": 65,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0067-tok-tok-h-aspida-sthn-plateia-tou-asteriou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-66",
+        "title": "Η Μεγάλη Γέφυρα που Ενώνει Φίλους",
+        "season": 1,
+        "episode": 66,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0050-tok-tok-h-megalh-gefura-pou-enwnei-filous.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-67",
+        "title": "Μένω Ασφαλής",
+        "season": 1,
+        "episode": 67,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0069-tok-tok-menw-asfalhs1.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:d73a4f68",
+    "type": "series",
+    "name": "Διασπορά",
+    "poster": "https://files2.app.ertflix.gr/2026/shows/diaspora-26-27/diaspora-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2026/shows/diaspora-26-27/diaspora-26-27-3rd/diaspora-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-96",
+        "title": "Best Of",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep32-best-ofmxf-2026-06-30-13h09m50s527.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-95",
+        "title": "Βικτώρια Μπούση",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep-32-victoria-bousi-unmixmxf-2026-06-25-12h49m35s212.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-94",
+        "title": "Γκόντα Βαν Στέιν, Χριστίνα Κίτσος, Οσσαίοι",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep30-gonda-kitsos-ossaioimxf-2026-06-17-12h13m11s463.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-93",
+        "title": "Η Διασπορά στην Κάτω Ιταλία",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep29-grecanika-katw-italia-4mbpsmp4-2026-06-11-13h18m36s631.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-92",
+        "title": "Μελίνα Κανακαρίδη",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep28-melina-kanakaridh-4mbpsmp4-2026-06-05-12h47m07s019.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-91",
+        "title": "Γεωργία Κούβελα, Ελένη Ανδρεοπούλου, Χέντβα Σερ",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep27-hedva-andreopoyloymxf-2026-05-29-13h11m40s648.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-90",
+        "title": "Καστελλόριζο - Β' Μέρος",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds019623-0026-01-diaspora-ep26-kastellorizo-b-merosmxf-2026-05-22-10h09m13s768.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-88",
+        "title": "Καστελλόριζο - Α' Μέρος",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep25-kastellorizo-a-meros-4mbpsmp4-2026-05-15-12h25m45s879.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-87",
+        "title": "Η Διασπορά στην Πράγα - Ε' Μέρος",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds019623-0024-01-diaspora-ep24-praga-e-merosmxf-2026-05-07-12h54m40s505.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-86",
+        "title": "Η Διασπορά στην Πράγα - Δ' Μέρος",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds019623-0023-diaspora-ep23-praga-d-meros-4mbpsmp4-2026-04-30-11h28m46s103.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-85",
+        "title": "Η Διασπορά στην Πράγα - Γ' Μέρος",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep22-praga-c-meros-4mbpsmp4-2026-04-22-11h10m26s201.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-84",
+        "title": "Η Διασπορά στην Πράγα - Β' Μέρος",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds019623-0021-diaspora-ep21-praga-b-meros-4mbpsmp4-2026-04-14-14h31m26s735.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-83",
+        "title": "Η Διασπορά στην Πράγα - Α' Μέρος",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds019623-0020-diaspora-ep20-praga-a-merosmxf-2026-04-03-14h38m53s094.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-82",
+        "title": "Γιάννης Λοβέρδος",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds019623-0019-01-diaspora-ep19-loberdosmxf-2026-03-27-09h53m49s113.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-81",
+        "title": "Ελληνίδες του Κόσμου",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds025019-diaspora-ep18-ellhnides-toy-kosmoy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-80",
+        "title": "Η Γυναίκα της Διασποράς GIWA Awards - Β' Μέρος",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds025018-diaspora-ep17-giwa-awards-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-79",
+        "title": "Η Γυναίκα της Διασποράς GIWA Awards - Α' Μέρος",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep16-giwa-awards-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-78",
+        "title": "Κώστας Γαβράς",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds025008-diaspora-ep15-gavras-4mbpsmp4-2026-02-27-09h43m34s337.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-77",
+        "title": "Ελένη Παλύβου Μπούση",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep14-elenh-palyboy-mpoysh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-76",
+        "title": "Η Διασπορά στου Σοχού το Καρναβάλι",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep13-soxos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-75",
+        "title": "35 Χρόνια Hermes Expo",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds015071-diaspora-ep12-ermhs-expo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-74",
+        "title": "Στην Αλεξάνδρεια του Μ. Αλεξάνδρου και του M. Βαρλάμη",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep11-sthn-alexandria-toy-m-alexandroy-kai-toy-barlamh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-73",
+        "title": "Aπ' την Γερμανία στην Αίγυπτο",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep10-annobero-alexandria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-72",
+        "title": "Οστράβα, Τσεχίας - (Β' Μέρος)",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep09-ostraba-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-71",
+        "title": "Οστράβα, Τσεχίας - (Α' Μέρος)",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/diaspora-ep08-ostraba-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-70",
+        "title": "Τα Χριστούγεννα της Ομογένειας",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/diaspora-2025-new-show/ds014833-diaspora-ep07-xristoygenna-4mbpsmp4-2025-12-31-12h56m30s165.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-69",
+        "title": "Αννόβερο Γερμανίας (Β' Μέρος)",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/diaspora-ep6-hannovero-b-merosmxf-2025-12-25-19h58m34s577.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-68",
+        "title": "Αννόβερο Γερμανίας (Α' Μέρος)",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/diaspora-2025-new-show/ds014830-diaspora-ep5-hannovero-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-67",
+        "title": "Απ’ την Αυστραλία της Μνήμης στην Αμερική της Αριστείας",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/diaspora-2025-new-show/diaspora-ep4-aystralia-usa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-66",
+        "title": "Ντιάν φον Φίρστενμπεργκ - Μιμή Ντενίση",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/diaspora-ep03-furstenberg-denish.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-65",
+        "title": "Μίνα Αποστολίδη (Βέλγιο) - Λευτέρης Δότσιος (Παρίσι)",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/diaspora-2025-new-show/ds014827-diaspora-ep2-apostolidh-dontsios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-89",
+        "title": "Η Διασπορά στη Μεσήμβρια της Μαύρης Θάλασσας",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds014826-diaspora-ep1-meshmbria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-100",
+        "title": "Συνδέοντας την Ομογένεια Πανηπειρωτικά | 27.09.26",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20260927-diaspora.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-99",
+        "title": "Νέα Υόρκη - Παμμακεδόνες - Άμβερσα - Λος Άντζελες | 04.10.26",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/diaspora-new/20261004-diaspora.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-101",
+        "title": "Ένα Ταξίδι από τις Οινούσσες μέχρι τη Μελβούρνη | 11.10.26",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261011-diaspora.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-103",
+        "title": "Βιτόρια της Βραζιλίας, Σαν Φραντσίσκο, Αυστραλία, Ζάμπια, ίσαμε την Πολωνία | 18.10.26",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261018-diaspora-4mbpsmp4-2026-10-26-16h37m27s184.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-104",
+        "title": "Ο Ελληνισμός Γιορτάζει | 25.10.26",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/diaspora-26-27/20261025-diaspora.jpg"
+      }
+    ]
+  }
+}

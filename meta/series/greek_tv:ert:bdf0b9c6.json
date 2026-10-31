@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:bdf0b9c6",
+    "type": "series",
+    "name": "Η Δική μας Μεταπολίτευση",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/50-xronia-dimokratia/h-diki-mas-metapolitefsi-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/50-xronia-dimokratia/h-diki-mas-metapolitefsi-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:bdf0b9c6:e-dike-mas-metapoliteuse-2",
+        "title": "Τα Χρόνια της Αναμονής (1977-1981)",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-diki-mas-metapoliteusi/i-diki-mas-metapoliteusi-ta-xronia-tis-anamonis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bdf0b9c6:e-dike-mas-metapoliteuse-3",
+        "title": "Τα Χρόνια του Σοσιαλισμού (1981-1990)",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-diki-mas-metapoliteusi/i-diki-mas-metapoliteusi-ta-xronia-tou-sosialismou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bdf0b9c6:e-dike-mas-metapoliteuse-4",
+        "title": "Τα Χρόνια της Χλιδής (1990-2004)",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-diki-mas-metapoliteusi/i-diki-mas-metapoliteusi-ta-xronia-tis-xlidis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bdf0b9c6:e-dike-mas-metapoliteuse-5",
+        "title": "Τα Χρόνια της Κρίσης (2005-Σήμερα)",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-diki-mas-metapoliteusi/i-diki-mas-metapoliteusi-ta-xronia-tis-krisis.jpg"
+      }
+    ]
+  }
+}

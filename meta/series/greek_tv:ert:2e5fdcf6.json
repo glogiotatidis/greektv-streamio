@@ -1,0 +1,396 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:2e5fdcf6",
+    "type": "series",
+    "name": "Ανακαλύπτοντας τον Κόσμο",
+    "poster": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontastonkosmo-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontastonkosmo-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-2",
+        "title": "Ηλεκτρομαγνητισμός",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep01-elektromagnitismos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-3",
+        "title": "Η Καλλιέργεια της Γης και η Δύναμη του Σπόρου",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep02-i-kalliergeia-tis-gis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-4",
+        "title": "Η Τεχνολογία των Αρχαίων Ελλήνων",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep03-i-texnologia-twn-arxaiwn-ellinwn.png"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-5",
+        "title": "Τα Ζώα και τα Χαρακτηριστικά τους",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep04-ta-zwa-kai-ta-xaraktiristika-tous.png"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-6",
+        "title": "Τα Απολιθώματα",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptwntas-ton-kosmo-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-7",
+        "title": "Η Οπτική Ίνα Χορεύει στην πόλη",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-9",
+        "title": "Ταξίδι στ’ Άστρα",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakaluptontas-ton-kosmo-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-8",
+        "title": "Δορυφορικές Επικοινωνίες",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-10",
+        "title": "Το Μυστήριο των Μελισσών",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-11",
+        "title": "Ο Θησαυρός του Νερού",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-12",
+        "title": "Ο Χρόνος και τ' Αστέρια",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakaliptontas-ton-kosmo-ep11-o-xronos-kai-ta-asteria-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-13",
+        "title": "Η Προέλευση και η Κατασκευή του Πηλού",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakaliptontas-ton-kosmo-ep12-i-proeleusi-kai-i-katasekui-tou-phlou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-14",
+        "title": "Η Αρχή του Αρχιμήδη",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-15",
+        "title": "Στο Κέντρο της Γης: Μαθαίνοντας για τους Σεισμούς",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep14.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-16",
+        "title": "Από την 'Αμαξα στο Αυτοκίνητο",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/20250531-anakaliptontas-ton-kosmo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-17",
+        "title": "Άνεμος: Πώς Κινούνται τα Ιστιοπλοϊκά;",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/20250601-anakalyptontas-ton-kosmo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-18",
+        "title": "Η Παιδική Χαρά – Όταν το Παιχνίδι Γίνεται Επιστήμη",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/20250607-anakalyptontas-ton-kosmo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-19",
+        "title": "Η Σβούρα των Ανέμων",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/20250608-anakalyptontas-ton-kosmo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-20",
+        "title": "Σουσάκι, ένα Καλά Κρυμμένο Ηφαίστειο",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep19.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-21",
+        "title": "Οι Δρόμοι του Ηλεκτρικού Ρεύματος στο Σπίτι μας",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep20.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-22",
+        "title": "Η Δύναμη του Αέρα: Μια Πηγή Ενέργειας για τον Άνθρωπο",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep21.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-23",
+        "title": "Κινητήρας και Κίνηση",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep22.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-24",
+        "title": "Στον Κόσμο της Στατικότητας",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep23.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-25",
+        "title": "Απογείωση Τώρα",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep24.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-26",
+        "title": "Διατροφή και Τρόφιμα",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontas-ton-kosmo-ep25.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-29",
+        "title": "Ένας Κρυφός Κόσμος",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044816-anakalyptontas-ton-kosmo-enas-kryfos-kosmos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-30",
+        "title": "Πώς Λειτουργεί ο Κλιματισμός",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044828-anakalyptontas-ton-kosmo-pws-leitoyrgei-o-klimatismos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-28",
+        "title": "Κάθε Μέρα Ποδήλατο",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044814-anakalyptontas-ton-kosmo-kathe-mera-podhlato.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-27",
+        "title": "Αλυκές",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044811-anakalyptontas-ton-kosmo-alykes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-31",
+        "title": "Βαρύτητα",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044827-anakalyptontas-ton-kosmo-varythta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-32",
+        "title": "Αντανάκλαση και Φως: Τα Μυστικά των Καθρεφτών",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044813-anakalyptontas-ton-kosmo-antanaklasi-k-fos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-33",
+        "title": "Ηλεκτροκίνηση",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044817-anakalyptontas-ton-kosmo-ilektrokinisi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-34",
+        "title": "Η Σκιά που Αλλάζει",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044820-anakalyptontas-ton-kosmo-i-skia-pou-allazei.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-35",
+        "title": "Φωτογραφία: Μια Μαγική Ιστορία",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044825-anakalyptontas-ton-kosmo-fotografia-mia-magiki-istoria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-36",
+        "title": "Γιατί Μοιάζουμε με τους Γονείς μας",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044826-anakalyptontas-ton-kosmo-giati-miazoume-me-toys-goneis-mas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-37",
+        "title": "Big Bang - Η Δημιουργία του Σύμπαντος",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044815-anakalyptontas-ton-kosmo-bing-bang.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-38",
+        "title": "Τα Μυστικά της Φωτιάς",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044821-anakalyptontas-ton-kosmo-mustika-tis-fotias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-39",
+        "title": "Από την Ύλη στη Μουσική",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/20260430-anakaliptontas-apo-tin-ili-mousiki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-40",
+        "title": "Η Ζωή Κάτω από το Νερό",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044824-anakalyptontas-ton-kosmo-i-zoi-kato-apo-to-nero.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-41",
+        "title": "Ο Ήχος Τρέχει",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044819-anakalyptontas-ton-kosmo-o-hxos-trexei.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-42",
+        "title": "Φωτοσύνθεση",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044812-anakalyptontas-ton-kosmo-fotosinthesi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-43",
+        "title": "Η Χημεία της Ζαχαροπλαστικής",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044822-anakalyptontas-ton-kosmo-i-xhmeia-tis-zaxaroplastikhs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-44",
+        "title": "Εκατοντάδες Μέτρα Κάτω από τη Θάλασσα",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044829-anakalyptontas-ton-kosmo-kato-apo-tin-thallasa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-45",
+        "title": "Πάθαμε Λάστιχο!",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044818-anakalyptontas-ton-kosmo-pathame-lastixo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-46",
+        "title": "Το Μεγάλο Ταξίδι των Πουλιών",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044833-anakalyptontas-ton-kosmo-to-megalo-taxidi-ton-poulion-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-47",
+        "title": "Το Ταξίδι της Ανθρώπινης Εξέλιξης",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044832-anakalyptontas-ton-kosmo-to-taxidi-tis-anthropinis-exelixis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-48",
+        "title": "Εξερευνώντας την Τεχνητή Νοημοσύνη",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044831-anakalyptontas-ton-kosmo-texniti-noimosyni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-49",
+        "title": "Οι Φρουροί του Καιρού",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044836-anakalyptontas-ton-kosmo-oi-frouroi-tou-kairou-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-50",
+        "title": "Η Ιστορία Ενός Χαρτιού",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044838-anakalyptontas-ton-kosmo-i-istoria-enos-xartiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-51",
+        "title": "Η Μαγεία του Κινηματογράφου",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044835-anakalyptontas-ton-kosmo-i-mageia-tou-kinimatografou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-52",
+        "title": "Η Ανάμειξη",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044834-anakalyptontas-ton-kosmo-i-anamixi-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-53",
+        "title": "Η Mαγεία της Tρισδιάστατης Eκτύπωσης!",
+        "season": 2,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044830-anakalyptontas-ton-kosmo-h-mageia-ths-trisdiastaths-ektupwshs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-54",
+        "title": "Ορυκτά: Στα Μεταλλεία του Λαυρίου",
+        "season": 2,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044840-anakalyptontas-ton-kosmo-sta-metallia-tou-lauriou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-55",
+        "title": "Ανακύκλωση: Μια Ευκαιρία για τον Πλανήτη",
+        "season": 2,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044837-anakalyptontas-ton-kosmo-anakuklwsh-dwse-mia-eukairia-ston-planhth.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2e5fdcf6:anakaluptontas-ton-kosmo-56",
+        "title": "Ο Πάγος",
+        "season": 2,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/ps044839-anakalyptontas-ton-kosmo-o-pagos.jpg"
+      }
+    ]
+  }
+}

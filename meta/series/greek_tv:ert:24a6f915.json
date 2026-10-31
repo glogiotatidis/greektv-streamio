@@ -1,0 +1,529 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:24a6f915",
+    "type": "series",
+    "name": "#Παρέα",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/parea/2026-2027/parea-26-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/parea/2026-2027/parea-26-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:24a6f915:parea-2",
+        "title": "Καλεσμένος: Χρήστος Χατζηπαναγιώτης",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-3",
+        "title": "Καλεσμένος: Φώτης Σεργουλόπουλος",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep02-sergoulopoulos-evidi-botsi-melita-psixouli-diagoupi-savvidou-gazis-kayne-vassiliou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-4",
+        "title": "Καλεσμένη: Ξένια Καλογεροπούλου",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep03-xenia-kalogeropoulou-101x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-5",
+        "title": "Καλεσμένη: Έμιλυ Κολιανδρή",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep04-emili-koliandri.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-6",
+        "title": "Καλεσμένος: Γιώργος Παυριανός",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep05-giorgos-pavrianos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-7",
+        "title": "Καλεσμένος: Θανάσης Τσαλταμπάσης",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep05-tsaltampasis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-8",
+        "title": "Καλεσμένη: Μιμή Ντενίση",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep07-mimi-denisi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-9",
+        "title": "Καλεσμένη: Μαρία Μπεκατώρου",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep08-maria-mpekatorou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-10",
+        "title": "Καλεσμένος: Γιώργος Χατζηνάσιος",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep09-giorgos-xatzinasios-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-11",
+        "title": "Καλεσμένη: Γλυκερία",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep10-glikeria-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-13",
+        "title": "Καλεσμένος: Μίνως Μάτσας",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2003/3/20250111-parea-ep11-matsas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-12",
+        "title": "Καλεσμένος: Τάσος Ιορδανίδης",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep11-tasos-iordanidis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-14",
+        "title": "Καλεσμένος: Θέμης Καραμουρατίδης",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep13-themis-karamouratidis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-15",
+        "title": "Καλεσμένοι: Μάρα Ζαχαρέα, Ράνια Τζίμα, Χριστίνα Κοραή, Ιωάννα Μάνδρου, Δημήτρης Τάκης, Γιώργος Παπαχρήστος, Ελένη Καλογεροπούλου, Ντέπυ Γκολεμά",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep14-dimosiografoi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-16",
+        "title": "Καλεσμένος: Χρήστος Νικολόπουλος",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep15-xristos-nikolopoulos-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-17",
+        "title": "Αφιέρωμα στον Λουκιανό Κηλαηδόνη",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep16-khlahdonis-afierwma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-18",
+        "title": "Αφιέρωμα στη Θεσσαλονίκη",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep17-afieroma-thessaloniki-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-19",
+        "title": "Αποκριάτικο Πάρτι με τον Πασχάλη",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep18-apokriatiko-party-me-ton-pashali.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-20",
+        "title": "Αφιέρωμα στον Στράτο Διονυσίου",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep19-afieroma-ston-strato-dionisiou-1021x576-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-21",
+        "title": "Καλεσμένος: Γιάννης Μπέζος",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep20-giannis-mpezos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-22",
+        "title": "Αφιέρωμα στο Δημοτικό Τραγούδι",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep21-paradosiaka-1021x576-dimotiko-tragoudi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-23",
+        "title": "Αφιέρωμα στον Μανώλη Χιώτη",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep22-manolis-xiwtis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-24",
+        "title": "Καλεσμένος: Γιώργος Μαργαρίτης",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep23-margaritis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-25",
+        "title": "Ελληνικός Κινηματογράφος",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep24-ellinikos-kinimatografos-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-26",
+        "title": "Εορταστική Εκπομπή",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep25-eortastiki-ekpompi-pasxa-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-27",
+        "title": "Αφιέρωμα στο Ρεμπέτικο Τραγούδι",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep25-afierwma-sto-rempetiko-tragoudi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-28",
+        "title": "Αφιέρωμα στη Eurovision",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep27-afierwma-sti-eurovision.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-29",
+        "title": "Αφιέρωμα στo «Νέο Κύμα»",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep28-neo-kyma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-30",
+        "title": "Αφιέρωμα στη Σωτηρία Μπέλλου",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep29-afieroma-stin-sotiria-mpellou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-31",
+        "title": "Αφιέρωμα στo Ρετρό",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep30-afieroma-sto-retro-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-32",
+        "title": "Αφιέρωμα στoν Γρηγόρη Μπιθικώτση",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep31-afieroma-ston-grigori-mpithikotsi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-33",
+        "title": "Μουσικό Ταξίδι στην Ωραιότερη Εποχή του Χρόνου, το Καλοκαίρι",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-ep32-to-kalokairi-teleutaio-epeisodio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-35",
+        "title": "Αφιέρωμα στον Απόστολο Καλδάρα",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/20251810-parea-apostolos-kaldaras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-36",
+        "title": "Αφιέρωμα στον Νίκο Γκάτσο",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps046264-parea-s02-ep02-afierwma-nikos-gatsos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-37",
+        "title": "Αφιέρωμα στον Γιώργο Ζαμπέτα",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps046265-parea-s02-ep02-afierwma-zampetas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-38",
+        "title": "Μουσικό Θέατρο",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps046266-parea-s02-ep04-mousiko-theatro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-39",
+        "title": "Καλεσμένος: Γιώργος Παπαστεφάνου",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/ps046267-parea-s02-ep05-giwrgos-papastefanou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-40",
+        "title": "Γυναίκες στο Ρεμπέτικο",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/parea-s02-ep05-rempetisses.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-41",
+        "title": "Αφιέρωμα στον Μάριο Τόκα",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps046269-parea-s02-ep07-afierwma-mario-toka.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-42",
+        "title": "Θεατρική Παρέα με άρωμα Κρήτης",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps046270-parea-s02-ep08-theatriki-parea-me-arwma-kritis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-43",
+        "title": "Οι Ξεχωριστοί Φίλοι του Δημήτρη Γιαρμενίτη Ι Α' Μέρος",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/parea-s02-ep09-oi-ksexoristoi-filoi-tou-dimitri-giarmeniti-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-44",
+        "title": "Οι Ξεχωριστοί Φίλοι του Δημήτρη Γιαρμενίτη Ι Β' Μέρος",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/parea-s02-ep10-oiksexoristoi-filoi-tou-dimitri-giarmeniti-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-45",
+        "title": "Εορταστικό Επεισόδιο",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-s02-ep11-eortastiko-epeisodio-1021x576-xristougenna2025.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-46",
+        "title": "Εορταστικό Επεισόδιο",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps046274-parea-s02-ep12-eortastiko-prwtoxronias-2026.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-47",
+        "title": "Ρεμπέτικες - Λαϊκές Κομπανίες",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps046275-parea-laikes-kompanies.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-48",
+        "title": "Αφιέρωμα στον Στέλιο Καζαντζίδη",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps046276-parea-afierwma-kazantzidi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-49",
+        "title": "Κορυφαίοι Τραγουδιστές που Υπήρξαν και Εξαιρετικοί Συνθέτες: Γρηγόρης Μπιθικώτσης, Πάνος Γαβαλάς και Τόλης Βοσκόπουλος",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/ps046277-parea-korifeoi-tragoudistes-ep-15.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-50",
+        "title": "Ελένη Δήμου",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-s02-ep16-eleni-dimou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-51",
+        "title": "Μια Βόλτα στη Νύχτα της Δεκαετίας του '80",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps046279-parea-mia-bolta-sth-nyxta-ths-dekaetias-toy-80.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-52",
+        "title": "Αφιέρωμα στον Γιάννη Παπαϊωάννου και στον Δημήτρη Γκόγκα «Μπαγιαντέρα»",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-s02-ep18-afieroma-ston-gianni-papaioannou-kai-ston-dimitri-gkogka-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-53",
+        "title": "Τα Τραγούδια του Έρωτα",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps046281-parea-agiou-valentinou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-54",
+        "title": "Αποκριάτικο Πάρτι",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/parea-s02-ep20-apokriatiko-parti.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-55",
+        "title": "60 Χρόνια ΕΡΤ",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/parea-s02-ep21-60-xronia-ert.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-56",
+        "title": "Αφιέρωμα στον Μανώλη Λιδάκη",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps046284-parea-afierwma-manolis-lydakis.JPG"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-57",
+        "title": "Αφιέρωμα στον Λευτέρη Παπαδόπουλο",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps046285-parea-afierwma-leyterhs-papadopoylos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-58",
+        "title": "Αφιέρωμα στον Γιώργο Μητσάκη",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/parea-afierwma-giorgos-mitsakis-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-59",
+        "title": "Αφιέρωμα στο Δημοτικό Τραγούδι",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/ps052344-0025-parea-afieroma-sto-dimotiko-tragoudi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-60",
+        "title": "Αφιέρωμα στον Μίκη Θεοδωράκη Α' Μέρος",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps052344-0026-afierwma-ston-miki-theodoraki-meros-a.JPG"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-61",
+        "title": "Αφιέρωμα στον Μίκη Θεοδωράκη Β' Μέρος",
+        "season": 2,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/ps052344-0027-afierwma-ston-miki-theodwraki-meros-b.JPG"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-62",
+        "title": "Εορταστικό Επεισόδιο",
+        "season": 2,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/ps052344-0028-eortastiko-anastash.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-63",
+        "title": "Αφιέρωμα στον Μιχάλη Σουγιούλ",
+        "season": 2,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps052344-0029-afierwma-mihali-sougioul.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-64",
+        "title": "Φεστιβάλ Τραγουδιού Θεσσαλονίκης",
+        "season": 2,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/20260425-parea-s02-ep30-nn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-65",
+        "title": "Ιστορίες Μαγειρικής μετά Μουσικής",
+        "season": 2,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps052344-0031-istories-mageirikis-meta-mousikis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-66",
+        "title": "Αφιέρωμα στην Ευτυχία Παπαγιαννοπούλου",
+        "season": 2,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps052344-0032-parea-eutuxia-papagiannopoulou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-67",
+        "title": "Αφιέρωμα στον Πειραιά",
+        "season": 2,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/ps052344-0033-parea-afieroma-ston-peiraia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-68",
+        "title": "Αφιέρωμα στον Άλκη Αλκαίο",
+        "season": 2,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/ps052344-0034-parea-afieroma-alkis-alkaios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-69",
+        "title": "Αφιέρωμα στο Μουντιάλ – Αρχίζει το Ματς",
+        "season": 2,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps052344-0035-parea-afieroma-mundial-gr.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-71",
+        "title": "Αφιέρωμα στα «Χρυσά Δίδυμα»",
+        "season": 2,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-s02-ep36-xrusa-didima.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-72",
+        "title": "Αφιέρωμα στο Ελαφρό και το Ρεμπέτικο Τραγούδι",
+        "season": 2,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/ps052344-0038-parea-afieroma-elafro-rempetiko-tragoudi-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-73",
+        "title": "Κυρίες τα Σέβη μας",
+        "season": 2,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/ps052344-0037-parea-kyries-ta-sevi-mou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-74",
+        "title": "Τραγούδια της Μικρής Οθόνης",
+        "season": 2,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea-2025-2026/ps052344-0039-parea-tragoudia-tis-mikris-othonis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-75",
+        "title": "Καλοκαιρινές Διακοπές",
+        "season": 2,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/parea-s02-ep40-kalokairines-diakopes-horizontal-poster.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-76",
+        "title": "Αφιέρωμα στον Μίμη Πλέσσα",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/2026-2027/ps058530-0001-parea-s03-afieroma-plessas-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-77",
+        "title": "Αφιέρωμα στον Μίκη Θεοδωράκη",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/2026-2027/ps058530-0002-oti-axizei-s03-afieroma-mikis-theodorakis.jpg"
+      }
+    ]
+  }
+}

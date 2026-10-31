@@ -1,0 +1,459 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:31b3c5d1",
+    "type": "series",
+    "name": "Η Λέσχη του Βιβλίου",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/e-leskhe-tou-bibliou/lesxivivliou-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/e-leskhe-tou-bibliou/lesxivivliou-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-3",
+        "title": "O Ξένος - Αλμπέρ Καμύ",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/e-leskhe-tou-bibliou/i-lesxi-tou-vivliou-ep03-camus.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-4",
+        "title": "Αναζητώντας τον Χαμένο Χρόνο - Μαρσέλ Προυστ",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/e-leskhe-tou-bibliou/i-lesxi-tou-vivliou-ep19-proust.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-5",
+        "title": "Η Έρημος των Ταρτάρων - Ντίνο Μπουτζάτι",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/e-leskhe-tou-bibliou/vlcsnap-2022-10-14-13h47m47s014.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-6",
+        "title": "Θάνατος στη Βενετία -Τόμας Μαν",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/e-leskhe-tou-bibliou/i-lesxi-tou-vivliou-mann.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-7",
+        "title": "Βιβλίο της Ανησυχίας - Φερνάντο Πεσσόα",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-pessoa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-8",
+        "title": "Σκακιστική Νουβέλα - Στέφαν Τσβάιχ",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-sweig.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-10",
+        "title": "Ταξίδι στην Άκρη της Νύχτας - Λουί Φερντινάν Σελίν",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-seline.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-9",
+        "title": "Μόμπι Ντικ - Χέρμαν Μέλβιλ",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-melville.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-11",
+        "title": "Άννα Καρένινα - Λέων Τολστόι",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-tolstoy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-12",
+        "title": "Αδριανού Απομνημονεύματα - Μαργκερίτ Γιουρσενάρ",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-yourcenar.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-13",
+        "title": "Ο Μεγάλος Γκάτσμπι - Φράνσις Σκοτ Φιτζέραλντ",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-ep04-fitzerald.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-14",
+        "title": "Ο Δον Κιχώτης - Μιγκέλ ντε Θερβάντες",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-cervantes-don-quixote.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-15",
+        "title": "Ο Γατόπαρδος - Τζουζέππε Τομάζι ντι Λαμπεντούζα",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-lampedousa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-17",
+        "title": "O Εραστής - Μαργκερίτ Ντυράς",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/e-leskhe-tou-bibliou/i-lesxi-tou-vivliou-duras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-19",
+        "title": "H Βουή και η Μανία - Ουίλλιαμ Φώκνερ",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-faulkner.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-18",
+        "title": "Χαμένες Ψευδαισθήσεις - Ονορέ ντε Μπαλζάκ",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-balzac.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-20",
+        "title": "Άπαντα - Χόρχε Λουίς Μπόρχες",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-borges.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-21",
+        "title": "Έγκλημα και Τιμωρία - Φιοντόρ Ντοστογιέφσκι",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-dostoyevsky.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-22",
+        "title": "Το Κόκκινο και το Μαύρο - Σταντάλ",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-standahl.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-23",
+        "title": "Εκατό Χρόνια Μοναξιά - Γκαμπριέλ Γκαρσία Μάρκες",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-marquez.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-16",
+        "title": "Η Κυρία Ντάλογουεϊ - Βιρτζίνια Γουλφ",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-woolf.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-25",
+        "title": "Ο Κόμης Μοντεχρίστος - Αλέξανδρος Δουμάς o Πατέρας",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-dumas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-24",
+        "title": "Ο Βασιλιάς Ληρ - Ουίλλιαμ Σαίξπηρ",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-william-shakespear.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-26",
+        "title": "Οδύσσεια - Όμηρος",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-omiros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-27",
+        "title": "Ανεμοδαρμένα Ύψη - Έμιλυ Μπροντέ",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-emily-mpronte-anemodarmena-ypsi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-28",
+        "title": "Διηγήματα και Νουβέλες - Αντόν Τσέχωφ",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxh-tou-vivliou-s02-anton-tsexof-diigimata-kai-nouveles.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-29",
+        "title": "Η Δίκη – Φραντς Κάφκα",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-e02-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-30",
+        "title": "Η Μαντάμ Μποβαρύ – Γκυστάβ Φλωμπέρ",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-gystav-flober.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-31",
+        "title": "Τα Σταφύλια της Οργής - Τζον Στάινμπεκ",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-john-steinbeck.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-32",
+        "title": "Η Φόνισσα - Αλεξάνδρος Παπαδιαμάντης",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-alexandros-papadiamadis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-33",
+        "title": "Το Όνομα του Ρόδου - Ουμπέρτο Έκο",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-umberto-eco.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-34",
+        "title": "Η Θάλασσα της Γονιμότητας - Γιούκιο Μισίμα",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-yukio-mishima.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-36",
+        "title": "Το Κουκλόσπιτο (Νόρα) - Χένρικ Ίψεν",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-henrik-ibsen.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-37",
+        "title": "Οι Άθλιοι - Βίκτωρ Ουγκώ",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-victor-hugo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-38",
+        "title": "Τέταρτη Διάσταση - Γιάννης Ρίτσος",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-giannis-ritsos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-35",
+        "title": "Ο Φύλακας στη Σίκαλη - Τζ. Ντ. Σάλιντζερ",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-j-d-salinger.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-39",
+        "title": "Ο Bασιλιάς Πεθαίνει - Ευγένιος Ιονέσκο",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-eugene-ionesco.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-40",
+        "title": "Ο Λύκος της Στέπας - Χέρμαν Έσσε",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-herman-hesse.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-41",
+        "title": "Μεγάλες Προσδοκίες - Τσαρλς Ντίκενς",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-charles-dickens-n.JPG"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-42",
+        "title": "Ακυβέρνητες Πολιτείες - Στρατής Τσίρκας",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-stratis-tsirkas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-43",
+        "title": "Η Συνείδηση του Ζήνωνα - Ίταλο Σβέβο",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-italo-svevo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-44",
+        "title": "Το Πορτρέτο του Ντόριαν Γκρέι - Όσκαρ Ουάιλντ",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-oscar-wilde.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-45",
+        "title": "Δοκίμια - Μισέλ ντε Μονταίν",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-michel-de-montaigne.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-1",
+        "title": "Οιδίπους Τύραννος - Σοφοκλής",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-s02-sophocles.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-64",
+        "title": "Ροβινσώνας Κρούσος - Ντάνιελ Ντεφόε",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-daniel-defoe.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-63",
+        "title": "Η Αβάσταχτη Ελαφρότητα του Είναι - Μίλαν Κούντερα",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/kundera.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-62",
+        "title": "Ο Κατάσκοπος που Γύρισε από το Κρύο - Τζον Λε Καρέ",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-le-carre.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-60",
+        "title": "Ο Άρχοντας των Μυγών - Γουίλιαμ Γκόλντινγκ",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-william-golding.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-61",
+        "title": "Αγαπημένη - Τόνι Μόρισον",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-morisson.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-59",
+        "title": "Αμερικανικό Ειδύλλιο - Φίλιπ Ροθ",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-roth.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-58",
+        "title": "Το Διπλό Βιβλίο - Δημήτρης Χατζής",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/e-leskhe-tou-bibliou/i-lesxi-vivliou-xatzhs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-57",
+        "title": "Ρέιμοντ Τσάντλερ",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-chandler.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-56",
+        "title": "Κουτσό - Χούλιο Κορτάσαρ",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-cortazar.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-55",
+        "title": "Ο Άνθρωπος Χωρίς Ιδιότητες - Ρόμπερτ Μούζιλ",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-musil.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-54",
+        "title": "Εάν Αυτό Είναι ό Άνθρωπος - Πρίμο Λέβι",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-tou-vivliou-primo-levi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-53",
+        "title": "Ο Μικρός Πρίγκιπας- Αντουάν ντε Σαιντ Εξυπερύ",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-antoine-de-saint-exupery.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-52",
+        "title": "Καβάφη Άπαντα",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-kabafhs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-51",
+        "title": "Ρομπέρτο Μπολάνιο-2666",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-bolano.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-50",
+        "title": "Μαίρη Σέλλεϋ-Φρανκενστάιν ή ο Σύγχρονος Προμηθέας",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-shelley.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-49",
+        "title": "Ρολάν Μπαρτ-Αποσπάσματα του Ερωτικού Λόγου",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-roland-barthes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-48",
+        "title": "Άλκη Ζέη - Η Αρραβωνιαστικιά του Αχιλλέα",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-alki-zei-4mbps.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-47",
+        "title": "Τζον Μάξγουελ Κουτσί - Περιμένοντας τους Βαρβάρους",
+        "season": 3,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-coetzee.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-46",
+        "title": "Πιερ Σοντερλό ντε Λακλό - Οι Επικίνδυνες Σχέσεις",
+        "season": 3,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-de-laclos-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31b3c5d1:e-leskhe-tou-bibliou-2",
+        "title": "Ίταλο Καλβίνο - Ο Aναρριχώμενος Βαρόνος",
+        "season": 3,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-lesxi-tou-vivliou/i-lesxi-vivliou-italo-calvino.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,599 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:f1990d9d",
+    "type": "series",
+    "name": "Κεραία",
+    "poster": "https://files2.app.ertflix.gr/files/enimerosi/keraia/s07/kerea-2026-27-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/enimerosi/keraia/s07/kerea-2026-27-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-1",
+        "title": "Γήρας",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/20210523-keraia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-2",
+        "title": "Αποτέφρωση",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/20210530-keraia-ep2-apotefrosi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-3",
+        "title": "Το Καλό μου Διαζύγιο",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia-ep3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-4",
+        "title": "Η Αναδοχή στην Ελλάδα",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/20210613-keraia-ep4-i-anadoxi-stin-ellada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-5",
+        "title": "Ασυνόδευτα Προσφυγόπουλα στην Ελλάδα",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia-ep-5-300x169.png"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-6",
+        "title": "Η Ελλάδα στη Ματιά τους",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/20210627-keraia-ep6-300x169.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-7",
+        "title": "Παιδικός Καρκίνος - Α' Μέρος",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-paidikos-karkinos-part1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-8",
+        "title": "Παιδικός Καρκίνος - Β' Μέρος",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-paidikos-karkinos-part2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-9",
+        "title": "Όπερα",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-opera.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-10",
+        "title": "Όλη η Ελλάδα Μαγειρεύει ή Πως το Μάτι Χορταίνει Πριν από το Στομάχι",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/keraia-ep10-mageiriki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-11",
+        "title": "Ανακουφιστική Φροντίδα",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-anakoufistiki-frontida-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-12",
+        "title": "Μουσεία",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/keraia-mouseia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-14",
+        "title": "Αστεγία και Άστεγοι “Νέου Τύπου'- Α΄ Μέρος",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia-2022-b-kiklos-ep1-astegia-kai-astegoi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-15",
+        "title": "Αστεγία και Άστεγοι “Νέου Τύπου” (Β' Μέρος)",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/keraia-astegoi-meros-b.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-16",
+        "title": "Υπογονιμότητα και Υποβοηθούμενη Αναπαραγωγή",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/kerea-2022-ep3-ipogonimotita-voithoumeni-anaparagogi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-17",
+        "title": "Αυτισμός (Α' Μέρος)",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/20220426-keraia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-18",
+        "title": "Αυτισμός (Β' Μέρος)",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-aytismos-b.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-19",
+        "title": "Οι Νέοι Τραγουδούν…«Τα Παλιά»",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-oi-neoi-tragoudoun-ta-palia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-20",
+        "title": "Οι Επιστρέψαντες",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-2022-ep07-i-epistrepsantes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-21",
+        "title": "Μια Βόλτα στην Αθήνα (Α' Μέρος)",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-2022-ep08-mia-volta-stin-athina-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-22",
+        "title": "Μια Βόλτα στην Αθήνα (Β' Μέρος)",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-2022-ep09-mia-volta-stin-athina-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-23",
+        "title": "Ψυχής Θεραπεία",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-2022-ep10-psihis-therapia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-24",
+        "title": "Το Έγκλημα στις Μέρες μας",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-2022-ep11-to-egklima-stis-meres-mas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-25",
+        "title": "Γη, Καρποφόρα και Ζωοδότρα",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/kerea-2022-ep12-gh-karpofora-kai-zoodotra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-26",
+        "title": "Η Ζωή Μετά τον Καρκίνο",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-i-zwi-meta-ton-karkino.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-27",
+        "title": "«Ο Άνθρωπος με την Μάσκα»",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/keraia-s02ep02-o-anthropos-me-ti-maska.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-28",
+        "title": "Γλυκόπικρη Γεύση Πόλης",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-glykopikri-gefsi-polis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-29",
+        "title": "Φιλία",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia-s03-ep04-filia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-30",
+        "title": "Καλεσμένος ο Κώστας Καββαθάς",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/i-keraia-s03-ep05-kostas-kavvathas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-31",
+        "title": "Σχολή Ουρσουλινών Τήνου",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/i-keraia-s03-ep06-sxoli-oursoulinon-tinou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-32",
+        "title": "Τα Αρχεία της ΕΡΤ",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-arxeio-ert.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-33",
+        "title": "Εθισμός- Α' Μέρος",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-s03-ep08-ethismos-a-meros-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-34",
+        "title": "Εθισμός Β' Μέρος",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-s03-ep09-ethismos-b.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-35",
+        "title": "Αλλάζοντας την Πορεία της Μοίρας",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-s03-ep10-allazontas-tin-poreia-tis-moiras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-36",
+        "title": "Συμπερίληψη",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-s03-ep11-simperilipsi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-37",
+        "title": "Δυσλεξία",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-s03-ep12-dislexia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-49",
+        "title": "Φύλακες Άγγελοι Ζώων",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-fylakis-aggeloi-zwwn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-48",
+        "title": "Η Τέχνη της Γραφής",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/keraia-h-texnh-ths-grafhs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-47",
+        "title": "Σουσάμι Άνοιξε",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/keraia-sousami-anoikse-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-46",
+        "title": "Γυναίκες στην Τέχνη",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/keraia-gynaikes-stin-texni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-45",
+        "title": "Νέοι Δρόμοι της Ιατρικής",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/keraia-neoi-dromoi-iatrikis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-44",
+        "title": "Το Τραγούδι της Στιγμής σου",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-to-tragoudi-tis-stigmis-sou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-43",
+        "title": "Σόνια Θεοδωρίδου",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/keraia-sonia-theodoridoy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-42",
+        "title": "Ο Αγώνας του Δίπλα",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/keraia-o-agwnas-tou-dipla.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-41",
+        "title": "Δωρεά Οργάνων",
+        "season": 4,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/20231026-keraia-dorea-organon-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-40",
+        "title": "Σχολεία Δεύτερης Ευκαιρίας",
+        "season": 4,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-sxoleio-deyteris-eykairias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-39",
+        "title": "Βάσω Σταματίου - Μια Ελληνίδα στο Άουσβιτς",
+        "season": 4,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/keraia-s04-ep02-vaso-stamatiou-mia-ellinida-sto-aoutsvits.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-38",
+        "title": "Άνοια",
+        "season": 4,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/20231004-keraia.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-61",
+        "title": "Βόλτα στα Κάποτε",
+        "season": 5,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-volta-sta-kapote.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-60",
+        "title": "Σκλήρυνση Κατά Πλάκας",
+        "season": 5,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-sklhrynsh-kata-plakas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-59",
+        "title": "Πατέρας-Γιος",
+        "season": 5,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-pateras-gios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-58",
+        "title": "Μητέρα-Κόρη",
+        "season": 5,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-s05-e09-mana-korh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-57",
+        "title": "Μουσείο Ενδυμασιών Βικτωρίας Καρέλια",
+        "season": 5,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-s05-e08-mouseio-endymasion.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-56",
+        "title": "Μαρία Κατσικαδάκου",
+        "season": 5,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-maria-katsikadakou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-55",
+        "title": "Ζωή Νεκροταφείων",
+        "season": 5,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-nekrotafeia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-54",
+        "title": "Η «Σκυτάλη» της Γνώσης και των Ευθυνών της Οικογενειακής Παράδοσης",
+        "season": 5,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-skytali.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-53",
+        "title": "Ο, Η, Το",
+        "season": 5,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-o-h-to.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-52",
+        "title": "Μιχάλης Τσαμάζ",
+        "season": 5,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-s05-e03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-51",
+        "title": "Από την Αλβανία",
+        "season": 5,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/keraia-s05-e02-apo-alvania.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-50",
+        "title": "Τρεις Γυναίκες για Τρία Νοσοκομεία",
+        "season": 5,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-s05-ep01-treis-gunaikes-gia-tria-nosokomeia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-85",
+        "title": "Στέφανος Ψημένος: Το Μονοπάτι σαν θα Πάρεις | 31.05.26",
+        "season": 6,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/ps045175-keraia-stefanos-psimenos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-84",
+        "title": "Αναγνώσεις Ομορφιάς | 17.05.26",
+        "season": 6,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/keraia-oi-anagnwseis-tis-omorfias.JPG"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-83",
+        "title": "Κρατικές Δομές Πρόνοιας Μέρος Β' | 10.05.26",
+        "season": 6,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/ps049692-keraia-domes-pronias-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-82",
+        "title": "Κρατικές Δομές Πρόνοιας Μέρος Α' | 03.05.26",
+        "season": 6,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/ps049691-keraia-domes-pronias-a-meros-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-81",
+        "title": "Χορεύουμε; | 26.04.26",
+        "season": 6,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-s06-e20.JPG"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-80",
+        "title": "Μια Στιγμή και Άλλαξαν Όλα | Γ' Μέρος | 22.02.26",
+        "season": 6,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-s06-e19.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-79",
+        "title": "Μια Στιγμή και Άλλαξαν Όλα | Β' Μέρος | 15.02.26",
+        "season": 6,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/ps049687-keraia-mia-stigmh-kai-allajan-ola-giwta-gkofa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-78",
+        "title": "Μια Στιγμή και Άλλαξαν Όλα | Α' Μέρος | 08.02.26",
+        "season": 6,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/ps049686-keraia-mia-stigmi-kai-allaxan-ola.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-77",
+        "title": "Μεταναστευτικές Κουζίνες | 01.02.26",
+        "season": 6,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/ps049685-keraia-metanasteytikes-koyzines.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-76",
+        "title": "Από τη Φουστανέλα στο Κοστούμι | 25.01.26",
+        "season": 6,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-s07-e03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-75",
+        "title": "Ελληνίδες Ταξιδεύτριες | 18.01.26",
+        "season": 6,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/ps048953-keraia-taxideutries.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-74",
+        "title": "Σύγχρονοι Ιεραπόστολοι | 11.01.26",
+        "season": 6,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-s07-e01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-73",
+        "title": "Παναγιώτης Γιαννάκης, ο Θρύλος του Μπάσκετ | 14.12.25",
+        "season": 6,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-s06-e12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-72",
+        "title": "Σαν Βγω απ' Αυτή τη Φυλακή | 07.12.25",
+        "season": 6,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-7-12-thumbnail-ertflix.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-71",
+        "title": "Δίπλα στον Φυλακισμένο | 30.11.25",
+        "season": 6,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/ps045183-keraia-dipla-ston-fylakismeno.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-70",
+        "title": "Η Ιστορία της Ταβέρνας | 23.11.25",
+        "season": 6,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/ps045182-keraia-h-istoria-ths-tabernas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-69",
+        "title": "Βελόνα Ραδιοφώνου | 16.11.25",
+        "season": 6,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/ps045181-keraia-velona-radiofonou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-68",
+        "title": "Γιάννης Πετρίδης | 09.11.25",
+        "season": 6,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/ps045180-keraia-giannhs-petridhs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-67",
+        "title": "Δεσμοί Καρδιάς | 02.11.25",
+        "season": 6,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/ps045179-keraia-desmoi-kardias.JPG"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-66",
+        "title": "Ο Ηλικιακός Ρατσισμός στην Εποχή της Τεχνητής Νοημοσύνης | 26.10.25",
+        "season": 6,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/ceraia/ps045178-keraia-ilikiakos-ratsismos-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-65",
+        "title": "Παύλος Κοζαλίδης | 19.10.25",
+        "season": 6,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-pavlos-kozalidis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-64",
+        "title": "Μουσείο Βασίλη και Ελίζας Γουλανδρή | 12.10.25",
+        "season": 6,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-basilis-kai-eliza-goulandri.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-63",
+        "title": "Να σου Δείξω τη Συλλογή μου; | 05.10.25",
+        "season": 6,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-na-sou-deixw-thn-syllogi-mou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-62",
+        "title": "Οι Αστοί ενός Κάποτε | 28.09.25",
+        "season": 6,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-oi-astoi-enos-kapote.jpg"
+      }
+    ]
+  }
+}

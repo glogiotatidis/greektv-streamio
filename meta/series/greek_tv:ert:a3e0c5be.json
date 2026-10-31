@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:a3e0c5be",
+    "type": "series",
+    "name": "Πρόσωπα",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-vasilopoulos-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-vasilopoulos-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:a3e0c5be:prosopa-me-ton-khristo-basilopoulo",
+        "title": "«Αλίκη Βουγιουκλάκη, τα Πρώτα Χρόνια - Α' Μέρος»",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-me-ton-vasilopoulo-s01-ep1-aliki-vougiouklaki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a3e0c5be:prosopa-me-ton-khristo-basilopoulo-1",
+        "title": "«Αλίκη Βουγιουκλάκη, η Εθνική Σταρ» Β' Μέρος",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-me-ton-vasilopoulo-s01-ep2-aliki-vougiouklaki-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a3e0c5be:prosopa-me-ton-khristo-basilopoulo-2",
+        "title": "«Στέλιος Καζαντζίδης, η Άνοδος» Α' Μέρος",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-ep03-stelios-kazatzidis-a-meros-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a3e0c5be:prosopa-me-ton-khristo-basilopoulo-3",
+        "title": "«Στέλιος Καζαντζίδης, τα Χρόνια της Σιωπής» Β' Μέρος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-ep04-stelios-kazantzidis-b-meros-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a3e0c5be:prosopa-me-ton-khristo-basilopoulo-4",
+        "title": "«Τζένη Καρέζη, τα Πρώτα της Βήματα» Α' Μέρος",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-me-ton-vasilopoulo-s01-ep05-karezi-a-meros-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a3e0c5be:prosopa-me-ton-khristo-basilopoulo-5",
+        "title": "«Τζένη Καρέζη» Β' Μέρος",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-me-ton-vasilopoulo-s01-ep05-karezi-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a3e0c5be:prosopa-me-ton-khristo-basilopoulo-6",
+        "title": "Σωτηρία Μπέλλου",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-me-ton-vasilopoulo-s01-ep07-bellou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a3e0c5be:prosopa-me-ton-khristo-basilopoulo-7",
+        "title": "Θάνος Μικρούτσικος (Α' Μέρος)",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-ep08-thanos-mikroutsikos-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a3e0c5be:prosopa-me-ton-khristo-basilopoulo-8",
+        "title": "Θάνος Μικρούτσικος (Β' Μέρος)",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-ep09-thanos-mikroutsikos-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a3e0c5be:prosopa-me-ton-khristo-basilopoulo-9",
+        "title": "Νίκος Ξυλούρης",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/proswpa-nikos-ksylouris.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a3e0c5be:prosopa-me-ton-khristo-basilopoulo-10",
+        "title": "Αννα Φόνσου",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-ep-11-anna-fonsou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a3e0c5be:prosopa-me-ton-khristo-basilopoulo-11",
+        "title": "Γιαννούλης Χαλεπάς",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-ep12-giannoulis-xalepas-1021-576.jpg"
+      }
+    ]
+  }
+}

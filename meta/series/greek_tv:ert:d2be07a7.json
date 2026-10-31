@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:d2be07a7",
+    "type": "series",
+    "name": "Η Ελλάδα στα Μουσεία του Κόσμου",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/i-ellada-sta-mouseia-tou-kosmou/h-ellada-sta-mouseia-tou-kosmou-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/i-ellada-sta-mouseia-tou-kosmou/h-ellada-sta-mouseia-tou-kosmou-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:d2be07a7:e-ellada-sta-mouseia-tou-kosmou-1",
+        "title": "Παρίσι - Α' Μέρος",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-ellada-sta-mouseia-tou-kosmou/ds022639-0003-i-ellada-sta-mouseia-tou-kosmou-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d2be07a7:e-ellada-sta-mouseia-tou-kosmou-2",
+        "title": "Παρίσι - Β' Μέρος",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-ellada-sta-mouseia-tou-kosmou/ds022639-0005-i-ellada-sta-mouseia-tou-kosmou-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d2be07a7:e-ellada-sta-mouseia-tou-kosmou-3",
+        "title": "Λονδίνο - Α' Μέρος",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-ellada-sta-mouseia-tou-kosmou/ds022639-0004-i-ellada-sta-mouseia-tou-kosmou-ep03-londino-a.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d2be07a7:e-ellada-sta-mouseia-tou-kosmou-4",
+        "title": "Λονδίνο - Β' Μέρος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-ellada-sta-mouseia-tou-kosmou/ds022639-0006-i-ellada-sta-mouseia-tou-kosmou-ep04-londino-b.jpg"
+      }
+    ]
+  }
+}

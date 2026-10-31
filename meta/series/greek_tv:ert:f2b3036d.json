@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:f2b3036d",
+    "type": "series",
+    "name": "Αθήνα - Θεσσαλονίκη",
+    "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/athina-thessaloniki/athina-thessaloniki-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/ellinikes-seires/athina-thessaloniki/athina-thessaloniki-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-1",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91174-athina-thessaloniki-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-2",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91175-athina-thessaloniki-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-3",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91190-athina-thessaloniki-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-4",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91168-athina-thessaloniki-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-5",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91169-athina-thessaloniki-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-6",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91170-athina-thessaloniki-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-7",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91171-athina-thessaloniki-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-8",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91176-athina-thessaloniki-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-9",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91177-athina-thessaloniki-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-10",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91189-athina-thessaloniki-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-11",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91188-athina-thessaloniki-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-12",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91187-athina-thessaloniki-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-13",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91179-athina-thessaloniki-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-14",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91180-athina-thessaloniki-ep14.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f2b3036d:athena-thessalonike-15",
+        "title": "Αθήνα - Θεσσαλονίκη",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/athina-thessaloniki/91184-athina-thessaloniki-ep15-new.jpg"
+      }
+    ]
+  }
+}

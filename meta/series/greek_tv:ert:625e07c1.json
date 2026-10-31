@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:625e07c1",
+    "type": "series",
+    "name": "Πρόσωπα και Ιστορίες",
+    "poster": "https://files2.app.ertflix.gr/files/synentefxeis/prosopa-kai-istories/prosopa-kai-istories-ertflix-img-n.jpg",
+    "background": "https://files2.app.ertflix.gr/files/synentefxeis/prosopa-kai-istories/prosopa-kai-istories-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-1",
+        "title": "Σοφοκλής Βλάχος",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sofoklis-blaxos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-2",
+        "title": "Sugashspank Γεωργία Καλαφάτη",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sugashspank-georgia-kalafati.jpg"
+      },
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-3",
+        "title": "Ο Τζίμυς",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/istories-jimmy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-4",
+        "title": "Γιώργος-Ζήσης Μπιλιώνης",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/giorgos-mpilionis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-5",
+        "title": "Χριστίνα Ψαρρά",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/christina-psarra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-6",
+        "title": "Σταματίνα Σταματάκου",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/stamatina-stamatakou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-7",
+        "title": "Ζαφείρα Antzus Ramos",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/prosopa-kai-istories/zafira-antzus-ramos-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-9",
+        "title": "Αθηνά Κυρούση",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/prosopa-kai-istories/athina-kyrousi-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-8",
+        "title": "Φάνης Ζαχόπουλος",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/prosopa-kai-istories/fanhs-zaxopoylos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-10",
+        "title": "Αλεξάνδρα Καραγιάννη",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/prosopa-kai-istories/alexandra-karagianni-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-11",
+        "title": "Αλκης Κωνσταντινίδης",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/prosopa-kai-istories/alkhs-kwstantinidhs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-12",
+        "title": "Όλγα Στέφου",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/prosopa-kai-istories/olga-stefou-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-13",
+        "title": "Στέφανος Ρόκος",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/prosopa-kai-istories/stefanos-rokos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-14",
+        "title": "Φωτεινή Σταματελοπούλου",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/prosopa-kai-istories/fwteinh-stamatelopoulou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:625e07c1:prosopa-kai-istories-15",
+        "title": "Αριάδνη Παπαθεοδώρου",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/prosopa-kai-istories/ariadnh-papaueodwrou.jpg"
+      }
+    ]
+  }
+}

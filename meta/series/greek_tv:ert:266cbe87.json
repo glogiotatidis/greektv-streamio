@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:266cbe87",
+    "type": "series",
+    "name": "Ώρα Χορού",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-1",
+        "title": "B-Girl Sidi",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou-b-girl.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-2",
+        "title": "Τατιάνα Παπαδοπούλου",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ora-xorou-tatiana-papadopoulou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-3",
+        "title": "Τάσος Καραχάλιος",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ora-xorou-tasos-karaxalios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-4",
+        "title": "Δάφνις Κόκκινος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-dafnis-kokkinos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-5",
+        "title": "Ευριπίδης Λασκαρίδης",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou-2022-ep05-evripidis-laskaridis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-6",
+        "title": "Μάντυ Φραγκιαδάκη",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ora-xorou-2022-ep06-manti-fragkiadaki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-7",
+        "title": "Gabriel Marino",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-2022-ep07-gabriel-marino-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-8",
+        "title": "Πατρίσια Απέργη",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-patricia-apergi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-9",
+        "title": "Κάλλη Σιαμίδου",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-kalli-siamidou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-10",
+        "title": "Brandon Barker, Rafał Pustelny",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-lindy-hop.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-11",
+        "title": "Lindy Hop - 2o μέρος: Jessica Miltenberger, Bobby White",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-lindy-hop-part2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-12",
+        "title": "John Ashford",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-s02-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-13",
+        "title": "Ελένη Πινιαλόσα",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-eleni-pinialosa.png"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-14",
+        "title": "Κώστας Αλεξανδρίδης",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-2022-ep14-kostas-alexandridis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-15",
+        "title": "Χρήστος Παπαδόπουλος",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-2022-ep15-xristos-papadopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-16",
+        "title": "Άννα Καραμήτσου, Dauda Conteh",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-2022-ep16-anna-karamitsou-dauda-conteh-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-17",
+        "title": "Ευαγγελία Πλατανιώτη",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-s02-ep01-euaggelia-platanioti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-18",
+        "title": "Hip Hop Battle",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-s02-ep02-perimenontas-ta-battles.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-19",
+        "title": "Μιούζικαλ",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-s02-miouzikal.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-20",
+        "title": "Αφή Ολυμπιακής Φλόγας",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-olumpiaki-floga.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-21",
+        "title": "Νέες Χορογράφοι",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-s02-nees-xorografoi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-22",
+        "title": "Ηλίας Χατζηγεωργίου",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-s02-ilias-xatzigeorgiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-23",
+        "title": "Μυστήρια Ευδαιμονίας",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/wra-xwrou-s02-ep07-mistiria-eudaimoniwn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-24",
+        "title": "Πάμε για Χορό;",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/hr-ps017655-wra-xoroy-pame-gia-xoro-4mbpsmp4-error580.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-25",
+        "title": "Άντρες Χορευτές σε Πουέντ",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/hr-ps017656-wra-xoroy-xoreytes-se-poyent-4mbpsmp4-error798.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-26",
+        "title": "Ακαδημία Χορογραφίας",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ora-choroy-akadimia-chorou-s02ep10-4mbpsmp4-error775.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-27",
+        "title": "Η Ευρώπη Χορεύει Ελληνικούς Χορούς - Μέρος Α'",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ora-horou-i-ellada-chorevei-stin-europi-meros-a-s02e11-4mbpsmp4-error279.jpg"
+      },
+      {
+        "id": "greek_tv:ert:266cbe87:ora-khorou-28",
+        "title": "Η Ευρώπη Χορεύει Ελληνικούς Χορούς - Μέρος Β'",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/wra-xorou-s02e12-h-ellada-xorevei-stin-europi-meros-b-4mbpsmp4-error194.jpg"
+      }
+    ]
+  }
+}

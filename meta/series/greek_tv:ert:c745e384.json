@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:c745e384",
+    "type": "series",
+    "name": "Volley League Γυναικών 2026-2027",
+    "poster": "https://files2.app.ertflix.gr/files/sports/volleyleague-women-26-27/volley-league-gynaikon-2026-2027-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/sports/volleyleague-women-26-27/volley-league-gynaikon-2026-2027-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:c745e384:volley-league-gunaikon-2026-1",
+        "title": "ΑΣΠ Θέτις - Πανιώνιος Betsson | 1η Αγωνιστική | 17.10.26",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/volleyleague-women-26-27/20261017-vl-wom-thetis-paniwnios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c745e384:volley-league-gunaikon-2026-3",
+        "title": "Α.Ε.Κ. - Π.Α.Ο.Κ. F&U | 2η Αγωνιστική | 23.10.26",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/volleyleague-women-26-27/20261023-volley-league-gynaikon-aek-paok.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c745e384:volley-league-gunaikon-2026-2",
+        "title": "Ζ.Α.Ο.Ν. - Παναθηναϊκός Α.Ο. | 2η Αγωνιστική | 24.10.26",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/volleyleague-women-26-27/20261025-volley-league-gynaikon-zaon-panathinaikos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c745e384:volley-league-gunaikon-2026-4",
+        "title": "Πανιώνιος - Ολυμπιακός | 3η Αγωνιστική | 30.10.26",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/volleyleague-women-26-27/20261030-volley-league-gynaikon-panionios-olympiakos.jpg"
+      }
+    ]
+  }
+}

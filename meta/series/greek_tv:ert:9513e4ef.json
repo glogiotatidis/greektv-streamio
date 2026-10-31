@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:9513e4ef",
+    "type": "series",
+    "name": "Οι Θησαυροί του Πόντου",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/oi-thisauroi-tou-pontou/oi-thhsayroi-toy-pontoy-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/oi-thisauroi-tou-pontou/oi-thhsayroi-toy-pontoy-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:9513e4ef:oi-thesauroi-tou-pontou-1",
+        "title": "Στη Γενέτειρά μου",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oi-thisauroi-tou-pontou/oi-thisauroi-tou-pontou-2022-ep01-i-geneteira-mou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9513e4ef:oi-thesauroi-tou-pontou-2",
+        "title": "Τα Κειμήλια του Ποντιακού Ελληνισμού",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-thisauroi-tou-pontou/oi-thisauroi-tou-pontou-2022-ep02-ta-kimilia-tou-pontiakou-ellinismou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9513e4ef:oi-thesauroi-tou-pontou-3",
+        "title": "Οι Πρώτες Οργανωμένες Κοινότητες Ποντίων",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-thisauroi-tou-pontou/oi-thisayroi-toy-pontoy-s01-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9513e4ef:oi-thesauroi-tou-pontou-4",
+        "title": "Οι Σύγχρονοι Πόντιοι",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-thisauroi-tou-pontou/oi-thisauroi-tou-pontou-2022-ep04-oi-sigxronoi-pontioi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9513e4ef:oi-thesauroi-tou-pontou-7",
+        "title": "Τόποι Λατρείας",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-thisauroi-tou-pontou/i-thisauroi-tou-pontou-2022-ep05-topoi-latrias-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9513e4ef:oi-thesauroi-tou-pontou-6",
+        "title": "Ο Πολιτισμός των Ποντίων",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-thisauroi-tou-pontou/i-thisauroi-tou-pontou-2022-ep06-o-politismos-ton-pontion-teleftaio-1021x576.jpg"
+      }
+    ]
+  }
+}

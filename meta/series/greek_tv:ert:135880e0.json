@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:135880e0",
+    "type": "series",
+    "name": "Τα Μυστικά της Μουσικής",
+    "poster": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-ths-mousikhs-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-ths-mousikhs-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes",
+        "title": "Tι είναι η μουσική;",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep01-ti-einai-mousiki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-2",
+        "title": "Έμπνευση- δημιουργία",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep02-empneusi-dimiourgia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-3",
+        "title": "Εκτέλεση και ερμηνεία",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep03-ektelesi-erminia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-4",
+        "title": "Ακρόαση",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep04-akroasi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-5",
+        "title": "Μουσική και άλλες τέχνες",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep05-mousikes-kai-alles-texnes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-6",
+        "title": "Μουσική και λόγος: οι τροβαδούροι",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep06-mousiki-kai-logos-oi-trovadouroi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-7",
+        "title": "Μουσική και λόγος: Το τραγούδι",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep07-mousiki-kai-logos-to-tragoudi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-8",
+        "title": "Μουσική και κινηματογράφος",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep08-mousiki-kai-kinimatografos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-10",
+        "title": "Μουσική και θέατρο",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep09-mousiki-kai-theatro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-9",
+        "title": "Μουσική και εξουσία",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep10-mousiki-kai-exousia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-11",
+        "title": "Μουσική παράδοση, μέρος Α",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep11-mousiki-kai-paradosi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-12",
+        "title": "Μουσική παράδοση, μέρος Β",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep12-mousiki-kai-paradosi-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-13",
+        "title": "Oι δικοί μας ξένοι",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep13-oi-dikoi-mas-ksenoi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-14",
+        "title": "Μουσική και τεχνολογία",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep14-mousiki-kai-texnologia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-15",
+        "title": "Mουσική και εκπαίδευση, μέρος Α",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep15-mousiki-kai-ekpaideusi-meros-a.jpg"
+      },
+      {
+        "id": "greek_tv:ert:135880e0:ta-mustika-tes-mousikes-16",
+        "title": "Mουσική και εκπαίδευση, μέρος Β",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-tis-mousikis-ep16-mousiki-kai-ekpaideusi-meros-b.jpg"
+      }
+    ]
+  }
+}

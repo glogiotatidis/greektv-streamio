@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:c7950d9a",
+    "type": "series",
+    "name": "Μια Εικόνα Χίλιες Σκέψεις",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-xilies-skepsis-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-xilies-skepsis-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-1",
+        "title": "Γιάννης Αδαμάκος. Η τέχνη Είναι Ενιαία",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepseis-ep01-adamakos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-2",
+        "title": "Αριστομένης Θεοδωρόπουλος",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepseis-ep02-theodoropoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-3",
+        "title": "Αλέκος Κυραρίνης",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/xena-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepseis-ep03-kirarinis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-4",
+        "title": "Γιώργος Σταματάκης",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/xena-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepseis-ep04-stamatakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-5",
+        "title": "Άγγελος Αντωνόπουλος",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepseis-ep05-antonopoulos-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-6",
+        "title": "Γιάννης Μπουτέας",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-xilies-skepseis-mpouteas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-7",
+        "title": "Βίκυ Μπέτσου",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepseis-ep07-mpetsoy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-8",
+        "title": "Γιώργος Καζάζης",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepseis-ep08-kazazis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-9",
+        "title": "Κώστας Χριστόπουλος",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepseis-ep09-hristopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-10",
+        "title": "Χρήστος Αντωναρόπουλος",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepseis-ep10-antonaropoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-11",
+        "title": "Χρήστος Μποκόρος",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepseis-ep11-mpokoros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-12",
+        "title": "Φωτεινή Πούλια",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepseis-ep12-fotini-poulia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-13",
+        "title": "Ηλίας Παπαηλιάκης",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-xilies-skepseis-ep13-ilias-papailiakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-14",
+        "title": "Θοδωρής Μπαργιώτας",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepseis-s02-ep01-bargiotas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-15",
+        "title": "Θεοδώρα Χωραφά",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepseis-s02-ep02-horafa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-16",
+        "title": "Παναγιώτης Σιάγκρης",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepseis-s02-ep03-siagkris.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-17",
+        "title": "Ανδρέας Βούσουρας - Η Λογοτεχνία ως Έμπνευση",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepseis-s02-ep04-andreas-bousouras-i-logotexnia-ws-empneysh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-18",
+        "title": "Μανταλίνα Ψωμά (Ζωγράφος)",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-hilies-skepsis-s02-ep05-mantalina-psoma-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7950d9a:mia-eikona-khilies-skepseis-19",
+        "title": "Νικομάχη Καρακωστάνογλου",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-eikona-hilies-skepsis/mia-eikona-hiies-skepsis-s02-ep06-nikomahi-karakostanoglou.jpg"
+      }
+    ]
+  }
+}

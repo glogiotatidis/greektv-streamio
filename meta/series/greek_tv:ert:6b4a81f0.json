@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:6b4a81f0",
+    "type": "series",
+    "name": "Οι Μνήμες Πέτρωσαν Μέσα της",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/mnhmes-tania/oi-mnhmes-petrosan-mesa-ths-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/mnhmes-tania/oi-mnhmes-petrosan-mesa-ths-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:6b4a81f0:oi-mnemes-petrosan-mesa-tes-1",
+        "title": "Τι Πάει να Πει Πόλεμος;",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mnhmes-tania/mnhmes-ep01-4mbpsmp4-error982.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b4a81f0:oi-mnemes-petrosan-mesa-tes-2",
+        "title": "Το Μέτωπο Έσπασε",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mnhmes-tania/mnhmes-ep02-4mbpsmp4-error421.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b4a81f0:oi-mnemes-petrosan-mesa-tes-3",
+        "title": "Χρόνοι Ζοφεροί",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mnhmes-tania/mnhmes-ep03-4mbpsmp4-error573.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b4a81f0:oi-mnemes-petrosan-mesa-tes-4",
+        "title": "Νίκη της Ζωής επί του Θανάτου",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mnhmes-tania/mnhmes-ep04-4mbpsmp4-2022-11-03-15h05m53s308.jpg"
+      }
+    ]
+  }
+}

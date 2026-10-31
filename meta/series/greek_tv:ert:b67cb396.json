@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:b67cb396",
+    "type": "series",
+    "name": "Musikology",
+    "poster": "https://files2.app.ertflix.gr/2025/series/musikology/musikology-ertflix-img-new.jpg",
+    "background": "https://files2.app.ertflix.gr/2025/series/musikology/musikology-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-2",
+        "title": "Καλεσμένοι: Φοίβος Δεληβοριάς, Θάνος Δασκαλόπουλος",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/musikology/musikology-s01-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-3",
+        "title": "Καλεσμένοι: Μιχάλης Μυτακίδης, Δημήτρης Κλωνής",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/musikology/musikology-s01-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-4",
+        "title": "Καλεσμένοι: Εισβολέας, Νεφέλη Φασούλη",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/musikology/musikology-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-5",
+        "title": "Καλεσμένοι: Βαγγέλης Γερμανός, Παρασκευάς Κίτσος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/musikology/musikology-s01-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-6",
+        "title": "Καλεσμένοι: Planet Of Zeus, Moa Bones",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/musikology/musikology-s01-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-7",
+        "title": "Καλεσμένοι: Δήμητρα Γαλάνη, Κωστής Χριστοδούλου",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/musikology/musikology-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-8",
+        "title": "Καλεσμένοι: Παύλος Παυλίδης, RSN",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/musikology/musikology-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-9",
+        "title": "Καλεσμένοι: Σάκης Τόλης, Γιάννης Αγγελόπουλος",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/musikology/musikology-s01-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-10",
+        "title": "Καλεσμένοι: Σταμάτης Κραουνάκης, Whereswilder",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/musikology/musikology-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-11",
+        "title": "Καλεσμένοι: Γιώργος Κoντραφούρης, Μελίνα Παξινού",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/musikology/musikology-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-12",
+        "title": "Καλεσμένοι: Σαβίνα Γιαννάτου, Missigno",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/musikology/musikology-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-13",
+        "title": "Καλεσμένοι: Ross Daily, Ειρήνη Τορνεσάκη",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/musikology/musikology-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-14",
+        "title": "Καλεσμένοι: Φώτης Σιώτας, Γιώτης Κιουρτσόγλου",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/musikology-musikology-se-002-ep-001-4mbpsmp4-error204.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-15",
+        "title": "Καλεσμένοι: Aki Rei, Anser",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/22.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-16",
+        "title": "Καλεσμένοι: Sophie Lies, Μάρθα Φριντζήλα",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/musikology-musikology-se-002-ep-003-4mbpsmp4-error947.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-17",
+        "title": "Καλεσμένοι: Los Tre, Raining Pleasure",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/musikology-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-18",
+        "title": "Καλεσμένοι: Νίκη Κοκκόλη, Nightstalker",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/musikology-s02e05-4mbpsmp4-error187.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-19",
+        "title": "Καλεσμένοι: Μάρθα Μαυροειδή, Μανώλης Καραντίνης",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/karantinis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-20",
+        "title": "Καλεσμένοι: Billie Kark,Ελευθερία Αρβανιτάκη",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/musikology-16.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-21",
+        "title": "Καλεσμένοι: Νεφέλη Λιούτα , Μπάμπης Παπαδόπουλος",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/musikology-babis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-22",
+        "title": "Καλεσμένοι: Ανδρέας Πολυζωγόπουλος, Νίκος Σιδηροκαστρίτης",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/musikology-s2e9.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-23",
+        "title": "Καλεσμένοι: Ρεμπέτικο Τρίο, Ηλίας Ζαϊκος",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-03-13-13h46m51s287.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-24",
+        "title": "Καλεσμένοι: Ειρήνη Αραμπατζή, Ελεωνόρα Ζουγανέλη",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-03-26-10h23m59s927.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b67cb396:musikology-25",
+        "title": "Καλεσμένοι: ΟdyIcon, Λένα Πλάτωνος",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-04-09-11h55m47s622.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:77e856dc",
+    "type": "series",
+    "name": "4 Εποχές Ελλάδα",
+    "poster": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/4-epoxes-ellada-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/4-epoxes-ellada-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-19",
+        "title": "Γιάννης Βούρος | 30.08.26",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/20260802-4-epoxes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-22",
+        "title": "Λουκία Παπαδάκη | 23.08.26",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/ls023610-4-epoxes-ellada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-21",
+        "title": "Μιρέλα Πάχου - Σύμη | 16.08.26",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/ls023609-4-epoxes-ellada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-20",
+        "title": "Μελίνα Λεφαντζή | 09.08.26",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/vlcsnap-2026-08-09-16h33m36s572.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-18",
+        "title": "Λαέρτης Μαλκότσης | 26.07.26",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/20260726-4-epoxes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-17",
+        "title": "Κωνσταντίνος Ελματζίογλου | 19.07.26",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/vlcsnap-2026-07-19-15h15m07s950.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-16",
+        "title": "Ζήσης Ρούμπος | 12.07.26",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/20260712-4epoxes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-15",
+        "title": "Σοφία Αρβανίτη | 28.06.26",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/20260628-4-epoxes-ellada-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-14",
+        "title": "Γιώργος Γεροντιδάκης | 21.06.26",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/20260621-4-epoxes-ellada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-13",
+        "title": "Γιώργος Καραμίχος | 14.06.26",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/20260614-4-epoxes-ellada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-12",
+        "title": "Φωτεινή Μπαξεβάνη | 07.06.26",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/20260607-4-epoxes-ellada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-7",
+        "title": "Αλέξανδρος Χρυσανθόπουλος | 31.05.26",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/20260531-4-epoxes-ellada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-6",
+        "title": "Μιχάλης Αεράκης | 24.05.26",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/ls023597-20260524-4-epoxes-ellada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-11",
+        "title": "Αλέξανδρος Λογοθέτης | 17.05.26",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/ls023596-20260517-4-epoxes-ellada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-10",
+        "title": "Μαρία Γεωργιάδου | 10.05.26",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/ls023595-20260510-4-epoxes-ellada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-9",
+        "title": "Θάνος Μπίρκος | 03.05.26",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/ls023594-20260503-4-epoxes-ellada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-8",
+        "title": "Σωτήρης Καλυβάτσης - Θεσσαλονίκη, Αρκιοί | 26.04.26",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/ls023593-20260426-4-epoxes-ellada-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-5",
+        "title": "Χριστίνα Αλεξανιάν | 22.02.26",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/ls023591-20260222-4-epoxes-ellada-ep04-xristina-aleksanian.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-4",
+        "title": "Γιάννης Σαρακατσάνης | 15.02.26",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/20260215-4-epoxes-ellada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-3",
+        "title": "Δημήτρης Μακαλιάς & Αντιγόνη Ψυχράμη | 08.02.26",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/20260208-4-epoxes-ellada-ep02-makalias-psychrami.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77e856dc:4-epokhes-ellada-2",
+        "title": "Ζέτα Δούκα | 01.02.26",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/20260201-4-epoxes-ellada-ep01-n-zeta-douka.jpg"
+      }
+    ]
+  }
+}

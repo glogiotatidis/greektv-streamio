@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:676bfeec",
+    "type": "series",
+    "name": "Σπόρος",
+    "poster": "https://files2.app.ertflix.gr/2025/imgs/sporos-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2025/imgs/sporos-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:676bfeec:sporos-1",
+        "title": "Σπόρος Iδεών στην Κερκίνη",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/sporos-ep01-n-en.jpg"
+      },
+      {
+        "id": "greek_tv:ert:676bfeec:sporos-2",
+        "title": "Σπόρος Iδεών στους Nομούς Φθιώτιδας και Φωκίδας",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/sporos-episodio02-v4-antikatastasi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:676bfeec:sporos-3",
+        "title": "Σπόρος Ιδεών στους Νομούς Κορινθίας και Αρκαδίας",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/sporos-episodio03-04-antikatastasi-4mbpsmp4-2025-10-22-10h47m59s618.jpg"
+      },
+      {
+        "id": "greek_tv:ert:676bfeec:sporos-4",
+        "title": "Σπόρος Ιδεών στους Νομούς Μεσσηνίας Αρκαδίας και Λακωνίας",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/sporos-episodio04-02-antikatastasi-4mbpsmp4-2025-10-30-12h22m38s245.jpg"
+      },
+      {
+        "id": "greek_tv:ert:676bfeec:sporos-5",
+        "title": "Σπόρος Iδεών στον Nομό Δράμας",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/sporos-episodio05-drama-antik.jpg"
+      },
+      {
+        "id": "greek_tv:ert:676bfeec:sporos-6",
+        "title": "Σπόρος Ιδεών στους Νομούς Δράμας, Καβάλας, Σερρών και Κιλκίς",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/sporos-ep6-drama-kavala-serres-kilkis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:676bfeec:sporos-7",
+        "title": "Σπόρος Iδεών στον Nομό Χανίων",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/sporos-ep07-final-new.jpg"
+      }
+    ]
+  }
+}

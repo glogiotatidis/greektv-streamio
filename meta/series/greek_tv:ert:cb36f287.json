@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:cb36f287",
+    "type": "series",
+    "name": "Μαρτυρίες",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/martyries-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/martyries-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:cb36f287:marturies-kollegio-athenon-ena-skholeio-sta-khronia-tou-mesopolemou",
+        "title": "Κολλέγιο Αθηνών - Ένα Σχολείο Στα Χρόνια Του Μεσοπολέμου",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/kollegio-athenon-ena-skholeio-sta-khronia-tou-mesopolemou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:cb36f287:marturies-1",
+        "title": "Τα Ελληνικά Νιάτα Πολεμούν Το Ναζισμό",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/ta-ellenika-niata-polemoun-to-nazismo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:cb36f287:marturies-2",
+        "title": "Ιωάννης Γεωργάκης - Μνήμες Του ’40",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/ioannes-georgakes-mnemes-tou-40.jpg"
+      },
+      {
+        "id": "greek_tv:ert:cb36f287:marturies-3",
+        "title": "Η Κηδεία Του Παλαμά",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/e-kedeia-tou-palama.jpg"
+      },
+      {
+        "id": "greek_tv:ert:cb36f287:marturies-4",
+        "title": "Η Απελευθέρωση Της Θεσσαλονίκης",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/e-apeleutherose-tes-thessalonikes.jpg"
+      }
+    ]
+  }
+}

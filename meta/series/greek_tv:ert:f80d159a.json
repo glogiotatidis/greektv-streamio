@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:f80d159a",
+    "type": "series",
+    "name": "Διασπορά-Παροικίες-Ευεργεσία. Από το Εγώ στο Εμείς",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/diasporaegwemeis/diasporaegwemeis-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/diasporaegwemeis/diasporaegwemeis-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-1",
+        "title": "Ζώης Καπλάνης – Αφοι Ζωσιμάδες",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-ego-sto-emeis-kaplanis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-2",
+        "title": "Απόστολος Αρσάκης",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-ego-sto-emeis-arsakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-3",
+        "title": "Ευαγγέλης και Κωνσταντίνος Ζάππας",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-egw-sto-emeis-zappas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-4",
+        "title": "Ιωάννης Δόμπολης",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-ego-sto-emeis/apo-to-ego-sto-emeis-dompolis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-5",
+        "title": "Οικογένεια Σίνα",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-ego-sto-emeis/apo-to-ego-sto-emeis-oikogeneia-sina.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-6",
+        "title": "Μιχαήλ Τοσίτσας – Ελένη Τοσίτσα – Νικόλαος Στουρνάρης",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-ego-sto-emeis/apo-to-ego-sto-emeis-tositsas-tositsa-stournaris.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-7",
+        "title": "Γεώργιος Αβέρωφ",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-ego-sto-emeis/apo-to-egw-sto-emeis-averof.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-8",
+        "title": "Εμμανουήλ Μπενάκης",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-ego-sto-emeis/apo-to-egw-sto-emeis-mpenakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-9",
+        "title": "Αντώνης Μπενάκης",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-egw-sto-emeis-ant-mpenakis-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-10",
+        "title": "Ιωάννης Βαρβάκης-Γρηγόρης Μαρασλής",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-ego-sto-emeis/apo-to-egw-sto-emeis-barbarakis-marsalis-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-11",
+        "title": "Οικογένεια Χωρέμη",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-ego-sto-emeis/apo-to-ego-sto-emeis-oikogeneia-xoremi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-12",
+        "title": "Ανδρέας Συγγρός",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-ego-sto-emeis/apo-to-ego-sto-emeis-andreas-syggros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-13",
+        "title": "Παναγής Χαροκόπος, Αλέξανδρος Πάντος, Γεώργιος Φραγκούδης",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-ego-sto-emeis-xarokopos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-14",
+        "title": "Γεώργιος Ζαρίφης",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-ego-sto-emeis/apo-to-ego-sto-emeis-zareifis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-15",
+        "title": "Ευγένιος Ευγενίδης",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-ego-sto-emeis/apo-to-ego-sto-emeis-eygenios-eygenidis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f80d159a:diaspora-paroikies-euegersia-apo-to-ego-sto-emeis-16",
+        "title": "Χρηστάκης Ζωγράφος – Οικογένεια Σισμανόγλου",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-to-ego-sto-emeis/apo-to-ego-sto-emeis-xristakis-oikogeneia-sismanoglou.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:1966f29c",
+    "type": "series",
+    "name": "Volley League Ανδρών 2026-27",
+    "poster": "https://files2.app.ertflix.gr/files/sports/volley-league-adron-2026-27/novibet-volley-league-andron-2026-27-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/sports/volley-league-adron-2026-27/novibet-volley-league-andron-2026-27-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:1966f29c:volley-league-andron-2026-2",
+        "title": "Μίλωνας - Ολυμπιακός | 2η Αγωνιστική | 31.10.26",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/volley-league-adron-2026-27/20261031-volleyleague-andrwn-milon-olumpiakos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1966f29c:volley-league-andron-2026-1",
+        "title": "ΑΟ Καλαμάτα '80 AFFIDEA - Παναθηναϊκός Α.Ο. | 1η Αγωνιστική | 24.10.26",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/volley-league-adron-2026-27/20261025-volleyleague-andrwn-kalamata-panathinaikos.jpg"
+      }
+    ]
+  }
+}

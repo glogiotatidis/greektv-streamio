@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:2af966c8",
+    "type": "series",
+    "name": "TV Land",
+    "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/cc/tv-land-new-cc-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/tv-land-new-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:2af966c8:tv-land-1",
+        "title": "Καλώς Ήρθες Αλίκη",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048824-tvland-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2af966c8:tv-land-2",
+        "title": "Στη Χώρα των Τεράτων",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048825-tvland-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2af966c8:tv-land-3",
+        "title": "Όλος ο Κόσμος Είναι Μια Σκηνή",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048826-tvland-ep03-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2af966c8:tv-land-4",
+        "title": "Δεν Ήταν Πολύ Ευγενικό εκ Μέρους σου",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048827-tvland-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2af966c8:tv-land-5",
+        "title": "Πίσω απ' την Κουρτίνα",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048828-tvland-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2af966c8:tv-land-6",
+        "title": "Συν-τονισμένες Eνέργειες",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048829-tvland-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2af966c8:tv-land-7",
+        "title": "Πράγματα που Πήρες χωρίς να Ρωτήσεις",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048830-tvland-ep07.jpg"
+      }
+    ]
+  }
+}

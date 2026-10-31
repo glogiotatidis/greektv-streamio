@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:e71d22a4",
+    "type": "series",
+    "name": "Η Ελληνίδα Μαρία Κάλλας",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/i-ellinida-maria-callas/maria-kalas-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/i-ellinida-maria-callas/maria-kalas-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:e71d22a4:e-ellenida-maria-kallas-1",
+        "title": "Η Ελληνίδα Μαρία Κάλλας",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-ellinida-maria-callas/maria-kalas-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e71d22a4:the-greek-maria-callas",
+        "title": "Με Αγγλικούς Υπότιτλους",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-ellinida-maria-callas/maria-kalas-ertflix-img-en.jpg"
+      }
+    ]
+  }
+}

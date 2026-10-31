@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:3015be56",
+    "type": "series",
+    "name": "Κλεινόν Άστυ - Ιστορίες της Πόλης",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-kleinonasty-500x750.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinonastyi-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-asty-toichografies-stin-poli-2",
+        "title": "Τοιχογραφίες στην Πόλη",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/01/20210116-kleinon-asty-ep7.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-asty-moysikes-fyles-ton-90-s",
+        "title": "Μουσικές Φυλές των 90's",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201212-kleinon-asty.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-asty-theatro-technis",
+        "title": "Θέατρο Τέχνης",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201219-kleinon-asty.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-asty-koyzines-toy-kosmoy",
+        "title": "Κουζίνες του Kόσμου",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201226-kleinon-asty-ep4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-asty-o-enallaktikos-periodikos-typos",
+        "title": "Ο Εναλλακτικός Περιοδικός Τύπος",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/01/20210101-kleinon-asty-ep5.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-asty-gyrizontas-stin-athina-i-athina-kinimatografiko-plato",
+        "title": "Γυρίζοντας στην Αθήνα (Η Αθήνα κινηματογραφικό πλατό)",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/01/20210109-kleinon-asty-ep6.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-asty-oi-laikoi-athlites",
+        "title": "Οι Λαϊκοί Αθλητές",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/01/kats.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-asty-greek-weird-wave",
+        "title": "Greek Weird Wave",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/02/kleinon_asti_Greek_weird_wave_1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-asty-i-athinaiki-polykatoikia",
+        "title": "Η Αθηναϊκή Πολυκατοικία",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/02/20210220-kleinon-asty-athinaiki-polykatoikia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-asty-egeneto-fos",
+        "title": "Εγένετο Φως",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/02/kleinon_asti_Egeneto_fos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu",
+        "title": "Ομάδες Προφορικής Ιστορίας",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti-s01-ep11-omades-proforikis-istorias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-asty-toichografies-stin-poli",
+        "title": "Βιομηχανική Αρχαιολογία",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti-s01-ep12-viomixaniki-arxaiologia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-1",
+        "title": "Οι ανεξάρτητες δισκογραφικές εταιρείες των 80's",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti-s02-ep01-anexartites-discografikes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-2",
+        "title": "Αθήνα, η πολυτραγουδισμένη",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti-s02-ep02-athina-politragoudismeni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-3",
+        "title": "Η υπόγεια Αθήνα",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti-s02-ep03-ipogeia-athina.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-5",
+        "title": "Η Αθήνα Ποζάρει",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti-s02-ep05-athina-pozarei.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-6",
+        "title": "Τα Ζαχαροπλαστεία, Ένα οδοιπορικό στη γλυκιά Αθήνα",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti-s02-ep06-ta-zaxaroplasteia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-7",
+        "title": "Οι Προσφυγικοί Συνοικισμοί",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti-s02-ep07-oi-prosfigikoi-sinikismoi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-8",
+        "title": "Τα γλυπτά της Αθήνας",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti-s02-ep08-ta-glipta-tis-athinas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-4",
+        "title": "Η Πόλη μέσα στην πόλη",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti-s02-ep04-poli-mesa-stin-poli.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-9",
+        "title": "Τα περίπτερα",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti-s02-ep09-ta-periptera.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-10",
+        "title": "Αθήνα και αστυνομική λογοτεχνία",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/kleinon-asti-s02-ep10-athina-kai-astiki-logotexnia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-11",
+        "title": "Καλλιτέχνες του δρόμου",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asty-s02-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-12",
+        "title": "Χορτοφαγική και βίγκαν Αθήνα",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/kleinon-asti-s02-ep12-xortofagikh-kai-vegan-athina.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-13",
+        "title": "Να γιατί γυρνώ μες στην Αθήνα - Μια ρεμπέτικη ιστορία",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/kleinon-asti-s02-ep13-mia-rebetiki-istoria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-14",
+        "title": "Βιώσιμη Αθήνα",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/kleinon-asti-s02-ep14-viwsimh-athina.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-15",
+        "title": "Τα γηπεδάκια μπάσκετ",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/kleinon-asti-s02-ep15-ta-gipedakia-basket.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-16",
+        "title": "Το Ελεύθερο Θέατρο",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/kleinon-asti-s02-ep16-to-elefthero-theatro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-20",
+        "title": "Από το κρασοπουλειό στο wine bar",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/klinon-asti-2022-s03-ep01-apo-to-krasopoulio-sto-wine-bar-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-17",
+        "title": "Αθήνα και Διαφήμιση",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/kleinon-asti-s03-ep02-athina-k-diafimisi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-21",
+        "title": "Ο δρόμος είχε τη δική του ιστορία",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/kleinon-asti-s03-ep-03-o-dromos-eixe-tin-diki-tou-istoria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-22",
+        "title": "Αστικές συγκοινωνίες",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/klinon-asti-2022-s03-ep04-astikes-sigkinonies-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-23",
+        "title": "Υδάτινη Αθήνα",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/klinon-asti-s03-ep05-idatini-athina-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-24",
+        "title": "Στου Ψυρρή",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/klinon-asti-2022-s03-ep06-stou-psirri-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-25",
+        "title": "Μεσαιωνική Αθήνα",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/klinon-asti-s03-ep07-messeoniki-athina-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-26",
+        "title": "Γυναίκες και πόλη",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/kleinon-asti-s03-ep-08-gynaikes-k-poli.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-27",
+        "title": "Τουριστική έκρηξη",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/kleinon-asti-s03-ep-09-touristiki-ekrixi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3015be56:kleinon-astu-28",
+        "title": "Athens by night",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/kleinon-asti/klinon-asti-s03-ep10-athens-by-night.jpg"
+      }
+    ]
+  }
+}

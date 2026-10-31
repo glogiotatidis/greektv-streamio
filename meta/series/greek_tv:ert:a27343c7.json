@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:a27343c7",
+    "type": "series",
+    "name": "One Way Ticket",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:a27343c7:one-way-ticket-1",
+        "title": "Βερολίνο",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-berlin.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a27343c7:one-way-ticket-2",
+        "title": "Κοπεγχάγη",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-copenchagen.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a27343c7:one-way-ticket-3",
+        "title": "Βαρκελώνη",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-barcelona.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a27343c7:one-way-ticket-4",
+        "title": "Λωζάνη",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-lozani.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a27343c7:one-way-ticket-5",
+        "title": "Λυών",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-lyon.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a27343c7:one-way-ticket-6",
+        "title": "Πράγα",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-prague.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a27343c7:one-way-ticket-7",
+        "title": "Βιέννη",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-vienna.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a27343c7:one-way-ticket-8",
+        "title": "Παρίσι",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-paris.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a27343c7:one-way-ticket-9",
+        "title": "Μιλάνο",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-milano.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a27343c7:one-way-ticket-10",
+        "title": "Βρυξέλλες",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-brussels.jpg"
+      }
+    ]
+  }
+}

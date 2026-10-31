@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:77c2a192",
+    "type": "series",
+    "name": "Συναντήσεις με τη Μητέρα μου Λέλα Καραγιάννη",
+    "poster": "https://files2.app.ertflix.gr/files/ert-thimatai/synantiseis-me-tin-lela-karagianni/synanthseis-me-th-mhtera-moy-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/ert-thimatai/synantiseis-me-tin-lela-karagianni/synanthseis-me-th-mhtera-moy-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:77c2a192:sunanteseis-me-te-metera-mou-lela-karagianne-2",
+        "title": "Με Αγγλικούς Υπότιτλους",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/synantiseis-me-tin-lela-karagianni/synanthseis-me-th-mhtera-moy-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:77c2a192:sunanteseis-me-te-metera-mou-lela-karagianne",
+        "title": "Συναντήσεις με τη Μητέρα μου Λέλα Καραγιάννη",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/synantiseis-me-tin-lela-karagianni/synanthseis-me-th-mhtera-moy-ertflix-img.jpg"
+      }
+    ]
+  }
+}

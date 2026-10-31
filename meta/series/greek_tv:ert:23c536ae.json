@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:23c536ae",
+    "type": "series",
+    "name": "Ποδόσφαιρο Γυναικών | Α' Εθνική 2026-27",
+    "poster": "https://files2.app.ertflix.gr/files/sports/podosfairo-a1-gynaikwn/womensfootballleague26-27-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/sports/podosfairo-a1-gynaikwn/womensfootballleague26-27-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:23c536ae:podosphairo-gunaikon-a-ethnike-2026-3",
+        "title": "Σειρήνες Γρεβενών ΑΣ - Παναθηναϊκός ΑΟ | 3η Αγωνιστική | 18.10.26",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-a1-gynaikwn/womfoo26ep03-20261018-sirens-grevenon-panathinaikos-hls.jpg"
+      },
+      {
+        "id": "greek_tv:ert:23c536ae:podosphairo-gunaikon-a-ethnike-2026-4",
+        "title": "Οδυσσέας Μοσχάτου WFC - ΟΦΗ | 4η Αγωνιστική | 25.10.26",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-a1-gynaikwn/20261025-odysseas-moshatou-ofh-hls-n.jpg"
+      }
+    ]
+  }
+}

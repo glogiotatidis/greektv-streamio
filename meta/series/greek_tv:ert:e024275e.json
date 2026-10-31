@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:e024275e",
+    "type": "series",
+    "name": "Ταραγμένα Χρόνια",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/taragmena-xronia/taragmena-chronia-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/taragmena-xronia/taragmena-chronia-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:e024275e:taragmena-khronia-1",
+        "title": "Στην αυλή του παραδείσου",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/taragmena-xronia-ep01-stin-avli-tou-paradeisou-4mbpsmp4-error137.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e024275e:taragmena-khronia-2",
+        "title": "Άρχοντες",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/taragmena-xronia-ep02-arxontes-4mbpsmp4-error426.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e024275e:taragmena-khronia-3",
+        "title": "Γιορτές και πανηγύρια",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/taragmena-xronia-ep03-giortes-kai-panigyria-4mbpsmp4-error700.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e024275e:taragmena-khronia-4",
+        "title": "Οι τούρκοι μας",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/taragmena-xronia-ep04-oi-toyrkoi-mas-4mbpsmp4-error042.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e024275e:taragmena-khronia-5",
+        "title": "...γράμματα, σπουδάγματα",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/taragmena-xronia-ep05-grammata-spoudagmata-4mbpsmp4-error143.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e024275e:taragmena-khronia-6",
+        "title": "Συννεφιάζει",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/taragmena-xronia-ep06-synefiazei-4mbpsmp4-error165.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e024275e:taragmena-khronia-7",
+        "title": "Μαύρη θάλασσα, πικρή",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/taragmena-xronia-ep07-mauri-8alasa-4mbpsmp4-error147.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e024275e:taragmena-khronia-8",
+        "title": "...στην κόκκινη μηλιά",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/taragmena-xronia-ep08-kokkini-milia-4mbpsmp4-error988.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e024275e:taragmena-khronia-9",
+        "title": "Έσπασε το μέτωπο",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/taragmena-xronia-ep09-metopo-sosto-4mbpsmp4-error126.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e024275e:taragmena-khronia-10",
+        "title": "Ήρθε διαταγή",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/taragmena-xronia-ep10-ir8e-diatagi-4mbpsmp4-error337.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e024275e:taragmena-khronia-11",
+        "title": "Ανταλλάξιμοι",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/taragmena-xronia-ep11-antalaximoi-new-4mbpsmp4-error173.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e024275e:taragmena-khronia-12",
+        "title": "Στη Σαλονίκη των προσφύγων",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/taragmena-xronia-ep12-sti-saloniki-4mbpsmp4-error423.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e024275e:taragmena-khronia-13",
+        "title": "Η ζωή λίγο, λίγο",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/taragmena-xronia-ep13-h-zoh-4mbpsmp4-error860.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e024275e:taragmena-khronia-14",
+        "title": "Νοσταλγία",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/taragmena-khronia-ep14-nostalgia-4mbpsmp4-error311.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:55d2768c",
+    "type": "series",
+    "name": "Handball Premier 2026-27",
+    "poster": "https://files2.app.ertflix.gr/files/sports/handball-premiere-2026-27/handball-premier-1-2026-27-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/sports/handball-premiere-2026-27/handball-premier-1-2026-27-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:55d2768c:handball-premier-2026-3",
+        "title": "Α.Ο. Διομήδης Άργους - ΑΕΚ | 3η Αγωνιστική | 01.10.26",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/handball-premiere-2026-27/20261001-handball-premier-diomidis-aek.jpg"
+      },
+      {
+        "id": "greek_tv:ert:55d2768c:handball-premier-2026-4",
+        "title": "Δούκας - ΠΑΟΚ | 4η Αγωνιστική | 05.10.26",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/handball-premiere-2026-27/20261005-handball-premier-doukas-paok.jpg"
+      },
+      {
+        "id": "greek_tv:ert:55d2768c:handball-premier-2026-5",
+        "title": "Αθηναϊκός - ΧΑΝΘ | 5η Αγωνιστική | 12.10.26",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/handball-premiere-2026-27/20261012-handball-premier-athinaikos-xanth.jpg"
+      },
+      {
+        "id": "greek_tv:ert:55d2768c:handball-premier-2026-6",
+        "title": "Κιλκίς - ΧΑΝΘ | 7η Αγωνιστική | 26.10.26",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/handball-premiere-2026-27/20261026-handball-premier-kilkis-xanth.jpg"
+      }
+    ]
+  }
+}

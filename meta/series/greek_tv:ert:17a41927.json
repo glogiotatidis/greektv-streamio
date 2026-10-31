@@ -1,0 +1,585 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:17a41927",
+    "type": "series",
+    "name": "Φάσμα",
+    "poster": "https://files2.app.ertflix.gr/files/enimerosi/fasma/2026-2027/fasma-kv-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/enimerosi/fasma/2026-2027/fasma-kv-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:17a41927:phasma-1",
+        "title": "Ψηφιακά Δολώματα & Τα παιδιά του Πολέμου | 31.10.22",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-psifiaka-dolomata-ta-paidia-toy-polemoy-ep1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-2",
+        "title": "Η Παιδική Κακοποίηση και το Bullying στα Σχολεία | 14.11.22",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-paidiki-kakopoiisi-bulling-sta-sxoleia-ep2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-3",
+        "title": "Ταξίδι Zωής - Φαλκονέρα | 28.11.22",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20221128-fasma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-4",
+        "title": "Πένθος και Δημιουργία, ο Αθέατος Μικρόκοσμος της Αγοράς Ωαρίων | 12.12.22",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-penthos-kai-dimioyrgia-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-5",
+        "title": "Πρωταγωνιστές των Χριστουγέννων: Αναστασία Τασούλα, Ελένη Κρεμαστιώτη, Δημήτρης Παπανικολάου | 26.12.22",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-aytismos-egkilima-inosi-ep5.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-6",
+        "title": "Άτομα με Κινητική Βλάβη & Καθυστερήσεις στην Απονομή Δικαιοσύνης | 09.01.23",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/vlcsnap-2023-01-09-12h25m14s869.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-7",
+        "title": "Εργασία και Πανδημία: αναζητώντας νέες ισορροπίες» & «Εμπόριο ελπίδας στην υγεία | 23.01.23",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-8",
+        "title": "Ιστορίες Ευθανασίας - Κλιματική Κρίση | 06.02.23",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-efthanasia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-9",
+        "title": "Έρευνα για τις κλοπές έργων τέχνης & για τη σκοτεινή ιστορία τουριστικών προορισμών | 20.02.23",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-ep09-klopes-ergwn-texnis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-10",
+        "title": "Μαρτυρίες διασωστών στις ισοπεδωμένες πόλεις της Τουρκίας & Έρευνα για την επόμενη μέρα της πανδημίας | 06.03.23",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-ep10-i-siwpiri-pandimia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-11",
+        "title": "Έρευνα για τις απάτες στην αγορά κρυπτονομισμάτων και μαρτυρίες ανθρώπων που βίωσαν την έλλειψη στέγης | 20.03.23",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-ep11-crypto-apates.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-12",
+        "title": "Οι Πολεοδομικές Παραβάσεις στη Μύκονο και Έρευνα για τα Αιολικά Πάρκα | 03.04.23",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-ep12-mykonos-aiolika-parka.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-13",
+        "title": "7 Summits & Εκπαίδευση σε γερασμένα κτίρια | 17.04.23",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-14",
+        "title": "Εκτός Κάδρου & Ανακαλύπτοντας τη γενιά Ζ | 01.05.23",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-ep14-ektos-kadrou-kai-anakalyprontas-ti-genia-z.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-15",
+        "title": "Ελευθερία και Όρια στην Τέχνη, Φάκελος: Άνοια | 15.05.23",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-ep15-eleftheria-kai-oria-sthn-texnh-anoia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-16",
+        "title": "Στα Δίχτυα Πειρατών και Πρώτη Φορά Ψήφος | 29.05.23",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-ep16-sta-dixtya-twn-peiratwn-proti-fora-psifos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-17",
+        "title": "Καριέρα… με Τεχνητή Νοημοσύνη & Μονογονεϊκές Οικογένειες | 12.06.23",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-ep17-kariera-me-texniti-noimosyni-monogoneikes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-18",
+        "title": "Δασοκομάντος & Η Πόλη που Αλλάζει | 26.06.23",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-ep18-dasokomantos-i-poli-allazei.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-19",
+        "title": "Η Φωτιά στον Έβρο και ο Πόλεμος στο Ισραήλ | 20.11.23",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20231120-fasma-s02-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-20",
+        "title": "Το Χρηματιστήριο του Ελαιολάδου και Σχολεία Δύο Ταχυτήτων | 04.12.23",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20231204-fasma-s02-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-21",
+        "title": "Κακοκαιρία Ντάνιελ & Χαρισματικά Παιδιά | 18.12.23",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20231218-fasma-s02-ep03-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-22",
+        "title": "Πανδημία, Τεχνητή Νοημοσύνη, Κλιματική Αλλαγή, Προστασία των Ζώων | 01.01.24",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20240101-fasma-se02-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-23",
+        "title": "Επανένταξη & Ενεργειακές Κοινότητες | 15.01.24",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s02-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-24",
+        "title": "Αστακός Αιτωλοακαρνανίας - Οθόνες και Εθισμός Παιδιών και Εφήβων | 29.01.24",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s02-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-25",
+        "title": "Βιομηχανία Πλαστών Έργων Τέχνης & Ισότητα στο Γάμο | 12.02.24",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s02-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-26",
+        "title": "Οπαδική Βία - Ασφάλεια Τροφίμων | 26.02.24",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s02-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-27",
+        "title": "Golden Visa & Αποϊδρυματισμός | 11.03.24",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s02-ep09-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-28",
+        "title": "Κρίση στην Ερυθρά Θάλασσα & Κοινωνικές Δομές | 25.03.24",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s02-ep10-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-29",
+        "title": "Νεανική Παραβατικότητα και το Σύστημα Σωφρονισμού | 08.04.24",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s02-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-30",
+        "title": "Ρεπορτάζ για τη Φυματίωση – Η Βιομηχανία της Αυτοβελτίωσης | 22.04.24",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s02-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-31",
+        "title": "Τουρισμός: Αναζητώντας τα Όριά του | 06.05.24",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s02-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-32",
+        "title": "Παράνομη Εκτροφή Ζώων Συντροφιάς & Θεραπευτική Μουσική | 20.05.24",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s02-ep14-11zon.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-33",
+        "title": "Ολυμπιακά Όνειρα | 03.06.24",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s02-ep15.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-34",
+        "title": "Η Βόρεια Εύβοια, Τρία Χρόνια Μετά την Καταστροφική Πυρκαγιά | 17.06.24",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/20240617-fasma-s02-ep16.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-35",
+        "title": "Ο Δρόμος προς την Ασφάλεια | 01.07.24",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20240701-fasma-s02-ep17.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-36",
+        "title": "Από το Μηδέν στο Είναι | 15.07.24",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20240715-fasma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-37",
+        "title": "Ανυπόφορο Καλοκαίρι | 29.07.24",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s02-ep19.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-38",
+        "title": "Το Κρυμμένο Ποτάμι & Το Όνομα των Νεκρών | 21.10.24",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s03-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-39",
+        "title": "Μπίζνες στα Μπούνκερ & Επανεκκίνηση στα 50 | 04.11.24",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20241104-fasma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-40",
+        "title": "Τήνος & Μαιευτική Βία | 18.11.24",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s03-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-41",
+        "title": "Η Πλάνη του Τζογαδόρου & Τρία Ερωτήματα για τον Λίβανο | 02.12.24",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s03-ep04-tzogos-diadiktio-exartish.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-42",
+        "title": "Το Ζωικό Κεφάλαιο σε Κρίση & Επιστροφή στο Χωριό | 16.12.24",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s03-zoiko-kefalaio-se-krisi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-43",
+        "title": "Τα Πρόσωπα του 2024 | 30.12.24",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20241230-fasma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-44",
+        "title": "Μακροχρόνια Φροντίδα & Οικογένειες Μίλια Μακριά | 13.01.25",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s03-ep-07-makroxronia-frontida.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-45",
+        "title": "Τα Χαμένα Παιδιά | 27.01.25",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s03-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-46",
+        "title": "Ασθενής από Καρκίνο στα 30 & Τα Όρια της Γενιάς Ζ | 10.02.25",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2020/1/20250210-fasma-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-47",
+        "title": "Ξυλοναυπηγική: Μια Τέχνη σε Απειλή | 24.02.25",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s03-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-48",
+        "title": "Εκπαίδευση και Τεχνητή Νοημοσύνη & Γεννημένοι Αφροέλληνες | 10.03.25",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s03-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-49",
+        "title": "Μετά το Σαρακήνικο | 24.03.25",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/thumbnail-thumbnail-fasma-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-50",
+        "title": "Η Πολεοδομική Εξέλιξη της Αθήνας & οι Άνθρωποι Χωρίς Πατρίδα | 07.04.25",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20250407-fasma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-51",
+        "title": "Βυζαντινή Μουσική: Οικουμενική Γλώσσα & Το Δώρο της Ανακουφιστικής Φροντίδας | 21.04.25",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20250521-fasma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-52",
+        "title": "Στο Κυνήγι των Κρίσιμων Ορυκτών | 05.05.25",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20250505-fasma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-53",
+        "title": "Η Αγωνία για το Νερό | 19.05.25",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20250519-fasma.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-54",
+        "title": "Πόλεμος Δίχως Τέλος | 02.06.25",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s03-ep17-oukrania-kourdoi-syrias-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-55",
+        "title": "Πέρα από τα Τείχη & Πλάκα Οδός Τουριστών | 16.06.25",
+        "season": 3,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s03-ep18.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-56",
+        "title": "Το Όνειρο της Μπάλας | 30.06.25",
+        "season": 3,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s03-ep19-podosfairikes-akadimies.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-57",
+        "title": "Στη Μάχη της Εύρεσης Σπιτιού & Βιομηχανία Ομορφιάς | 14.07.25",
+        "season": 3,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20250714-fasma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-58",
+        "title": "Τα Ξύλινα Πατώματα της Εγγύς Ανατολής & Η Επιστροφή του Ιλισσού | 28.07.25",
+        "season": 3,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20250728-s03-ep-21-fasma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-59",
+        "title": "Το Αθέατο Κόστος των Ζωονόσων & Ταξίδια για Στοχασμό | 30.09.25",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/season-4-fasma/fasma-s04-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-60",
+        "title": "Η Αναζήτηση & Η Ελλάδα στη Μάχη της Αμυντικής Καινοτομίας Α' Μέρος | 28.10.25",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/season-4-fasma/20251028-fasma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-61",
+        "title": "Το Κυνήγι των Πλαστών & Ο Γκίντεον Λεβί Μιλάει για τη Γάζα | 04.11.25",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/season-4-fasma/20251104-fasma-s04-ep03-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-62",
+        "title": "Οι Παγίδες του Ψηφιακού Παιχνιδιού & Η Ελλάδα στη Μάχη της Αμυντικής Καινοτομίας Β' Μέρος | 11.11.25",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/season-4-fasma/fasma-s04-ep04-oi-pagides-tou-psifiakou-paixnidiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-63",
+        "title": "Η Ελληνική Οινοποιία | 25.11.25",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/season-4-fasma/20251125-fasma-s04-ep05-ellinikh-oinopoiia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-64",
+        "title": "Στην Κόψη των Βράχων | 09.12.25",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/season-4-fasma/20251209-fasma-s04-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-65",
+        "title": "Στεγαστική Κρίση, Τεχνητή Νοημοσύνη & Ψυχική Υγεία | 23.12.25",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/season-4-fasma/750531-fasma-se04-ep07-eortastiko.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-66",
+        "title": "Εστίαση Υπό Πίεση & Συν/ξη Ραφαέλ Καμπρίθες | 06.01.25",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/season-4-fasma/20260106-fasma-s04-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-67",
+        "title": "Η Μεγαλύτερη Ανθρωπιστική Κρίση | 20.01.26",
+        "season": 4,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/season-4-fasma/20260120-fasma-s04-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-68",
+        "title": "Όνειρα στο Χιόνι & Συν/ξη Martha Mendoza | 10.02.26",
+        "season": 4,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/767098-fasma-s04-ep10-xeimerinoi-olympiakoi-agones-oneira-sto-xioni-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-69",
+        "title": "Μαθητές σε Τροχιά Υπερδιάγνωσης | 17.02.26",
+        "season": 4,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/season-4-fasma/ps048983-fasma-s04-ep11-mathisiakes-dyskolies.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-71",
+        "title": "Ντοκουμέντα στο Παζάρι | 01.05.26",
+        "season": 4,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/fasma-s04-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-70",
+        "title": "Λίβανος σε Αδιέξοδος & Συν/ξη Ταράνα Μπερκ | 02.06.26",
+        "season": 4,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/season-4-fasma/20260602-fasma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-72",
+        "title": "Ελληνικές Θάλασσες: H Επόμενη Μέρα | 09.06.26",
+        "season": 4,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/season-4-fasma/20260609-fasma-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-73",
+        "title": "Μετά τον Λιγνίτη | 16.06.26",
+        "season": 4,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/season-4-fasma/ps048987-fasma-ep15-apolignitopoihsh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-74",
+        "title": "Εκτός Σύνδεσης | 23.06.26",
+        "season": 4,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/ps048988-fasma-s04-ep16-social-media-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-75",
+        "title": "Data Centers: Οι Νέες Αόρατες Πόλεις | 30.06.26",
+        "season": 4,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/20260630-fasma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-76",
+        "title": "Φως Μέσα στο Τραύμα & Συν/ξη Χάρολντ Κόπλεβιτς | 14.07.26",
+        "season": 4,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/ps055058-0018-fasma-s04-ep18-spinalogka.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-77",
+        "title": "Τα Μυστικά της Γυάρου & Συν/ξη Μάρκος Ρος Σεμπέρε | 21.07.26",
+        "season": 4,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/ps055058-0019-fasma-s04-ep19-gyaros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-78",
+        "title": "Πόσα Απορρίμματα Αντέχει Ένα Νησί; | 22.09.26",
+        "season": 5,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/2026-2027/ps058559-0001-fasma-s05-aporrimata.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-79",
+        "title": "Η Άλλη Πλευρά του Τουρισμού | 29.09.26",
+        "season": 5,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/2026-2027/ps058559-0002-fasma-s05-agrotourismos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-80",
+        "title": "Μετά την Μπάλα | 06.10.26",
+        "season": 5,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/2026-2027/ps058559-0003-fasma-s05-meta-tin-mpala.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-81",
+        "title": "Τα Ενέσιμα Φάρμακα που Αλλάζουν την Αντιμετώπιση της Παχυσαρκίας | 13.10.26",
+        "season": 5,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/2026-2027/ps058559-0004-fasma-s05-enesima-farmaka.jpg"
+      },
+      {
+        "id": "greek_tv:ert:17a41927:phasma-82",
+        "title": "Γαλλία - Κινητοποιήσεις 2026 | 20.10.26",
+        "season": 5,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/fasma/ps058559-0005-fasma-s05-gallia-kinhtopoihseis-n.jpg"
+      }
+    ]
+  }
+}

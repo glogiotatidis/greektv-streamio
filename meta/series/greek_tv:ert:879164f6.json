@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:879164f6",
+    "type": "series",
+    "name": "Μα πώς Φτιάχνεται;",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/ma-pws-ftiaxnete/ma-pos-ftiaxnete-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/ma-pws-ftiaxnetai/ma-pos-ftiaxnete-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:879164f6:ma-pos-phtiakhnetai-soon",
+        "title": "Στρώματα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/ma-pws-ftiaxnete/hr-ps007964-ma-pws-ftiaxnetai-ma-pws-ftiaxnetai-strwmata-4mbpsmp4-2023-12-08-15h14m16s245.jpg"
+      },
+      {
+        "id": "greek_tv:ert:879164f6:ma-pos-phtiakhnetai-2",
+        "title": "Μπίρα",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ma-pws-ftiaxnete/ma-pws-ftiaxnetai-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:879164f6:ma-pos-phtiakhnetai-3",
+        "title": "Σαπούνι",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ma-pws-ftiaxnete/ma-pws-ftiaxnetai-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:879164f6:ma-pos-phtiakhnetai-4",
+        "title": "Ζυμαρικά",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ma-pws-ftiaxnetai/ma-pws-ftiaxnetai-s01-ep04-zymarika.jpg"
+      },
+      {
+        "id": "greek_tv:ert:879164f6:ma-pos-phtiakhnetai-5",
+        "title": "Μαγειρικά Σκεύη",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ma-pws-ftiaxnetai/ma-pws-ftiaxnetai-s01-ep05-mageirika-skevi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:879164f6:ma-pos-phtiakhnetai-6",
+        "title": "Χαρτί",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ma-pws-ftiaxnetai/ma-pws-ftiaxnetai-s01-ep06-xarti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:879164f6:ma-pos-phtiakhnetai-7",
+        "title": "Αλείμματα",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ma-pws-ftiaxnetai/ma-pws-ftiaxnetai-ep07-aleimmata.jpg"
+      },
+      {
+        "id": "greek_tv:ert:879164f6:ma-pos-phtiakhnetai-8",
+        "title": "Σάλτσες/Σαλάτες",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ma-pws-ftiaxnetai/ma-pws-ftiaxnete-s01-saltses.jpg"
+      },
+      {
+        "id": "greek_tv:ert:879164f6:ma-pos-phtiakhnetai-9",
+        "title": "Κουτάκια Αλουμινίου",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ma-pws-ftiaxnetai/ma-pws-ftiaxnetai-s01-ep08-koutakia-alouminiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:879164f6:ma-pos-phtiakhnetai-10",
+        "title": "Παπούτσια",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ma-pws-ftiaxnetai-s01-ep10-papoutsia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:879164f6:ma-pos-phtiakhnetai-11",
+        "title": "Εσώρουχα",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ma-pws-ftiaxnetai/ma-pws-ftiaxnetai-eswrouxa-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:879164f6:ma-pos-phtiakhnetai-12",
+        "title": "Παγωτό",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ma-pws-ftiaxnetai/ma-pws-ftiaxnetai-pagwto.jpg"
+      }
+    ]
+  }
+}

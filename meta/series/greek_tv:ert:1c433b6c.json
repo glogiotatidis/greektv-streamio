@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:1c433b6c",
+    "type": "series",
+    "name": "Από Πέτρα και Χρόνο",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-apo-petra-kai-xrono-500x750.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-tithorea",
+        "title": "Τιθορέα, το Μπαλκόνι του Παρνασσού",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/04/20200723-apo-petra-k-xrono.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-ziros-i-apokryfi-kriti",
+        "title": "Ζίρος, η Απόκρυφη Κρήτη",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/05/20200116-apo-petra-k-xrono.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-orchomenos",
+        "title": "Ορχομενός, ο Πολύχρυσος",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/06/20200611-apo-petra-k-xrono.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-akraifnio",
+        "title": "Ακραίφνιο",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/08/20200827-apo-petra-k-xrono.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-dayleia",
+        "title": "Δαύλεια",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/06/20200625-apo-petra-k-xrono.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-katafygia-pistis",
+        "title": "Καταφύγια Πίστης",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200702-apo-petra-k-xrono.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-metaxoyrgeio-i-xechasmeni-geitonia-tis-athinas",
+        "title": "Μεταξουργείο, η Ξεχασμένη Γειτονιά της Αθήνας",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/03/20200910-apo-petra-k-xrono.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-atalanti",
+        "title": "Αταλάντη",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/06/20200604-apo-petra-k-xrono.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-moni-petraki",
+        "title": "Μονή Πετράκη",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/09/20200927-apo-petra-kai-xrono.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-kifisia",
+        "title": "Κηφισιά",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/03/20200326-apo-petra-k-xrono.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-aitoliko-i-mikri-venetia",
+        "title": "Αιτωλικό, η Μικρή Βενετία",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/04/20200423-apo-petra-kai-xrono.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-amfikleia",
+        "title": "Αμφίκλεια",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200716-apo-petra-k-xrono.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-kerameikos",
+        "title": "Κεραμεικός",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201220-apo-petra-k-xrono.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-kyparissia",
+        "title": "Κυπαρισσία",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201227-apo-petra-kai-xrono-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-armenochantrades-2",
+        "title": "Αρμενοχαντράδες",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/05/20200514-apo-petra-kai-xrono.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-chrono-leivadia",
+        "title": "Λειβαδιά",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/02/apo_petra_kai_xrono_Livadeia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono",
+        "title": "Μενδενίτσα, η κυρά των Θερμοπυλών",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s05-ep02-mendenitsa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-1",
+        "title": "Το πέρασμα των Βασιλικών",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s05-ep03-vasilika.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-4",
+        "title": "Μανιάκι",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s05-ep06-maniaki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-2",
+        "title": "Καλαμάτα, η Πόλη του Πολιτισμού",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s05-ep04-kalamata.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-3",
+        "title": "Καλαμάτα, η Μασσαλία του Μοριά",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s05-ep05-kalamata.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-5",
+        "title": "Βέργα, το Προσκυνητάρι της Λευτεριάς",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s05-ep07-verga.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-6",
+        "title": "Πολυάραβος, ο Βράχος της Μνήμης",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s05-ep08-poliaravos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-10",
+        "title": "Γραβιά",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s05-ep12-gravia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-7",
+        "title": "Στα λημέρια του Κολοκοτρώνη",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s05-ep09-kolokotroni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-8",
+        "title": "Τρίπολη, η Πόλη της Μνήμης",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s05-ep10-tripoli.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-9",
+        "title": "Νεμέα, στα Ίχνη του Παλαιού Φλιούντα",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s05-ep11-nemea.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-11",
+        "title": "Βάργιανη, η Μελωδία του Παρνασσού",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s05-ep13-vargiani.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-12",
+        "title": "Αράχωβα",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s05-ep14-araxova.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-13",
+        "title": "Αλίαρτος",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s05-ep15-aliartos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-15",
+        "title": "Τα Βαλκάνια της Ευρυτανίας",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-kai-xrono-s04-ep07-ta-valkania-tis-euritanias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-16",
+        "title": "Θησείο",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/apo-petra-kai-xrono-s06-ep01-thiseio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-17",
+        "title": "Εθνικό Ιστορικό Μουσείο (Α μέρος)",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s06-ep02-ethniko-istoriko-mouseio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-18",
+        "title": "Εθνικό Ιστορικό Μουσείο (B μέρος)",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-s06-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-19",
+        "title": "Κύνος",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-kai-xrono-s06-ep04-kynos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-20",
+        "title": "Δοξάτο",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-doxato.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-21",
+        "title": "Καμένα Βούρλα",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-k-xrono-kammena-vourla.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-22",
+        "title": "Πολιτιστικές Διαδρομές γύρω από το Σπήλαιο του Αγγίτη",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-kai-xrono-spilaio-agiti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-23",
+        "title": "Μουσείο Ιστορίας Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-kai-xrono-2022-ep01-mousio-istorias-ethnikou-kapodistriakou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-24",
+        "title": "Μουσείο Παύλου και Αλεξάνδρας Κανελλοπούλου",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-xrono-2022-ep02-mousio-pavlou-kai-alexandras-kanellopoulou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-25",
+        "title": "Πετρούσα",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-kai-xrono-petrousa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-26",
+        "title": "Σπήλαιο Αλιστράτης",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-kai-apo-xrono-2022-ep04-spileo-alistratis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-27",
+        "title": "Το βουνό των μαρμάρων",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-kai-apo-xrono-2022-ep05-to-vouno-ton-marmaron-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-28",
+        "title": "Εστίες Ιστορίας και Παράδοσης",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-kai-xrono-esties-istorias-paradosis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-29",
+        "title": "Βώλακας",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-kai-xrono-volakas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-30",
+        "title": "Αλιστράτη",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-kai-xrono-alistrath.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-31",
+        "title": "Θερμοπύλες",
+        "season": 4,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-kai-xrono-2022-ep09-thermopiles-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-32",
+        "title": "Λίμνη Κάρλα",
+        "season": 4,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-kai-xrono-limni-karla.png"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-33",
+        "title": "Πλάκα-Η Συνοικία των Θεών",
+        "season": 4,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-kai-xrono-2022-ep11-plaka-i-sinikia-ton-theon-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1c433b6c:apo-petra-kai-khrono-34",
+        "title": "Το Κάστρο του Πλαταμώνα και ο Παλαιός Παντελεήμονας",
+        "season": 4,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apo-petra-kai-chrono/apo-petra-kai-xrono-2022-ep12-to-kastro-tou-platamona-kai-o-paleos-panteleimonas-1021x576.jpg"
+      }
+    ]
+  }
+}

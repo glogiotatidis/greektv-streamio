@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:ca6e851d",
+    "type": "series",
+    "name": "Κάθε Τόπος και Τραγούδι",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/ertflix-kathetopostragoudi-640x360.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/kathe-topos-kai-tragoydi-hbbtv-bg-new-1.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi",
+        "title": "Είναι Ώρες Ώρες Θάλασσα οι Πρέσπες",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-04-14-13h26m40s384.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-1",
+        "title": "To Παιδί στην Παράδοση",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/photos-topos-ep2-9.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-2",
+        "title": "Εδώ το Λένε Σιάτιστα",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-00071.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-3",
+        "title": "Mε τα Χάλκινα στη Σκοπιά",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/vlcsnap-2025-04-14-13h27m47s275.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-4",
+        "title": "Στην Κορυφή του Αιγαίου",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-04-14-13h28m01s285.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-5",
+        "title": "Στο Φως του Λαύκου",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/001-9.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-6",
+        "title": "Μια Κόρη Τρικεριώτισσα",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/photos-4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-7",
+        "title": "Της Γαλήνης του Πηλίου Εραστές",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-04-14-13h30m21s262.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-8",
+        "title": "Οι Καραγκούνες των Σοφάδων",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/sofades-6.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-9",
+        "title": "Χριστούγεννα στα Μαστοροχώρια των Γρεβενών",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/photos3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-10",
+        "title": "Η Πρωτοχρονιά του Ακρίτα",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-04-14-14h14m20s011.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-11",
+        "title": "Στις Μηλιές των Λαζαίων",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-04-14-13h32m15s491.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-18",
+        "title": "Στις Πασχαλιές της Ελλάδας",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ds004072-topos-tragoudi-pasxa-2018-roh-4mbpsmp4-error176.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-12",
+        "title": "Οι Δρόμοι των Χάλκινων",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ktkt-ep01-florina-3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-17",
+        "title": "Με τον Ζουρνά του Καρακώστα",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/kathe-topos-kai-tragoudi-s02-ep2-4mbpsmp4-error434.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-13",
+        "title": "Παιδιά της Σαμαρίνας",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ep03-samarina-main-200-48-41-11still016.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-14",
+        "title": "Στου Έβρου τους Χορούς - Α' Μέρος",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/evros-a-7.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-15",
+        "title": "Στου Έβρου τους Χορούς - Β' Μέρος",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/evros-b-2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoudi-16",
+        "title": "Πρωτοχρονιά στην Αυλή της Παράδοσης",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ktkt020612-flixmp4-error543.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoydi-paxoi-oloythe",
+        "title": "Παξοί Ολούθε!",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/main-timeline-xristina00-25-21-16still009.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoydi-piso-apo-tis-maskes",
+        "title": "Πίσω από τις Μάσκες- Α' Μέρος",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/main-timeline-part-1-gia-export00-27-15-23still010.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoydi-piso-apo-tis-maskes-v-meros",
+        "title": "Πίσω από τις Μάσκες - Β' Μέρος",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/drama-b-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoydi-to-proastio-ton-karagkoynidon",
+        "title": "Το Προάστιο των Καραγκούνηδων",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/to-proastio-ton-karagounidon-5.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoydi-skyros-anemoessa",
+        "title": "Σκύρος Aνεμόεσσα",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ep05-skyros-5.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoydi-sti-vrysi-sta-tseritsana",
+        "title": "Στη Βρύση στα Τσερίτσανα",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ktkt-ep06-lakka-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoydi-i-symfoniki-ton-kostilidon",
+        "title": "Η Συμφωνική των Κωστηλίδων",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/1planakoyrdismatradoydi-100-01-05-10still003.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoydi-to-nisi-tis-sterias",
+        "title": "Το Νησί της Στεριάς",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/main-timeline00-08-10-18still006.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoydi-oi-pazarentzides-tis-naoysas",
+        "title": "Οι Παζαρέντζηδες της Νάουσας",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/main-timeline00-15-50-06still010.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ca6e851d:kathe-topos-kai-tragoydi-i-skytali-tis-paradosis",
+        "title": "Η Σκυτάλη της Παράδοσης",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/ep10-e-skutale-tes-paradoses-1.jpg"
+      }
+    ]
+  }
+}

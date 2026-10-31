@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:6b0343a0",
+    "type": "series",
+    "name": "Από το Χωράφι στο Ράφι",
+    "poster": "https://files2.app.ertflix.gr/2024/series/xorafi/apo-to-xwrafi-sto-rafi-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2024/series/xorafi/apo-to-xwrafi-sto-rafi-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-1",
+        "title": "Baby Leaf",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/series/xorafi/apo-to-xwrafi-sto-rafi-baby-leaf-teliko-4mbpsmp4-error127.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-3",
+        "title": "Σπαράγγι",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/apo-to-xwrafi-sto-rafi-sparaggi-new-4mbpsmp4-error091.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-5",
+        "title": "Αφρόψαρα",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/apo-to-xwrafi-sto-rafi-afropsara-final-4mbpsmp4-error416.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-4",
+        "title": "Τρούφα",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/apo-to-xwrafi-sto-rafi-troyfa-final-4mbpsmp4-error420.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-6",
+        "title": "Κεράσι",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/apo-to-xwrafi-sto-rafi-kerasia-new-final-4mbpsmp4-error153.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-8",
+        "title": "Φράουλα",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/apo-to-xwrafi-fraoyla-4mbpsmp4-error480.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-7",
+        "title": "Κριθάρι - Μπύρα",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/apo-to-xwrafi-sto-rafi-krithari-mpyra-new-final-4mbpsmp4-error311.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-10",
+        "title": "Ροδάκινο",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/apo-to-xwrafi-rodakino-4mbpsmp4-error098.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-44",
+        "title": "Αγκινάρα Τήνου",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds018137-0035-apotoxwrafi-se2-ep35-agkinara-4mbpsmp4-2026-04-08-12h41m40s086.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-43",
+        "title": "Καρίκι Τήνου",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds025007-apotoxwrafi-kariki-thnoymxf-2026-03-30-14h51m18s861.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-42",
+        "title": "Bιομηχανικό Σπανάκι",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds025006-apotoxwrafi-se02-ep33-biomhxaniko-spanaki-4mbpsmp4-2026-03-20-13h14m41s578.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-41",
+        "title": "Mαύρος Χοίρος",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/apotoxwrafi-mayros-xoiros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-40",
+        "title": "Μαστίχα Χίου",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds015198-apotoxwrafi-s2-ep31-mastiha-xioy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-39",
+        "title": "Ψάρια Γλυκού Νερού",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/apotoxwrafi-psaria-glykoy-neroy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-38",
+        "title": "Πέστροφα",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/apotoxwrafi-se02-ep29-pestrofa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-37",
+        "title": "Aυγοτάραχο",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/apotoxwrafi-se02-ep28-aygotaraxo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-36",
+        "title": "Best Of | Μέρος Δ'",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/apotoxwrafi-bestof-no4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-35",
+        "title": "Ακτινίδιο",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/apotoxwrafi-aktinidio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-34",
+        "title": "Αλυκές Μεσολογγίου",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/apotoxwrafi-alykes-mesologgioy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-31",
+        "title": "Αρσενικό Νάξου",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/apotoxwrafi-arseniko-naxou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-33",
+        "title": "Πατάτα Κάτω Νευροκοπίου",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/apotoxwrafi-patata-neyrokopioy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-32",
+        "title": "Γραβιέρα Αμφιλοχίας",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/apotoxwrafi-graviera-amfiloxiasmxf-2025-11-26-13h26m38s750.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-30",
+        "title": "Αχλάδι",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/apotoxwrafistorafi-axladi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-29",
+        "title": "Βιομηχανικό Ντοματάκι",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/apo-to-xwrafi-sto-rafi-biomhxaniko-ntomataki-1611.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-28",
+        "title": "Φάβα Σχοινούσας",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/apotoxwrafistorafi-fava.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-27",
+        "title": "Γραβιέρα Νάξου",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ds012353-apotoxwrafistorafi-grabiera-naxoy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-26",
+        "title": "Best Of | Μέρος Γ'",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-15-12h12m10s286.png"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-25",
+        "title": "Best Of | Μέρος Β'",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-10-10h35m15s982.png"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-24",
+        "title": "Best Of | Μέρος Α'",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-10-01-13h57m58s258.png"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-23",
+        "title": "Πορτοκάλι",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-06-13-15h19m05s248.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-22",
+        "title": "Αγγούρι",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-06-07-12h47m25s882.png"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-21",
+        "title": "Αβοκάντο",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/avocando.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-20",
+        "title": "Λεμόνι",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/apo-to-xwrafi-ep11-lemoni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-19",
+        "title": "Βουβάλια",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-14-11h00m46s131.png"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-18",
+        "title": "Μπανάνα",
+        "season": 2,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/apo-to-xwrafi-banana-4mbpsmp4-2025-04-30-10h35m25s880.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-17",
+        "title": "Πράσο",
+        "season": 2,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-04-17-09h54m46s119.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-16",
+        "title": "Σουσάμι - Ταχίνι",
+        "season": 2,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-04-11-10h27m51s282.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-15",
+        "title": "Ελιά Θρούμπα, Θάσος",
+        "season": 2,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/elia-throumpa-2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-14",
+        "title": "Καρπούζι",
+        "season": 2,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/apotoxwrafi-karpoyzi-final-4mbpsmp4-error210.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-13",
+        "title": "Ρύζι",
+        "season": 2,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-01-16-10h12m26s273.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-12",
+        "title": "Ελιά",
+        "season": 2,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/apo-to-xwrafi-sto-rafi-elia-4mbpsmp4-error719.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-11",
+        "title": "Τρύγος - Τσίπουρο",
+        "season": 2,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/xwrafi-tsipoyro-4mbpsmp4-error165.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-9",
+        "title": "Μετάξι",
+        "season": 2,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/metaxi-4mbpsmp4-error292.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-45",
+        "title": "Κεφαλοτύρι Κεφαλονιάς",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/apotoxwrafi-ep01-kefalotyri-4mbpsmp4-2026-10-02-15h20m17s602.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-46",
+        "title": "Πρέντζα Κεφαλλονιάς",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/apotoxwrafi-s03-ep02-prentza-kefallonias-4mbpsmp4-2026-10-08-17h42m21s115.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-47",
+        "title": "Βασιλικός Πολτός",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/apotoxwrafi-s03-ep03-basilikos-poltos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6b0343a0:apo-to-khoraphi-sto-raphi-48",
+        "title": "Προϊόντα Κυψέλης, Κερί, Πρόπολη",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/apo-xwrafi-ep04-proionta-kypselhs-keri-propolh-4mbpsmp4-2026-10-20-12h00m55s719.jpg"
+      }
+    ]
+  }
+}

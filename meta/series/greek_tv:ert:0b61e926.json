@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:0b61e926",
+    "type": "series",
+    "name": "Όνειρο Ήταν",
+    "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/oneirohtan-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/oneirohtan-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-1",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/260768.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-2",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/260791.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-4",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/260795.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-3",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/260812.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-5",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/260924.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-6",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/260929.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-7",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/260939.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-8",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/260949.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-9",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/260956.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-10",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/261602.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-11",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/261604.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-12",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/261621.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-13",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/261626.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-14",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/261633.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-15",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/261820.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-16",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/262023.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-17",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/262057.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-18",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/262070.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-19",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/262093.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b61e926:oneiro-etan-20",
+        "title": "Όνειρο Ήταν",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/262106.jpg"
+      }
+    ]
+  }
+}

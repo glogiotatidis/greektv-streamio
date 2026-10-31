@@ -1,28 +1,10 @@
 {
   "metas": [
     {
-      "id": "greek_tv:mega_tv:b1d9fcd8",
-      "type": "series",
-      "name": "Πάμε μια Βόλτα;",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/Image_pame_mia_volta_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:f8ebfab5",
-      "type": "series",
-      "name": "Στον Δρόμο για το 5άρι",
-      "poster": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:538e4c9e",
       "type": "series",
       "name": "Mega Ζην",
       "poster": "https://www.megatv.com/wp-content/uploads/2019/06/megaZin-1.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:ada42966",
-      "type": "series",
-      "name": "Markos by Night",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/03/MARKOS-BY-NIGHT_Image_960x600.jpg"
     },
     {
       "id": "greek_tv:mega_tv:5e6158e2",
@@ -31,10 +13,28 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2025/09/Image_para5_960X600_3.jpg"
     },
     {
+      "id": "greek_tv:mega_tv:ada42966",
+      "type": "series",
+      "name": "Markos by Night",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/03/MARKOS-BY-NIGHT_Image_960x600.jpg"
+    },
+    {
       "id": "greek_tv:mega_tv:db76fffc",
       "type": "series",
       "name": "Αλ Τσαντίρι Νιουζ",
       "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:f8ebfab5",
+      "type": "series",
+      "name": "Στον Δρόμο για το 5άρι",
+      "poster": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:b1d9fcd8",
+      "type": "series",
+      "name": "Πάμε μια Βόλτα;",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/Image_pame_mia_volta_960X600.jpg"
     },
     {
       "id": "greek_tv:mega_tv:d15612a7",
@@ -85,16 +85,16 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2026/03/AGIA-FILOTHEH_Image_960X600.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:824d3278",
-      "type": "series",
-      "name": "ΣΟΦΙΑ ΒΕΜΠΟ, Η ΦΩΝΗ ΠΟΥ ΝΙΚΗΣΕ ΤΟΝ ΦΑΣΙΣΜΟ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2025/10/27-1024x576.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:1c68e2a3",
       "type": "series",
       "name": "Κύριλλος & Μεθόδιος: Οι Φωτιστές των Σλάβων",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/03/KYRILOS_Image_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:824d3278",
+      "type": "series",
+      "name": "ΣΟΦΙΑ ΒΕΜΠΟ, Η ΦΩΝΗ ΠΟΥ ΝΙΚΗΣΕ ΤΟΝ ΦΑΣΙΣΜΟ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2025/10/27-1024x576.jpg"
     },
     {
       "id": "greek_tv:mega_tv:845da4c5",

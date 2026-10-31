@@ -1,0 +1,445 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:9cf4d351",
+    "type": "series",
+    "name": "Καλά θα Πάει κι Αυτό",
+    "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/new-eikastika/kala-tha-paei-ki-ayto-ertflix-img-cc.jpg",
+    "background": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/new-eikastika/kala-tha-paei-ki-ayto-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-2",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-afto-s01-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-3",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-afto-s01-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-4",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-afto-s01-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-5",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-afto-s01-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-6",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-afto-s01-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-7",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-afto-s01-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-8",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-afto-s01-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-9",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-auto-s01-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-10",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-ki-ayto-s01-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-11",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-afto-s01-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-12",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-afto-s01-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-13",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-afto-s01-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-14",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-afto-s01-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-15",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-afto-s01-ep14.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-16",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-afto-s01-ep15.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-17",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-tha-paei-kai-afto-s01-ep16.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-18",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047449-kala-tha-paei-kai-afto-s01-ep17.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-19",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047450-kala-tha-paei-kai-afto-s01-ep18-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-20",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047451-kala-tha-paei-kai-afto-s01-ep19.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-21",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047452-kala-tha-paei-kai-afto-s01-ep20.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-22",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047453-kala-tha-paei-kai-afto-s01-ep21-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-23",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047454-kala-tha-paei-kai-afto-s01-ep22.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-24",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047455-kala-tha-paei-kai-afto-s01-ep23.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-25",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047456-kala-tha-paei-kai-afto-s01-ep24.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-26",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047457-kala-tha-paei-auto-s01-ep25.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-27",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047458-kala-tha-paei-kai-afto-s01-ep26.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-28",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047459-kala-tha-paei-kai-auto-s01-ep27.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-29",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047460-kala-tha-paei-kai-auto-s01-028.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-30",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047461-kala-tha-paei-kai-auto-s01-ep29.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-31",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047462-kala-tha-paei-kai-auto-s01-ep30.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-32",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047463-kala-tha-paei-kai-auto-s01-ep31.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-33",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047464-kala-tha-paei-kai-auto-s01-ep32.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-34",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047465-kala-tha-paei-kai-auto-s01-ep33.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-35",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047466-kala-tha-paei-kai-auto-s01-ep34.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-36",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047467-kala-tha-paei-kai-auto-s01-ep35.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-37",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047468-kala-tha-paei-kai-auto-s01-ep36.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-38",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047469-kala-tha-paei-kai-auto-s01-ep37.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-39",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047470-kala-tha-paei-kai-auto-s01-ep38.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-40",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047471-kala-tha-paei-kai-auto-s01-ep39.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-41",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047472-kala-ua-paei-ki-ayto-kala-ua-paei-ki-ayto-se-001ep-040.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-43",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047474-kala-ua-paei-ki-ayto-s01-ep42.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-44",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047475-kala-ua-paei-ki-ayto-s01-ep43.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-45",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/kala-ua-paei-ki-ayto-s01-ep4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-47",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047477-kala-tha-paei-kai-afto-s01-ep45.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-46",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047478-kala-tha-paei-kai-afto-s01-ep46.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-48",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047479-kala-tha-paei-kai-afto-s01-ep47.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-49",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps047480-kala-tha-paei-kai-afto-s01-ep48.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-50",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps048990-kala-tha-paei-kai-afto-s01-ep49.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-51",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps049713-kala-tha-paei-kai-afto-s01-ep50.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-52",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps049866-kala-tha-paei-kai-afto-s01-ep51.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-53",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps049920-kala-tha-paei-kai-afto-s01-ep52.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-54",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps049921-kala-tha-paei-kai-afto-s01-ep53.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-55",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps049922-kala-tha-paei-kai-afto-s01-ep54.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-56",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps049923-kala-tha-paei-kai-afto-s01-ep55.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-57",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 56,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps049924-kala-tha-paei-kai-afto-s01-ep56.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-58",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps049925-kala-tha-paei-kai-afto-s01-ep57.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-59",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps049926-kala-tha-paei-kai-afto-s01-ep58.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-60",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps049927-kala-tha-paei-kai-afto-s01-ep59.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-61",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps049928-kala-tha-paei-auto-ep60.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-62",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps049929-kala-ua-paei-ki-ayto-kala-ua-paei-ki-ayto-se-001ep-061.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-63",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 62,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps049930-kala-tha-paei-kai-afto-s01-ep62.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cf4d351:kala-tha-paei-ki-auto-64",
+        "title": "Καλά θα Πάει κι Αυτό",
+        "season": 1,
+        "episode": 63,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/ps049931-kala-tha-paei-kai-afto-s01-ep63.jpg"
+      }
+    ]
+  }
+}

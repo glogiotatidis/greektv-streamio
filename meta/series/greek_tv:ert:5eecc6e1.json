@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:5eecc6e1",
+    "type": "series",
+    "name": "Πράσινες Ιστορίες",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-agriogido-flora-greca-schoinias",
+        "title": "Αγριόγιδο - Flora Greca - Σχοινιάς",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/3green-stories-ep1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-acheloos-tram-perithalpsi-agrion-zoon",
+        "title": "Αχελώος - Τραμ - Περίθαλψη Άγριων Ζώων",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/4green-stories-ep1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-arkoyda-peliti-apokatastasi-orycheion",
+        "title": "Αρκούδα - Πελίτι - Αποκατάσταση Oρυχείων",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/3green-stories-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-lykos-programma-life-ip-4-natura-idryma-gia-tis-kyklades",
+        "title": "Λύκος - Πρόγραμμα LIFE IP 4 NATURA – Ίδρυμα για τις Κυκλάδες",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-s01-ep04-4mbpslukos3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-ochia-miloy-eyonymos-vivliothiki-topio",
+        "title": "Οχιά Μήλου - Ευώνυμος βιβλιοθήκη - Τοπίο",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/7green-stories-ep05-25p.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-ethniko-parko-dadias-leykimis-soyflioy-partheno-dasos-fraktoy",
+        "title": "Εθνικό Πάρκο Δαδιάς Λευκίμης Σουφλίου - Παρθένο Δάσος Φρακτού",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/7green-stories-ep-06-mixed.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-1",
+        "title": "Greenpeace - Θυρόφραγμα Πρέσπας - Εθνικός Δρυμός Ολύμπου",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/5green-stories-ep07-color-audio-final.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-2",
+        "title": "Περιοχές άνευ Δρόμων - Νέφος Αθήνας - Πάρκο Πάρου",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/2green-stories-ep08-color-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-4",
+        "title": "Περιοχές Πειραιάς - Οίτη - Αλιβέρι",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-s02-ep01-4mbpsmp4-error372.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-5",
+        "title": "Αλφειός - Σπερχειός - Bοιδοκοιλιά",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-s02-ep02-4mbpsmp4-2021-12-29-09h53m59s960.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-6",
+        "title": "Κερκίνη - Ελληνική Χλωρίδα - Χορεύτρια Ακρίδα",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-s02-ep03-4mbpsmp4-error600.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-7",
+        "title": "ΑΡΧΕΛΩΝ – Πόρος, Χωριό Πελαργών",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/prasines-istories-s02-ep04-antik-4mbpsmp4-error411.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-8",
+        "title": "Kερκίνη - Λάζαρος Παμπέρης – Πεταλούδες και WWF HELLAS",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-s02-ep05-antik-4mbpsmp4-error716.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-9",
+        "title": "Αώος - Χρυσαετός",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/prasines-istories-s02-ep06-aoos-xrysaeto-4mbpsmp4-error364.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-10",
+        "title": "Λαγόγυρος - Ιστία Αιγαίου - Καλούστ Παραγκαμνιάν",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-s02-ep07-4mbpsmp4-2022-02-02-12h27m39s812.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-11",
+        "title": "Ε. Bergmeier - Σπόγγοι - Tim Salmon",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-s02-ep08-4mbpsmp4-2022-02-10-09h59m17s008.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-12",
+        "title": "Γρηγόρης Τσούνης - Βίδρα - Ιστορικό Πυρκαγιών",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-s02-ep09-4mbpsmp4-2022-02-11-11h14m20s057.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-13",
+        "title": "Οροπέδιο Λασιθίου - Πίννα - Χριστιάννα Βαρδάκου",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-s02-ep10-4mbpsmp4-error511.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-14",
+        "title": "Αλέξανδρος Φραντζής",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-s3-ep1-4mbpsmp4-error772.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-15",
+        "title": "Μαυροπετρίτης - Αμβρακικός Κόλπος",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-s03-ep02-v3-4mbpsmp4-error495.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-16",
+        "title": "Ιερά Δάση",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-s03-ep03-iera-dash-4mbpsmp4-error185.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-17",
+        "title": "Έλκος Καστανιάς - Ορνιθολογικός Σταθμός Αντικυθήρων",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-stories-s3-ep-04-elkos-kastanias-v2-4mbpsmp4-error737.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-18",
+        "title": "Λίμνη Κάρλα - Γιώργος Σφήκας",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-stories3-ep05-v2-4mbpsmp4-error024.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-19",
+        "title": "Κήποι του Ιπποκράτη",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-s03-ep06-new-4mbpsmp4-2023-03-09-16h09m30s521.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-21",
+        "title": "Αγριόγατα – Γιάλοβα / Ν.Ε.Ο. – Ελαιόδεντρα ΕΡΓΟΣΕ",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/prasines-istories03-ep07-n-4mbpsmp4-error030.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-20",
+        "title": "Κιρκινέζι - Νηλέας",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/prasines-istories3-ep08-v1-4mbpsmp4-error977.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-22",
+        "title": "Παναγιώτης Μανίκης - Φυσική Καλλιέργεια",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/prasines-istories3-ep09-4mbpsmp4-error992.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5eecc6e1:prasines-istories-23",
+        "title": "Αργυροπελεκάνος - Πρέσπα",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/gs3-ep10-trailer-4mbpsmp4-2023-05-04-10h27m21s159.jpg"
+      }
+    ]
+  }
+}

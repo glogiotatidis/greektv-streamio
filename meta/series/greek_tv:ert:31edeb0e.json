@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:31edeb0e",
+    "type": "series",
+    "name": "Επικίνδυνες",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikindynes-ertflix-poster.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikindynes-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:31edeb0e:oi-epikindunes-xupnoun",
+        "title": "Οι Επικίνδυνες ξυπνούν",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2022/2/epikindines1-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-1",
+        "title": "Επικίνδυνες για να μη λείψει ποτέ άλλη καμία",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2022/2/epikindines2-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-2",
+        "title": "Επικίνδυνες σε κίνδυνο",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikyndines-epikyndines-se-kindyno-s01-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-3",
+        "title": "Επικίνδυνοι Επικίνδυνες Επικίνδυνα",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikindynes-s01-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-4",
+        "title": "Επικίνδυνες καθημερινά",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikyndines-oi-epikindynes-kathimerina-s01-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-5",
+        "title": "Επικίνδυνα εργαζόμενα κορίτσια",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2022/2/epikindines6-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-6",
+        "title": "Επικίνδυνοι Ρόλοι",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikindynes-epikindynoi-roloi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-7",
+        "title": "Επικίνδυνες σε δημόσια θέα",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikindines-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-8",
+        "title": "Επικίνδυνα μυαλά",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikyndines-epikyndina-myala-s01-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-9",
+        "title": "Ελεύθερες Επικίνδυνες",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/epikindynes/3-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-10",
+        "title": "Επικίνδυνες πολιτικές αποστολές",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikyndines-politikes-apostoles-s01-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-11",
+        "title": "Επικίνδυνη προς Επικίνδυνη",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikyndines-epikyndini-pros-epikyndini-s01-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-12",
+        "title": "Επικίνδυνες δημιουργώντας",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikyndines-dimiourgontas-s01-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-13",
+        "title": "Επικίνδυνη Αναπηρία",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikindyni-anapiria-cc/epikindynes-anaphries-img-cc.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-14",
+        "title": "Εμπόλεμα Επικίνδυνες",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikyndines-empolema-epikyndines.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-15",
+        "title": "Ορθώς Επικίνδυνες",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikyndines-orthos-epikyndines.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-16",
+        "title": "Οικονομικά Επικίνδυνες",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikyndines-oikonomika-epikyndines.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-17",
+        "title": "Επικίνδυνα Ηνία",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikindynes-epikindyna-inia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-18",
+        "title": "Επικίνδυνοι Σύμμαχοι",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikindynes-epikindynoi-symmahoi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-19",
+        "title": "Επικίνδυνο κλίμα",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikindynes-epikindyno-klima.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-20",
+        "title": "Επικίνδυνα πρότυπα",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikindynes-epikindyna-protypa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-21",
+        "title": "Επικίνδυνη φροντίδα",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikindynes-epikindyni-frondida.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-22",
+        "title": "Επικίνδυνη Ομογονεϊκότητα",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikindynes-epikindyni-omogoneikotita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-23",
+        "title": "Εκδικητικά Επικίνδυνοι",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikyndines-ekdikitika-epikyndinoi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:31edeb0e:epikindunes-24",
+        "title": "Επικίνδυνα Σώματα",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epikindynes/epikyndines-epikindyna-swmata.jpg"
+      }
+    ]
+  }
+}

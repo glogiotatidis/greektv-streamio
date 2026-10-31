@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:ae64ad1f",
+    "type": "series",
+    "name": "Η Ζωή και το Έργο του Γέροντα Παΐσιου",
+    "poster": "https://files2.app.ertflix.gr/2025/series/paisios/h-zwh-kai-to-ergo-geronta-paisiou-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2025/series/paisios/h-zwh-kai-to-ergo-geronta-paisiou-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:ae64ad1f:e-zoe-kai-to-ergo-tou-geronta-paisiou-1",
+        "title": "Η Ζωή και το Έργο του Γέροντα Παΐσιου",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/series/paisios/vlcsnap-2025-04-15-12h54m40s833.jpg"
+      },
+      {
+        "id": "greek_tv:ert:ae64ad1f:e-zoe-kai-to-ergo-tou-geronta-paisiou-2",
+        "title": "Η Ζωή και το Έργο του Γέροντα Παΐσιου",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-04-15-12h55m01s768.jpg"
+      }
+    ]
+  }
+}

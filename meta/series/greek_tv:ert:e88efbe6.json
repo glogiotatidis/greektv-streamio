@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:e88efbe6",
+    "type": "series",
+    "name": "Έφηβοι Χωρίς Φίλτρα",
+    "poster": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/efivoichorisfiltra-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/efivoichorisfiltra-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:e88efbe6:epheboi-khoris-philtra-12",
+        "title": "Revenge Porn, Dating, Sexting, Εκδικητική Πορνογραφία",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/ps044499-efhboi-xwris-filtra-revenge-porn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e88efbe6:epheboi-khoris-philtra-11",
+        "title": "Κοινωνικό Εφηβικό Άγχος και Κρίσεις Πανικού",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/ps044498-efhboi-xwris-filtra-koinwniko-agxos-efhbeia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e88efbe6:epheboi-khoris-philtra-10",
+        "title": "Μοναξιά στη Ψηφιακή Εποχή",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/ps044497-efivoi-xoris-filtra-psifiaki-epochi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e88efbe6:epheboi-khoris-philtra-9",
+        "title": "Αυτισμός και ΔΕΠΥ",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/ps044496-efivoi-xoris-filtra-autismos-depy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e88efbe6:epheboi-khoris-philtra-8",
+        "title": "Οικογενειακές Υποθέσεις",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/ps044495-efivoi-xoris-filtra-family-matters.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e88efbe6:epheboi-khoris-philtra-6",
+        "title": "Εθισμός και Καταχρήσεις στην Εφηβεία",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/ps044494-efivoi-xoris-filtra-ethismos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e88efbe6:epheboi-khoris-philtra-7",
+        "title": "Διατροφικές Διαταραχές στην Εφηβεία",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/ps044493-efhboi-xwris-filtra-diatrofikes-diataraxes-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e88efbe6:epheboi-khoris-philtra-5",
+        "title": "Σεξουαλικός Προσανατολισμός και Ταυτότητα Φύλου",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/ps044492-efivoi-xoris-filtra-sexoualikos-prosanatolismos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e88efbe6:epheboi-khoris-philtra-4",
+        "title": "Από τη Βία στην Παραβατικότητα - Πώς η Οργή Μετατρέπεται σε Πράξη",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/ps044491-efivoi-xoris-filtra-paravatikotita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e88efbe6:epheboi-khoris-philtra-3",
+        "title": "Από το Μπούλινγκ στη Βία",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/ps044490-efhboi-xoris-filtra-apo-to-bullying-sth-bia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e88efbe6:epheboi-khoris-philtra-2",
+        "title": "Μπούλινγκ - Όταν το Παιχνίδι Γίνεται Επίθεση",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/ps044489-efivoi-xoris-filtra-efivos-k-bullying.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e88efbe6:epheboi-khoris-philtra-1",
+        "title": "Τι Είναι Εφηβεία",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/ps044488-efivoi-xoris-filtra-ti-einai-efiveia.jpg"
+      }
+    ]
+  }
+}

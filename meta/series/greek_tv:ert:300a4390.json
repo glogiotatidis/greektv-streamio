@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:300a4390",
+    "type": "series",
+    "name": "Όψον και Ψαλμός",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-opson-psalmos-500x750.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/opson-psalmos-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:300a4390:opson-kai-psalmos-oi-agioreitikes-syntages-toy-monachoy-epifanioy-ep1",
+        "title": "Χταπόδι με Λαδερά Φασολάκια και Αχνιστή Χταποδόσουπα Σαρακοστής, Χταπόδι Λεμονάτο, Ταχινόσουπα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/opson-kai-psalmos1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:300a4390:opson-kai-psalmos-oi-agioreitikes-syntages-toy-monachoy-epifanioy-ep2",
+        "title": "Πιπεριές Γεμιστές, Φασόλια Γίγαντες Αγιορείτικοι, Σούπα με Πράσα Αγκινάρες με Κουκιά , Κοτόσουπα και Χαλβάς Σιμιγδαλένιος Αγίου Όρους",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/opson-kai-psalmos2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:300a4390:opson-kai-psalmos-oi-agioreitikes-syntages-toy-monachoy-epifanioy-ep3",
+        "title": "Κολοκυθόσουπα και Κολοκυθοκεφτέδες, Σπανακόρυζο και Σουπιές με Σπανάκι",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/opson-kai-psalmos3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:300a4390:opson-kai-psalmos-oi-agioreitikes-syntages-toy-monachoy-epifanioy-ep4",
+        "title": "Ριγανοκεφτέδες και Ριζόπιτα γλυκιά, Ροφός με Αγκινάρες και Ροφός Ψαρόσουπα Αυγολέμονο",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/opson-kai-psalmos4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:300a4390:opson-kai-psalmos-oi-agioreitikes-syntages-toy-monachoy-epifanioy-ep5",
+        "title": "Σαλάτα Μανιτάρια και Γαύρο Τηγανιτό με Χταποδοκεφτεδες, Ψάρια Τηγανιτά με Παντζάρια Σκορδαλιά και Μελιτζάνες Φούρνου",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/opson-kai-psalmos5.jpg"
+      },
+      {
+        "id": "greek_tv:ert:300a4390:opson-kai-psalmos-oi-agioreitikes-syntages-toy-monachoy-epifanioy-ep6",
+        "title": "Γαύρος Φούρνου με Ντομάτα και Φάβα και Σαλάτα Μαρούλι, Βακαλάος Παστός με Κολοκυθάκια και Φασόλια Μαυρομάτικα",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/opson-kai-psalmos6.jpg"
+      }
+    ]
+  }
+}

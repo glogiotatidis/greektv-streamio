@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:141c6d14",
+    "type": "series",
+    "name": "Κείμενα του '21",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-keimena21-640x360.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/keimena-tou-21-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:141c6d14:keimena-tou-3",
+        "title": "Ο Πόλεμος των Ελλήνων",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/keimena-tou-21-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:141c6d14:keimena-tou-4",
+        "title": "Η Άφιξη του Υψηλάντη στην Ελλάδα και η Άλωση της Τριπολιτσάς",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/20210529-keimena-tou-21-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:141c6d14:keimena-tou-5",
+        "title": "Ο Πόλεμος και τα Δεινά του",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/20210612-keimena-tou-21-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:141c6d14:keimena-tou-6",
+        "title": "Τα Δερβενάκια, ο Φιλελληνισμός και τα Δάνεια του Αγώνα",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/20210703-keimena-tou-21-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:141c6d14:keimena-tou-7",
+        "title": "Οι Εμφύλιοι Πόλεμοι",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/keimena-21-tzanetakos-euthimiou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:141c6d14:keimena-tou-8",
+        "title": "Η Επαναστάση Πριν απο την Έλευση του Ιμπραήμ στην Πελοπόννησο",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/keimena-tou-21-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:141c6d14:keimena-tou-9",
+        "title": "Οι Έλληνες Κατά του Ιμπραήμ - Μέρος 2ο",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/keimena-tou-21-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:141c6d14:keimena-tou-10",
+        "title": "Η Έξοδος του Μεσολογγίου",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/keimena-tou-21/keimena-tou-21-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:141c6d14:keimena-tou-11",
+        "title": "Η Επανάσταση Μετά το Μεσολόγγι και η Παρέμβαση των Ξένων",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/keimena-tou-21/keimena-tou-21-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:141c6d14:keimena-tou-12",
+        "title": "Η Πορεία προς την Τελική Νίκη",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/keimena-tou-21/keimena-tou-21-ep12.jpg"
+      }
+    ]
+  }
+}

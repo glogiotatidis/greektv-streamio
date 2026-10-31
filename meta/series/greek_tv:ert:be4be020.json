@@ -1,0 +1,543 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:be4be020",
+    "type": "series",
+    "name": "365 Στιγμές",
+    "poster": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/season-05/365-stigmes-2026-2027-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/season-05/365-stigmes-2026-27-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-1",
+        "title": "Ανατολικό Αιγαίο",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep01-anatoliko-aigaio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-2",
+        "title": "Το 18μηνο της Προσωρινής Κράτησης",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-3",
+        "title": "Στα Σύνορα του Έβρου",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep03-sta-synora-tou-evrou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-4",
+        "title": "Στο Αθέατο Κέντρο της Αθήνας",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/vlcsnap-2022-12-06-17h48m15s465.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-5",
+        "title": "Άγραφα, η Αναγέννηση της πιο Γερασμένης Περιοχής της Ευρώπης",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep05-agrafa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-6",
+        "title": "Από την Κρίση των Ιμίων στην Προσφορά στα Ακριτικά Νησιά",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-7",
+        "title": "Δωρεά Οργάνων",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-8",
+        "title": "Τα Γεγονότα της Κρίσης των Ιμίων",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep08-imia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-9",
+        "title": "Οι Κρατούμενοι Φοιτητές των Φυλακών Κορυδαλλού",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-oi-kratoumenoi-foitites-ton-filakon-koridallou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-10",
+        "title": "Οι Έλληνες Ομογενείς και οι Ελληνικές Επιχειρήσεις στην Αλβανία",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep-10-oi-ellines-omogeneis-k-oi-ellinikes-epixeiriseis-alvania-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-11",
+        "title": "Η Ζωή των Τρανς Ατόμων",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-i-zoi-ton-trans-atomon.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-12",
+        "title": "Συμμορίες Ανηλίκων",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep012-symmories-anilikon.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-13",
+        "title": "Το Ναυάγιο του Όρια και οι Χαμένοι Ιταλοί Στρατιώτες",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep013-navagio-toy-oria-kai-oi-xamenoi-italoi-stratiotes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-14",
+        "title": "Οικογένειες που Ξεπέρασαν τα Στερεότυπα",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep014-oikogenies-pou-kseperasan-ta-stereotipa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-15",
+        "title": "Άνθρωποι που Zουν Mόνοι τους σε Aπομονωμένα Mέρη",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/22512.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-16",
+        "title": "Εκδικητική Πορνογραφία, Σεξουαλική Κακοποίηση Μέσω Διαδικτύου, Ψηφιακοί Εκβιασμοί",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep16-revenge-porn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-17",
+        "title": "Φινλανδία, η πιο Ευτυχισμένη Χώρα του Κόσμου",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep17-finlandia-h-pio-eftyxismenh-xwra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-18",
+        "title": "Τέως Βασιλική Οικογένεια",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep18-teos-vasiliki-oikogeneia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-19",
+        "title": "Φύση και Άνθρωπος",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s02-ep01-h-egataleipsh-twn-ellhnikwn-daswn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-20",
+        "title": "Άνθρωποι σε Tόπους που Ερήμωσαν",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s02-ep02-anthropoi-se-topous-pou-erhmwsan.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-21",
+        "title": "Οι Άγνωστες Ιστορίες του \"Αδρίας\" και της Κοπής του \" Έλλη\"",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20231028.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-22",
+        "title": "Οι Δασκάλες των Γκέτο",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20231113-365-stigmes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-23",
+        "title": "Οι Διαφορετικές Όψεις του Κέντρου της Αθήνας",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20231127-365-stigmes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-24",
+        "title": "Ο Ελληνισμός στα Πριγκηπόννησα",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20231211-365-stigmes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-25",
+        "title": "Η Νέα Γενιά των Κωνσταντινουπολιτών",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20231225-365-stigmes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-26",
+        "title": "Γράμμος, τα Χωριά του Εμφυλίου",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s02-ep08-grammos-ta-xoria-tou-emfiliou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-27",
+        "title": "Τα Intersex Άτομα στην Ελλάδα",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20240122-365-stigmes-s02-ep09-ta-intersex-atoma-stin-ellada.png"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-28",
+        "title": "Η Διαφορετική Πλευρά των Ναρκωτικών",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20240205-365-stigmes-s02-ep10-i-diaforetiki-plevra-ton-narkotikon.png"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-29",
+        "title": "24 Ώρες στις Αεροδιακομιδές του ΕΚΑΒ",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s02-ep11-ekab.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-30",
+        "title": "Μεγαλώνοντας Διαφορετικά",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-ep12-megalonontas-diaforetika-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-31",
+        "title": "Το Ξεχασμένο Άνω Πωγώνι στην Αλβανία",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-anw-pwgwni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-32",
+        "title": "Ενδοοικογενειακή Βία και Γυναικοκτονίες",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s02-ep14-endoikogeniakh-via.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-33",
+        "title": "Οι Έλληνες Ανθρακωρύχοι του Βελγίου",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-oi-ellines-anthrakorixoi-tou-velgiou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-34",
+        "title": "Ο Ελληνισμός στον Σημερινό Πόντο",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s02-ep16-o-ellinismos-ston-simerino-ponto.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-35",
+        "title": "Η Μυστική Αποστολή του Πλοίου «Φαέθων» στην Κύπρο",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s02-ep16-i-mystiki-apostoli-tou-ploiou-faethon-stin-kypro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-36",
+        "title": "Τα Νησιά που Διεκδικούν την Ομηρική Ιθάκη",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20240527-365-stigmes-s02-ep18-ta-nissia-pou-diekdikoun-tin-omiriki-ithaki.png"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-37",
+        "title": "28η Οκτωβρίου 1940, Οι Πρώτες Μέρες του Πολέμου | 28.10.24",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s03-ep01-28101940-oi-prwtes-meres-tou-polemou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-38",
+        "title": "Διατροφικές Διαταραχές: Αναζητώντας το «Τέλειο» Σώμα | 11.11.24",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s03-ep02-anazitwntas-to-teleio-swma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-39",
+        "title": "Ζουράφα, το Βορειοανατολικότερο Άκρο της Ελλάδας | 25.11.24",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s03-ep03-zourafa-to-voreioanatolikotero-akro-tis-elladas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-40",
+        "title": "Diane von Furstenberg | 09.12.24",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s03-ep04-diane.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-41",
+        "title": "Δύο Νησιά στον Α’ Παγκόσμιο Πόλεμο | 23.12.24",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s03-ep05-dyo-nhsia-ston-a-pagosmio-polemo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-42",
+        "title": "Τουρκοκρητικοί - Οι Άλλοι Ανταλλάξιμοι | 06.01.25",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s03-ep06-tourkokritikoi-oi-alloi-antalaximoi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-43",
+        "title": "Ιωάννινα: Ο Ελληνικός Παράδεισος της Καινοτομίας και των Ψηφιακών Νομάδων | 03.02.25",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s03-ep07-ioannina-o-ellinikos-paradeisos-tis-kainotomias-kai-ton-psifiakon-nomadon.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-44",
+        "title": "Σαντορίνη: Το «Ξύπνημα» της Φύσης | 17.02.25",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20250217-365-stigmes-santorini.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-45",
+        "title": "Το Μυστικό της Βαλίτσας | 03.03.25",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20250303-365-stigmes-to-mystiko-tis-valitsas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-46",
+        "title": "Ο Λόρδος Βύρωνας και η Έξοδος του Μεσολογγίου | 17.03.25",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20250317-365-stigmes-o-lordos-byrwnas-kai-h-exodos-tou-mesologiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-47",
+        "title": "Οι Βλάχοι της Ελλάδας | 14.04.25",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20250414-365-stigmes-oi-vlaxoi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-48",
+        "title": "Η Εγκατάλειψη των Ελληνικών Βουνών | 28.04.25",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-h-egkatalipsh-twn-ellhnikwn-vounwn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-49",
+        "title": "Κίμωλος: Το Νησί που Προσπαθεί να Αντισταθεί στον Υπερτουρισμό | 12.05.25",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20250512-365-stigmes-kimolos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-50",
+        "title": "Δίνοντας, Ξανά, Ζωή στα Ελληνικά Βουνά | 26.05.25",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s03-e14-dinontas-ksana-zoi-ellinika-vouna-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-51",
+        "title": "Η Μάχη για το Νερό | 09.06.25",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s03-e15.png"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-52",
+        "title": "Άνοια, η Επόμενη Πανδημία | 29.06.25",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s03-anoia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-53",
+        "title": "Η Αλλαγή του Κλίματος και οι Άνθρωποι | 07.07.25",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20250707-365-stigmes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-54",
+        "title": "Μεγαλώνοντας σε Ιδρύματα | 02.10.25",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s04-ep01-megalwnontas-se-orfanotrofia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-55",
+        "title": "Οι Έλληνες του Γκέρλιτς | 16.10.25",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20251016-365-stigmes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-56",
+        "title": "Τα Παιδιά του Πολέμου | 30.10.25",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20251030-365-stigmes-s04-ep03-ta-paidia-tou-polemou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-57",
+        "title": "Το Φονικό στα Βορίζια | 13.11.25",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s04-ep04-vorizia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-58",
+        "title": "Ο Αυτισμός στην Ελλάδα | 27.11.25",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s04-e05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-59",
+        "title": "Το Ναυάγιο του Πλοίου Χρυσή Αυγή | 11.12.25",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/ps047300-stigmes-s04-ep05-to-navagio-tou-ploiou-xrish-avgh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-60",
+        "title": "Το Μυστικό των Χριστουγέννων της Κυράς Ανθής στη Μάνη & οι Μανιάτες της Κορσικής | 25.12.25",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s04-e07.png"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-61",
+        "title": "Ζωή Μέχρι τα 100. Ευκαιρία ή Βάρος; | 08.01.26",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/ps047302-365-stigmes-s04-ep08-zwi-mexri-ta-100.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-62",
+        "title": "Κλεμμένη Μνήμη | 22.01.26",
+        "season": 4,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/ps047303-365-stigmes-s04-ep09-klemmeni-mnimi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-63",
+        "title": "Ιωάννης Καποδίστριας | 05.02.26",
+        "season": 4,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/ps047304-365-stigmes-s04-ep10-kapodistrias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-64",
+        "title": "Η Ερήμωση των Παραμεθόριων Χωριών | 19.02.26",
+        "season": 4,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/20260219-365-stigmes-erimosi-paramethoriou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-65",
+        "title": "Οι Φωτογραφίες της Καισαριανής | 05.03.26",
+        "season": 4,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-200-kaisariani-thumbnail-ertflix.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-66",
+        "title": "Οι Έλληνες του Μοναστηρίου | 23.04.26",
+        "season": 4,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/ps047307-365-stigmes-oi-ellines-tou-monastiriou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-67",
+        "title": "Αυτοτραυματισμός των Εφήβων | 07.05.26",
+        "season": 4,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/ps052529-0014-stigmes-autotravmatismos-efivwn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-68",
+        "title": "Ο Χαμένος Θησαυρός του Αλή Πασά | 14.05.26",
+        "season": 4,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/ps052529-0015-365-stigmes-alli-pasas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-69",
+        "title": "Μεγαλώνοντας στα Νοσοκομεία | 21.05.26",
+        "season": 4,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/ps052529-0016-365-stigmes-nosokomeia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-70",
+        "title": "Δήλος - Ρήνεια: Η Ιστορία και οι Άνθρωποί τους | 28.05.26",
+        "season": 4,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/ps052529-0017-365-stigmes-dilos-rinia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-71",
+        "title": "Οι Έλληνες Μουσουλμάνοι της Ρόδου | 04.06.26",
+        "season": 4,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/ps052529-0018-365-stigmes-ellines-mousoulmanoi-tis-rodou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-72",
+        "title": "Η Γενιά των Καλλιτεχνών που Ήρθαν από την Αλβανία | 11.06.26",
+        "season": 4,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/ps052529-0019-365-stigmes-kalitexnes-alvania.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-73",
+        "title": "Τα Σανατόρια της Ελλάδας | 18.06.26",
+        "season": 4,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/ps052529-0020-365-stigmes-sanatoria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-74",
+        "title": "Σεξουαλική Κακοποίηση Παιδιών | 25.06.26",
+        "season": 4,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/ps052529-0021-365-stigmes-sexoualiki-kakopoihsh-paidiwn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-75",
+        "title": "Οι Εργαζόμενοι Μαθητές των Εσπερινών Σχολείων | 02.07.26",
+        "season": 4,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/ps052529-0022-365-stigmes-ergazomenoi-mathites.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-76",
+        "title": "Όλυμπος | 29.10.26",
+        "season": 5,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/season-05/ps058451-0001.jpg"
+      }
+    ]
+  }
+}

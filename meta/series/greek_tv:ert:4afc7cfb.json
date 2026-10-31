@@ -1,0 +1,403 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:4afc7cfb",
+    "type": "series",
+    "name": "Βότανα Καρποί της Γης",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-botana-640x360.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/botana-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-5",
+        "title": "Εν Αρχή Ην ο …Σπόρος",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-14-12h41m29s636.png"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-6",
+        "title": "Στο Βουνό των Θεών",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-14-12h44m22s957.png"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-7",
+        "title": "Στην Ορεινή Χαλκιδική",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana-s01-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-8",
+        "title": "Στη Γη των Αρχαίων Μυγδόνων",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana-s01-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-9",
+        "title": "Το Οδοιπορικό Ενός Φυτού",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana-s01-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-10",
+        "title": "Στα Χωριά της Αλμωπίας",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana-s01-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-11",
+        "title": "Στο Περιβόλι Της Παναγίας",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana-s01-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-12",
+        "title": "Άνθρωποι και Μύθοι στο Βέρμιο",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana-s01-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-13",
+        "title": "Βαλκανικός Βοτανικός Κήπος Κρουσσίων",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana-s01-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-14",
+        "title": "Η Χαλκιδική Αλλιώς",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana-s01-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-15",
+        "title": "Φιλόξενα Μονοπάτια της Κοζάνης",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana-s01-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-16",
+        "title": "Στις Πλαγιές του Ολύμπου",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana-s01-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:votana-karpoi-tis-gis-thraki-agrooikologia-stin-praxi",
+        "title": "Θράκη - Αγροοικολογία στην Πράξη",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/e01-final00-05-10-24still004.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:votana-karpoi-tis-gis-kainotomia-kai-paradosi-stin-pediada-toy-nestoy",
+        "title": "Καινοτομία και Παράδοση στην Πεδιάδα του Νέστου",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/e02-final00-05-17-03still005.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:votana-karpoi-tis-gis-evros-neoi-peiramatismoi-se-archaies-poikilies",
+        "title": "Έβρος: Νέοι Πειραματισμοί σε Αρχαίες Ποικιλίες",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/e03-final00-19-58-20still023-1024x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:votana-karpoi-tis-gis-glykoxinoi-thisayroi-sta-chasia",
+        "title": "Γλυκόξινοι Θησαυροί στα Χάσια",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/vlcsnap-error900.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:votana-karpoi-tis-gis-enas-paradeisos-ston-kissavo",
+        "title": "Ένας Παράδεισος στον Κίσσαβο",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/karpoi-votana-tis-gis-ep5.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:votana-karpoi-tis-gis-ta-dakrya-toy-agioy-isidoroy-sti-chio",
+        "title": "Τα Δάκρυα του Αγίου Ισιδώρου στη Χίο",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/e6-final-all00-20-12-23still005.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:votana-karpoi-tis-gis-i-myrovolos-chios",
+        "title": "Η Μυροβόλος Χίος",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/karpoi-votana-tis-gis-ep7.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:votana-karpoi-tis-gis-otan-i-chios-synantise-ton-kissavo",
+        "title": "Όταν η Χίος Συνάντησε τον Κίσσαβο",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/karpoi-votana-tis-gis-ep8.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:votana-karpoi-tis-gis-sta-ichni-toy-asklipioy",
+        "title": "Στα Ίχνη του Ασκληπιού",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/karpoi-votana-tis-gis-ep9.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:votana-karpoi-tis-gis-neoi-karpoi-se-archaia-gi",
+        "title": "Νέοι Καρποί σε Αρχαία Γη",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/karpoi-votana-tis-gis-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:votana-karpoi-tis-gis-oikosystimata-kai-oikologia-stis-prespes",
+        "title": "Οικοσυστήματα και Οικολογία στις Πρέσπες",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/karpoi-votana-tis-gis-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:votana-karpoi-tis-gis-fthinoporo-sta-dasi-tis-florinas",
+        "title": "Φθινόπωρο στα Δάση της Φλώρινας",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/karpoi-votana-tis-gis-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:votana-karpoi-tis-gis-apo-genia-se-genia-sti-vegoritida-kai-sto-kaimaktsalan",
+        "title": "Από Γενιά σε Γενιά στη Βεγορίτιδα και στο Καϊμάκτσαλαν",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/karpoi-votana-tis-gis-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:votana-karpoi-tis-gis-to-peliti-stin-kardia-toy-cheimona",
+        "title": "Το Πελίτι στην Καρδιά του Χειμώνα",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/karpoi-votana-tis-gis-ep14.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges",
+        "title": "Υγεία και Φύση στην Κρηνίδα και στην Κερκίνη",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/karpoi-votana-tis-gis-ep15.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-1",
+        "title": "Σπάνια και Απειλούμενα Είδη στα Κρούσια",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/karpoi-votana-tis-gis-ep16.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-2",
+        "title": "Στα Δάση του Χολομώντα",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/karpoi-votana-tis-gis-ep17.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-3",
+        "title": "Στους Ελαιώνες και τα Πευκοδάση της Χαλκιδικής",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/karpoi-votana-tis-gis-ep18.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-17",
+        "title": "Στη Γη των Κενταύρων",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/s03-e01-final-cut00-10-54-11still016.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-22",
+        "title": "Στα Ίχνη του Χείρωνα στο Πήλιο",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/botana-s03-ep02-4mbpsmp4-00001.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-18",
+        "title": "Βότανα και Ενυδρειοπονία στο Πανεπιστήμιο Θεσσαλίας",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/vlcsnap-error003.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-19",
+        "title": "Επιβίωση στη Βάλια Κάλντα",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/n-error604.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-20",
+        "title": "H Πρίμουλα στο Μικροσκόπιο",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/botana-s03-ep05-4mbpsmp4-error390.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-23",
+        "title": "Για Ιδέστε τον Αμάραντο",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/botana-s03-ep06-4mbpsmp4-error519.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-24",
+        "title": "Αρχέγονα Δάση στα Τζουμέρκα",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/botana-s03-ep07-4mbpsmp4-error815.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-25",
+        "title": "Εξωτικά και Ενδημικά Φυτά στην Εύβοια",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/botana-s03-ep08-4mbpsmp4-error011.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-26",
+        "title": "Κυνηγώντας Τρούφα στην Ορεινή Εύβοια",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/botana-s03-ep09-4mbpsmp4-error671.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-27",
+        "title": "Ένα Ξεχωριστό Αγρόκτημα στο Παντείχι",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/botana-s03-ep10-4mbpsmp4-2021-12-03-18h46m09s435.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-28",
+        "title": "Βοτανικός Κήπος Δωρίδας: Σχεδιάζοντας το Μέλλον",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/botana-s03-ep11-4mbpsmp4-error597.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-29",
+        "title": "Μύθοι και Βότανα στην Αμπουδιώτισσα",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/botana-s03-ep12-4mbpsmp4-error253.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-30",
+        "title": "Ραδόσι: Ένα Δάσος Πρότυπο",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/botana-s03-e13-4mbpsmp4-error708.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-31",
+        "title": "Παλιές και Νέες Καλλιέργειες στην Αργυρούπολη",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/botana-s03-ep14-4mbpsmp4-error366.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-32",
+        "title": "Άρωμα Κρήτης",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/botana-s03-ep15-4mbpsmp4-error400.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-33",
+        "title": "Η Συνταγή της Γιαγιάς στο Σύγχρονο Εργαστήριο",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/botana-s03-e16-4mbpsmp4-error617.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-34",
+        "title": "Από την Τζαμάικα και το Μεξικό… στην Κρήτη",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/botana-s03-ep17-4mbpsmp4-error734.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-35",
+        "title": "Βιοποικιλότητα και Κρητική Διατροφή",
+        "season": 3,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/botana-s03-ep18-4mbpsmp4-error144.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-36",
+        "title": "Το Ιερό Φυτό της Κυπρίδας Αφροδίτης",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/import/votana-s04-e01-4mbpsmp4-error819.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-37",
+        "title": "Παραδοσιακά Βότανα της Κύπρου",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/votana-s04-e02-4mbpsmp4-error543.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-38",
+        "title": "Βρώσιμα Άνθη στην Κύπρο",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/votana-s04-e03-v2-4mbpsmp4-error740.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-39",
+        "title": "Βιοδυναμική Καλλιέργεια και Παράδοση",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/votana-s04-e04-4mbpsmp4-2022-11-03-14h34m16s638.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-40",
+        "title": "Περπατώντας το Ε4 στα Καλάβρυτα",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/votana-s04-e05-4mbpsmp4-error122.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-41",
+        "title": "Υδροβιότοποι και Υδροπονία στην Πελοπόννησο",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/votana-s04-e06-4mbpsmp4-error911.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-42",
+        "title": "Επιτέλους Κυκλάδες!!! Στη Γη της Νάξου",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/votana-s04-e07-4mbpsmp4-2022-11-24-14h18m21s016.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4afc7cfb:botana-karpoi-tes-ges-43",
+        "title": "Η Άγρια Ομορφιά της Αμοργού",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/botana/votana-s04-e08-4mbpsmp4-error020.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,690 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:fcccf3c7",
+    "type": "series",
+    "name": "Κυριακή στο Χωριό Ξανά",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kiriakistoxorioxana-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kiriakistoxorioxana-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-1",
+        "title": "Σέττα Εύβοιας",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyr0101.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-2",
+        "title": "Γιρομέρι Θεσπρωτίας",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriaki-sto-xorio-xana-s01-ep02-giromeri-4mbpsmp4-00001.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-3",
+        "title": "Πετρίλο Αργιθέας",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/vlcsnap-error591.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-4",
+        "title": "Βουργαρέλι Άρτας",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/boulgareli.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-5",
+        "title": "Προυσός Ευρυτανίας",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriaki-sto-xorio-xana-s01-ep05-proussos-4mbps.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-6",
+        "title": "Σκόπελος",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/ep6-skopelos-10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-7",
+        "title": "Λιθότοπος Σερρών",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriaki-sto-xorio-xana-s01-ep09-lithotopos-4mbpsmp4-error180.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-8",
+        "title": "Πύθιο Έβρου",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/kyriaki-sto-xorio-xana-s01-ep07-pythio-4mbpsmp4-error391.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-9",
+        "title": "Λιβάδι Ολύμπου",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriaki-sto-xorio-xana-s01-ep08-livadimp4-error060.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-10",
+        "title": "Απείρανθος Νάξου",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/kyriaki-sto-xorio-xana-s1e10-apeiranthos-naxou-4mbpsmp4-error226.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-11",
+        "title": "Νεστόριο Καστοριάς",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/kyriaki-xorio-ep11-nestorio-4mbpsmp4-error107.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-12",
+        "title": "Άγιος Ματθαίος Κέρκυρας",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriaki-sto-xorio-xana-s01e12-kerkira-antik-4mbpsmp4-error829.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-13",
+        "title": "Χριστούγεννα στο Χωριό | Αρναία Χαλκιδικής",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/kyriaki-sto-xorio-xana-ep13-arnaia-4mbpsmp4-error944.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-15",
+        "title": "Παρανέστι Δράμας",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriaki-xorio-s02-ep01-paranesti-4mbpsmp4-error469.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-14",
+        "title": "Σταυρούπολη Ξάνθης",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/kyriaki-xorio-s02-ep02-stavroupolh-4mbpsmp4-error758.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-17",
+        "title": "Πάσχα στο Χωριό | Βανάτο Ζακύνθου",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/banato-zakynthos-pasxa-final-xdcam-4mbpsmp4-error194.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-16",
+        "title": "Σοφικό Κορινθίας",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriaki-xorio-s02-ep04-sofiko-korinthias-4mbpsmp4-error730.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-18",
+        "title": "Αγία Ευθυμία Φωκίδας",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriaki-2022-agia-euthymia-roh-4mbpsmp4-2022-05-04-10h24m03s832.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-19",
+        "title": "Σταμνά Αιτωλοακαρνανίας",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/kyriaki-xorio-s02-ep06-stamna-4mbpsmp4-error316.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-20",
+        "title": "Ληξούρι Κεφαλονιάς",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriakh-sto-xwrio-ksana-ep07-lixoyri-4mbpsmp4-error008.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-21",
+        "title": "Καρυά Αργολίδας",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/kyriakh-sto-xwrio-ksana-ep08-karya-4mbpsmp4-error120.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-22",
+        "title": "Σύμη",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/kyriaki-sto-xorio-xana-s02ep09-simi-new-4mbpsmp4-error211.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-24",
+        "title": "Μεταξοχώρι Λάρισας",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriakh-sto-xwrio-ksana-ep10-metaksoxori-4mbpsmp4-2022-06-27-12h49m14s520.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-23",
+        "title": "Νέα Πέραμος Καβάλας",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriakh-x-ksana-ep11-neaperamos-fixed-4mbpsmp4-error122.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-25",
+        "title": "Άγιο Πνεύμα Σερρών",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2022/ert3/kyriaki-sto-xwrio-agio-pneuma-4mbpsmp4-error429.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-26",
+        "title": "Καστανιά Άρτας",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriakh-sto-xvrio-ksana-s02-ep13-kastania-4mbpsmp4-error630.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-27",
+        "title": "Καστάνιανη Κόνιτσας",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriaki-xorio-s02-ep14-kastanianh-konitsas-v2-4mbpsmp4-error418.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-28",
+        "title": "Άβυθος Αχαΐας",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriaki-xorio-s02-ep15-avythos-4mbpsmp4-error917.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-29",
+        "title": "Βέρβενα Αρκαδίας",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriaki-xorio-s02-ep16-berbena-4mbpsmp4-error048.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-30",
+        "title": "Λέχοβο",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriaki-xorio-s02-ep17-lexovo-antikatastasi-4mbpsmp4-error560.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-31",
+        "title": "Εράτυρα Κοζάνης",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriaki-xorio-s02-ep18-eratyra-kozanis-4mbpsmp4-error793.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-32",
+        "title": "Χριστούγεννα στο Χωριό | Φέρες Αλεξανδρούπολης",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriaki-xorio-s02-ep19-ferres-xmas-4mbpsmp4-error184.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-33",
+        "title": "Γρατινή Κομοτηνής",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kstx-s3e1-gratini-4mbpsmp4-error413.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-34",
+        "title": "Αμφιθέα Ιωαννίνων",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kstx-s03e02-amfithea-4mbpsmp4-error015.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-35",
+        "title": "Προάστιο Δυτικής Μάνης",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kstx-s03e02-prasteio-4mbpsmp4-2023-03-15-14h31m13s461.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-36",
+        "title": "Αγιά Πάργας",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/ksx-s03e04-agia-pargas-n-4mbpsmp4-2023-03-18-16h13m48s984.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-37",
+        "title": "Χριστιάνοι Μεσσηνίας",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kstx-s3e05-xristianoi-4mbpsmp4-error375.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-38",
+        "title": "Ξηροκάμπι Σπάρτης",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/kyriakistoxorio-s03e06-xirokampi-4mbpsmp4-error072.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-39",
+        "title": "Πάσχα στο Χωριό | Τρίλοφος Ημαθίας",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kstx-s03-e07-trilofos-hmathias-4mbpsmp4-2023-04-14-14h15m42s436.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-40",
+        "title": "Σαλαμίνα",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/kyriakh-sto-xorio-salamina-4mbpsmp4-error993.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-41",
+        "title": "Γούβες Ευβοίας",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/kyriaki-sto-xorio-2023-gouves-roh-4mbpsmp4-error154.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-xana-42",
+        "title": "Μπράλος Φθιώτιδας",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/kyriaki-sto-xwrio-bralos-final-xdcam-4mbpsmp4-error714.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana",
+        "title": "Σέριφος",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kstx-s03-e10-serifos-4mbpsmp4-2023-05-12-18h41m48s151.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-1",
+        "title": "Σίφνος",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/kyriakh-sto-xwrio-ep12-sifnos-4mbpsmp4-2023-05-30-13h20m56s402.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-2",
+        "title": "Λουτράκι - Πόζαρ",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/kyx-season-3/kyriakh-sto-xvrio-s03-ep13-loutraki-pozar-4mbpsmp4-2023-10-19-13h26m15s879.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-3",
+        "title": "Παναγιά Θάσου",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/kyriakh-sto-xvrio-s03-ep15-thasos-4mbpsmp4-error081.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-4",
+        "title": "Σμίξη Γρεβενών",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/vlcsnap-2023-11-13-10h38m46s077.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-5",
+        "title": "Κεφαλάρι Δράμας",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/ksx-kefalari-final-4mbpsmp4-error9192.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-6",
+        "title": "Χριστούγεννα στο Χωριό | Τετράλοφος Κοζάνης",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/xristougenna-sto-xwrio-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-7",
+        "title": "Πρωτοχρονιά στο Χωριό | Δαδιά Έβρου",
+        "season": 3,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/prwtoxronia-sto-xwrio-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-8",
+        "title": "Βατσουνιά Καρδίτσας",
+        "season": 3,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/kyx-season-3/kyriakh-sto-xvrio-s03-ep14-batsounia-karditsas-v2-4mbpsmp4-2024-02-14-14h55m42s224.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-11",
+        "title": "Νίσυρος",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ksx-s04-ep01-nisyros-nopreroll-4mbpsmp4-error141.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-12",
+        "title": "Ζέλι Λοκρίδας",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ksx-s04-ep03-zeli-lokridas-new-4mbpsmp4-error514.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-13",
+        "title": "Τήλος",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ds009464-ksx-s04-ep02-thlos-4mbpsmp4-error218.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-14",
+        "title": "Άνω Δολιανά Κυνουρίας",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ksx-s04-ep03-ano-doliana-4mbpsmp4-error092.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-15",
+        "title": "Περιστέρα Αιγιαλείας",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ksx-s04-ep05-peristera-aigialias-nopreroll-4mbpsmp4-error503.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-16",
+        "title": "Λίμνη Ευβοίας",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ds009468-ksx-s04-ep06-limni-4mbpsmp4-error262.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-17",
+        "title": "Τζούρτζια Ασπροποτάμου",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/kyriakh-sto-xwrio-ep07-tzourtzia-4mbpsmp4-error330.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-18",
+        "title": "Νέο Αργύρι Ευρυτανίας",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/neo-argyri-evritanias-4mbpsmp4-error452.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-19",
+        "title": "Καλαρρύτες",
+        "season": 4,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ksx-s04-ep09-kalarrites-4mbpsmp4-error715.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-20",
+        "title": "Παλιά Καστανιά Σερβίων",
+        "season": 4,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ksx-ep10-kastania-serbiwn-4mbpsmp4-error983.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-21",
+        "title": "Κίρκη Αλεξανδρούπολης",
+        "season": 4,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ds009473-kyriaki-2024-kirki-roh-4mbpsmp4-error693.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-22",
+        "title": "Διχομοίρι Άρτας",
+        "season": 4,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/dixomoiri-640.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-23",
+        "title": "Κύργια Δράμας",
+        "season": 4,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ksc-kyrgia-dramas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-24",
+        "title": "Νέα Επίδαυρος",
+        "season": 4,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/nea-epidavros-14.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-25",
+        "title": "Άβδηρα Ξάνθης",
+        "season": 4,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-20-09h10m53s496.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-26",
+        "title": "Καραβάς Κυθήρων",
+        "season": 4,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-10-01-13h30m18s597.png"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-56",
+        "title": "Ορεινή Σερρών",
+        "season": 5,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ksx-se05-ep30-oreini-serrwn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-55",
+        "title": "Παλαιοχώρα Χανίων",
+        "season": 5,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ksx-se5-ep29-paliohora-chaniwn-trailermxf-2026-05-11-12h47m45s029.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-54",
+        "title": "Περαχώρα Κορινθίας",
+        "season": 5,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ksx-2026-perahora-ert-4mbpsmp4-2026-05-07-11h50m30s550.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-53",
+        "title": "Μικρόπολη Δράμας",
+        "season": 5,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps040925-ksx-s05-ep27-mikropolh-dramas-4mbpsmp4-2026-05-01-15h55m27s192.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-52",
+        "title": "Νέα Αρτάκη",
+        "season": 5,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ksx-2026-nea-artaki-trailermxf-2026-04-17-10h37m19s272.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-51",
+        "title": "Αγγελοχώρι Θεσσαλονίκης",
+        "season": 5,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps040923-ksx-se05ep25-aggeloxori-thessalonikis-4mbpsmp4-2026-04-06-13h46m57s763.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-50",
+        "title": "Ζαρός Ηρακλείου",
+        "season": 5,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ksx-s05-ep24-zaros-4mbpsmp4-2026-03-30-10h27m22s667.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-49",
+        "title": "Καρυόφυτο Ξάνθης",
+        "season": 5,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ksx-se5-ep23-karyofyto-xanthis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-48",
+        "title": "Γαλάτιστα Χαλκιδικής",
+        "season": 5,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps040920-ksx-s05-ep22-galatista-xalkidikis-4mbpsmp4-2026-03-16-15h48m18s838.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-47",
+        "title": "Κυρτώνη Φθιώτιδας",
+        "season": 5,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps040919-ksx-s05-ep21-kyrtwnh-fthiwtidas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-46",
+        "title": "Αηδονιά Πρέβεζας",
+        "season": 5,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps040918-ksx-s05-ep20-ahdonia-prevezas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-45",
+        "title": "Παλαιά Φώκαια",
+        "season": 5,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ksx-s05-ep19-paleafokeasaronikou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-44",
+        "title": "Λιβάδια Μυλοποτάμου",
+        "season": 5,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ksx-s05-ep18-livadia-mylopotamoy-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-43",
+        "title": "Σισάνι Κοζάνης",
+        "season": 5,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ksx-s05-ep17-sisani-kozanis-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-42",
+        "title": "Άγιος Στέφανος - Μακρύ Γιαλός Λασιθίου",
+        "season": 5,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ksx-s05-ep16-agios-stefanos-makrisgialos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-41",
+        "title": "Ροδαυγή Άρτας",
+        "season": 5,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ksx-s05-ep15-rodaygh-artas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-40",
+        "title": "Θεοδώριανα Άρτας",
+        "season": 5,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ksx-s05-ep13-theodoriana-artas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-39",
+        "title": "Χάβαρι Ήλιδας",
+        "season": 5,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ksx-s05-ep12-havari-hlidas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-38",
+        "title": "Παλαιοχώρι Παγγαίου",
+        "season": 5,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ksx-se05-ep11-palaioxori-pagaiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-37",
+        "title": "Χριστούγεννα στο Χωριό - Πηγή Τρικάλων",
+        "season": 5,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ksx2025-pigi-trikalwn-xmas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-36",
+        "title": "Σέλι Ημαθίας",
+        "season": 5,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ksx-ep10-seli-hmathias-final-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-35",
+        "title": "Χουλιαράδες",
+        "season": 5,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ksx-s05-ep09-xouliarades-ioanninon.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-34",
+        "title": "Ζαχάρω",
+        "season": 5,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ps040906-ksx-se5-ep8-zaharw.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-33",
+        "title": "Καταφύγι Αγράφων",
+        "season": 5,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ksx-s05-ep07-katafygi-agrafwn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-32",
+        "title": "Λευκοπηγή Κοζάνης",
+        "season": 5,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ksx-s05-ep06-leykophgh-kozanh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-31",
+        "title": "Αλισσός Αχαΐας",
+        "season": 5,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ksx-s05-ep05-alissos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-29",
+        "title": "Λειβάρτζι Καλαβρύτων",
+        "season": 5,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ksx-s05-leivartzi-kalabritwn-4mbpsmp4-2025-10-30-13h05m01s490.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-30",
+        "title": "Αμπελάκια",
+        "season": 5,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ksx-s05-ampelakia-thessalias-4mbpsmp4-2025-10-22-11h07m24s465.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-28",
+        "title": "Νεοχωρούδα",
+        "season": 5,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-15-12h11m11s458.png"
+      },
+      {
+        "id": "greek_tv:ert:fcccf3c7:kuriake-sto-khorio-ksana-27",
+        "title": "Μεγάλα Λιβάδια",
+        "season": 5,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-10-10h10m05s270.png"
+      }
+    ]
+  }
+}

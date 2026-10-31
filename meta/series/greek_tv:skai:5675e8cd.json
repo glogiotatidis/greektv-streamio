@@ -7,6 +7,13 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/eco_green_landscape.jpg",
     "videos": [
       {
+        "id": "greek_tv:skai:5675e8cd:2026-10-03-20",
+        "title": "03/10/2026",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/eco_green_landscape.jpg"
+      },
+      {
         "id": "greek_tv:skai:5675e8cd:2026-10-06-20",
         "title": "Επεισόδιο 16",
         "season": 1,

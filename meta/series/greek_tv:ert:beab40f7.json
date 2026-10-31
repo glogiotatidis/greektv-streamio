@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:beab40f7",
+    "type": "series",
+    "name": "Φιλοξενούμενοι",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoxenoumenoi-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoxenoumenoi-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:beab40f7:philoxenoumenoi-1",
+        "title": "Κατίνα, Κάιρο / Ζακλίν, Αθήνα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoksenoumenoi-aigyptos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:beab40f7:philoxenoumenoi-2",
+        "title": "Στράτος, Γιοχάνεσμπουργκ - Γκραχαμστάουν / Άλις - Αν, Αθήνα - Εύβοια",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoksenoumenoi-notia-afriki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:beab40f7:philoxenoumenoi-3",
+        "title": "Πέτρος, Τίρανα / Αλμπίνα, Αθήνα",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoksenoumenoi-albania.jpg"
+      },
+      {
+        "id": "greek_tv:ert:beab40f7:philoxenoumenoi-4",
+        "title": "Σοφία, Μόναχο / Κωνσταντίνος, Χανιά",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoksenoumenoi-germania.jpg"
+      },
+      {
+        "id": "greek_tv:ert:beab40f7:philoxenoumenoi-5",
+        "title": "Ρωμαίο και Ρένα, Λάγος / Ίφυ Μαρία, Αθήνα",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoksenoumenoi-nigiria-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:beab40f7:philoxenoumenoi-6",
+        "title": "Προκόπης, Ντέβεντερ (Ολλανδία) / Καρολίνα, Λέρος (Ελλάδα)",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoksenoumenoi-ollandia-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:beab40f7:philoxenoumenoi-7",
+        "title": "Ανδρονίκη, Ιαπωνία/ Καζουάκι, Ελλάδα",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoksenoumenoi-iaponia-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:beab40f7:philoxenoumenoi-8",
+        "title": "Χάρης, Τουρκία / Σεζγκίν, Ελλάδα",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoksenoumenoi-tourkia-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:beab40f7:philoxenoumenoi-9",
+        "title": "Μάικ, Λας Βέγκας / Μπάρμπαρα, Ελλάδα",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoksenoumenoi-ameriki-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:beab40f7:philoxenoumenoi-10",
+        "title": "Θόδωρος, Μόσχα / Ιρίνα, Ελλάδα",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoksenoumenoi-rossia-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:beab40f7:philoxenoumenoi-11",
+        "title": "Αριάδνη, Βυρηττός / Σάχερ, Αθήνα",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoksenoumenoi-livanos-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:beab40f7:philoxenoumenoi-12",
+        "title": "Ζαφείρης, Συρία / Ραμέχ, Ελλάδα",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoksenoumenoi-syria-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:beab40f7:philoxenoumenoi-13",
+        "title": "Θανάσης, Χιλή / Μάρτα, Ελλάδα",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoksenoumenoi-chili-ep12.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:e5548b9e",
+    "type": "series",
+    "name": "Το Αλάτι της Γης",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/ertflix-banner-alati-ghs-640x360-1.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/alati-ghs-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-30",
+        "title": "Βασίλης Κώστας. Η σολιστική τέχνη στο λαούτο!",
+        "season": 9,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/to-alati-tis-gis-2021-2022-vasilis-kostas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tis-gis-moysiko-odoiporiko-sti-vlasti-kozanis",
+        "title": "Η \"άλλη\" Ρόδος!..",
+        "season": 9,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-alati-tis-gis-rodos-kladakis-koza.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tis-gis-apokries-stoy-linardoy-tin-taverna-kai-stoy-tzimi-toy-chontroy",
+        "title": "Απόκριες στου Λινάρδου την ταβέρνα και στου Τζίμη του Χοντρού",
+        "season": 9,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/03/20200301-alati-tis-gis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tis-gis-me-tin-elatoparea-stin-pindo",
+        "title": "Με την Ελατοπαρέα στην Πίνδο",
+        "season": 9,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/03/20191215-alati-tis-gis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-19",
+        "title": "Στο Ρυθμό της Καρδίας…Η Εθνική Ελλάδας στα… Κρουστά",
+        "season": 9,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/alati-tis-gis-krousta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-12",
+        "title": "Μουσικά και χορευτικά ιδιώματα των Βλάχων",
+        "season": 9,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-alati-tis-gis-blaxiko.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-13",
+        "title": "Χρυσοπράσινο φύλλο -Αφιέρωμα στην κυπριακή παράδοση",
+        "season": 9,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/vlcsnap-2021-11-23-13h30m08s029.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-14",
+        "title": "Ειρήνη Δερέμπεη , Κάρολος Κουκλάκης , Όπου κι αν είσαι γεια σου!...",
+        "season": 9,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-alati-tis-gis-derebeh-koyklakhs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-15",
+        "title": "Μουσικό Οδοιπορικό στη Βλάστη Κοζάνης",
+        "season": 9,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/to-alati-tis-gis-odoiporiko-sti-vlasti-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-16",
+        "title": "Στον Πλάτανο με την Ελατοπαρέα",
+        "season": 9,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/elatoparea-platano.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-17",
+        "title": "Κατερίνα Παπαδοπούλου",
+        "season": 9,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-alati-tis-gis-katerina-papadopoulou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-18",
+        "title": "Οι ήρωες του 1821 στο λαϊκό θέατρο σκιών",
+        "season": 9,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/alati-theatro-skion.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-20",
+        "title": "«Της τριανταφυλλιάς τα φύλλα» Οι νέοι για τη Δόμνα Σαμίου",
+        "season": 9,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/to-alati-tis-gis-tis-triantafillias-ta-fylla-oi-neoi-gia-tin-domna-samiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-21",
+        "title": "«Ηπειρώτικο Τακίμι» Στη Βίτσα Ζαγορίου και στα Τζουμέρκα",
+        "season": 9,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/to-alati-ths-ghs-hpeiritiko-takimi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-22",
+        "title": "Μουσικοί Δρόμοι της Εγνατίας Με τα συγκροτήματα «Ρωμέικη Κομπανία» και «Ντιλγκιρούδι»",
+        "season": 9,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-alati-tis-gis-romeiki-kompania.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-23",
+        "title": "Τραγούδια και χοροί από τη Σαμοθράκη",
+        "season": 9,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/to-alati-tis-gis-ep04-tragoudia-kai-xoroi-apo-ti-samothraki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-24",
+        "title": "Οδοιπορικό στη Νότια Λακωνία, Ελαφόνησος και Γεράκι",
+        "season": 9,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/to-alati-tis-gis-ep05-odiporiko-sti-notia-lakonia-elafonisos-kai-geraki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-25",
+        "title": "Οδοιπορικό στη Βόρεια Λακωνία. Καρυές, Βαρβίτσα, Βαμβακού, Λογγάστρα, Σουστιάνοι",
+        "season": 9,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/alati-tis-ghs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-27",
+        "title": "«Το μπουζούκι στην Αμερική! Ένα ρεβεγιόν στα ελληνικά λαϊκά κέντρα στις ΗΠΑ τις \"χρυσές δεκαετίες\" του '50 και του ΄60»",
+        "season": 9,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/to-alati-tis-gis-to-mpouzouki-stin-ameriki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-26",
+        "title": "Πρωτοχρονιά στη Σμύρνη και τη Μικρά Ασία!",
+        "season": 9,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-alati-tis-gis-2022-protoxronia-sti-smirni-kai-ti-mikra-asia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-28",
+        "title": "Παραλλαγές» στους Μουσικούς Χάρτες του Ελληνισμού",
+        "season": 9,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/20220109-alati-tis-gis-parallages.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-29",
+        "title": "Κώστας Ρούκουνας, το «Σαμιωτάκι». Ο κορυφαίος τραγουδιστής του Ρεμπέτικου",
+        "season": 9,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/20220116-roukounas-samiotaki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-31",
+        "title": "Ηλίας Υφαντίδης. Η ψυχή του Πόντου!",
+        "season": 9,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-alati-ths-ghs-yfantidhs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-32",
+        "title": "Μουσικό σχήμα «Εϊβαλά». Οι γυναίκες στο Μικρασιάτικο Ρεμπέτικο",
+        "season": 9,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/20220206-alati-tis-gis-eivala.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-33",
+        "title": "Παναγιώτης Πλαστήρας. Η τέχνη του κλαρίνου",
+        "season": 9,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-alati-tis-gis-plastiras-i-texni-tou-klarinou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-34",
+        "title": "Κώστας Τζίμας. Ο κορυφαίος του δημοτικού τραγουδιού!",
+        "season": 9,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/20220220-alati-tis-gis-tzimas-dimotiko-tragoudi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-36",
+        "title": "Λαϊκό γλέντι στη \"Σκάλα του Μιλάνου\" στον Βόλο!",
+        "season": 9,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/alati-tis-gis-scala-milanou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-35",
+        "title": "Γιώργος Κωτσίνης. Όψεις του λαϊκού κλαρίνου",
+        "season": 9,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/vlcsnap-2022-02-26-14h15m47s344.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-37",
+        "title": "Με άρωμα Ανατολής! Χρίστος Τσιαμούλης - Haig Yazdjian",
+        "season": 9,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-alati-tis-gis-2022-xristos-tsiamoulis-haig-yazdjian-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-38",
+        "title": "Η ιστορική μνήμη στα τραγούδια του 1821",
+        "season": 9,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/to-alati-tis-gis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-39",
+        "title": "Από το Μελί της Μικράς Ασίας στο Νέο Μελί των Μεγάρων",
+        "season": 9,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/to-alati-tis-gis-apo-to-meli-tis-mikras-asias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-40",
+        "title": "Κυριάκος Γκούβεντας: Orient Express",
+        "season": 9,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/20220410-alati-tis-gis-kyriakos-gkouventas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-41",
+        "title": "Μουσικό οδοιπορικό στις Σέρρες - Μέρος Α’ : Βισαλτία και Δαρνακοχώρια",
+        "season": 10,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/atg-i-01-bisaltia-mastermp4-2022-11-06-14h13m31s638.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-42",
+        "title": "Αφιέρωμα στον Δημήτρη Γκόγκο - Μπαγιαντέρα",
+        "season": 10,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/to-alati-tis-gis-s05-ep02-bagiadera-4mbpsmp4-error576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-43",
+        "title": "Μουσικό οδοιπορικό στις Σέρρες - Μέρος Β’ : Σαρακατσάνοι και Βλάχοι",
+        "season": 10,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/kyriaki-sto-xorio-xana/to-alati-tis-gis-s05-ep03-sarakatsanoi-4mbpsmp4-error292.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-44",
+        "title": "Μουσικό Oδοιπορικό στη Σκύρο",
+        "season": 10,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/alati-tis-gis-s05-ep04-skyros-4mbpsmp4-error014.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-45",
+        "title": "Μουσικό οδοιπορικό στις Σέρρες - Μέρος Γ’ : Ορεινή, Αλιστράτη, Βαμβακόφυτο, Ηράκλεια - Σιδηρόκαστρο",
+        "season": 10,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/alati-ths-ghs-ep05-serres-3omeros-v2-4mbpsmp4-error372.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-46",
+        "title": "«ΚΑΗΜΕΝΗ ΜΟΥ ΑΝΑΤΟΛΗ, ΣΟΥ ΦΥΓΑΝΕ Τ’ ΑΗΔΟΝΙΑ!..» Ταυτότητα και μνήμη στα τραγούδια των προσφύγων του 1922",
+        "season": 10,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/atg-22i06-polis-4mbpsmp4-2022-12-07-16h49m16s101.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-47",
+        "title": "Λαϊκό Βιολί με τον Κυριάκο Γκουβέντα",
+        "season": 10,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/alati-ths-ghs-ep07-gkouventas-laiko-violi-master-4mbpsmp4-2022-12-30-10h23m03s965.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-48",
+        "title": "Θρακιώτικο Γλέντι - Στα Χωριά του Έβρου",
+        "season": 10,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/alati-tis-gis-s05-ep08-xoroi-tragoydia-thrakhs-4mbpsmp4-error032.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-49",
+        "title": "Οι Τραγουδιστάδες τση Ζάκυνθος. Τριάντα Χρόνια Καντάδες",
+        "season": 10,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/atg-22i09-zakynthos-master-xdcam50-4mbpsmp4-error282.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-50",
+        "title": "Δερόπολη. Με τον Λευτέρη και τον Παντελή Γκιώκα",
+        "season": 10,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/alati-tis-gis-s05-ep10-giokas-4mbpsmp4-error158.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-51",
+        "title": "Οδοιπορικό στην Αργιθέα «Αραδιαστείτε στον Χορό!..»",
+        "season": 10,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/alati-tis-gis-s05-ep11-argithea-4mbpsmp4-error513.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-52",
+        "title": "«Δυτικά απο τ’ Αϊβαλί!..» Μουσικά Περάσματα από τη Μικρασία στο Αιγαίο",
+        "season": 10,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/alati-tis-gis/alati-tis-gis-s05-ep12-bergos-4mbpsmp4-error803.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-53",
+        "title": "Στην Κρήτη με τον Αντώνη Μαρτσάκη",
+        "season": 11,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/psychagwgia/alati-tis-gis-23-24/atg-23k01-martsakhs-mastermp4-2023-11-30-11h36m39s709.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-54",
+        "title": "Μουσικό Οδοιπορικό στην Καστοριά",
+        "season": 11,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/psychagwgia/alati-tis-gis-23-24/atg-23k03-kastoria-4mbpsmp4-2023-12-06-15h37m31s218.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-55",
+        "title": "«Δώδεκα μέρες γιορτινές Χριστούγεννα σημαίνουν!». Κάλαντα και Γιορταστικά Τραγούδια απ’ όλη την Ελλάδα",
+        "season": 11,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/psychagwgia/alati-tis-gis-23-24/atg23k07-kalanta-4mbpsmp4-2023-12-13-10h15m07s139.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-56",
+        "title": "Η «Ορχήστρα Βιολιώνε» του Πανεπιστημίου Μακεδονίας σ’ ένα Γιορταστικό «Αλάτι της Γης»",
+        "season": 11,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/psychagwgia/alati-tis-gis-23-24/atg-23k04-orxhstra-bioliwne-protoxronia-4mbpsmp4-2023-12-20-09h25m57s904.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-57",
+        "title": "Το Ρεμπέτικο στο «Ελληνικό Σχέδιο»",
+        "season": 11,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/psychagwgia/alati-tis-gis-23-24/atg-23k05-rempetiko-papadimitriou-4mbpsmp4-2024-01-05-15h15m54s214.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-58",
+        "title": "H Ποντιακή Παράδοση στην Αλμωπία - Αριδαία",
+        "season": 11,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/psychagwgia/alati-tis-gis-23-24/atg-23k06-pontioi-almopia-aridaia-4mbpsmp4-2024-01-10-10h27m26s150.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-59",
+        "title": "Τα Τρία Αγαθά της Γης: Σίτος - Οίνος - Έλαιον",
+        "season": 11,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/atg-23k07-tria-agatha-4mbpsmp4-error335.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e5548b9e:to-alati-tes-ges-60",
+        "title": "Η Παράδοση των Προσφύγων στο Πλατύ και στα Τρίκαλα Ημαθίας. Καππαδόκες και Βορειοθρακιώτες",
+        "season": 11,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/atg-23k08-platy-trikala-4mbpsmp4-2024-01-25-12h21m58s091.jpg"
+      }
+    ]
+  }
+}

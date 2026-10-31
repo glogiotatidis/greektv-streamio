@@ -1,0 +1,445 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:c72943d2",
+    "type": "series",
+    "name": "Η Αυλή των Χρωμάτων",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/h-aylh-twn-xrwmatwn-2022-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/h-aylh-twn-xrwmatwn-2022-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-2",
+        "title": "Πρωτοχρονιά - Αφιέρωμα στον Μανώλη Χιώτη",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-s04-ep02-xiotis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-3",
+        "title": "Τα χρυσά λαϊκά 1960-1965",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-xrysa-laika-s04-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-4",
+        "title": "Αφιέρωμα στις γυναίκες",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-ton-xromaton-afierwma-stis-gynaikes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-5",
+        "title": "Τα τραγούδια της ξενιτιάς",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-ta-tragoudia-tis-xenitias-s04-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-6",
+        "title": "Αφιέρωμα στον Τάκη Σούκα",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/2021-2022/i-avli-ton-xromaton-soukas-s04-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-7",
+        "title": "Αφιέρωμα στα χρυσά λαϊκά 1965-1969",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-ton-xromaton-xrysa-laika-1965-1969.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-8",
+        "title": "Αφιέρωμα στον Κώστα Βίρβο",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-ton-xromaton-kostas-birbos-s04-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-9",
+        "title": "Το μινόρε της Αυγής",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-to-minore-tis-augis-s04-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-10",
+        "title": "Η δική μας Ανατολή",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-i-diki-mas-anatoli-s04-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-11",
+        "title": "Αφιέρωμα στον Λευτέρη Παπαδόπουλο",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/20220305-i-avli-ton-xromaton-papadopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-12",
+        "title": "Αφιέρωμα στον Σταύρο Κουγιουμτζή",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-auli-ton-xromaton-2022-ep12-afieroma-ston-stavro-kougioumtzi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-13",
+        "title": "Αφιέρωμα στον Θόδωρο Δερβενιώτη",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/2021-2022/auli-ton-xromaton-2022-ep13-theodoros-derveniotis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-14",
+        "title": "Αφιέρωμα στην Βίκυ Μοσχολιού",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-ton-xromaton-2022-ep14-viki-mosxoliou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-15",
+        "title": "Αφιέρωμα στον Γιάννη Σπανό",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-spanos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-16",
+        "title": "Αφιέρωμα στον Πασχάλη Τερζή",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-ton-xromaton-2022-ep16-pashalis-terzis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-18",
+        "title": "Τα λαϊκά του Ελληνικού Κινηματογράφου",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-ta-laika-tou-ellinikou-kinimatografou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-19",
+        "title": "Αφιέρωμα στον Γιώργο Μητσάκη",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-mitsakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-20",
+        "title": "Αφιέρωμα στα Χρυσά Λαϊκά 1970 – 1975",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/avli-ton-xromaton-2022-ep19-afieroma-sta-xrisa-laika-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-21",
+        "title": "Αφιέρωμα στην Ρίτα Σακελλαρίου",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-afierwma-sth-rita-sakellariou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-22",
+        "title": "Αφιέρωμα στον Πάνο Γαβαλά",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-2022-ep21-afieroma-ston-pano-gavala-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-23",
+        "title": "Με χρώματα παράδοσης",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-me-hromata-paradosis-s04-ep22.png"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-24",
+        "title": "Αφιέρωμα στον Τόλη Βοσκόπουλο",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-2022-ep23-tolis-voskopoulos-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-25",
+        "title": "Αφιέρωμα στα αρχοντορεμπέτικα",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-arxontorempetika.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-26",
+        "title": "Αφιέρωμα στην Πόλυ Πάνου",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-2022-ep25-afieroma-stin-poli-panou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-27",
+        "title": "\"Η Αυλή των Χρωμάτων\" πάει παραλία και σας εύχεται καλό καλοκαίρι!",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-paralia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-17",
+        "title": "ΠΑΣΧΑ με τις καλύτερες μουσικές στιγμές στην Αυλή των Χρωμάτων",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-ton-xromaton-eortastiko-ep-pasxa-2022-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-28",
+        "title": "Αφιέρωμα στον Γιώργο Μαργαρίτη",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-margaritis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton",
+        "title": "Σε Λαϊκούς Δρόμους με τον Θέμη Αδαμαντίδη",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-2022-23-ep02-themis-adamantidis-1021.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-1",
+        "title": "Αφιέρωμα στον Γιάννη Πουλόπουλο",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-poulopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-2",
+        "title": "Αφιέρωμα στον Γιώργο Κατσαρό",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-22-23-ep04-afieroma-ston-giorgo-katsaro-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-3",
+        "title": "Αφιέρωμα στον Σταμάτη Γονίδη",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-gonidis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-4",
+        "title": "Αφιέρωμα στα 100 χρόνια από τη Μικρασιατική καταστροφή",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-2022-23-ep06-mikrasiatiki-katastrofi-1021.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-5",
+        "title": "Αφιέρωμα στον Χρήστο Κολοκοτρώνη",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-kolokotronis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-6",
+        "title": "Οι δικές μας ξένες: Ρόζα Εσκενάζυ - Μαρίκα Νίνου & Στέλλα Χασκίλ",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-2022-2023-ep08-roza-eskenazi-marika-ninou-stella-xaskil-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-7",
+        "title": "Αφιέρωμα στην Σωτηρία Μπέλλου",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-2022-2023-ep09-afieroma-sotiria-mpelou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-8",
+        "title": "Αφιέρωμα στον Γρηγόρη Μπιθικώτση",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-grigoris-mpithikotsis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-9",
+        "title": "Εορταστικό",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-ep11-eortastiko-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-10",
+        "title": "Εορταστικό Πρωτοχρονιάς",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-protohroniatikomxf.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-11",
+        "title": "Τα Τραγούδια του Φεγγαριού",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-2022-2023-ep13-ta-tragoudia-tou-feggariou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-12",
+        "title": "Τα Λαϊκά των Τραγουδοποιών",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-auli-ton-xromaton-ep-14-2023-ta-laika-ton-tragoudopoion-1021x576.JPG"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-13",
+        "title": "Τα Τραγούδια της Μικρής Οθόνης",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-ep15-ta-tragoudia-tis-mikris-othonis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-14",
+        "title": "Τα Tραγούδια της Ομόνοιας",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-ep16-ta-tragoudia-tis-omonoias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-15",
+        "title": "Αφιέρωμα στη Ζωζώ Σαπουντζάκη",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-sapoutzaki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-16",
+        "title": "Άμεση Δράση Παρακαλώ! Αφιέρωμα στον Πάνο Σόμπολο",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-2022-2023-ep18-amesi-drasi-parakalo-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-17",
+        "title": "Ένα Mουσικό Tαξίδι με τον Δημήτρη Μπάση",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-mpasis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-18",
+        "title": "Μάμπο και Γλυκιές Πενιές!",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-ep20-mampo-kai-glikies-penies-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-19",
+        "title": "Τα Αγαπημένα Τραγούδια της Μελίνας Ασλανίδου",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-aslanidou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-20",
+        "title": "Αφιέρωμα στον Αντώνη Ρεπάνη",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-afierwma-repanis-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-21",
+        "title": "25η Μαρτίου - Αφιέρωμα στο Δημοτικό Τραγούδι",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-afierwma-sto-dimotiko-tragoudi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-22",
+        "title": "Αφιέρωμα στο Ψέμα",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-ep24-ta-psemmata-photo-vogiatzakis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-23",
+        "title": "Αφιέρωμα στον Δημήτρη Παπαδημητρίου",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-dimitris-papadimitriou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-24",
+        "title": "Πασχαλινό",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-pashalino.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-25",
+        "title": "Αφιέρωμα στον Κώστα Κοφινιώτη",
+        "season": 2,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-2022-2023-ep27-afieroma-ston-kosta-kofinioti-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-26",
+        "title": "Αφιέρωμα στον Βασίλη Σκουλά",
+        "season": 2,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-vasilis-skoulas-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-27",
+        "title": "Αφιέρωμα στον Αλέκο Χρυσοβέργη",
+        "season": 2,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-xrisovergis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-28",
+        "title": "Τα Τραγούδια του Χωρισμού",
+        "season": 2,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-ta-tragoudia-tou-xorismou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-29",
+        "title": "Αφιέρωμα στον Μάρκο Βαμβακάρη",
+        "season": 2,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-bambakaris.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-30",
+        "title": "Αφιέρωμα στη Φιλία",
+        "season": 2,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-ep32-afieroma-sti-filia-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-31",
+        "title": "Αφιέρωμα στον Πρόδρομο Τσαουσάκη",
+        "season": 2,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-ep33-afieroma-ston-prodromo-tsaousaki-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-xromaton-32",
+        "title": "Αφιέρωμα στον Μανώλη Ρασούλη",
+        "season": 2,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-manolis-rassoulis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton",
+        "title": "Αφιέρωμα στον Δημήτρη Γκόγκο-Μπαγιαντέρα",
+        "season": 2,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-mpagianteras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c72943d2:e-aule-ton-khromaton-1",
+        "title": "Αφιέρωμα στον Στράτο Διονυσίου",
+        "season": 2,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/i-avli-ton-xromaton-ep36-afieroma-ston-strato-dionisiou.jpg"
+      }
+    ]
+  }
+}

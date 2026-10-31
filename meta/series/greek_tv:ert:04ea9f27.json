@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:04ea9f27",
+    "type": "series",
+    "name": "Η Ιστορία των Ελληνικών Σιδηροδρόμων",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/trains/istoria-ellinikon-sidirodromon-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/trains/istoria-ellinikon-sidirodromon-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:04ea9f27:e-istoria-ton-ellenikon-siderodromon-1",
+        "title": "Η Απαρχή των Ελληνικών Σιδηροδρόμων",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/i-istoria-ton-ellinikon-sidirodromon-s01-ep01-4mbpsmp4-error708.jpg"
+      },
+      {
+        "id": "greek_tv:ert:04ea9f27:e-istoria-ton-ellenikon-siderodromon-2",
+        "title": "Οι Σιδηρόδρομοι Αττικής",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/i-istoria-ton-ellinikon-sidirodromon-s01-ep02-4mbpsmp4-2022-02-10-10h43m56s877.jpg"
+      },
+      {
+        "id": "greek_tv:ert:04ea9f27:e-istoria-ton-ellenikon-siderodromon-3",
+        "title": "Οι Σιδηρόδρομοι Θεσσαλονίκης Μέσα από τις Αναμνήσεις των Σιδηροδρομικών | Α' Μέρος",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/trains/i-istoria-ton-ellinikon-sidirodromon-s01-ep03-4mbpsmp4-2022-02-11-12h32m54s532.jpg"
+      },
+      {
+        "id": "greek_tv:ert:04ea9f27:e-istoria-ton-ellenikon-siderodromon-4",
+        "title": "Οι Σιδηρόδρομοι Θεσσαλονίκης Μέσα από τις Αναμνήσεις των Σιδηροδρομικών | Β' Μέρος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/trains/i-istoria-ton-ellinikon-sidirodromon-s01-ep04-4mbpsmp4-error144.jpg"
+      },
+      {
+        "id": "greek_tv:ert:04ea9f27:e-istoria-ton-ellenikon-siderodromon-5",
+        "title": "Οι Σιδηρόδρομοι Ανατολικής Μακεδονίας και Θράκης",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/trains/i-istoria-ton-ellinikon-sidirodromon-s01-ep05-4mbpsmp4-error372.jpg"
+      },
+      {
+        "id": "greek_tv:ert:04ea9f27:e-istoria-ton-ellenikon-siderodromon-6",
+        "title": "Τα Σιδηροδρομικά Δίκτυα της Ειδομένης και της Φλώρινας",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/trains/i-istoria-ton-ellinikon-sidirodromon-s01-ep06-flwrina-4mbpsmp4-error017.jpg"
+      },
+      {
+        "id": "greek_tv:ert:04ea9f27:e-istoria-ton-ellenikon-siderodromon-7",
+        "title": "Η Σιδηροδρομική Σύνδεση Αθήνας - Θεσσαλονίκης",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/trains/i-istoria-ton-ellinikon-sidirodromon-s01-ep07-4mbpsmp4-2022-03-14-21h01m14s619.jpg"
+      },
+      {
+        "id": "greek_tv:ert:04ea9f27:e-istoria-ton-ellenikon-siderodromon-8",
+        "title": "Οι Σιδηρόδρομοι της Θεσσαλίας",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/trains/i-istoria-ton-ellinikon-sidirodromon-s01-ep08-thessalia-4mbpsmp4-error223.jpg"
+      },
+      {
+        "id": "greek_tv:ert:04ea9f27:e-istoria-ton-ellenikon-siderodromon-9",
+        "title": "Τα Δίκτυα της Βόρειας Πελοποννήσου και της Αιτωλοακαρνανίας",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/istoria-sidirodromon-s01e09-4mbpsmp4-error514.jpg"
+      },
+      {
+        "id": "greek_tv:ert:04ea9f27:e-istoria-ton-ellenikon-siderodromon-10",
+        "title": "Τα Δίκτυα της Κεντρικής και Νότιας Πελοποννήσου",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/trains/istoria-twn-sidirodromwn-ep10-4mbpsmp4-error439.jpg"
+      },
+      {
+        "id": "greek_tv:ert:04ea9f27:e-istoria-ton-ellenikon-siderodromon-11",
+        "title": "Οι Ελληνικοί Σιδηρόδρομοι στους Εθνικούς Αγώνες | Α' Μέρος",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/trains/i-istoria-ton-ellinikon-sidirodromon-s01-ep11-4mbpsmp4-error346.jpg"
+      },
+      {
+        "id": "greek_tv:ert:04ea9f27:e-istoria-ton-ellenikon-siderodromon-12",
+        "title": "Οι Ελληνικοί Σιδηρόδρομοι στους Εθνικούς Αγώνες | Β' Μέρος",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/trains/i-istoria-ton-ellinikon-sidirodromon-s01-ep12-4mbpsmp4-error765.jpg"
+      }
+    ]
+  }
+}

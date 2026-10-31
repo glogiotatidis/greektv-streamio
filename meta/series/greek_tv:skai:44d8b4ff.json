@@ -47,6 +47,13 @@
         "season": 1,
         "episode": 6,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/voice/2026_2027/voice_7.jpg"
+      },
+      {
+        "id": "greek_tv:skai:44d8b4ff:2026-10-31-21",
+        "title": "Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/voice/2026_2027/voice_new_landscape.jpg"
       }
     ]
   }

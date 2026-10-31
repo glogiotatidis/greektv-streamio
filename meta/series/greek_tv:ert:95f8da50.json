@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:95f8da50",
+    "type": "series",
+    "name": "Άξονες Ανάπτυξης",
+    "poster": "https://files2.app.ertflix.gr/files/enimerosi/axones-anaptixis/axonesanaptixis-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/enimerosi/axones-anaptixis/axonesanaptixis-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-6",
+        "title": "Κατερίνη – logistics",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/axones-anaptixis/axan0201.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-7",
+        "title": "Πάτρα - Βιοϊατρική Μηχανική",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/axan0202.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-8",
+        "title": "Καρπενήσι",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/vlcsnap-error322.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-9",
+        "title": "Βαλκανικός Βοτανικός Κήπος Κρουσσίων",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/bkk.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-10",
+        "title": "Πάτρα - Τμήμα Μηχανολόγων και Αεροναυπηγών Μηχανικών",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/axones-anaptixis/n-error777.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-11",
+        "title": "Ορεστιάδα",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/axones-anaptixis/axones-anaptixis-s02-ep06-4mbpsmp4-error283.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-12",
+        "title": "Μεσολόγγι",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/axones-anaptixis-s02-ep07-4mbpsmp4-error517.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-13",
+        "title": "Κοζάνη",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/axones-anaptixis-s02-ep08-4mbpsmp4-error120.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-14",
+        "title": "Καβάλα- ΙΝ.ΑΛ.Ε.",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/axones-anaptixis-s02-ep09-4mbpsmp4-error319.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-15",
+        "title": "Λάρισα: Γεωπονία - Αγροτεχνολογία",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/axones-anaptixis-s02-ep10-4mbpsmp4-error361.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-17",
+        "title": "Κρήτη 1",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/axan-s03-ep01-4mbpsmp4-error841.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-18",
+        "title": "Κρήτη 2",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/axan-s03-ep02-4mbpsmp4-error328.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-19",
+        "title": "Πάτρα 1",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/axan-s03-ep03-patra-4mbpsmp4-error459.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-20",
+        "title": "Πάτρα 2",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/axan-s03-ep04-4mbpsmp4-error704.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-21",
+        "title": "Μυτιλήνη 1",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/axan-s03-ep05-4mbpsmp4-error694.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-22",
+        "title": "Κοζάνη",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/axan-s03-ep06-4mbpsmp4-error592.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-23",
+        "title": "Ιωάννινα",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/axan-s03-ep07-4mbpsmp4-error175.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-25",
+        "title": "Μυτιλήνη",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/axan-s03-ep08-4mbpsmp4-error861.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-24",
+        "title": "Κέρκυρα",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/axan-s03-ep09-4mbpsmp4-error004.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-26",
+        "title": "Κέρκυρα 2",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/axones-anaptiksis/axan-s03-ep10-4mbpsmp4-error099.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-27",
+        "title": "Λάρισα - Λαμία",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/axan-s03-ep11-4mbpsmp4-error229.jpg"
+      },
+      {
+        "id": "greek_tv:ert:95f8da50:axones-anaptuxes-28",
+        "title": "Κομοτηνή - Ξάνθη",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/axan-s03-ep12-komotini-xanthi-4mbpsmp4-error651.jpg"
+      }
+    ]
+  }
+}

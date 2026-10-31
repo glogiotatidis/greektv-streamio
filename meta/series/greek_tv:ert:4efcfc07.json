@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:4efcfc07",
+    "type": "series",
+    "name": "Ό,τι Αξίζει",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-new-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-2",
+        "title": "Φολέγανδρος",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/20250921-oti-axizei-s01-ep01-folegandros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-3",
+        "title": "Ίos",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/20250928-oti-axizei-s01-ep02-ios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-4",
+        "title": "Φούρνοι",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-ep03-fournoi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-5",
+        "title": "Η Βαμβακού: Ένα Χωριό Ξαναγεννιέται",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-s01-ep04-bambakou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-6",
+        "title": "Ικαρία - Γη",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-ep05-ikaria-gh-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-7",
+        "title": "Ικαρία - Πολιτισμός",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-ep06-ikaria-politismos-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-8",
+        "title": "Πάρνωνας",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-ep07-parnonas-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-9",
+        "title": "Σίφνος",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps045965-oti-ajizei-sifnos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-10",
+        "title": "Κίμωλος",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps045966-oti-axizei-s01-ep09-kimwlos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-11",
+        "title": "Αντίπαρος",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps045967-oti-axizei-s01-ep10-antiparos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-12",
+        "title": "Πήλιο, Γη και Ψυχή",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-ep11-pilio-gh-kai-psixi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-13",
+        "title": "Πήλιο - Λαογραφικό",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps045969-oti-axizei-ps01-ep12-phlio-laografiko.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-14",
+        "title": "Πάρος",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-ep13-paros-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-15",
+        "title": "Σκιάθος",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps045971-oti-axizei-s01-ep14-skiathos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-16",
+        "title": "Δασικό Χωριό",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-diasiko-xorio-021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-17",
+        "title": "Βιστωνίδα - Πόρτο Λάγος",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps045973-oti-axizei-s01-ep16-bistwnida-porto-lagos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-18",
+        "title": "Ξάνθη",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps045974-oti-axizei-s01-ep17-xanthi-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-19",
+        "title": "Μέτσοβο",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps045975-oti-axizei-s01-ep18-metsovo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-20",
+        "title": "Μέτσοβο, στον Ρυθμό της Φύσης",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-ep19-metsovo-ston-rutmo-tis-fisis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-21",
+        "title": "Πομακοχώρια: Άνθρωποι Δεμένοι με τη Γη",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps045977-oti-axizei-s01-ep20-pomakoxwria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-22",
+        "title": "Μετσοβίτικα Χωριά",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps045978-oti-axizei-s01-ep21-metsovitika-xwria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-23",
+        "title": "Νεστόριο",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps045979-oti-axizei-nestorio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-24",
+        "title": "Ραγκουτσάρια - Χαρά Ζωής",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps045980-oti-axizei-s01-ep23-xara-zois.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-25",
+        "title": "Ζωντανά Όνειρα - Καστοριά",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-s01-ep24-kastoria.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-26",
+        "title": "Καστοριά - Φύση, εκεί που η Ζωή Ανασαίνει",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-s02-ep01-kastoria.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-27",
+        "title": "Τα Μαρτυρικά Χωριά της Καστοριάς",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps057323-0002-martyrika-hwria-ths-kastorias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-28",
+        "title": "Χωριά του Βερμίου",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps057323-0003-xwria-tou-vermiou.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-29",
+        "title": "Χαλίκι Ασπροποτάμου",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps057323-0004-haliki-aspropotamou.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-30",
+        "title": "Παναγία Σουμελά, Ανάσταση Ψυχής",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-s02-ep05-panagia-soumela-anastasi-psixis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-31",
+        "title": "Χωριά Τρικάλων: Μακριά από τον Θόρυβο",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps057323-0006-oti-axizei-xwria-trikalwn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-32",
+        "title": "Μετέωρα",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps057323-0007-oti-axizei-s02-ep07.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-33",
+        "title": "Λευκάδα: Μέτρο Ζωής - Α' Μέρος",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps057323-0008-oti-axizei-leukada-part1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-34",
+        "title": "Λευκάδα - Β' Μέρος",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps057323-0009-oti-axizei-leukada-b.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-35",
+        "title": "Μεγανήσι",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps057323-0010-oti-axizei-meganhsi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-36",
+        "title": "Κορωνησία",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps057323-0011-oti-axizei-koronisia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-37",
+        "title": "Πιάνα Αρκαδίας: Ήσυχη Δύναμη",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps057323-0012-oti-axizei-isixi-dinami.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-38",
+        "title": "Σφακιά",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps057323-0013-oti-axizei-sfakia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-39",
+        "title": "Κίσσαμος",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps058445-0001-oti-axizei-s03-kissamos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-40",
+        "title": "Ψέριμος",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps058445-0006-oti-axizei-s03-ep02-pserimos.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-41",
+        "title": "Λέρος, από την Αρχή",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps058445-0005-oti-axizei-s03-ep03-leros.jpg"
+      }
+    ]
+  }
+}

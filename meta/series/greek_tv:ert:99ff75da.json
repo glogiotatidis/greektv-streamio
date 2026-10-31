@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:99ff75da",
+    "type": "series",
+    "name": "ΠρΑΪμ",
+    "poster": "https://files2.app.ertflix.gr/files/enimerosi/praim/praim-2026-27-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/enimerosi/praim/praim-2026-27-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:99ff75da:praim-18",
+        "title": "Τετάρτη 22 Ιουλίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/20260722-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-17",
+        "title": "Τετάρτη 01 Ιουλίου 2026",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/20260701-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-16",
+        "title": "Τετάρτη 24 Ιουνίου 2026",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/20260624-praim.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-15",
+        "title": "Τετάρτη 17 Ιουνίου 2026",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/20260617-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-14",
+        "title": "Το Τέλος του Μισθού | 10.06.26",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/20260610-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-13",
+        "title": "Τετάρτη 03 Ιουνίου 2026",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/prime/20260603-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-12",
+        "title": "Τετάρτη 27 Μαΐου 2026",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/20260527-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-11",
+        "title": "Τετάρτη 20 Μαΐου 2026",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/prime/ls030162-20260520-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-10",
+        "title": "Τετάρτη 13 Μαΐου 2026",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/prime/20260513-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-9",
+        "title": "Τετάρτη 06 Μαΐου 2026",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/2026056-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-8",
+        "title": "Τετάρτη 29 Απριλίου 2026",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/ls030096-20260429-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-7",
+        "title": "Τετάρτη 22 Απριλίου 2026",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/20260422-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-6",
+        "title": "Τετάρτη 15 Απριλίου 2026",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/20260415-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-5",
+        "title": "Τετάρτη 08 Απριλίου 2026",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/2026048-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-4",
+        "title": "Τετάρτη 01 Απριλίου 2026",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/2026041-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-3",
+        "title": "Η Αόρατη Τεχνητή Νοημοσύνη, Πέρα από τα LLMs | 25.02.26",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/ls030054-20260225-praim.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-2",
+        "title": "Η Τεχνητή Νοημοσύνη Γράφει. Ποιος Υπογράφει; Δημοσιογραφία στην εποχή των ΑΙ | 18.02.26",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/20260218-praim.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-1",
+        "title": "Μικρή Χώρα - Μεγάλο Άλμα; Η Τεχνολογική Ευκαιρία της Ελλάδας στην Τεχνητή Νοημοσύνη | 11.02.26",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/20260211-praim.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim",
+        "title": "Μουσική Χωρίς Μουσικούς. Εργασία Χωρίς Εργαζόμενους-Παιχνίδι & Δουλειά στην Εποχή του ΑΙ | 04.02.26",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/prime/20250204-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:prime-721",
+        "title": "Άλμα Εμπιστοσύνης: Το Έτος των AI Agents. Κράτος και ΑΙ: Εξέλιξη, Λάθη και Όρια | 28.01.26",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/20260129-praim.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-19",
+        "title": "Τετάρτη 30 Σεπτεμβρίου 2026",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/20260930-praim.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-20",
+        "title": "Τετάρτη 07 Οκτωβρίου 2026",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/20261007-praim.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-21",
+        "title": "Τετάρτη 14 Οκτωβρίου 2026",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/ls029113-0003-20261014-praim.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-22",
+        "title": "Τετάρτη 21 Οκτωβρίου 2026",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/ls029113-0004-20261021-prime.jpg"
+      }
+    ]
+  }
+}

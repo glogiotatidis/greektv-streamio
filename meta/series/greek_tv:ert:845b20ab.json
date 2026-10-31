@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:845b20ab",
+    "type": "series",
+    "name": "Project Περιφέρεια",
+    "poster": "https://files2.app.ertflix.gr/2026/shows/project-district/project-perifereia-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2026/shows/project-district/project-perifereia-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-31",
+        "title": "Η Καλλιέργεια του Ροδάκινου στη Νάουσα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/project-perifereia-s01-e30-naoysa-4mbpsmp4-2026-07-28-11h58m02s062.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-30",
+        "title": "Βόλος",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/project-perifereia-s01-e29-bolos-4mbpsmp4-2026-06-18-11h29m43s980.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-29",
+        "title": "Κερκίνη",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/s01e28-traillermxf-2026-06-18-10h58m12s553.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-28",
+        "title": "Σέρρες",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/project-perifereia-s01-e27-serres-4mbpsmp4-2026-06-18-10h43m07s383.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-27",
+        "title": "Καβάλα Kαπναποθήκες",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/project-perifereia-s01-e26-kavala-4mbpsmp4-2026-06-18-10h28m24s420.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-26",
+        "title": "Κέρκυρα",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/project-perifereia-s01-e25-kerkyra-4mbpsmp4-2026-06-18-10h22m58s147.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-25",
+        "title": "Εύβοια Πυρκαγιές",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/project-perifereia-s01e24-eyboia-pyrkagies-4mbpsmp4-2026-06-18-10h07m34s611.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-24",
+        "title": "Μεσολόγγι Ιχθυοκαλλιέργειες",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps047844-project-perifereia-s01e23-mesologgi-4mbpsmp4-2026-06-10-11h06m21s133.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-23",
+        "title": "Χωριά που Ερήμωσαν - Daniel",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps047843-project-perifereia-s01ep22-xwria-danielmxf-2026-06-05-13h33m53s404.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-22",
+        "title": "Ξάνθη Εξαγωγές",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps047842-project-perifereia-s01ep21-xanthi-exagwges-4mbpsmp4-2026-05-27-10h19m02s085.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-21",
+        "title": "Παραμεθόρια Χωριά",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps047841-project-perifereia-s01ep20-paramethoria-xwria-4mbpsmp4-2026-05-21-12h33m04s013.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-20",
+        "title": "Δάσος Δαδιάς",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/project-perifereia-s01ep19-dasos-dadias-4mbpsmp4-2026-05-13-10h33m27s847.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-19",
+        "title": "Ιωάννινα",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps047839-project-perifereia-s01ep18-ioannina-4mbpsmp4-2026-05-08-09h18m28s199.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-18",
+        "title": "Καστοριά",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps047838-project-perifereia-s01ep17-kastoria-4mbpsmp4-2026-05-07-09h58m29s743.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-17",
+        "title": "Πατρών - Πύργου",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps047837-project-perifereia-s01ep16-auto-patra-pyrgos-4mbpsmp4-2026-04-24-11h21m34s967.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-16",
+        "title": "Ιόνια Οδός",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/s01e09-ionia-odos-traillermxf-2026-04-07-12h38m20s581.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-15",
+        "title": "Όλυμπος",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/project-perifereia-s01e14-olympos-4mbpsmp4-2026-04-06-13h49m54s306.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-14",
+        "title": "Daniel Πήλιο",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/project-per-s01e13-phlio-daniel-trailer-4mbpsmp4-2026-04-02-11h34m45s098.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-13",
+        "title": "Αυτοκινητόδρομος Κεντρικής Ελλάδας- Ε65",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/project-perifereia-s01-ep12-autokinitodromoske-e65-4mbpsmp4-2026-03-30-09h56m11s410.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-12",
+        "title": "Λιμάνι Αλεξανδρούπολης",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/project-perifereia-s01e11-limani-alexandroupolis-trailler-4mbpsmp4-2026-03-17-16h04m09s156.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-11",
+        "title": "Γρεβενά Δημογραφικό",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps047831-project-perifereia-s01-ep10-grevena.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-10",
+        "title": "Καλαμάτα",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/project-periferia-s01e15-kalamata.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-9",
+        "title": "Αγροτικά Προϊόντα της Θράκης",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps047829-project-perifereia-s01-ep08-thrakh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-8",
+        "title": "ΒΙ.ΠΕ. Θεσσαλονίκης",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps047828-projectperifereia-s01-ep07-bipeth.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-7",
+        "title": "Οινοποιεία Δράμας",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/projectperifereia-ep06-oinopoieiadramas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-6",
+        "title": "Χαλκιδική και Υπερτουρισμός",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps047826-project-perifereia-s01-ep05-chalkidiki-ypertourismos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-5",
+        "title": "Σηροτροφία",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/project-per-s01e04-sirotrofia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-4",
+        "title": "Οι Αλιείς του Θερμαϊκού",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/project-per-s01e03-alieis-thermaikoy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-3",
+        "title": "Τα Σιωπηλά Αρχοντικά της Φλώρινας",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps047823-project-perifereia-s01-e02-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:845b20ab:project-periphereia-1",
+        "title": "Τουρισμός και Υποδομές Θεσσαλονίκης",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/projectperifereia-s01-e01-thess.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:a8057a76",
+    "type": "series",
+    "name": "(AD, CC) Cool Crips on Tour",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/cool-crips-on-tour/ad-cc/cool-crips-on-tour-ad-cc-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/cool-crips-on-tour/cool-crips-on-tour-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:a8057a76:ad-cc-cool-crips-on-tour-1",
+        "title": "Αθήνα - Κομοτηνή",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/cool-crips-on-tour/ps058421-0001-cool-crips-on-tour.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a8057a76:ad-cc-cool-crips-on-tour-2",
+        "title": "Κωνσταντινούπολη - Φιλιππούπολη",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/cool-crips-on-tour/ps058421-0002-cool-crips-on-tour.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a8057a76:ad-cc-cool-crips-on-tour-3",
+        "title": "Σόφια - Βελιγράδι",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/cool-crips-on-tour/ps058421-0003-cool-crips-on-tour.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a8057a76:ad-cc-cool-crips-on-tour-4",
+        "title": "Βελιγράδι - Σπλιτ",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/cool-crips-on-tour/ps058421-0004-cool-crips-on-tour.jpg"
+      }
+    ]
+  }
+}

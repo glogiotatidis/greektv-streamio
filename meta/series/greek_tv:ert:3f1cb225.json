@@ -1,0 +1,3070 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:3f1cb225",
+    "type": "series",
+    "name": "Μαγειρική Πρωίαν σε Είδον",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/proian-se-eidon-mageirikh-2025-26-ertflix-img-new.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/proian-se-eidon-mageirikh-2025-26-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-431",
+        "title": "Σάντουιτς με Τραβηχτό Στήθος Γαλοπούλας και Καραμελωμένα Κρεμμύδια",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/20251008-santouits-me-travixto-stithos-pr.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-430",
+        "title": "Σαλάτα με Κινόα, Αβοκάντο και Καβουρδισμένα Αμύγδαλα",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/20251007-salata-me-kinoa-pr.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-428",
+        "title": "Ρεβιθάδα Σίφνου στο Φούρνο",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/20251006-revithada-sifnou-prnew.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-432",
+        "title": "Νιόκι στον Φούρνο με Λαχανικά Εποχής",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/20251009-nioki-sto-fourno-pr.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-433",
+        "title": "Fudgy Brownie Σοκολάτας | Αντώνης Δασκαλάκης",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/20251010-fudge-brownie-pr.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-434",
+        "title": "Σπιτικό Παριζάκι Κοτόπουλο",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/20251013-spitiko-parizaki-kotopoulo-pr.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-423",
+        "title": "Τάρτα Blueberries με Lemon Curd | Αντώνης Δασκαλάκης",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/20250926-tarta-blueberries-pr.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-424",
+        "title": "Παραδοσιακή Αναρόκρεμα | Αντώνης Δασκαλάκης",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-studio/20251001-paradosiaki-ananokrema-pr.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-425",
+        "title": "Γαρίδες Σαγανάκι με Μάραθο και Φέτα",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/20250929-garides-saganaki-pr.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-426",
+        "title": "Λαζάνια Αλά Νόρμα",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/20250930-lazania-ala-norma-pr.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-427",
+        "title": "Mιλφέιγ Λαχανικών με Κρέμα Τυριού με Μυρωδικά",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-studio/20251002-milgfei-laxanikwn-pr.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-429",
+        "title": "Μωσαϊκό με Κακάο και Φουντούκια | Αντώνης Δασκαλάκης",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-studio/20251003-mwsaiko-me-kakao-pr.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-417",
+        "title": "Mπάμπκα με Σοκολάτα",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/bamka-me-sokolata.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-418",
+        "title": "Κέικ Καρότου χωρίς Ζάχαρη | Αντώνης Δασκαλάκης",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/keik-karotou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-419",
+        "title": "Σαλάτα με Φακές Beluga, Ρόδι και Καπνιστό Σκουμπρί",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-me-fakes-beluga.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-420",
+        "title": "Σολομός Ταρτάρ με Αβοκάντο και Φρέσκα Μυρωδικά",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/solomos-tartar-me-avokado.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-421",
+        "title": "Χοιρινό Πρασοσέλινο με Τραγανές Πατάτες",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xoirino-prasoselino.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-422",
+        "title": "Ζυμαρικά Κοκκινιστά με Κρέμα Καρύδας και Λεμονόχαρτο",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/zymarika-kokkinista-me-krema-karydas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-411",
+        "title": "Ανοιχτή Τάρτα με Βανίλιες και Τυρί Κρέμα",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/mageirikes-proian-se-eidon-2025-2026/proian-se-eidon-mageirikes-anoixti-tarta-me-vanilies-kai-tyri-krema.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-412",
+        "title": "Κριθαρότο με Σαφράν και Μανιτάρια",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/mageirikes-proian-se-eidon-2025-2026/proian-se-eidon-mageirikes-kritharoto-me-safran-kai-manitaria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-413",
+        "title": "Ντάκος με Ξινομυζήθρα και Καραμελωμένα Ντοματίνια",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/mageirikes-proian-se-eidon-2025-2026/proian-se-eidon-mageirikes-ntakos-me-jinomizithra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-414",
+        "title": "Σουτζουκάκια Κοκκινιστά με Πουρέ Πατάτας",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/mageirikes-proian-se-eidon-2025-2026/proian-se-eidon-mageirikes-soutzoukakia-kokkinista.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-415",
+        "title": "Τιραμισού με Φυστίκι Αιγίνης | Αντώνης Δασκαλάκης",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/mageirikes-proian-se-eidon-2025-2026/proian-se-eidon-mageirikes-tiramisou-me-fystiki-aiginis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-416",
+        "title": "Σαρδέλες Γεμιστές",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/mageirikes-proian-se-eidon-2025-2026/proian-se-eidon-mageirikes-sardeles-gemistes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-405",
+        "title": "Παπουτσάκια Λαχανικών με Μπεσαμέλ Γιαουρτιού",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/papoutsakia-laxanikwn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-406",
+        "title": "Παστίτσιο",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pastitsio-neo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-407",
+        "title": "Σαλάτα με Πικάντικα Παντζάρια, Κατσικίσιο Τυρί και Καρύδια",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-me-pikantika-pantzaria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-408",
+        "title": "Σαλάτα με Ρόκα, Σύκο, Καρύδι και Μανούρι",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-me-roka-syko.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-409",
+        "title": "Ταρτάκια με Κρέμα Φέτας και Λαχανικά",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tartakia-me-krema-fetas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-410",
+        "title": "Τιραμισού σε Μπάλες",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tiramisou-se-mpales.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-398",
+        "title": "Φάβα Σαντορίνης με Κάπαρη και Καραμελωμένα Κρεμμύδια",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/fava-santorinis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-399",
+        "title": "Γεμιστά",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/gemista-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-400",
+        "title": "Κοτόπουλο Σχάρας με Σάλτσα Μουστάρδας",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kotopoulo-sxaras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-401",
+        "title": "Κλαφουτί με Κεράσια",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/klafouti-me-kerasia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-402",
+        "title": "Μουσακάς",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mousakas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-403",
+        "title": "Σάντουιτς με Τραβηχτό Κοτόπουλο",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/santouits.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-404",
+        "title": "Σαλάτα με Τραγανό Ρύζι και Γαρίδες",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-me-tragano-ryzi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-392",
+        "title": "Φακές με Ντοματίνια, Αβοκάντο και Καρύδια",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/fakes-me-ntomatinia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-393",
+        "title": "Καγιανάς με Ψητές Ντομάτες και Φέτα",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kagianas-me-psites-ntomates.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-394",
+        "title": "Καλοκαιρινή Μακαρονάδα με Κόκκινες Πιπεριές",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kalokairini-makaronada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-395",
+        "title": "Πατατοσαλάτα με Γαλοπούλα και Βραστά Αυγά",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/patatosalata-me-galopoula.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-396",
+        "title": "Ριζότο με Καλαμπόκι, Αρακά και Λεμόνι",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/rizoto-me-kalampoki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-397",
+        "title": "Σοκολατένιο Brownie με Μπανάνα και Κότατζ",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/sokolatenio-brownie.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-391",
+        "title": "Μπάρες με Χουρμάδες και Σοκολάτα",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/mageirikes-proian-se-eidon-2025/mpares-me-xourmades.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-390",
+        "title": "Τηγανιά Χοιρινή με Λευκό Κρασί",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/mageirikes-proian-se-eidon-2025/tigania-xoirini-me-leuko-krasi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-388",
+        "title": "Mακαρόνια με Κιμά Γαλοπούλας",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/mageirikes-proian-se-eidon-2025/makaronada-me-kima-galopoulas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-386",
+        "title": "Φιλέτο Ψαριού στη Λαδόκολλα με Ντοματίνια και Μυρωδικά",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/mageirikes-proian-se-eidon-2025/fileto-psariou-stin-ladokolla.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-389",
+        "title": "Μελιτζάνες Κοκκινιστές με Ρύζι",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/mageirikes-proian-se-eidon-2025/melitzanes-kokkinistes-me-ryzi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-387",
+        "title": "Κοτόπουλο Κατσατόρε με Πατάτες Φούρνου",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/mageirikes-proian-se-eidon-2025/kotopoulo-katsarote.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-380",
+        "title": "Ντολμαδάκια Γιαλαντζί με Μυρωδικά και Λεμονάτη Σάλτσα",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/ntolmadakia-gialantzi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-381",
+        "title": "Ψαρονέφρι με BBQ Sauce και Πουρέ",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/psaronefri-me-bbq-sauce.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-382",
+        "title": "Ψητά Κολοκυθάκια Γεμιστά με Φέτα και Μυρωδικά",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/psita-kolokythakia-gemista.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-383",
+        "title": "Σπαγγέτι με Κοτόπουλο, Βασιλικό και Καβουρδισμένα Αμύγδαλα",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/spaggeti-me-kotopoulo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-384",
+        "title": "Τάρτα με Φρέσκιες Φράουλες και Κρέμα Βανίλιας | Αντώνης Σελέκος",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tarta-me-fraoules.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-385",
+        "title": "Τορτίγια με Ψητό Ψάρι, Λαχανικά και Λεμονάτη Μαγιονέζα",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tortigia-me-psito-psari.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-374",
+        "title": "Κλαμπ Σάντουιτς με Κοτόπουλο",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/klamp-santouits.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-375",
+        "title": "Μωσαϊκό με Λευκή Σοκολάτα και Φιστίκι Κελυφωτό",
+        "season": 2,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mwsaiko-me-leuki-sokolata.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-376",
+        "title": "Ρεβίθια Λεμονάτα με Κριθαράκι",
+        "season": 2,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/revithia-lemonata.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-377",
+        "title": "Ριζότο με Σπαράγγια και Κρόκο",
+        "season": 2,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/rizoto-me-sparagkia-kai-kroko.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-378",
+        "title": "Σοκολατάκια με Μπισκότο",
+        "season": 2,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/sokolatakia-me-biskoto.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-379",
+        "title": "Σαλάτα με Αγγούρι, Ψητά Κολοκύθια και Φέτα",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-me-aggouri-psita-kolokythia-kai-feta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-368",
+        "title": "Cookies με Αλμυρή Καραμέλα",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/mageiriki-proian-se-eidon-2025/mageiriki-proian-se-eidon-cookies-me-almyri-karamela.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-369",
+        "title": "Μπρουσκέτες με Λαχανικά και Τυρί Κρέμα",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/mageiriki-proian-se-eidon-2025/mageiriki-proian-se-eidon-mprousketes-me-laxanika-kai-tyri-krema.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-370",
+        "title": "Cracked Ice Cream | Ελένη Καπνιά",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/mageiriki-proian-se-eidon-2025/mageiriki-proian-se-eidon-pagwto-pou-ta-spaei.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-371",
+        "title": "Σαλάτα Αλμύρα με Γαρίδες και Ροδάκινα",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/mageiriki-proian-se-eidon-2025/mageiriki-proian-se-eidon-salata-almyra-me-garides.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-372",
+        "title": "Tάρτα με Πράσα και Μπέικον",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/mageiriki-proian-se-eidon-2025/mageiriki-proian-se-eidon-tarta-me-prasa-kai-mpeikon.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-373",
+        "title": "Χοιρινά Μπριζολάκια με Μέλι και Μουστάρδα",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/mageiriki-proian-se-eidon-2025/mageiriki-proian-se-eidon-xoirina-mprizolakia-me-meli-kai-moustarda.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-362",
+        "title": "Ψητό Cheesecake με Βατόμουρα και Φράουλες | Χρήστος Παπαδόγιαννης",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/mageiriki-proian-se-eidon-2025/cheesecake-me-vatomoura-kai-fraoules.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-363",
+        "title": "Ηπειρώτικα Φασόλια με Ρύζι",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/mageiriki-proian-se-eidon-2025/ipeirwtika-fasolia-me-ryzi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-364",
+        "title": "Κουλουράκια Πορτοκαλιού",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/mageiriki-proian-se-eidon-2025/koulourakia-portokaliou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-365",
+        "title": "Μαγιονέζα με Βραστά Αυγά",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/mageiriki-proian-se-eidon-2025/magioneza-me-vrasta-avga.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-366",
+        "title": "Σαλάτα με Αγκινάρες",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/mageiriki-proian-se-eidon-2025/salata-me-agkinares.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-367",
+        "title": "Tacos με Αρνί και Σάλτσα Μουστάρδας",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/mageiriki-proian-se-eidon-2025/tacos-me-arni-kai-saltsa-moustardas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-350",
+        "title": "Aλμυρό Κέικ με Φέτα",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/almyro-keik-me-feta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-351",
+        "title": "Mπάρες Σοκολάτας με Φιστίκια Αιγίνης",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mpares-sokolatas-me-fistikia-aiginis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-352",
+        "title": "Πιλάφι με Λαχανικά και Πικάντικο Γιαούρτι",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pilafi-me-laxanika.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-353",
+        "title": "Ριζότο με Κολοκύθα και Σπαράγγια",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/rizoto-me-kolokytha.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-354",
+        "title": "Σαλάτα Λαχανικών με Σάλτσα Φέτας",
+        "season": 3,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-laxanikwn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-355",
+        "title": "Τραχανάς Σούπα με Χωριάτικο Λουκάνικο",
+        "season": 3,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/traxanas-soupa-me-xwriatiko-loukaniko.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-356",
+        "title": "Φιλετάκια Κοτόπουλου με Μουστάρδα",
+        "season": 3,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/filetakia-kotopoulo-me-moustarda.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-357",
+        "title": "Μαυρομάτικα Σαλάτα με Ρόκα",
+        "season": 3,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mauromatika-salata-me-roka.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-358",
+        "title": "Πορτοκαλόπιτα | Ειρήνη Πολυβίου",
+        "season": 3,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/portokalopita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-359",
+        "title": "Σουπιές Κοκκινιστές με Ούζο",
+        "season": 3,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/soupies-kokkinisto-me-ouzo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-360",
+        "title": "Χαλβάς με Γάλα και Αποξηραμένα Φρούτα | Στέλιος Παρλιάρος",
+        "season": 3,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xalvas-me-gala-kai-apoxiramena-frouta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-361",
+        "title": "Xορτοπιτάκια στο Τηγάνι",
+        "season": 3,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xortopitakia-sto-tigani.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-344",
+        "title": "Τσίζκεϊκ με Μαρμελάδα Μανταρίνι",
+        "season": 3,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tzizkeik-me-marmelada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-345",
+        "title": "Xοιρινό με Πράσο και Σέλινο",
+        "season": 3,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xoirino-me-praso-kai-selino.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-346",
+        "title": "Μοσχάρι Στιφάδο",
+        "season": 3,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mosxari-stifado.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-347",
+        "title": "Μους Σοκολάτας με Τυρί Κότατζ",
+        "season": 3,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mous-sokolatas-me-tyri-kotatz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-348",
+        "title": "Mπακαλιάρος Πλακί",
+        "season": 3,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mpakaliaros-plaki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-349",
+        "title": "Iσπανική Ομελέτα",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/ispaniki-omeleta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-338",
+        "title": "Ταραμοσαλάτα",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/taramosalata-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-339",
+        "title": "Τονοσαλάτα με Τραγανό Ρύζι",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tonosalata-me-tragano-ryzi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-340",
+        "title": "Τραγανό Μπρόκολο με Παρμεζάνα",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tragano-brokolo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-341",
+        "title": "Τυρόπιτα - 4 Τυριά με Τυρί Κρέμα",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tyropita-me-4-tyria-me-tyri-krema.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-342",
+        "title": "Σπανακόρυζο",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/spanakoryzo-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-343",
+        "title": "Κλασσικό Δίχρωμο Κέικ",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/klassiko-dixrwmo-keik.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-332",
+        "title": "Κολοκύθα Γεμιστή με Μπλε Τυρί και Κάσιους",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kolokytha-gemisti-me-kasious.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-333",
+        "title": "Κρεμώδες Κριθαράκι με Σπανάκι",
+        "season": 4,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kremwdes-kritharaki-me-spanaki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-334",
+        "title": "Σουφλέ Σοκολάτας",
+        "season": 4,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/soufle-sokolatas-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-335",
+        "title": "Tηγανητοί Γίγαντες με Σάλτσα Ρομέσκο",
+        "season": 4,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/thganitoi-gigantes-me-saltsa-romesko.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-336",
+        "title": "Φακές Σούπα",
+        "season": 4,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/fakes-soupa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-337",
+        "title": "Μηλοπιτάκια με Σφολιάτα",
+        "season": 4,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/milopitakia-me-sfoliata.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-326",
+        "title": "Τηγανιτό Ρύζι με Λαχανικά και Peanuts",
+        "season": 4,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tiganito-ryzi.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-327",
+        "title": "Κοτόπουλο Γιουβέτσι Παραδοσιακό",
+        "season": 4,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kotopoulo-giouvetsi-paradosiako.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-328",
+        "title": "Κρέμα Ρεβίθια με Ψητά Κρεμμύδια",
+        "season": 4,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/krema-revithia-me-psita-kremmydia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-329",
+        "title": "Τσιπούρα Στιφάδο",
+        "season": 4,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tsipoura-stifado.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-330",
+        "title": "Τυρόψωμο",
+        "season": 4,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tyropswmo.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-331",
+        "title": "Κοτόπουλο Λεμονάτο με Χόρτα",
+        "season": 4,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kotopoulo-lemonato-me-xorta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-320",
+        "title": "Cheesecake Κολοκύθας με Αρωματικό Μέλι",
+        "season": 4,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/cheesecake-kolokythas.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-322",
+        "title": "Kρέμα Κακάο με Τυρί Cottage",
+        "season": 4,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/krema-kakao-me-tyri-cottage.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-323",
+        "title": "Μακαρονάδα με Kιμά Kοτόπουλο",
+        "season": 4,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/makaronada-me-kima-kotopoulo.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-321",
+        "title": "Μοσχάρι Σούπα με Λαχανικά και Κριθαράκι",
+        "season": 4,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mosxari-soupa-me-laxanika.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-324",
+        "title": "Σπιτικός Χοιρινός Γύρος",
+        "season": 4,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/spitikos-gyros-xoirinos-n.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-325",
+        "title": "Σούπα Λαχανικών Βελουτέ με Ροκφόρ",
+        "season": 4,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/soupa-laxanikwn-veloute.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-314",
+        "title": "Κανελόνια με Τόφου και Κόκκινη Σάλτσα",
+        "season": 4,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kanelonia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-315",
+        "title": "Vegan Σούπα με Καλαμπόκι και Πικάντικα Κάσιους",
+        "season": 4,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/vegan-soupa.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-316",
+        "title": "Vegan Μπισκότα και Κομματάκια Σοκολάτας",
+        "season": 4,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/vegan-mpiskota-me-kommatakia-sokolatas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-317",
+        "title": "Vegan Chili Con Carne με Κιμά Σόγιας",
+        "season": 4,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/vegan-chili-con-carne-me-kima-sogias.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-318",
+        "title": "Vegan Μπιφτέκια Σόγιας με Πατάτες στο Φούρνο",
+        "season": 4,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/vegan-chili-con-carne-me-kima-sogias.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-319",
+        "title": "Kινέζικα Πανκέικς με Φρέσκα Κρεμμυδάκια και Τυρί",
+        "season": 5,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kinezika-pancakes.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-308",
+        "title": "Blueberry Cheesecake με Λευκή Σοκολάτα | Σπύρος Μαριάτος",
+        "season": 5,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/blueberry-cheesecake.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-310",
+        "title": "Φιλέτο Τσιπούρας στη Λαδόκολλα με Λαχανικά",
+        "season": 5,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/fieto-tsipouras.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-311",
+        "title": "Κέικ με Τρεις Στρώσεις Σοκολάτας",
+        "season": 5,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/keik-me-treis-strwseis-sokolatas.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-312",
+        "title": "Vegan Κρεμώδης Σούπα Μανιταριών",
+        "season": 5,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/vegan.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-313",
+        "title": "Κλασσική Κοτόσουπα Αυγολέμονο",
+        "season": 5,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/klassiki-soupa-augolemono.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-309",
+        "title": "Ζεστή Σαλάτα με Ρεβίθια, Αβοκάντο και Ρύζι",
+        "season": 5,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/zesti-salata-me-revithia-avokado-kai-ryzi.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-306",
+        "title": "Σιγομαγειρεμένη Πανσέτα με Κρέμα Γλυκοπατάτας",
+        "season": 5,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/sigomageiremeni-panseta-me-krema-glykopatatas.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-307",
+        "title": "Ψαρονέφρι με Σάλτσα Σαμπάνιας, Κρέμα Κάστανο και Πατάτες",
+        "season": 5,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/psaronefri-me-saltsa-sampanias.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-305",
+        "title": "Ζαμπονοτυρόπιτα με Leftovers",
+        "season": 5,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/zamponotyropita-me-leftovers.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-304",
+        "title": "Κότσι με Μέλι, Πορτοκάλι και Κάστανο",
+        "season": 5,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kotsi-me-meli-portokali-kai-kastano.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-303",
+        "title": "Κολοκυθόσουπα Βελουτέ",
+        "season": 5,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kolokythosoupa-veloute.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-302",
+        "title": "Γκαλέτ με Κολοκύθα, Μπρι και Καπνιστό Ζαμπόν",
+        "season": 5,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/gkalet-me-kolokytha-mpri-kai-kapnisto-zambon.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-301",
+        "title": "Xούμους από Κόκκινη Φακή και Χειροποίητες Πίτες με Σκόρδο",
+        "season": 5,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xoumous-apo-kokkini-faki.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-296",
+        "title": "Ρολάκια με Μπρι και Μαρμελάδα",
+        "season": 5,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/rolakia-me-bri-kai-marmelada.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-300",
+        "title": "Ομελέτα Φούρνου με Μπρόκολο, Πατάτες και Καραμελωμένα Κρεμμύδια",
+        "season": 5,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/omeleta-fournou-me-brokolo.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-299",
+        "title": "Mπιφτέκια Μοσχαρίσια Γεμιστά",
+        "season": 5,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mpiftekia-mosxarisia-gemista.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-298",
+        "title": "Κριθαρότο με Αρακά, Μπρόκολο και Ταχίνι",
+        "season": 5,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kritharoto-me-araka-mprokolo-kai-taxini.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-297",
+        "title": "Δεντράκια Σφολιάτας με Πραλίνα",
+        "season": 5,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/dentrakia-sfoliatas-me-pralina.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-290",
+        "title": "Κέικ με Κολοκύθα και Τυρί Κρέμα",
+        "season": 5,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/cake-me-kolokytha-kai-tyri-krema.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-291",
+        "title": "Κοτόσουπα με Κρέμα Καρύδας",
+        "season": 5,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kotosoupa-me-krema-karydas.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-292",
+        "title": "Κουνουπίδι Ογκρατέν με Μανιτάρια",
+        "season": 5,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kounoupidi-ograten-me-manitaria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-293",
+        "title": "Μοσχάρι Κρασάτο με Άγρια Χόρτα",
+        "season": 5,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mosxari-krasato-me-agria-xorta.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-294",
+        "title": "Ρυζόγαλο Σοκολάτα",
+        "season": 5,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/ryzogalo-sokolata.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-295",
+        "title": "Stir Fry Λαχανικών με Γαρίδες",
+        "season": 5,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/stir-fry-laxanikwn-me-garides.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-284",
+        "title": "Cookies στο Airfryer",
+        "season": 5,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/cookies-sto-airfryer.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-285",
+        "title": "Φασόλια με Σελινόριζα",
+        "season": 5,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/fasolia-me-selinoriza.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-286",
+        "title": "Κέικ με Φιστίκια",
+        "season": 5,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/keik-me-fystikia.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-287",
+        "title": "Μακαρονάδα Αματριτσιάνα",
+        "season": 5,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/makaronada-amatritsiana.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-288",
+        "title": "Σολομός με Φακοσαλάτα",
+        "season": 5,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/solomos-me-fakosalata.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-289",
+        "title": "Ζαμπονοτυρόπιτα με Μπαγιάτικο Ψωμί",
+        "season": 6,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/zamponotyropita-me-mpagiatiko-pswmi.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-273",
+        "title": "Τσουχτή Μακαρονάδα Μάνης",
+        "season": 6,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tsouxti-makaronada-manhs.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-279",
+        "title": "Γλυκιά Κολοκυθόπιτα",
+        "season": 6,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/glykia-kolokythopita.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-280",
+        "title": "Σπιτικός Ζωμός Λαχανικών",
+        "season": 6,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/spitikos-zwmos-laxanikwn.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-281",
+        "title": "Μπριζόλες Λεμονάτες στην Κατσαρόλα",
+        "season": 6,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mprizoles-lemonates-stin-katsarola.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-282",
+        "title": "Λαχανόρυζο με Πιπεριές και Γραβιέρα",
+        "season": 6,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/laxanoryzo-me-piperies-kai-graviera.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-283",
+        "title": "Μινεστρόνε με Γαρίδες",
+        "season": 6,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/minestrone-me-garides.png"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-277",
+        "title": "Βελουτέ Κουνουπιδιού με Καραμελωμένα Κρεμμύδια",
+        "season": 6,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/veloute-konoupidiou-me-karamelwmena-kremmydia.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-275",
+        "title": "Tαρτ Τατέν: Ανάποδη Γαλλική Μηλόπιτα",
+        "season": 6,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tart-taten-anapodi-galliki-milopita.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-276",
+        "title": "Μάφινς Κολοκύθας με Σοκολάτα",
+        "season": 6,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mafins-kolokythas-me-sokolata.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-274",
+        "title": "Γιουβέτσι με Κιμά",
+        "season": 6,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/giouvetsi-me-kima.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-278",
+        "title": "Φακές με Κολοκύθα και Γλυκοπατάτες",
+        "season": 6,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/fakes-me-kolokytha-kai-glykopatates.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-266",
+        "title": "Αρνάκι Λεμονάτο με Πατάτες και Πιπεριές",
+        "season": 6,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/arnaki-lemonato-me-patates-kai-piperies.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-267",
+        "title": "Αρακάς Λεμονάτος με Γλυκοπατάτες",
+        "season": 6,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/arakas-lemonatos-me-glykopatates.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-268",
+        "title": "Pancakes με Kεφίρ",
+        "season": 6,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pancakes-me-kefir.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-269",
+        "title": "Παπαρδέλες με Μπακαλιάρο και Λαχανικά",
+        "season": 6,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/papardeles-me-bakaliaro-kai-laxanika.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-270",
+        "title": "Παστίτσιο",
+        "season": 6,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pastitsio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-271",
+        "title": "Τραχανάς με Λαχανικά και Αυγά Ποσέ",
+        "season": 6,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/traxanas-me-laxanika-kai-augo-pose.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-272",
+        "title": "Χειμωνιάτικη Σαλάτα με Αντίβ και Αχλάδι",
+        "season": 6,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xeimwniatiki-salata-me-antiv-kai-axladi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-260",
+        "title": "Μπρόκολο με Σάλτσα Μπλε Τυριού και Τσίλι",
+        "season": 6,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/brokolo-me-saltsa-mple-tyriou-kai-tsili.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-261",
+        "title": "Κολοκύθα Γιαχνί με Πατάτες",
+        "season": 6,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kolokytha-giaxni-me-patates.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-262",
+        "title": "Σαλάτα με Κόκκινα Φασόλια και Τόνο",
+        "season": 6,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-me-kokkina-fasolia-kai-tono.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-263",
+        "title": "Τηγανητό Κουνουπίδι με Κουρκούτι Μπύρας",
+        "season": 6,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tiganito-kounoupidi-me-kourkouti-mpuras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-264",
+        "title": "Χοιρινό με Κολοκύθα και Φασκόμηλο",
+        "season": 6,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xoirino-me-kolokytha-kai-faskomilo.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-265",
+        "title": "Zυμαρικά με Κιμά Σόγιας",
+        "season": 6,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/zymarika-me-sogia.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-259",
+        "title": "Κριθαρότο με Κρέμα Ψητής Μελιτζάνας",
+        "season": 6,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-studio/kritharota-me-krema-psitis-melitzanas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-258",
+        "title": "Κοκκινιστές Μπάμιες στο Φούρνο",
+        "season": 6,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-studio/kokkinistes-mpamies-sto-fourno.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-257",
+        "title": "Κέικ Αμυγδάλου με Σοκολάτα",
+        "season": 6,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-studio/keik-amygdalou-me-sokolata.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-256",
+        "title": "Καγιανά με Βολάκι Άνδρου και Σπασμένο Λουκάνικο",
+        "season": 6,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-studio/kagianas-me-bolaki-androu-kai-spasmena-loukanika.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-255",
+        "title": "Μπιφτέκια Γαλοπούλας με Πουρέ Γλυκοπατάτας",
+        "season": 6,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-studio/mpiftekia-galopoulas-me-poure-glykopatatas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-254",
+        "title": "Cheesecake Mήλου σε Ποτήρι",
+        "season": 7,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-studio/cheesecake-mhlou-se-potiri.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-252",
+        "title": "Τιραμισού Φιστίκι",
+        "season": 7,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tyramisou-fistiki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-251",
+        "title": "Τάκος με Γαρίδες και Σως Αβοκάντο",
+        "season": 7,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tacos-me-garides-kai-sos-avocado.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-250",
+        "title": "Πατατοψωμάκια με Salsa Verde",
+        "season": 7,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/patatopsoma-me-saltsa-verde.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-249",
+        "title": "Ντοματόσουπα",
+        "season": 7,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/ntomatosoupa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-253",
+        "title": "Μπάρες με Χουρμάδες, Χωρίς Ψήσιμο",
+        "season": 7,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mpares-me-xourmades-xwris-psisimo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-248",
+        "title": "Μοσχάρι Λεμονάτο με Τηγανητές Πατάτες",
+        "season": 7,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mosxari-lemonato-me-tiganites-patates.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-239",
+        "title": "Φιλέτο Κοτόπουλο με Σάλτσα Κόκκινης Πιπεριάς",
+        "season": 7,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/fileto-kotopoulo-me-saltsa-kokkinhs-piperias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-238",
+        "title": "Πάστα Ψυγείου",
+        "season": 7,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/eukoli-pasta-psygeiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-237",
+        "title": "Σπαγγέτι με Καλαμαράκια και Πέστο",
+        "season": 7,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/spaggeti-me-kalamarakia-kai-pesto.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-236",
+        "title": "Aλμυρή Μαρμελάδα Ροδάκινο",
+        "season": 7,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/almyrh-marmelada-rodakino.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-240",
+        "title": "Γεμιστά",
+        "season": 7,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/gemista.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-241",
+        "title": "Σαλάτα Αγγούρι με Ρεβίθια",
+        "season": 7,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-agouri-me-revithia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-242",
+        "title": "Ανοιχτή Πίτα με Ντοματίνια και Κατσικίσιο Τυρί",
+        "season": 7,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/anoixth-pita-me-domatinia-kai-katsikisio-tyri.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-243",
+        "title": "Ιμάμ Μελιτζάνες με Φέτα",
+        "season": 7,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/imam-melitzanes-me-feta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-244",
+        "title": "Καπονάτα με Ζυμαρικά Ολικής",
+        "season": 7,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kaponata-me-zymarika-olikis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-245",
+        "title": "Kεφτεδάκια Ψητά με Πατάτες Φούρνου",
+        "season": 7,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/keftedakia-psita-me-patates-fournou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-246",
+        "title": "Βλίτα Τσιγαριστά με Κρέμα Φέτας",
+        "season": 7,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/vlita-tsigarista-me-krema-fetas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-247",
+        "title": "Ρολάκια Κανταΐφι με Τυριά και Μέλι",
+        "season": 7,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/rollakia-kantaifi-me-turia-kai-meli.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-230",
+        "title": "Αμπελοφάσουλα με Κολοκυθάκια και Ροδάκινα",
+        "season": 7,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/ampelofasoula-me-kolokuthakia-kai-rodakina.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-231",
+        "title": "Κοτόπουλο Λεμονάτο με Κολοκυθάκια",
+        "season": 7,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kotopoulo-lemonato-me-kolokuthakia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-232",
+        "title": "Μοσχάρι με Μελιτζάνες",
+        "season": 7,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mosxari-me-melitzanes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-233",
+        "title": "Ριζότο Ντομάτας με Αρσενικό Νάξου",
+        "season": 7,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/rizoto-ntomatas-me-arseniko-naxou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-234",
+        "title": "Σαλάτα Καρπούζι με Φέτα και Ντοματίνια",
+        "season": 7,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-karpouzi-me-feta-kai-ntomatinia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-235",
+        "title": "Τάρτα με Διπλή Σοκολάτα και Καραμελωμένα Φουντούκια",
+        "season": 7,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tarta-me-dipli-sokolata-kai-karamelomena-foudoukia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-224",
+        "title": "Λαδένια Κιμώλου",
+        "season": 7,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/ladenia-kimolou.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-225",
+        "title": "Μοσχαρίσια Μπριζόλα με Πιπέρια",
+        "season": 7,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mosxarisia-mprizola-me-piperia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-226",
+        "title": "Πατατάτο Αμοργού",
+        "season": 7,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/patatato-amorgou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-227",
+        "title": "Σαλάτα Αμπελοφάσουλα με Κατίκι",
+        "season": 7,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-ampelofasoula.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-228",
+        "title": "Σουφικό Ικαρίας",
+        "season": 7,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/soufiko-ikarias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-229",
+        "title": "Ζαμπονοτυρόπιτα",
+        "season": 8,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/zamponotyropita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-218",
+        "title": "Σαγανάκι Λουκάνικο με Αυγά Τηγανιτά",
+        "season": 8,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/saganaki-loukaniko-me-auga-tiganita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-219",
+        "title": "Κριθαρότο με Φυστικοβούτυρο",
+        "season": 8,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kritharoto-me-fistikovoutiro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-220",
+        "title": "Φλαν Καρότου",
+        "season": 8,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/flan-karotou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-221",
+        "title": "Κλαμπ Σάντουιτς με Κοτόπουλο",
+        "season": 8,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/club-santouits-me-kotopoulo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-222",
+        "title": "Μπανάνα Βread",
+        "season": 8,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/banana-bread.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-223",
+        "title": "Σουπιές με Μυρωδικά",
+        "season": 8,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/soupies-me-mirodika.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-213",
+        "title": "Μπριάμ με Κοτόπουλο",
+        "season": 8,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mpriam-me-kotopoulo.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-214",
+        "title": "Γεμιστές Ντομάτες με Πλιγούρι και Κιμά Κοτόπουλο",
+        "season": 8,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/gemistes-ntomates-me-pligouri-kai-kima-kotopoulo.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-215",
+        "title": "Πέρκα Πλακί με Γλυκοπατάτες και Λαχανικά",
+        "season": 8,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/perka-plaki-me-glykopatates-kai-laxanika.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-216",
+        "title": "Μπιφτέκια Κοτόπουλο με Κινόα",
+        "season": 8,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mpiftekia-kotopoulo-me-kinoa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-217",
+        "title": "Ομελέτα με Αγκινάρες",
+        "season": 8,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/omeleta-me-agkinares.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-208",
+        "title": "Αρνί από Leftovers με Κάρυ",
+        "season": 8,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/proian-se-eidon-2023-2024/arni-apo-leftovers-me-kary.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-209",
+        "title": "Αυγοσαλάτα με Μπρόκολο και Κριθαράκι",
+        "season": 8,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/proian-se-eidon-2023-2024/augosalata-me-brokolo-kai-kri8ari.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-210",
+        "title": "Πολίτικο Εκμέκ με Τσουρέκι",
+        "season": 8,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/politiko-ekmek-me-tsoureki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-211",
+        "title": "Σαλάτα Παξιμάδι",
+        "season": 8,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-pajimadi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-212",
+        "title": "Tηγανητός Μπακαλιάρος Σάντουιτς",
+        "season": 8,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/thganitos-bakaliaros-santouits.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-207",
+        "title": "Φραουλόφι",
+        "season": 8,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/fraoulofi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-206",
+        "title": "Πίτα Νηστίσιμη με Καρύδια",
+        "season": 8,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pita-nhstisimi-me-karydia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-205",
+        "title": "Μυδοπίλαφο",
+        "season": 8,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/midopilafo.png"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-204",
+        "title": "Κορμός με Ταχίνι και Ξηρούς Καρπούς",
+        "season": 8,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kormos-me-taxini-kai-jirous-karpous.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-203",
+        "title": "Αρνί Μπογάνα",
+        "season": 8,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/arnaki-mpogana.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-198",
+        "title": "Καλοκαιρινή Μακαρονάδα ''Less is More'' | Βασίλης Καλλίδης",
+        "season": 8,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kalokairini-makaronada-less-is-more.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-199",
+        "title": "Κιουνεφέ",
+        "season": 8,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kiounefe.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-200",
+        "title": "Κεσαντίγιας με Κοτόπουλο",
+        "season": 8,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kesantigias-me-kotopoulo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-201",
+        "title": "Tαραμοκεφτέδες",
+        "season": 8,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/taramokeftedes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-202",
+        "title": "Nηστίσιμο Παστίτσιο",
+        "season": 8,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/nistisimo-pastitsio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-193",
+        "title": "Ρατατούι",
+        "season": 8,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/ratatoui.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-194",
+        "title": "Rolls Λεμονιού",
+        "season": 8,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/rolls-lemoniou.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-195",
+        "title": "Ανοιχτό Μπέργκερ σε Αραβική Πίτα",
+        "season": 8,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/anoixto-burger-se-araviki-pita.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-196",
+        "title": "Πιτσάκια Τσέπης",
+        "season": 9,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pitsa-tsephs.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-197",
+        "title": "Γλυκό του Κουταλιού Λεμόνι",
+        "season": 9,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/glyko-tou-koutaliou-lemoni.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-183",
+        "title": "Πανακότα με Μαρμελάδα Κόκκινων Φρούτων",
+        "season": 9,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/panakota-me-marmelada.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-184",
+        "title": "Σέσκουλα με Πλιγούρι Γιαχνί",
+        "season": 9,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/seskoula-me-plhgouri-giaxni.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-185",
+        "title": "Κοτόπουλο Κατσιατόρε",
+        "season": 9,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kotopoulo-krasiatore.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-186",
+        "title": "Σπαγγέτι με Μαρινάρα Φράουλα",
+        "season": 9,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/spaggheti-me-marinara-fraoula.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-187",
+        "title": "Γλώσσα Μενιέρ",
+        "season": 9,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/glossa-menier.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-188",
+        "title": "Τάρτα με Φιστίκι Αιγίνης και Φράουλες",
+        "season": 9,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tarta-me-fystiki.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-189",
+        "title": "Σαρλότ με Σοκολάτα Γάλακτος και Φράουλες",
+        "season": 9,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/sarlot-me-sokolata-galaktos.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-190",
+        "title": "Ομελέτα με Σπαγγέτι",
+        "season": 9,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/omeleta-spaggeti.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-191",
+        "title": "Μακαρονάδα Ολικής με Παντζάρια και Φιστίκι Αιγίνης",
+        "season": 9,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/makaronada-olikhs-me-pantzaria.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-192",
+        "title": "Αρωματικό Κάρυ Ρεβιθιών με Μπασμάτι",
+        "season": 9,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/arwmatiko-kary-revit8iwn.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-178",
+        "title": "Φοκάτσια με Κουρκουμά",
+        "season": 9,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/fokatsia-me-kourkouma.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-179",
+        "title": "Χταποδάκι Ξιδάτο με Φάβα",
+        "season": 9,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xtapodaki-jidato-me-fava.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-180",
+        "title": "Kόκορας Κρασάτος με Μπαχαρικά στη Γάστρα",
+        "season": 9,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kokoras-krasatos.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-181",
+        "title": "Kόκκινη Φακή Παντρεμένη",
+        "season": 9,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kokkinisth-fakh.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-182",
+        "title": "Ανοιξιάτικο Στιφάδο με Αγκινάρες",
+        "season": 9,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/anoixiatiko-stifado.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-173",
+        "title": "Χοιρινό με Πατάτες στην Γάστρα",
+        "season": 9,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xoirino-me-patates-sthn-gastra.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-174",
+        "title": "Χαλβά Σιμιγδαλένιο με Γάλα",
+        "season": 9,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xalvas-simigdalenios-me-gala.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-175",
+        "title": "Κριθαράκι με Μπρόκολο και Φέτα",
+        "season": 9,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kri8araki-me-brokolo-kai-feta.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-176",
+        "title": "Πεϊνιρλί με Κιμά",
+        "season": 9,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pinerli-me-kima.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-177",
+        "title": "Χταποδάκι με Κοφτό Μακαρονάκι",
+        "season": 9,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xtapodaki-me-kofto-makaronaki.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-168",
+        "title": "Λαβράκι Φρικασέ με Πράσο και Σέσκουλα",
+        "season": 9,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/lavraki-frikase-me-praso-kai-seskoula.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-169",
+        "title": "Σπιτικός Γύρος Κοτόπουλο",
+        "season": 9,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/spitikos-gyros-kotopoulo.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-170",
+        "title": "«Πυρ, γυνή και θάλασσα» | Γωγώ Δελογιάννη - Ειρήνη Πορταλιού",
+        "season": 9,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pyr-gynh-kai-thalassa.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-171",
+        "title": "Κανελόνια Σαγανάκι",
+        "season": 9,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kanelonia-saganaki.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-172",
+        "title": "Πίτσα Ταψιού με Προζύμι",
+        "season": 9,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pitsa-tapsiou-me-prozymi.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-163",
+        "title": "Βουτυράτο Κάρυ με Κοτόπουλο",
+        "season": 9,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/bouturato-karu-me-kotopoulo.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-164",
+        "title": "Γεμιστά Μανιτάρια",
+        "season": 9,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/gemista-manitaria.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-165",
+        "title": "Vegan Mους Σοκολάτας με Γάλα Καρύδας και Φράουλες",
+        "season": 9,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/vegan-mous-sokolatas-me-gala-karudas-kai-fraoules.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-166",
+        "title": "Πιλάφι με Αρακά, Φρέσκα Κουκιά, Γαρίδες και Νούμπουλο",
+        "season": 10,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pilafi-me-araka-freska-koukia-garides-kai-noumpoulo.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-167",
+        "title": "Νιόκι Ρικότας με Μανιτάρια",
+        "season": 10,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/nioki-rikotas-me-manitaria.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-158",
+        "title": "Tartiflette | Jean-Marie-Hoffman",
+        "season": 10,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tartiflette.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-159",
+        "title": "Κουλούρι Θεσσαλονίκης",
+        "season": 10,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/koulouri-thessalonikhs.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-160",
+        "title": "Κοχυλάκια Ζέας με Μπρόκολο",
+        "season": 10,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/koxylakia-zeas-me-mprokolo.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-161",
+        "title": "Cookies με Eλαιόλαδο",
+        "season": 10,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/malaka-cookies-me-elaiolado.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-162",
+        "title": "Ρεβιθοκεφτέδες με Tαχίνι",
+        "season": 10,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/revi8okeftedes.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-153",
+        "title": "Τραχανάς με Κοτόπουλο",
+        "season": 10,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/traxanas-me-kotopoulo.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-154",
+        "title": "Σούπα Σελινόριζα με Μήλα",
+        "season": 10,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/soupa-selinorizo-me-mhlo.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-155",
+        "title": "Κέικ Γιαουρτιού με Μύρτιλα και Λεμόνι",
+        "season": 10,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/keik-giaourtiou-me-lemoni.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-156",
+        "title": "Πρασοκιμαδόπιτα",
+        "season": 10,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/prasokimadopita.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-157",
+        "title": "Μακαρονάδα με Σπαγγέτι Ολικής και Ψητό Σολομό",
+        "season": 10,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/spaggheti-me-olikhhs-kai-pshto-solomo.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-148",
+        "title": "Κοτόπουλο με Kολοκύθα και Πορτοκάλι",
+        "season": 10,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kotopoulo-me-kolokytha-kai-portokali.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-149",
+        "title": "Κοκκινιστά Ρεβίθια με Γιαούρτι Μυρωδικών",
+        "season": 10,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kokkinista-revithia-me-giaourti-myrwdikwn.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-150",
+        "title": "Σουφλέ Σοκολάτας",
+        "season": 10,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/soufle-sokolatas.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-151",
+        "title": "Σαλάτα με Καπνιστό Σολομό και Πέστο από Αβοκάντο",
+        "season": 10,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-me-kapnisto-solomo-kai-pesto-avokado.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-152",
+        "title": "Κεφτεδάκια με Κοκκινιστό Πλιγούρι",
+        "season": 10,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/keftedakia-me-kokkinisto-pligouri.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-143",
+        "title": "Μακαρονάδα με Λουκάνικο",
+        "season": 10,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/makaronada-me-loukanika.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-144",
+        "title": "Πάστα Φλώρα με Μαρμελάδα Μήλο",
+        "season": 10,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pasta-flora-me-marmelada-milo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-145",
+        "title": "Ψητά Λαχανικά με Κρέμα από Κατσικίσιο Τυρί",
+        "season": 10,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/psita-laxanika-me-krema-apo-katsikisio-tyri.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-146",
+        "title": "Tσιπούρα με Σπανάκι Σωτέ",
+        "season": 10,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tsipoura-me-spanaki-sote.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-147",
+        "title": "Γίγαντες Κοκκινιστοί με Απάκι και Γραβιέρα",
+        "season": 10,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/gigantes-kokinistoi-me-apaki-kai-graviera-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-138",
+        "title": "Φιλετάκια Κοτόπουλο με Jacket Potatoes",
+        "season": 10,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/filetakia-kotopoulo-me-jacket-potatoes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-139",
+        "title": "Καροτόσουπα",
+        "season": 10,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/karotosoupa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-140",
+        "title": "Κέικ με Φουντούκια και Μήλο",
+        "season": 10,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/keik-me-fountoukia-kai-milo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-141",
+        "title": "Σαλάτα με Ζυμαρικά, Μπρόκολο, Τοματίνια και Αυγά",
+        "season": 10,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-me-zimarika-mprokolo-kai-avgo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-142",
+        "title": "Τηγανόψωμο",
+        "season": 10,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tiganopsomo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-133",
+        "title": "Espresso Βrownie από Γλυκοπατάτα",
+        "season": 10,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/espresso-brownie.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-134",
+        "title": "Νουντλς Ρυζιού με Λαχανικά και Τσίλι",
+        "season": 10,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/noodles-ryziou-me-laxanika-kai-tsili.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-135",
+        "title": "Vegan Burger και Onion Rings",
+        "season": 10,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/vegan-burger-kai-onion-rings.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-136",
+        "title": "Χειμωνιάτικο Μπριάμ",
+        "season": 11,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xeimoniatiko-mpriam.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-137",
+        "title": "Ζεστή Σαλάτα με Φακές και Κολοκύθα",
+        "season": 11,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/zesti-salata-me-fakes-kai-kolokitha.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-128",
+        "title": "Κοκκινιστό Σπανακόρυζο με Μανιτάρια",
+        "season": 11,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kokinisto-spanakorizo-me-manitaria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-129",
+        "title": "Χορτόσουπα",
+        "season": 11,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xortosoupa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-130",
+        "title": "Vegan Κέικ Λεμόνι",
+        "season": 11,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/vegan-keik-lemoni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-131",
+        "title": "Κοχύλια Γεμιστά με Κολοκύθα και Κρέμα Τόφου",
+        "season": 11,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/koxilia-gemista-me-kolokithia-kai-krema-tofou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-132",
+        "title": "Vegan Curry με Ρεβύθια και Φυστικοβούτυρο",
+        "season": 11,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/vegan-curry-me-revithia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-124",
+        "title": "Σαλάτα Waldorf",
+        "season": 11,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-waldolf.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-125",
+        "title": "Πίτα του Βοσκού",
+        "season": 11,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pita-tou-voskou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-126",
+        "title": "Φιλέτο Ψαριού Φρικασέ",
+        "season": 11,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/fileto-psariou-me-frikase.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-127",
+        "title": "Πίτα με Γύρο Mανιταριών και Σως Ταρτάρ",
+        "season": 11,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pita-me-gyro-manitariwn-kai-sws-tartar.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-120",
+        "title": "Σαλάτα με Μωβ Λάχανο και Peanuts Dressing",
+        "season": 11,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-me-mov-laxano-kai-peanuts-dressing.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-121",
+        "title": "Κοτόπουλο με Μήλα και Μπρι",
+        "season": 11,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kotopoula-me-mhla-kai-mbri.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-122",
+        "title": "Μπρόκολο με Γαρίδες και Μπέικον",
+        "season": 11,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mprokolo-me-garides-kai-mpeikon.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-123",
+        "title": "Πουτίνγκα με Φιστίκι Αιγίνης και Βρώμη",
+        "season": 11,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/poutigka-me-fystiki-aiginis-kai-brwmi.JPG"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-115",
+        "title": "Φακές Σαλάτα με Πορτοκάλι και Καπνιστό Σκουμπρί",
+        "season": 11,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/fakes-salata-me-portokali-kai-kapnisto-skoumpri.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-116",
+        "title": "Λαχανοντολμάδες",
+        "season": 11,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/laxanontolmades.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-117",
+        "title": "Πορτοκαλόπιτα",
+        "season": 11,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/portokalopita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-118",
+        "title": "Κοτόπουλο Λεμονάτο στη Γάστρα",
+        "season": 11,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kotopoulo-lemonao-sti-gastra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-119",
+        "title": "90's Μακαρονάδα Φούρνου",
+        "season": 11,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/90s-makaronada-fournou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-114",
+        "title": "Χωριάτικη Κοτόπιτα",
+        "season": 11,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xoriatiki-kotopita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-112",
+        "title": "Ψητά Ροδάκινα με Crumble και Παγωτό Βανίλια",
+        "season": 11,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/psita-rodakina-me-crumble-kai-pagoto-vanilia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-113",
+        "title": "Σαλάτα Σελινόριζα με Φαγόπυρο",
+        "season": 11,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-selinoriza-me-fagopiro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-111",
+        "title": "Κοκκινιστά Ρεβίθια με Γιαούρτι Μυρωδικών",
+        "season": 11,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kokkinista-revithia-me-giaourtimirodikon.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-110",
+        "title": "Αυθεντική Καρμπονάρα",
+        "season": 11,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/authentiki-karmponara.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-105",
+        "title": "Xοιρινό Καρέ με Κρούστα Παρμεζάνας",
+        "season": 11,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xoirino-kare-me-krousta-parmezana.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-106",
+        "title": "Σαλάτα Μάνγκο",
+        "season": 11,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-mangko.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-107",
+        "title": "Vegan Banana Bread",
+        "season": 11,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/vegan-banana-bread.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-108",
+        "title": "Μπακαλιάρος με Chorizo σε Σάλτσα Ντομάτας",
+        "season": 11,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mpakaliaros-me-chorizo-se-saltsa-ntomatas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-109",
+        "title": "Mακαρονάδα Ολικής με Κιμά Γαλοπούλας",
+        "season": 11,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/makaronada-olikis-me-kima-galopoulas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-104",
+        "title": "Σάντουιτς σε Κρουασάν Βουτύρου",
+        "season": 12,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/15-9-2023-krouasan-voutirou-thubnail.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-103",
+        "title": "Μπρουσκέτα με Σολομό και Κολοκύθια",
+        "season": 12,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/14-9-2023-mprousketa-thubnail.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-102",
+        "title": "Σφολιατάκια με Μαρμελάδα Κρέμα και Σταφύλια Φράουλα",
+        "season": 12,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/13-9-2023-sfoliatakia-thubnail.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-101",
+        "title": "Panzanella με Ψητά Ροδάκινα",
+        "season": 12,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/12-9-2023-panzanella-thubnail.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-99",
+        "title": "Τούρτα Μωσαϊκό",
+        "season": 12,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tourta-mosaiko.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-100",
+        "title": "Yγιεινό Pancake",
+        "season": 12,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/ugiino-pancake.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:ygieino-pancake",
+        "title": "«Ανοιχτό Τοστ» με Νεκταρίνια και Ανθότυρο",
+        "season": 12,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/anoixto-tost-me-nektarinia-kai-anthotiro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:anoikhto-tost-me-nektarinia-kai-anthoturo",
+        "title": "Eύκολη Τυρόπιτα",
+        "season": 12,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/eukoli-tiropita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:eukole-turopita",
+        "title": "Flatbreads με Ντοματίνια και Αυγά Μελάτα",
+        "season": 12,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/flatbreads.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-95",
+        "title": "Μελιτζάνες με Ταχίνι",
+        "season": 12,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/melitzanes-me-taxini.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-96",
+        "title": "Sandwich Μπακαλιάρου",
+        "season": 12,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/sandwich-mpakaliarou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-97",
+        "title": "Χινκάλι (Khinkali)",
+        "season": 12,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xinkali.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-98",
+        "title": "Γαλατόπιτα Χωρίς Φύλλο",
+        "season": 12,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/galatopita-xoris-fillo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-90",
+        "title": "Καρυδόπιτα με Παγωτό Βανίλια",
+        "season": 12,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/karidopita-me-pagoto-vanilia-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-91",
+        "title": "Μπριάμ",
+        "season": 12,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mpriam-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-92",
+        "title": "Ψητό Κοτόπουλο σε Κόκκινη Σάλτσα",
+        "season": 12,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/psito-kotopoulo-me-kokkini-saltsa-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-93",
+        "title": "Σαλάτα Cobb",
+        "season": 12,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-cobb-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-94",
+        "title": "Τάρτα με Αγκινάρες",
+        "season": 12,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tarta-me-agkinares-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-86",
+        "title": "Λιγκουίνι με Λεμόνι, Σπαράγγια, Βούτυρο, Βασιλικό και Παρμεζάνα",
+        "season": 12,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/ligouini-me-lemoni-sparaggia-vouturo-vasiliko-parmezana.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-87",
+        "title": "Πρασόρυζο με Κομμάτια Φέτας",
+        "season": 12,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/prasoruzo-me-kommatia-fetas-thumb.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-88",
+        "title": "Ζυμαρικά Αχιβάδες Γεμιστά με Σπανάκι",
+        "season": 12,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/zymarika-axivades-gemista-me-spanaki-thumb.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-89",
+        "title": "Ντολμαδάκια Γιαλαντζί",
+        "season": 12,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/ntolmadakia-gialantzi-panoramik.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-79",
+        "title": "Burger με Γραβιέρα, Μαρμελάδα Ντομάτας και Πίκλα Κρεμμυδιού",
+        "season": 12,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/burger-me-graviera-pikla-kremudiou-marmelada-ntomatas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-80",
+        "title": "Μύδια με Φινόκιο",
+        "season": 12,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mydia-me-finokio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-81",
+        "title": "Νηστίσιμα Vegan Παπουτσάκια",
+        "season": 12,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/nhstisima-vegan-papoutsakia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-82",
+        "title": "Παστίτσιο",
+        "season": 12,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pastitsio1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-83",
+        "title": "Pull Apart Pizza Bread & Pesto Twisters",
+        "season": 12,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pull-apart-pizza-bread-and-pesto-twisters.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-84",
+        "title": "Ρεβίθια με Σπανάκι στο Φούρνο",
+        "season": 12,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/revuthia-me-spanaki-sto-fourno.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-85",
+        "title": "Σοκολατόπιτα με Φράουλες",
+        "season": 12,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/sokolatopita-me-fraoules.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-64",
+        "title": "Αλμυρό Cheesecake με Μαρμελάδα και Ντοματίνια",
+        "season": 12,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/almiro-cheescake-thub.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-65",
+        "title": "Ανοιξιάτικη Σαλάτα με Κους Κους",
+        "season": 13,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/anoixiatiki-salata-me-kous-kous-thub.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-66",
+        "title": "Αυγοσαλάτα",
+        "season": 13,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/augosalata-thub.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-67",
+        "title": "Brownies με Μπισκότα και Κονιάκ",
+        "season": 13,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/brownie-me-mpiskota-kai-koniak-thub.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-68",
+        "title": "Κροκέτες Μελιτζάνας",
+        "season": 13,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/melitzanokroketes-thub.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-70",
+        "title": "Τσουρέκι με Σιμιγδαλόκρεμα και Γλυκό Βύσσινο",
+        "season": 13,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tsoureki-me-simigdalokrema-kai-gliko-bissino.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-71",
+        "title": "Χοιρινό Ραγού με Παπαρδέλες",
+        "season": 13,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xoirino-ragou-me-papardeles-thub.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-72",
+        "title": "Αμυγδαλωτά Σαντουιτσάκια με Φρούτα και Κρέμα",
+        "season": 13,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/amugdalwta-santouitsakia-me-frouta-kai-krema-thumb.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-73",
+        "title": "Κις Λορέν",
+        "season": 13,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kis-loren-thumb.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-74",
+        "title": "Μακαρονάδα με Κολοκύθια και Ντοματίνια",
+        "season": 13,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/makaronada-me-kolokuthakia-kai-ntomatinia-thumb.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-75",
+        "title": "Τονοσαλάτα με Φάβα",
+        "season": 13,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tonosalata-me-fava-thumb.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-76",
+        "title": "Θράψαλα με Ρύζι και Σπανάκι",
+        "season": 13,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/thrapsalo-me-ruzi-kai-spanaki-thumb.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-77",
+        "title": "Μπακλαβάς Cheescake",
+        "season": 13,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mpaklava-cheescake-thumb.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-78",
+        "title": "Κοτόπουλο με Κρέμα Γλυκιάς Κολοκύθας και Σοταρισμένη Ρόκα",
+        "season": 13,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kotopoulo-me-kolokutha-kai-sotarismeni-roka-thumb.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-63",
+        "title": "Κρεατόπιτα με Σουβλιστό Αρνί",
+        "season": 13,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kreatopita-me-arni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-62",
+        "title": "Μαγειρίτσα με Μανιτάρια",
+        "season": 13,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mageiritsa-manitaria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-61",
+        "title": "Αρνί με Φρέσκα Κρεμμυδάκια Χαλκιδικής",
+        "season": 13,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/arni-freska-kremmudia-xalkidikis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-60",
+        "title": "Ταχινόσουπα",
+        "season": 13,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tahinosoupa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-59",
+        "title": "Πασχαλινά Kουλουράκια",
+        "season": 13,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pasxalina-koulourakia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-58",
+        "title": "Χταπόδι Στιφάδο",
+        "season": 13,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xrapodi-stifado.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-57",
+        "title": "Σαλάτα με Μαυρομάτικα Φασόλια",
+        "season": 13,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-me-mavromatika-fasolia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-56",
+        "title": "Αρακάς με Γλυκοπατάτα",
+        "season": 13,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/arakas-me-glikopatata-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-55",
+        "title": "Σπιτική Πίτσα",
+        "season": 13,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/spitiki-pitsa-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-53",
+        "title": "Ανοιχτές Πίτες με Ψητό Χοιρινό",
+        "season": 13,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/anoixtes-pites-me-psito-xoirino-gogo-delogiani.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-51",
+        "title": "Basque Burnt Kέικ με Γκαναζ Σοκολάτας",
+        "season": 13,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/basque-burnt-keik-me-gkanaz-sokolatas-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-52",
+        "title": "Στιφάδο Μανιτάρια με Κάστανα και Κρέμα Αρσενικού Νάξου",
+        "season": 13,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/stifado-manitaria-me-kastana-kai-krema-arseniou-naxou-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-54",
+        "title": "Κρεμμυδόσουπα με Ψητή Γραβιέρα",
+        "season": 13,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kremmidosoupa-me-psiti-graviera-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-46",
+        "title": "Νηστίσιμη Κρέμα Σοκολάτας με Αβοκάντο",
+        "season": 13,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/nistisimi-krema-sokolatas-me-avokanto-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-47",
+        "title": "Ριζότο Γαρίδες με Πιπεριά και Μους Φέτας",
+        "season": 13,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/rizoto-garides-me-piperia-kai-mous-fetas-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-48",
+        "title": "Λαχανοντολμάδες",
+        "season": 13,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/laxanontolmades-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-49",
+        "title": "Κουλουράκια Καρότου με Ηλιόσπορο",
+        "season": 13,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/koulourakia-karotou-me-iliosporo-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-50",
+        "title": "Μωσαϊκό με Έξτρα Επικάλυψη Σοκολάτας",
+        "season": 14,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mosaiko-me-extra-epikalipsi-sokolatas-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-16",
+        "title": "Σπανακόρυζο με Αυγά Ποσέ",
+        "season": 14,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/spanakorizo-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-17",
+        "title": "Σπαγγέτι με Κρέμα Κάσιους και Μανιτάρια",
+        "season": 14,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/spaggeti-me-krema-kasious-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-18",
+        "title": "Τραχανότο με Κουνουπίδι και Χαλούμι",
+        "season": 14,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/traxanoto-me-kounoupidi-kai-xaloumi-xristoforos-peskias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-19",
+        "title": "Ντοματοκεφτέδες",
+        "season": 14,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/ntomatokeftedes-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-20",
+        "title": "Banofee",
+        "season": 14,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/banofee-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-21",
+        "title": "Ψητά Παντζάρια και Σκορδαλιά με Καρύδι",
+        "season": 14,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/patzaria-kai-skordalia-me-karidi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-22",
+        "title": "Κοτόσουπα με Λαχανικά και Ρύζι",
+        "season": 14,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kotosoupa-me-laxanika-kai-rizi-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-23",
+        "title": "Noodles με Λαχανικά και Σως Φυστικοβούτυρου",
+        "season": 14,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/noodles-me-laxanika-kai-fistikovoutiro-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-24",
+        "title": "Γίγαντες Φούρνου",
+        "season": 14,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/gigantes-fournou-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-25",
+        "title": "Τάρτα Σοκολάτα με Ταχίνι",
+        "season": 14,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tarta-sokolata-me-taxini-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-26",
+        "title": "Κοτομπουκιές Πανέ με Βρώμη",
+        "season": 14,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/kotompoukies-pane-me-vromi-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-27",
+        "title": "Λαβράκι Σωτέ με Καστανό Ρύζι",
+        "season": 14,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/lavraki-sote-me-kastano-rizi-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-28",
+        "title": "Λαχματζούν Αρμένικο",
+        "season": 14,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/laxmatzoun-armeniko-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-29",
+        "title": "Μους Λεμονιού με Βάση Μπισκότου και Φρέσκα Μύρτιλα",
+        "season": 14,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mous-lemoniou-me-vasi-mpiskoto-kai-mirtila-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-30",
+        "title": "Ομελέτα Φούρνου",
+        "season": 14,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/omeleta-fournou-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-31",
+        "title": "Θράψαλα Κοκκινιστά",
+        "season": 14,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/thrapsala-kokkinista-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-32",
+        "title": "Μac & Cheese",
+        "season": 14,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mac-and-cheese-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-33",
+        "title": "Τιραμισού",
+        "season": 14,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/tiramisou-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-34",
+        "title": "Τραχανάς με Ντοματίνια και Λευκή Τρούφα",
+        "season": 14,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/traxanas-me-ntomatinia-kai-leuki-troufa-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-35",
+        "title": "Γαρίδες Σαλάτα",
+        "season": 14,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-garides-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-36",
+        "title": "Γιουβαρλάκια Σούπα",
+        "season": 14,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/giouvarlakia-soupa-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-37",
+        "title": "Οσπριάδα",
+        "season": 14,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/ospriada-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-39",
+        "title": "Χοιρινό λεμονάτο με ρύζι",
+        "season": 14,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xoirino-lemonato-me-rizi-gogo-deligianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-40",
+        "title": "Ψητή Πιπεριά με Ντομάτα, Φέτα και Σάλτσα Καρύδι",
+        "season": 14,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/psiti-piperia-me-ntomata-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-41",
+        "title": "Pancakes με Μαρμελάδα, Γιαούρτι και Καρύδια",
+        "season": 14,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/pancakes-marmelada-giaourti-karidia-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-38",
+        "title": "Λιβανέζικο Ρύζι με Φιδέ Ξηρούς Καρπούς και Γαλοπούλα",
+        "season": 14,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/livaneziko-rizi-me-fide-xirous-karpous-kai-galopoula-gogo-delogianni-fahd-hassan.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-42",
+        "title": "Σπαγγέτι με Καραμελωμένα Κρεμμύδια, Σπανάκι και Γραβιέρα",
+        "season": 14,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/spaggeti-me-karamelomena-kremmidia-spanaki-graviera-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-43",
+        "title": "Σούπα Καλαμπόκι με Κρέμα Καρύδας και Γαρίδες",
+        "season": 14,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/soupa-kalampoki-me-krema-karidas-kai-garides-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-44",
+        "title": "Προζυμένια Λαδένια Τραχανά",
+        "season": 14,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/prozimenia-ladenia-traxana-gogo-delogianni-dimitris-dimitriadis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-45",
+        "title": "Αγριογούρουνο με Αποξηραμένα Βερίκοκα και Λιαστό Κόκκινο Κρασί",
+        "season": 15,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/agriogourouno-me-apoxiramena-verikoka-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne",
+        "title": "Ζεστή Πατατοσαλάτα",
+        "season": 15,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/zesti-patatosalata-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-1",
+        "title": "Μακαρόνια με Κιμά",
+        "season": 15,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/makaronia-me-kima-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-2",
+        "title": "Μπατζίνα",
+        "season": 15,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mpatzina-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-3",
+        "title": "Σαλάτα Νισουάζ",
+        "season": 15,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/salata-nisouaz-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-4",
+        "title": "Ρεβύθια Σούπα με Γκρεμολάτα",
+        "season": 15,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/revithia-soupa-me-kremolata-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-5",
+        "title": "Brownies με Αλατισμένη Καραμέλα",
+        "season": 15,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/brownies-me-alatismeni-karamela-gog-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-6",
+        "title": "Μελιτζάνες Ιμάμ Μπαϊλντί",
+        "season": 15,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/melitzanes-imam-mpailnti-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-7",
+        "title": "Μουσακάς",
+        "season": 15,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mousakas-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-8",
+        "title": "Γεμιστά",
+        "season": 15,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/gemista-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-9",
+        "title": "Χοιρινό Λαιμό Λουκούμι",
+        "season": 15,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/xoirini-laimo-loukoumi-eleni-kai-gogo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-10",
+        "title": "Σούπα μπρόκολο βελουτέ με κρουτόν",
+        "season": 15,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/soupa-mprokolo-veloute-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-11",
+        "title": "Βραστό κέικ σοκολάτας",
+        "season": 15,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/vrasto-keik-sokolatas-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-12",
+        "title": "Κεφτεδάκια",
+        "season": 15,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/keftedakia-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-13",
+        "title": "Μοσχάρι με Πουρέ Μελιτζάνας – Χιουνκάρ Μπεγεντί",
+        "season": 15,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/mosxari-me-poure-melitzanas-xioumgkar-mpegenti-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-14",
+        "title": "Ανάποδη Μηλόπιτα",
+        "season": 15,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/anapodi-milopita-gogo-delogianni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3f1cb225:mageirike-me-te-gogo-delogianne-15",
+        "title": "Αλμυρό Κέικ Πατάτας",
+        "season": 15,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mageiriki-proian-se-eidos/almiro-keik-patatas-gogo-delogianni.jpg"
+      }
+    ]
+  }
+}

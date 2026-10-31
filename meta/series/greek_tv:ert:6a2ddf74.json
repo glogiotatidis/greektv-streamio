@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:6a2ddf74",
+    "type": "series",
+    "name": "Σκιές στο Περιστύλιο",
+    "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/skies-sto-peristylio-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/skies-sto-peristylio-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-1",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0001.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-2",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0002.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-3",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0003.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-4",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0004.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-5",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0005.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-6",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0006.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-7",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0007.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-8",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0008.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-9",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0009.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-10",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0010.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-11",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0011.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-12",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0012.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-13",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0013.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-14",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0014.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-15",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0015.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-16",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0016.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-17",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0017.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-18",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0018.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-19",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0019.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6a2ddf74:skies-sto-peristulio-20",
+        "title": "Σκιές στο Περιστύλιο",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/ps058520-0020.jpg"
+      }
+    ]
+  }
+}

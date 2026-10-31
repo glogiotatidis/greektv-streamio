@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:d7517f57",
+    "type": "series",
+    "name": "Οι Κεραίες της Εποχής μας",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-keraies-tis-epoxis-mas/oi-kerees-tis-epoxis-mas-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-keraies-tis-epoxis-mas/oi-kerees-tis-epoxis-mas-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:d7517f57:oi-keraies-tes-epokhes-mas-1",
+        "title": "Άρης Φιορέτος",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-keraies-tis-epoxis-mas/oi-keraies-tis-epoxis-mas-aris-fioretos-verolino-germania-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d7517f57:oi-keraies-tes-epokhes-mas-2",
+        "title": "Πιέρ Ασουλίν",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-keraies-tis-epoxis-mas/oi-keraies-tis-epoxis-mas-pierre-assouline-parisi-gallia-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d7517f57:oi-keraies-tes-epokhes-mas-3",
+        "title": "Τούμας Τρανστρέμερ",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-keraies-tis-epoxis-mas/oi-keraies-tis-epoxis-mas-tomas-transtromer-stockholmi-souidia-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d7517f57:oi-keraies-tes-epokhes-mas-4",
+        "title": "Έντμουντ Κήλυ",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-keraies-tis-epoxis-mas/oi-keraies-tis-epoxis-mas-edmund-keeley-united-states-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d7517f57:oi-keraies-tes-epokhes-mas-5",
+        "title": "Χίλαρι Μαντέλ",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-keraies-tis-epoxis-mas/oi-keraies-tis-epoxis-mas-hillary-mantel-london-united-kingdom-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d7517f57:oi-keraies-tes-epokhes-mas-6",
+        "title": "Κόλουμ ΜακΚαν",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-keraies-tis-epoxis-mas/oi-keraies-tis-epoxis-mas-colum-mccann-new-york-usa-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d7517f57:oi-keraies-tes-epokhes-mas-7",
+        "title": "Τζόναθαν Φράνζεν",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-keraies-tis-epoxis-mas/oi-keraies-tis-epoxis-mas-jonathan-franzen-united-states-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d7517f57:oi-keraies-tes-epokhes-mas-8",
+        "title": "Ουμπέρτο Έκο - Α' Μέρος",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-keraies-tis-epoxis-mas/oi-keraies-tis-epoxis-mas-umberto-eco-italia-a-meros-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d7517f57:oi-keraies-tes-epokhes-mas-9",
+        "title": "Ουμπέρτο Έκο - Β' Μέρος",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-keraies-tis-epoxis-mas/oi-keraies-tis-epoxis-mas-umberto-eco-italia-b-meros-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d7517f57:oi-keraies-tes-epokhes-mas-10",
+        "title": "Χέρτα Μίλερ - Βερολίνο",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oi-keraies-tis-epoxis-mas/oi-keraies-tis-epoxis-mas-cherta-miller-germania.jpg"
+      }
+    ]
+  }
+}

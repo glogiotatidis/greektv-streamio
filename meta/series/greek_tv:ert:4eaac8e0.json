@@ -1,0 +1,424 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:4eaac8e0",
+    "type": "series",
+    "name": "Βαλκάνια Εξπρές",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkania-exrpess-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkania-exrpess-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-46",
+        "title": "Η Άγνωστη Μολδαβία",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s1-e1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-47",
+        "title": "Μολδαβία | Η Πρωτεύουσα Κισνάου",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s1-e2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-48",
+        "title": "Βουλγαρία | Η Κοιλάδα των Ρόδων",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s1-e3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-49",
+        "title": "Οι Σαρακατσάνοι της Βουλγαρίας",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s1-e4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-50",
+        "title": "Ταξίδι στην Ιστορική Καρδιά της Βουλγαρίας",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s1e5-02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-51",
+        "title": "Ρουμανία | Βουκουρέστι, το Παρίσι των Βαλκανίων",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s01ep06-05-v2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-52",
+        "title": "Οδοιπορικό στη Γεωγραφική Καρδιά της Βουλγαρίας",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s01-ep07-03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-53",
+        "title": "Βουλγαρία | Από τον Αίμο στον Δούναβη",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s01-ep08-09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-54",
+        "title": "Ρουμανία | Κλουζ Ναπόκα, η Πόλη Θαύμα της Τρανσυλβανίας",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s01-e09-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-55",
+        "title": "Ρουμανία | Εκεί που ο Δούναβης Συναντά τη Μαύρη Θάλασσα",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s01-ep10-11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-56",
+        "title": "Ρουμανία | Δοβρουτσά, Μαύρη Θάλασσα",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s01-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-57",
+        "title": "Ρουμανία | Δοβρουτσά, Οδοιπορικό στην Ενδοχώρα",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s01-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-58",
+        "title": "Ρουμανία | Τούλτσεα, Ένα Πολυπολιτισμικό Λιμάνι του Δούναβη",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s01-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-43",
+        "title": "Ρουμανία | Η Άγνωστη Πλευρά της Τρανσυλβανίας",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s02-ep01mp4-error019.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-44",
+        "title": "Βουλγαρία | Οδοιπορικό στον Αίμο",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s02-ep02mp4-error077.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-45",
+        "title": "Σερβία | Το Ανήσυχο Βελιγράδι",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s02-ep03mp4-error738.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-42",
+        "title": "Οδοιπορικό στο Σερβικό Μπάνατ | Μέρος A'",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be-s02-ep04mp4-error567.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres",
+        "title": "Σερβία | Νόβι Σαντ, μια Πολιτιστική Συνάντηση Βαλκανίων και Ευρώπης",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/bal0301.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-1",
+        "title": "Η Ανεξερεύνητη Ανατολική Σερβία | Μέρος Α'",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/be21-ep02-pict09-copy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-2",
+        "title": "Η Ανεξερεύνητη Ανατολική Σερβία | Μέρος Β'",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/vlcsnap-error380.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-3",
+        "title": "Οδοιπορικό στο Σερβικό Μπάνατ | Μέρος Β'",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/n-error827.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-4",
+        "title": "Η Ανεξερεύνητη Ανατολική Σερβία | Μέρος Γ'",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s03-ep05-4mbpsmp4-error129.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-5",
+        "title": "Σερβία | Νις, η Πρωτεύουσα του Σέρβικου Νότου",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s03-ep06-4mbpsmp4-error822.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-6",
+        "title": "Σερβία | Τσάτσακ",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/balkan-express-s03-ep07-4mbpsmp4-error723.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-7",
+        "title": "Σερβία | Ούζιτσε",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s03-ep08-4mbpsmp4-2021-11-22-11h55m55s671.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-8",
+        "title": "Σερβία | Βάλιεβο",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/balkan-express-s03-ep09-4mbpsmp4-error647.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-9",
+        "title": "Ντόμπριτς, το Κέντρο της Βουλγαρικής Δοβρουτσάς",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s03-ep10-antika-4mbpsmp4-error874.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-10",
+        "title": "Ένα Ιστορικό Οδοιπορικό στη Βουλγαρική Δοβρουτσά",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/balkan-express-s03-ep11-antika-4mbpsmp4-error315.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-11",
+        "title": "Ρουμανία | Κραϊόβα",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s03-ep12-4mbpsmp4-error398.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-12",
+        "title": "Ρουμανία | Οδοιπορικό στην Ολτενία",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/balkania-express-ep13-oltenia-4mbpsmp4-error974.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-13",
+        "title": "Ρουμανία | Γκορζ, η Χώρα του Γλύπτη Κονσταντίν Μπρανκούζι",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/balkania-express-ep14-4mbpsmp4-error910.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-14",
+        "title": "Βουλγαρία | Αγαθούπολη και Βασιλικό, Μαύρη Θάλασσα",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s03-ep15-4mbpsmp4-2022-01-12-09h23m57s599.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-15",
+        "title": "Βουλγαρία | Σωζόπολη, Μαύρη Θάλασσα",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/balkan-express-s03-ep16-3mbpsmp4-error833.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-16",
+        "title": "Βουλγαρία | Πύργος, Μαύρη Θάλασσα",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/balkan-express-s03-ep17-4mbpsmp4-error814.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-17",
+        "title": "Βουλγαρία | Αγχίαλος, Μαύρη Θάλασσα",
+        "season": 3,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/balkan-express-s03-ep18-4mbpsmp4-error895.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-18",
+        "title": "Βουλγαρία | Μεσημβρία, Μαύρη Θάλασσα",
+        "season": 3,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/balkan-express-s03-ep19-4mbpsmp4-error802.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-19",
+        "title": "Βουλγαρία | Βάρνα, Μαύρη Θάλασσα",
+        "season": 3,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s03-ep20-4mbpsmp4-2022-02-10-11h28m08s367.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-20",
+        "title": "Βουλγαρία | Φιλιππούπολη, Ένα Κέντρο Πολιτισμού",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s04-ep01-filippoypolh-boylgaria-meros-1-4mbpsmp4-error599.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-21",
+        "title": "Βουλγαρία | Φιλιππούπολη, Πολιτιστικές Διαδρομές στα Περίχωρα",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s04-ep2-filippoypolh-boylgaria-meros-2-4mbpsmp4-error134.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-22",
+        "title": "Ρουμανία | Οδοιπορικό στα Νότια Καρπάθια",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s04-ep03-n-karpathia-roumania-4mbpsmp4-error114.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-23",
+        "title": "Ρουμανία | Ακoλουθώντας την Κοιλάδα του Ποταμού Ολτ",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s04-ep04-koilada-potamoy-olt-roumania-4mbpsmp4-2022-11-03-14h49m57s674.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-24",
+        "title": "Μαυροβούνιο | Ποντγκόριτσα",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s04-ep05-pontgkoritsa-mayroboynio-4mbpsmp4-error873.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-25",
+        "title": "Τζαζ και Βαλκανική Μουσική",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s04-ep06-jazz-4mbpsmp4-error466.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-26",
+        "title": "Αλβανία | Τίρανα",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s04-ep07-tirana-4mbpsmp4-2022-11-24-14h28m59s070.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-27",
+        "title": "Οδοιπορικό στο Τριεθνές Πρέσπας | Μέρος Α’",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkan-express-s04-ep08-odoiporiko-sto-triethnes-prespas-a-meros-4mbpsmp4-error776.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-28",
+        "title": "Οδοιπορικό στο Τριεθνές Πρέσπας | Μέρος B’",
+        "season": 4,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/be22-ep09-4mbpsmp4-2022-12-07-16h36m56s002.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-29",
+        "title": "Αλβανία | Δυρράχιο",
+        "season": 4,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/be22-ep10mp4-error365.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-30",
+        "title": "Αστικοί Μετανάστες στην Ύπαιθρο",
+        "season": 4,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkania-express-s4-ep11-astikoi-metanastes-3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-31",
+        "title": "Οδοιπορικό στο Τριεθνές Μπέλες | Μέρος Α'",
+        "season": 4,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkania-express-s4-ep12-triethnes-mpeles-a-4mbpsmp4-error952.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-32",
+        "title": "Μαυροβούνιο | Οι Δρόμοι του Αμπελιού και της Ιστορίας",
+        "season": 5,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/balkan-express-s05-ep01-4mbpsmp4-error166.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-33",
+        "title": "Βόρεια Μακεδονία | Μοναστήρι, μια Σημαντική Πόλη Των Βαλκανίων",
+        "season": 5,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/balkan-express-s05-ep02-4mbpsmp4-2023-11-30-11h01m06s958.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-34",
+        "title": "Βουλγαρία | Σόφια, Οδεύοντας προς την Ευρώπη",
+        "season": 5,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/be23-ep03-sofia-boylgaria-odeyontas-pros-thn-eyrwph-4mbpsmp4-2023-12-06-15h50m38s198.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-35",
+        "title": "Βουλγαρία | Κάρλοβο, ένα Οδοιπορικό με Άρωμα Λεβάντας και Ιστορίας",
+        "season": 5,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/be23-ep04-karlobo-boylgaria-ena-odoiporiko-me-aroma-lebantas-k-istorias-4mbpsmp4-2023-12-13-11h03m04s447.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-36",
+        "title": "Μαυροβούνιο | Η Ακτή του Κότορ",
+        "season": 5,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/be23-ep05-mayroboynio-h-akth-toy-kotor-4mbpsmp4-2023-12-19-13h25m54s959.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-37",
+        "title": "Σερβία | Ζλάτιμπορ, 130 Χρόνια Τουρισμού",
+        "season": 5,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/bee23-ep06-4mbpsmp4-error059.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-38",
+        "title": "Βοσνία - Ερζεγοβίνη | Ακολουθώντας τον Ποταμό Δρίνο | Μέρος Α'",
+        "season": 5,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/be23-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-39",
+        "title": "Βοσνία - Ερζεγοβίνη | Ακολουθώντας τον Ποταμό Δρίνο | Μέρος Β'",
+        "season": 5,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/be23-ep08-trailermp4-2024-01-10-11h30m52s873.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-40",
+        "title": "Οδοιπορικό στο Τριεθνές Μπέλες | Μέρος Β'",
+        "season": 5,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/be23-ep09-4mbpsmp4-2024-01-24-10h06m22s258.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4eaac8e0:balkania-expres-41",
+        "title": "Βοσνία - Ερζεγοβίνη | Μπάνια Λούκα",
+        "season": 5,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/be23-ep10-mpania-loyka-bosnia-erzegobinh-4mbpsmp4-2024-01-25-12h56m45s745.jpg"
+      }
+    ]
+  }
+}

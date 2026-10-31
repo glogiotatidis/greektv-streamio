@@ -1,0 +1,620 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:bd4f50cf",
+    "type": "series",
+    "name": "Αυτός και ο Άλλος",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/ertflix-banner-aytos-kai-o-allos-640x360.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/aytos-kai-o-allos-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-kostas-makedonas",
+        "title": "Κώστας Μακεδόνας",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200717-autos-kai-o-allos-ep13-makedonas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-leyteris-lazaroy",
+        "title": "Λευτέρης Λαζάρου",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200731-autos-kai-o-allos-ep17-lazarou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-filippos-pliatsikas",
+        "title": "Φίλιππος Πλιάτσικας",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200702-autos-kai-o-allos-ep-8-pliatsikas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-popi-tsapanidoy",
+        "title": "Πόπη Τσαπανίδου",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200710-autos-kai-o-allos-ep-11-tsapanidoy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-lakis-komninos",
+        "title": "Λάκης Κομνηνός",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200723-autos-kai-o-allos-ep14-komninos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-michalis-rakintzis",
+        "title": "Μιχάλης Ρακιντζής",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200724-autos-kai-o-allos-ep15-rakitzis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-ieroklis-michailidis",
+        "title": "Ιεροκλής Μιχαηλίδης",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200716-autos-kai-o-allos-ep12-mihailidis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-renos-charalampidis",
+        "title": "Ρένος Χαραλαμπίδης",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200730-autos-kai-o-allos-ep16-charalabidis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-katia-dandoylaki",
+        "title": "Κάτια Δανδουλάκη",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/06/20200623-autos-kai-o-allos-ep7-dandoulaki2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-christos-chatzipanagiotis",
+        "title": "Χρήστος Χατζηπαναγιώτης",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/09/20200911-autos-kai-o-allos-ep18-chatzipanagiwtis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-charis-romas",
+        "title": "Χάρης Ρώμας",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/06/20200612-autos-kai-o-allos-ep5-romas-no-logo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-nantia-kontogeorgi",
+        "title": "Νάντια Κοντογεώργη",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/09/20200917-autos-kai-o-allos-ep19-kontogeorgi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-mimi-ntenisi",
+        "title": "Μιμή Ντενίση",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/09/20200918-autos-kai-o-allos-ep20-ntenisi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-nikos-koyris",
+        "title": "Νίκος Κουρής",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200709-autos-kai-o-allos-ep-10-kouris.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-thodoris-atheridis",
+        "title": "Θοδωρής Αθερίδης",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/10/202010263-aytos-kai-o-allos-atheridis-s2ep2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-thanasis-koyrlampas-tzeni-theona",
+        "title": "Θανάσης Κουρλαμπάς, Τζένη Θεωνά",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/10/20201030-autos-kai-o-allos-s02-e03-kourlampas-theona.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-leonidas-koytsopoylos",
+        "title": "Λεωνίδας Κουτσόπουλος",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/05/autos-kai-o-allos-ep1-koutsopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-odysseas-papaspiliopoylos",
+        "title": "Οδυσσέας Παπασπηλιόπουλος",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/11/20201110-autos-kai-o-allos-s02-ep4-papaspiliopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-evelina-papoylia",
+        "title": "Εβελίνα Παπούλια",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/11/20201117-autos-kai-o-allos-s02-ep5-papoulia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-ti-gyreyei-i-oraia-eleni-vradiatika-stin-ert",
+        "title": "Ελένη Ράντου",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/06/vlcsnap-2020-06-05-23h49m40s529.png"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-stelios-mainas",
+        "title": "Στέλιος Μάινας",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/11/20201124-autos-kai-o-allos-mainas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-marios-athanasioy-katia-zygoyli",
+        "title": "Μάριος Αθανασίου, Κάτια Ζυγούλη",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200807-autos-kai-o-allos-ep6-athanasiou-zygouli.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-vladimiros-kyriakidis",
+        "title": "Βλαδίμηρος Κυριακίδης",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/05/20200529-autos-kai-o-allos-ep3-kyriakidhs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-antonis-kanakis",
+        "title": "Καλούν… Θεσσαλονίκη",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/05/autos_kai_o_allos_KANAKIS_1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-ilias-meletis",
+        "title": "Ηλίας Μελέτης",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201208-autos-kai-o-allos-ep8-meletis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-giannis-stankogloy",
+        "title": "Γιάννης Στάνκογλου",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201214-autos-kai-o-allos-s02-ep9-stankoglou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-christos-loylis",
+        "title": "Χρήστος Λούλης",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201222-autos-kai-o-allos-s02-ep10-loulis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-viky-chatzivasileioy",
+        "title": "Βίκυ Χατζηβασιλείου",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201229-autos-kai-o-allos-xatzivasileiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-marios-fragkoylis",
+        "title": "Μάριος Φραγκούλης",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/01/20210105-autos-kai-o-allos-fragkoulis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-monika-2",
+        "title": "Μόνικα",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200726-autos-kai-o-allos-ep16-monika.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-pygmalion-dadakaridis",
+        "title": "Πυγμαλίων Δαδακαρίδης",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/01/20210112-autos-kai-o-allos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-grigoris-valtinos",
+        "title": "Γρηγόρης Βαλτινός",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/01/20210119-autos-kai-o-allos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-katerina-papoytsaki",
+        "title": "Κατερίνα Παπουτσάκη",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/10/20201016-aytos-kai-o-allos-s02-e01-papoutsaki_new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-marion-michelidaki-rena-morfi",
+        "title": "Μάριον Μιχελιδάκη, Ρένα Μόρφη",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/01/autos_kai_o_allos_Marion_Mixelidaki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-takis-fyssas",
+        "title": "Τάκης Φύσσας",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201201-autos-kai-o-allos-fyssas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-giorgos-kapoytzidis",
+        "title": "Γιώργος Καπουτζίδης",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/02/autos_kai_o_allos_Kapoutzidis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-nikos-portokalogloy",
+        "title": "Νίκος Πορτοκάλογλου",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/02/20210209-autos-k-o-allos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-alexandros-mpoyrdoymis",
+        "title": "Αλέξανδρος Μπουρδούμης",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/02/Aytos_kai_o_allos_Mpourdoumis-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:aytos-kai-o-allos-dakis",
+        "title": "Δάκης",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/02/autos_kai_o_allos_Dakis_1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos",
+        "title": "Νίκος Ορφανός",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos-nikos-orfanos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-1",
+        "title": "Τόνι Σφήνος",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos-s03-ep01-toni-sfinos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-2",
+        "title": "Κατερίνα Λέχου",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos-s03-ep02-katerina-lexou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-3",
+        "title": "Βάσω Λασκαράκη",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos-s03-ep03-vasiliki-laskaraki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-4",
+        "title": "Γιάννης Κότσιρας",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos-s03-ep04-kotsiras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-5",
+        "title": "Αιμίλιος Χειλάκης",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos-s03-ep05-aimilios-xeilakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-6",
+        "title": "Αντώνης Νικοπολίδης",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos-nikopolidis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-7",
+        "title": "Πασχάλης",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/aytos-kai-o-allos-pasxalis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-8",
+        "title": "Ακης Σακελλαρίου",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos-akis-sakelariou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-9",
+        "title": "Ναταλία Δραγούμη",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/aytos-ki-o-allos-natalia-dragoumi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-10",
+        "title": "Κωνσταντίνος Τζούμας",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos-ep4-konstantinos-tzoumas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-11",
+        "title": "Θοδωρής Παπαλουκάς",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos-s03-ep05-thodwris-papaloukas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-12",
+        "title": "Κωστής Μαραβέγιας",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos-kostis-maravegias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-13",
+        "title": "Πέμυ Ζούνη",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos-2021-pemi-zouni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-14",
+        "title": "Ρένια Λουϊζίδου",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/aftos-kai-o-allos-2021-22-ep08-renia-louizidou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-15",
+        "title": "Φώτης Σεργουλόπουλος",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos-2021-22-ep9-fotis-sergoulopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-16",
+        "title": "Νίκη Ξάνθου",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos-niki-ksanthou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-17",
+        "title": "Μπέσυ Μάλφα",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos-mpesy-malfa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-18",
+        "title": "Παναγιώτης Φασούλας",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/aytos-kai-o-allos-2021-22-ep12-fasoulas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-19",
+        "title": "Μαριάννα Τουμασάτου",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos-marianna-toumasatou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-20",
+        "title": "Σμαράγδα Καρύδη",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autow-kai-o-allos-ep14-smaragda-karidi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-21",
+        "title": "Ιωάννα Μαλέσκου",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/aftos-kai-o-allos-s02-ep15-ioanna-maleskou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-22",
+        "title": "Δημήτρης Λάλος",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos-dimitris-lalos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-23",
+        "title": "Χρήστος Χωμενίδης",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos-2022-xomenidis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-24",
+        "title": "Γιάννης Τσιμιτσέλης",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos-2022-tsimitselis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-25",
+        "title": "Ελεονώρα Ζουγανέλη",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos-2022-zouganeli.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-26",
+        "title": "Αντώνης Καφετζόπουλος",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos-ep20-antonis-kafetzopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-27",
+        "title": "Ελένη Δήμου",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos-ep21-eleni-dimou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-28",
+        "title": "Χρήστος Νικολόπουλος",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos-s02-nikolopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-30",
+        "title": "Δημήτρης Παπαδημητρίου",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/aftos-kai-o-allos-2022-dimitris-papadimitriou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-31",
+        "title": "Σπύρος Παπαδόπουλος",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos-2022-spiros-papadopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-29",
+        "title": "Μανούσος Μανουσάκης",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/aftos-kai-o-allos-2022-manousos-manousakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-32",
+        "title": "Κατερίνα Γερονικολού",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos/autos-kai-o-allos-s02-geronikolou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-34",
+        "title": "Κώστας Κόκλας",
+        "season": 2,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos/autos-kai-o-allos-2022-ep06-kostas-koklas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-35",
+        "title": "Μαρία Τζομπανάκη",
+        "season": 2,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos-2022-ep07-maria-tzompanaki-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-36",
+        "title": "Καλεσμένος ο Γιάννης Κακλέας",
+        "season": 2,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos/autos-kai-o-allos-2022-ep8-giannis-kakleas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-37",
+        "title": "Καλεσμένος ο Μανώλης Μητσιάς",
+        "season": 2,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos/aytos-kai-o-allos-2022-ep9-manolis-mitsias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-38",
+        "title": "Μάρκος Σεφερλής",
+        "season": 2,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos/autos-kai-o-allos-s02-seferlis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-39",
+        "title": "Αντίνοος Αλμπάνης",
+        "season": 2,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos/autos-kai-o-allos-2022-ep11-antinoos-almpanis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-40",
+        "title": "Γιώργος Μαργαρίτης",
+        "season": 2,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos/autos-kai-o-allos-margaritis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-41",
+        "title": "Ελλη Τρίγγου",
+        "season": 2,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos/autos-kai-o-allos-2022-ep13-elli-triggou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-42",
+        "title": "Καλεσμένη η Γιάννα Αγγελοπούλου-Δασκαλάκη",
+        "season": 2,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos/autos-kai-o-allos-2022-gianna-aggelopoulou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-43",
+        "title": "Γιάννης Ζουγανέλης",
+        "season": 2,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos/autos-kai-o-allos-2022-ep14-giannis-zouganelis-teleutaio-episodio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-44",
+        "title": "Καλεσμένη η Αννα Φόνσου",
+        "season": 2,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos/autos-kai-o-allos-anna-fonsou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-45",
+        "title": "Καλεσμένη η Χριστίνα Χειλά - Φαμέλη",
+        "season": 2,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos/autos-kai-o-allos-s03-christina-xeila-fameli.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-46",
+        "title": "Καλεσμένος ο Γιώργος Αρμένης",
+        "season": 2,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos/autos-kai-o-allos-giorgos-armenis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-47",
+        "title": "Καλεσμένος ο Θανάσης Χειμωνάς",
+        "season": 2,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/autos-kai-o-allos/autos-kai-o-allos-giorgos-xeimonas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bd4f50cf:autos-kai-o-allos-48",
+        "title": "Καλεσμένος ο Γιώργος Κωνσταντίνου",
+        "season": 2,
+        "episode": 41,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/autos-kai-o-allos/autos-kai-o-allos-2022-giorgos-konstantinou.jpg"
+      }
+    ]
+  }
+}

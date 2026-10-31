@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:084da574",
+    "type": "series",
+    "name": "Εντός Κάδρου",
+    "poster": "https://files2.app.ertflix.gr/2026/news24/entos-kadrou-season-4/entos-kadrou-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2026/news24/entos-kadrou-season-4/entos-kadrou-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-1",
+        "title": "Εργατικά Ατυχήματα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/entos-kadroy-ep1-ergatika-atyxhmata-4mbpsmp4-error354.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-2",
+        "title": "Απόκτηση Ελληνικής Ιθαγένειας",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/entos-kadroy-ep2-ithageneia-4mbpsmp4-error479.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-3",
+        "title": "Η Ζωή Μετά τον Εγκέλαδο",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/entos-kadroy-meta-ton-egkelado-larisa-4mbpsmp4-error165.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-4",
+        "title": "Αποτέφρωση Νεκρών",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/enimerosi/entos-kadrou/entos-kadroy-ep03-apotefrosh-new-audio-4mbpsmp4-2023-03-09-14h38m25s362.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-5",
+        "title": "Παρασύρσεις Πεζών - Ποδηλάτων",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/enimerosi/entos-kadrou/entos-kadroy-ep04-parasyrseis-new-audio-4mbpsmp4-2023-03-15-15h07m49s989.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-6",
+        "title": "Κλινικές Έρευνες",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/enimerosi/entos-kadrou/entos-kadroy-ep5-klinikes-ereynes-4mbps.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-8",
+        "title": "Μεταμόσχευση Μυελού των Οστών",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/enimerosi/entos-kadrou/entos-kadroy-metamosxeysh-4mbpsmp4-2023-04-18-18h06m13s935.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-7",
+        "title": "Ατμοσφαιρική Ρύπανση στη Θεσσαλονίκη",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/entos-kadroy-atmosfairikh-rypansh-4mbpsmp4-error618.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-9",
+        "title": "Tεχνητή Nοημοσύνη και Ενημέρωση",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/entos-kadroy-texnhth-nohmosynh-4mbpsmp4-error508.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-10",
+        "title": "Επιστημονική Έρευνα",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/entos-kadroy-episthmonikes-ereynes-diorthoseis-2024-roh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-11",
+        "title": "Αστυνομική Bία",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/entos-kadroy-astynomikh-bia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-12",
+        "title": "Στεγαστική Κρίση",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/entos-kadroy-stegastikh-krish-4mbpsmp4-2024-05-30-09h21m06s668.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-13",
+        "title": "Ρομά: Στερεότυπα και Προκαταλήψεις",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/entos-kadroy-roma-teliko-4mbpsmp4-error377.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-14",
+        "title": "Δάσος Δαδιάς",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/entos-kadroy-dasos-dadias-2.png"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-15",
+        "title": "Ασυνόδευτα Προσφυγόπουλα",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-12-12h58m50s287.png"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-16",
+        "title": "Ερημοποίηση",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-15-12h34m21s187.png"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-17",
+        "title": "Ψηφιακή Αθανασία",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-28-09h04m36s153.png"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-18",
+        "title": "Θεατρική Στέγη",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-28-11h36m20s462.png"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-19",
+        "title": "Αποταμίευση",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-06-10-08h48m35s360.png"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-20",
+        "title": "Ο Νόμος για τα Αδέσποτα και Δεσποζόμενα Ζώα",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-06-11-10h14m13s150.png"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-21",
+        "title": "Συστατικά από Έντομα στη Διατροφή μας",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/entos-kadroy-entoma-diatrofh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-41",
+        "title": "Προβλήματα στους Δρόμους των Πόλεων - Β' Μέρος",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/entos-kadroy-ep20-problhmata-stoys-dromoys-twn-polewn-b-merosmxf-2026-06-17-12h39m38s963.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-40",
+        "title": "Προβλήματα στους Δρόμους των Πόλεων - A' Μέρος",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/entos-kadroy-ep19-problhmata-stoys-dromoys-twn-polewn-a-meros-4mbpsmp4-2026-06-10-09h17m12s263.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-39",
+        "title": "H Οπτικοακουστική Παραγωγή στην Ελλάδα - B΄Μέρος",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps055045-0018-entos-kadroy-se4-ep18-ekomed-b-meros-4mbpsmp4-2026-05-27-10h51m45s910.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-38",
+        "title": "H Οπτικοακουστική Παραγωγή στην Ελλάδα - Α΄ Μέρος",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/entos-kadroy-ekomed-a-meros-mxf-2026-05-20-11h16m00s519.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-37",
+        "title": "Ανανεώσιμες Πηγές Ενέργειας - Β' Μέρος",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/entos-kadroy-se4-ep16-anan-phges-b-meros-trailer-4mbpsmp4-2026-05-11-12h25m33s198.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-36",
+        "title": "Ανανεώσιμες Πηγές Ενέργειας - A' Μέρος",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/entos-kadroy-ape-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-35",
+        "title": "Αγωγές SLAPP - B΄Μέρος",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps055045-0014-entos-kadroy-slapps-b-meros-4mbpsmp4-2026-04-24-12h21m18s927.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-34",
+        "title": "Αγωγές SLAPP - A΄Μέρος",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps055045-0013-entos-kadroy-slapps-a-meros-4mbpsmp4-2026-04-24-12h16m59s271.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-33",
+        "title": "Παιδιά σε Αναμονή - Β΄Μέρος",
+        "season": 4,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps049712-entos-kadroy-ep12-paidia-se-anamonh-part-b-4mbpsmp4-2026-04-07-10h49m39s491.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-32",
+        "title": "Παιδιά σε Αναμονή - Α΄Μέρος",
+        "season": 4,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps049711-entos-kadroy-ep11-paidia-se-anamonh-part-a-4mbpsmp4-2026-04-07-10h43m32s012.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-31",
+        "title": "Πρέσπες και Κλιματική Αλλαγή - Β' Μέρος",
+        "season": 4,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps049710-entos-kadroy-ep10-prespes-b-meros-4mbpsmp4-2026-03-26-11h34m25s505.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-30",
+        "title": "Πρέσπες και Κλιματική Αλλαγή - Α' Μέρος",
+        "season": 4,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps049709-entos-kadroy-ep09-prespes-a-merosmxf-2026-03-26-11h23m41s852.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-29",
+        "title": "Σεξεργασία – Β΄ Μέρος",
+        "season": 4,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/entos-kadroy-sexergasia-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-28",
+        "title": "Σεξεργασία – A΄ Μέρος",
+        "season": 4,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps049707-entos-kadroy-sexergasia-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-27",
+        "title": "Ηλεκτροκίνηση – Β΄ Μέρος",
+        "season": 4,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps049706-entos-kadroy-hlektrokinhsh-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-26",
+        "title": "Ηλεκτροκίνηση – Α΄ Μέρος",
+        "season": 4,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps049705-entos-kadroy-hlektrokinhsh-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-25",
+        "title": "Καθυστερήσεις στην Απονομή Δικαιοσύνης – B΄ Μέρος",
+        "season": 4,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps049704-entos-kadroy-se04-ep4-dikaiosynh-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-24",
+        "title": "Καθυστερήσεις στην Απονομή Δικαιοσύνης – Α΄ Μέρος",
+        "season": 4,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps049703-entos-kadroy-se04-ep3-dikaiosynh-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-23",
+        "title": "Burnout – Β΄ Μέρος",
+        "season": 4,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps049702-entos-kadroy-burnout-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:084da574:entos-kadrou-22",
+        "title": "Burnout – Α΄ Μέρος",
+        "season": 4,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/entos-kadroy-burn-out-a-meros.jpg"
+      }
+    ]
+  }
+}

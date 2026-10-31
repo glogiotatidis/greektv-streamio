@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:f48ae4cc",
+    "type": "series",
+    "name": "Το Δίκτυο",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/to-diktyo/to-diktyo-ertflix-poster.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/to-diktyo/to-diktyo-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:f48ae4cc:to-diktuo",
+        "title": "Τέχνη και Πολιτισμός στο Διαδίκτυο",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/to-diktio-s01-ep01-texni-kai-politismos-sto-diadiktyo-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f48ae4cc:to-diktuo-2",
+        "title": "The Influencers",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-diktio-s01-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f48ae4cc:to-diktuo-3",
+        "title": "Παιδιά και Διαδίκτυο",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-diktyo/to-diktio-s01-ep03-paidia-kai-diadiktyo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f48ae4cc:to-diktuo-4",
+        "title": "Η Ζωή από Μακριά",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-diktio-s01-ep04-i-zoi-apo-makria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f48ae4cc:to-diktuo-5",
+        "title": "Οι Άνθρωποι Πίσω από τις Πετυχημένες Σελίδες και τα Προφίλ του Facebook",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-diktio-s01-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f48ae4cc:to-diktuo-6",
+        "title": "Το Κυνήγι της Ευτυχίας",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-diktyo/to-diktio-s01-ep06-to-kunhgi-ths-eutuxias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f48ae4cc:to-diktuo-7",
+        "title": "Σχέσεις και Διαδίκτυο",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-diktyo/to-diktio-s01-ep07-sxeseis-kai-diadiktyo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f48ae4cc:to-diktuo-8",
+        "title": "How to...",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-diktyo/to-diktio-s01-ep08-how-to-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f48ae4cc:to-diktuo-9",
+        "title": "Η Ιστορία του Διαδικτύου στην Ελλάδα",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-diktyo/to-diktio-ep09-i-istoria-tou-diadiktiou-stin-ellada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f48ae4cc:to-diktuo-10",
+        "title": "Μεγάλα Δεδομένα-Μεγάλες Προσδοκίες",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/to-diktyo/to-diktio-s01-ep10-megala-dedomena-megales-prosdokies.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f48ae4cc:to-diktuo-11",
+        "title": "Η Σκοτεινή Πλευρά του Διαδικτύου",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-diktyo/to-diktio-s01-ep11-i-skotini-plevra-tou-diadyktiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f48ae4cc:to-diktuo-12",
+        "title": "Το Μέλλον",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/to-diktyo/to-diktio-s01-ep12-to-mellon.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:8efa5033",
+    "type": "series",
+    "name": "24 Ώρες στην Ελλάδα",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-24oresellada-640x360.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/24-wres-ellada-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:8efa5033:24-ores-sten-ellada",
+        "title": "Μήλος",
+        "season": 5,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/24wres/milos3-3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8efa5033:24-ores-sten-ellada-1",
+        "title": "Kίμωλος",
+        "season": 5,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/24wres/kimolos25-copy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8efa5033:24-ores-sten-ellada-2",
+        "title": "Βέροια",
+        "season": 5,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/vlcsnap-error213.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8efa5033:24-ores-sten-ellada-3",
+        "title": "Θάσος",
+        "season": 5,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/24wres/n-error824.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8efa5033:24-ores-sten-ellada-4",
+        "title": "Αίγινα",
+        "season": 5,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/xena-docs/24wres-s05-ep05-4mbpsmp4-error767.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8efa5033:24-ores-sten-ellada-5",
+        "title": "Αργολίδα",
+        "season": 5,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/24wres/24wres-s05-ep06-4mbpsmp4-error184.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8efa5033:24-ores-sten-ellada-6",
+        "title": "Κύθηρα",
+        "season": 5,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/24wres-s05-ep07-4mbpsmp4-error451.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8efa5033:24-ores-sten-ellada-7",
+        "title": "Παξοί - Αντίπαξοι",
+        "season": 5,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/24wres/24wres-s05-ep08-4mbpsmp4-2021-11-22-13h04m36s063.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8efa5033:24-ores-sten-ellada-8",
+        "title": "Λάρισα",
+        "season": 5,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/24wres-s05-ep09-larisa-4mbpsmp4-error419.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8efa5033:24-ores-sten-ellada-9",
+        "title": "Ανατολικό Πήλιο",
+        "season": 5,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/24wres/24wres-s05-ep10-pilio-4mbpsmp4-error217.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8efa5033:24-ores-sten-ellada-10",
+        "title": "Τζουμέρκα",
+        "season": 5,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/24wres-s05-ep11-tzoumerka-new-4mbpsmp4-error923.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8efa5033:24-ores-sten-ellada-11",
+        "title": "Άρτα",
+        "season": 5,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/24wres-s05-ep12-arta-4mbpsmp4-error588.jpg"
+      }
+    ]
+  }
+}

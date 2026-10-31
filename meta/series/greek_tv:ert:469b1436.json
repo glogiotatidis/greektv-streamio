@@ -1,0 +1,508 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:469b1436",
+    "type": "series",
+    "name": "ΑΓΡΟWEEK",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-26",
+        "title": "Ελληνικός Μαύρος Χοίρος: το Μαύρο Διαμάντι της Κτηνοτροφίας μας",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep02-mauros-xoiros-4mbpsmp4-error568.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-27",
+        "title": "Καζαναριό «Εάν Καταργηθεί το Τσίπουρο θα Σταματήσει η Αμπελουργία στην Ελλάδα»",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep03-kazanario-4mbpsmp4-error858.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-28",
+        "title": "Δίπλα στην Θεσσαλονίκη, για την Θεσσαλονίκη. Λίγη Ποσότητα - Πολλές Βιταμίνες",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep04-kosmou-fyta-4mbpsmp4-error971.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-29",
+        "title": "Όταν η Τεχνική Γίνεται Τέχνη",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep05-texniki-texni-4mbpsmp4-error554.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-30",
+        "title": "Παραγωγοί Προϊόντων Λαϊκών Αγορών - Το Καταφύγιο του Καταναλωτή",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep06-katafygio-katanaloti-4mbpsmp4-error842.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-51",
+        "title": "‘’Social Plate’’ : Mία Ιδέα της Κεντρική Αγορά Θεσσαλονίκης",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep07-social-plate-4mbpsmp4-error544.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-31",
+        "title": "Ευφυή Γεωργία - \"Το Μέλλον των Αγροτών\"",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep08-georgia-4mbpsmp4-error586.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-32",
+        "title": "Η Κρίση τους Εξανάγκασε να Φύγουν",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep9-nostimon-hmar-n-4mbpsmp4-error870.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-33",
+        "title": "Γαλακτοκομική Σχολή Ιωαννίνων",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep10-tyri-4mbpsmp4-error527.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-34",
+        "title": "Επαγγελματική Σχολή Κρέατος",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep11-epaggelma-4mbpsmp4-error345.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-35",
+        "title": "Ερασιτεχνική Αλιεία",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep12-alieis-kavala-4mbpsmp4-error663.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-36",
+        "title": "Εκτροφή Κουνελιών. Μία Επιχειρηματική Δουλειά με Μέλλον",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep13-omorfo-mellon-4mbpsmp4-error448.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-37",
+        "title": "Γαρδένια: Όμορφη και Κυρία. Μία Καλλιέργεια με Χρυσό Μέλλον",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep14-eyaisthiti-kyria-4mbpsmp4-error365.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-38",
+        "title": "Τριανταφυλλιά - Ένα Λουλούδι Συνδεδεμένο με τις Αναμνήσεις μας.",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep15-anamnhseis-4mbpsmp4-error463.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-52",
+        "title": "Η Πανάρχαια Φυλή των Αλόγων στην Οροσειρά της Πινδου",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep16-omorfa-aloga-4mbpsmp4-error387.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-39",
+        "title": "Κατά Παράδοση - Μαγιά και Χαλιά",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep17-magia-xalia-4mbpsmp4-error272.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-40",
+        "title": "Το «Κουμ Κουάτ» και η Λιανολιά της Κέρκυρας",
+        "season": 3,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep18-xryso-portokali-4mbpsmp4-error562.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-41",
+        "title": "Ερασιτεχνική Οινοποιία - Μια Διαδικασία με Μεράκι",
+        "season": 3,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep19-drama-oinop-4mbpsmp4-error188.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-42",
+        "title": "Αστική Πτηνοτροφεία. Μια Ανάσα από Θεσσαλονίκη",
+        "season": 3,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep20-astiki-4mbpsmp4-error914.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-43",
+        "title": "Πάσχα στις ''Χαμένες Πατρίδες''",
+        "season": 3,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep21-agiopasxa-4mbpsmp4-error230.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-53",
+        "title": "Ελιές, Μέλι, Λάδι",
+        "season": 3,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep22-thasos-syn-4mbpsmp4-error527.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-44",
+        "title": "Η Εποχή των Λουλουδιών",
+        "season": 3,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep23-epoxh-louloud-4mbpsmp4-error379.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-45",
+        "title": "Το Δάσος της Αγριελιάς",
+        "season": 3,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep24-agrielia-n-4mbpsmp4-error697.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-46",
+        "title": "Ελληνική Κόκκινη Φυλή",
+        "season": 3,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep25-kokkini-mosxa-4mbpsmp4-error639.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-47",
+        "title": "Μαυρούδα: Ένα Χωριό που Μυρίζει Ρίγανη",
+        "season": 3,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep26-rigani-4mbpsmp4-error103.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-48",
+        "title": "Λεβάντα : Μια Πανδαισία Χρωμάτων στην Ύπαιθρο",
+        "season": 3,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep27-levanta-4mbpsmp4-error650.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-49",
+        "title": "Best Οf - Μέρος Α'",
+        "season": 3,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep28-best-part1-4mbpsmp4-error313.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-50",
+        "title": "Best Οf - Μέρος Β'",
+        "season": 3,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s03-ep29-bestpart2-4mbpsmp4-error246.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-54",
+        "title": "Κυριαρχία στις Εξαγωγές",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04-e01-4mbpsmp4-error619.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-55",
+        "title": "Σπορόφυτα: Η Σιγουριά στην Παραγωγή",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e02-4mbpsmp4-error745.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-56",
+        "title": "Ένα Μήλο την Ημέρα τον Γιατρό τον Κάνει Πέρα",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e03-4mbpsmp4-error777.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-57",
+        "title": "Kάστανο: Ενας Καρπός που Εξάγεται",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e04-4mbpsmp4-error776.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-58",
+        "title": "Πώς θα Είναι ο Κόσμος Χωρίς τη Μέλισσα",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e05-4mbpsmp4-error086.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-59",
+        "title": "Ακτινίδιο Ένα Θρεπτικό Φρούτο",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e06-4mbpsmp4-error366.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-60",
+        "title": "Ποντιακή Διατροφή",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e07-4mbpsmp4-error658.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-61",
+        "title": "Η Τροφή των Μερακλήδων",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e08-4mbps.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-62",
+        "title": "Τα Καλύτερα της Ελληνικής Γης",
+        "season": 4,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e09-bestoff-4mbpsmp4-error445.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-63",
+        "title": "Κίτρινα Τυριά",
+        "season": 4,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e10-4mbpsmp4-error268.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-64",
+        "title": "Φυλλώδη Λαχανικά. Αγροτικο Προϊόν ή Τροφή;",
+        "season": 4,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e11-4mbpsmp4-error553.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-65",
+        "title": "Πατάτα την Οφείλουμε στον Καποδίστρια",
+        "season": 4,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e12-4mbpsmp4-error421.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-66",
+        "title": "Φρέσκα Μακαρόνια Βαθειάς Κατάψυξης",
+        "season": 4,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e13-4mbpsmp4-error089.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-67",
+        "title": "Χαβιάρι",
+        "season": 4,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e14-4mbpsmp4-error232.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-68",
+        "title": "Μανιτάρια Αλεξανδρούπολης, Μειώνουν την Εισαγωγή από την Πολωνία",
+        "season": 4,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e15-4mbpsmp4-error785.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-70",
+        "title": "Πιπεριά Φλωρίνης",
+        "season": 4,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e17-4mbpsmp4-error848.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-71",
+        "title": "Παραδοσιακός Χαλβάς - Τρόφιμο ή Γλυκό;",
+        "season": 4,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e18-4mbpsmp4-error307.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-72",
+        "title": "Νηστεία - Μια Υγιεινή Διατροφή",
+        "season": 4,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e19-4mbpsmp4-error552.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-73",
+        "title": "Τομάτα. Η Υδροπονική Καλλιέργεια της",
+        "season": 4,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agrowwek-se04/agroweek-s04e20-4mbpsmp4-error704.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-1",
+        "title": "Από την Γη στον Ουρανό",
+        "season": 5,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/agroweek-s05-ep01-apo-th-gh-ston-oyrano-4mbpsmp4-error667.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-2",
+        "title": "Κέρκυρα - Πόλεμος για το Μπλε Καβούρι",
+        "season": 5,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/agroweek-s05-ep02-kavouri-4mbpsmp4-error381.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-3",
+        "title": "Η Φάρμα του Μέλλοντος",
+        "season": 5,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep03-h-farma-tou-mellontos-4mbpsmp4-2022-03-31-10h07m15s068.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-4",
+        "title": "Τύρφη Φυτείας",
+        "season": 5,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep04-tyrfh-fyteias-4mbpsmp4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-5",
+        "title": "Κεφαλονιά, Ένα Απέραντο Τυροκομείο",
+        "season": 5,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/agroweek-s05-ep05-kefalonia-ena-aperanto-tyrokomeio-4mbpsmp4-error599.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-6",
+        "title": "Αγνά Προϊόντα από τα πιο Αγνά Χέρια",
+        "season": 5,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep06-komothnh-agna-4mbpsmp4-2022-05-04-10h02m34s188.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-7",
+        "title": "Στον Δρόμο για την UNESCO, η Παραδοσιακή Αλιεία μας",
+        "season": 5,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/agroweek-s05-ep07-mesologi-paradosiakh-alieia-4mbpsmp4-error174.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-8",
+        "title": "Σχολάζουσες Γαίες",
+        "season": 5,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep08-volos-sxolazoyses-gaies-4mbpsmp4-2022-05-20-13h24m03s302.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-9",
+        "title": "Ένα Νέο Τυρί «Γεννιέται»",
+        "season": 5,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/agroweek-s05-ep09-naxos-ena-neo-tyri-gennietai-4mbpsmp4-error054.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-10",
+        "title": "Η Κιβωτός του… Δήμου",
+        "season": 5,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/agroweek-s05-ep10-kalampaka-4mbpsmp4-error280.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-11",
+        "title": "Η Ιστορία των Λαών Μέσα σε Ένα Καλάθι",
+        "season": 5,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/agroweek-s05-ep11-komothnh-4mbpsmp4-error701.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-12",
+        "title": "Έξυπνη Δακοπαγίδα",
+        "season": 5,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep12-kerkyra-mia-kainotomia-sthn-elia-4mbpsmp4-error431.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-13",
+        "title": "Μαύρη Τίγρης",
+        "season": 5,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep13-hgoymenitsa-tigrhs-4mbpsmp4-error569.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-14",
+        "title": "Αρχαίος Οδηγός Καλλιέργειας",
+        "season": 5,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep14-amorgos-4mbpsmp4-error290.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-15",
+        "title": "Ζει Μόνο Ελεύθερο",
+        "season": 5,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep15-kerkinh-zei-4mbpsmp4-2022-11-03-14h09m12s977.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-16",
+        "title": "Δελφικός Ελαιώνας",
+        "season": 5,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep16-delfoi-delfikos-elaionas-4mbpsmp4-error031.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-17",
+        "title": "Λεωνίδιο - Τσακώνικη Μελιτζάνα",
+        "season": 5,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep17-leonidio-tsakonikh-melitzana-4mbpsmp4-error969.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-18",
+        "title": "Ηγουμενίτσα - Ιχθύο…Καλλιέργεια",
+        "season": 5,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep18-hgoymenitsa-ixthyokalliergeia-4mbpsmp4-error810.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-19",
+        "title": "Άργος - Υιοθεσία Eλιάς",
+        "season": 5,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep19-argos-yiothesia-4mbpsmp4-error983.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-20",
+        "title": "Γιάννενα - Δρόμοι του Tυριού",
+        "season": 5,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep20-giannena-dromoi-tyrioy-4mbpsmp4-error765.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-21",
+        "title": "Ναύπλιο … τα Mήλα των Eσπερίδων",
+        "season": 5,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agroweek-s05-ep21-nafplio-4mbpsmp4-error875.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-22",
+        "title": "Ναύπλιο - Μανταρίνι, Το Φρούτο της Μακροζωίας",
+        "season": 5,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep22-nafplio-mantarini-to-froyto-ths-makrozoias-4mbpsmp4-error647.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-23",
+        "title": "Μωρή Κοντούλα Λεμονιά",
+        "season": 5,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/agroweek/agroweek-s05-ep23-morh-kontoyla-lemonia-4mbpsmp4-error989.jpg"
+      },
+      {
+        "id": "greek_tv:ert:469b1436:agroweek-24",
+        "title": "Best of - Όλα Όσα δεν Είδατε",
+        "season": 5,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/agroweek-s05-ep24-agroweek-best-ola-osa-den-eidate-4mbpsmp4-error445.jpg"
+      }
+    ]
+  }
+}

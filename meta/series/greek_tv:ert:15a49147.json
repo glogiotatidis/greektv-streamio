@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:15a49147",
+    "type": "series",
+    "name": "Βίλατζ Γιουνάιτεντ",
+    "poster": "https://files2.app.ertflix.gr/2025/imgs/village-united-ertflix-img-new.jpg",
+    "background": "https://files2.app.ertflix.gr/2023/ert3/villageunited/village-united-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-1",
+        "title": "Αιγέας Παλλήνης",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/villageunited/bilatz-giounaitent-s01e01-aigeas-pallinis-4mbpsmp4-2023-12-11-10h21m46s252.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-2",
+        "title": "Άρδας Καστανεών",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/villageunited/village-united-s01e02-ardas-kastanies-4mbpsmp4-2023-12-11-10h29m57s674.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-3",
+        "title": "Πυθαγόρας Καλών Δένδρων",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/villageunited/bilatz-giounaitent-s01e03-pythagoras-kalon-dendron-4mbpsmp4-2024-01-02-14h35m00s054.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-4",
+        "title": "Αθλητική Ένωση Πραμάντων",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/villageunited/bilatz-giounaitent-s01e04-athlitiki-enosi-pramanton-trailer-cleanmxf-2024-01-05-15h40m31s065.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-5",
+        "title": "Τροπαιοφόρος Τροπαιούχου",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/villageunited/bilatz-giounaitent-s01e05-tropaioforos-tropaiouchou-trailer-cleanmxf-2024-01-10-14h25m06s185.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-6",
+        "title": "Δόξα Βερμίου Πύργων",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/villageunited/bilatz-giounaitent-s01e06-doxa-vermiou-pyrgon-uncensored-4mbpsmp4-2024-01-19-09h22m23s343.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-7",
+        "title": "Άρης Πηγών",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/villageunited/bilatz-giounaitent-s01e07-aris-pigon-uncensored.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-8",
+        "title": "Θύελλα Ελάτειας",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/villageunited/bilatz-giounaitent-s01e08-thyella-elateias-uncensored-4mbpsmp4-2024-02-08-10h20m46s256.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-9",
+        "title": "Εθνικός Αστέρας Καλλιφύτου",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/villageunited/bilatz-giounaitent-s01e09-ethnikos-asteras-kallifitou-trailer-cleanmxf-2024-02-15-10h19m27s681.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-10",
+        "title": "Αστέρας Βαλύρας",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/asteras-valyras-2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-11",
+        "title": "Δόξα Βώλακα",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/villageunited/bilatz-giounaitent-s01e11-doxa-volaka.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-12",
+        "title": "Αθλητικός Γυμναστικός Σύλλογος Σφακίων",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/vu-sfakia-2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-14",
+        "title": "Άγιαξ Ασπροκκλησιάς Τρικάλων",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ds009640-bilatz-giounaitent-s02e01-ajax-asprokklisias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-15",
+        "title": "Σπήλι Ρεθύμνου",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/new-village-united-s02e02-ao-spiliou-4mbpsmp4-error802.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-16",
+        "title": "Ηφαιστία Κοντοπουλίου",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/village-kontopouli.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-20",
+        "title": "Απόλλωνας Πολύσιτου",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/village-united-s02e04-apollon-polysitou-4mbpsmp4-error642.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-18",
+        "title": "Αετός Καταλωνιών",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/bilatz-giounaitent-s02e05-aetos-katalonion-4mbpsmp4-error059.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-13",
+        "title": "Αχιλλέας Αχιλλείου",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/village-united-achilleas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-19",
+        "title": "Αράκυνθος Ματαράγκας",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-24-09h28m25s975.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-21",
+        "title": "Α.Ο. Ζαϊμίου Καρδίτσας",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-03-06-10h11m39s583.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-23",
+        "title": "Κεραυνός Χιλιόδενδρου, Καστοριά",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-03-14-13h22m29s508.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-22",
+        "title": "Μακεδονικός Γρίβας, Κιλκίς",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-03-20-10h59m53s230.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-24",
+        "title": "Κεραυνός Καλλιράχης Θάσου",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/keravnos-kalliraxhs-photo-04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-25",
+        "title": "Αθλητικός Σύλλογος Τήλου",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/bilatz-giounaitent-s02e13-ao-thlou-uncensored-4mbps.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-26",
+        "title": "Α.Ο. Συκιάς Ημαθίας",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/bilatz-giounaitent-s02e13-ao-sykias-trailer-cleanmxf-2025-05-02-09h38m52s336.jpg"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-27",
+        "title": "Α.Ο. Λεπτοκαρυάς Πέλλας",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-12-09h53m25s314.png"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-28",
+        "title": "Δόξα Γρατινής",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-16-11h52m18s763.png"
+      },
+      {
+        "id": "greek_tv:ert:15a49147:bilatz-giounaitent-29",
+        "title": "Βατόλακκος Γρεβενών",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-24-13h20m04s171.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:2098bbd0",
+    "type": "series",
+    "name": "+Άνθρωποι",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/anthropoi-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/anthropoi-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-2",
+        "title": "Ένα Κοινωνικό Πείραμα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/0101.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi",
+        "title": "Δεύτερη Ευκαιρία",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/vlcsnap-error223.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-3",
+        "title": "Η Μουσική της Ψυχής",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/n-error872.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-4",
+        "title": "Κραυγή Ιχθύος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/synanthropoi-ep04-kravgh-ixthios-4mbpsmp4-error439.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-5",
+        "title": "Η Δημοκρατία της Ενέργειας",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/vlcsnap-2021-10-14-12h51m24s487.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-6",
+        "title": "Μάνα θα Πάω ….. στη Βαμβακού",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/synanthropoi-s01-ep06-mana-tha-paw-sth-vamvakou-4mbpsmp4-error803.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-7",
+        "title": "Υγρός Χρυσός",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/synanthropoi-ep7-ygros-xrysos-4mbpsmp4-error342.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-8",
+        "title": "Μην Πετάξεις Τίποτα",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/synanthropoi-s01-ep08-mhn-petaxeis-tipota-4mbpsmp4-error534.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-9",
+        "title": "Βότανα σε έ-μπυρα Χέρια",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/synanthropoi-s01-ep09-votana-se-empeira-xeria-4mbpsmp4-2021-12-03-18h23m32s102.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-10",
+        "title": "Pop και Π.Ο.Π.",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synan8ropoi-s01-ep10-pop-kai-pop-4mbpsmp4-error997.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-11",
+        "title": "Η Επίμονη Αμπελουργός | Α’ Μέρος",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/synanthropoi-s02-ep01-h-epimonh-ampeloyrgos-meros-a-4mbpsmp4-error531.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-12",
+        "title": "Η Επίμονη Αμπελουργός | B’ Μέρος",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/synanthropoi-s02-ep02-h-epimonh-ampeloyrgos-meros-b-1-4mbpsmp4-error566.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-13",
+        "title": "Πεταμένα Βιβλία, Ξεχασμένοι Άνθρωποι",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/synanthropoi-s02-ep3-petamena-biblia-4mbpsmp4-error291.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-14",
+        "title": "Οι Σπόροι της Ελπίδας",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/synanthropoi-s02-ep4-oi-sporoi-ths-elpidas-4mbpsmp4-error572.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-15",
+        "title": "Η Πρώτη Έξοδος",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/synanthropoi-s02-ep5-h-proth-exodos-4mbpsmp4-error755.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-16",
+        "title": "Όρος ENSEMBLΕ",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/synanthropoi-s02-ep6-oros-enseble-a-4mbpsmp4-error608.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-17",
+        "title": "Όταν Ήρθαν οι Μέλισσες",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/synanthropoi-ep7-otan-hrthan-oi-melisses-4mbpsmp4-error075.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-18",
+        "title": "Η Αμαδρυάδα της Τζιας",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/synanthropoi-s02-ep8-h-amadriada-ths-tzias-roh-4mbpsmp4-error280.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-19",
+        "title": "Τι Tέχνη - Tη Nοημοσύνη;",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/synanthropoi-s02-ep9-texnhth-nohmosynh-4mbpsmp4-2023-03-03-19h21m55s212.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-20",
+        "title": "Θα Βάλω Πλάτη",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/10-trailer-synanthropoi-tha-balo-plath-4mbpsmp4-error179.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-21",
+        "title": "Οι Νομάδες της Φωτιάς",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/synanthropoi-s03-ep01-oi-nomades-ths-fwtias-3mbpsmp4-error758.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-22",
+        "title": "Το Σχοινάκι",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/synanthropoi-s03-ep02-sxoinaki-4mbpsmp4-error661.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-23",
+        "title": "Πράμνιος Οίνος",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/synanthropoi-s03-ep03-oinos-4mbps.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-24",
+        "title": "Ευρωπαίων Πόλις",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/synathropoi-europos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-25",
+        "title": "Το Σύστημα",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/synanthropoi-ep05-systhma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-26",
+        "title": "Μετεωρίζοντας τις Πέτρες",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/synantropoi-s03-ep06-meteorizontas-petres.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-27",
+        "title": "Women-ισες",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/synanthrwpoi-ep07-womenises-4mbpsmp4-error107.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-28",
+        "title": "Αστεράκια",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/synanthropoi-asterakia-master-ert-4mbpsmp4-error731.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-29",
+        "title": "Όταν ο Eric Clapton Γνώρισε τον Γιάννη",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/synanthropoi-ep09-otan-o-eric-clapton-synanthse-ton-gianni-4mbpsmp4-error411.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-30",
+        "title": "Τι θα Πει δεν Μπορώ;",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-13-12h40m43s729.png"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-31",
+        "title": "Από το Ντύσσελντορφ στην Τέλενδο",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-28-10h56m18s047.png"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-32",
+        "title": "Οι Άνθρωποι Κάνουν τη Διαφορά",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-06-05-12h08m30s090.png"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-33",
+        "title": "Επειδή δεν Είναι Όλα Κέρδος",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-06-11-09h05m17s039.png"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-34",
+        "title": "Εδώ, που Ζυμώνεται το Μαζί",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-06-20-09h03m24s180.png"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-35",
+        "title": "Δεν Είναι Παράσταση",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/synanthrwpoi-s04-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-36",
+        "title": "Στη Ροή που Κρύψαμε",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/synanthropoi-s04-ep07-sth-roh-poy-krypsame.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-37",
+        "title": "Στη Ροή του Εφικτού",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/synanthropoi-se04-ep08-sth-roh-toy-efiktoy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-38",
+        "title": "«Μέχρι να Φέξει»",
+        "season": 5,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/synanthtopoi-s05-ep01-mexri-na-feskei-4mbpsmp4-2026-05-19-10h42m30s386.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-40",
+        "title": "Η Άλλη Αποκάλυψη",
+        "season": 5,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/synanthropoi-se5-ep2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-41",
+        "title": "Σκελίδες μιας Aλυσίδας",
+        "season": 5,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/synantropoi-se5-ep3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-42",
+        "title": "Έστω και για Έναν",
+        "season": 5,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds022690-0004-01-synanthropoi-s05-ep04-esto-kai-gia-enanmxf-2026-06-05-15h56m51s539.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-43",
+        "title": "Αυτό που Δίνεις Πίσω",
+        "season": 5,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/synanthropoi-s05-ep05-ayto-poy-dineis-piso-4mbpsmp4-2026-06-12-13h22m02s924.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2098bbd0:anthropoi-44",
+        "title": "Χωρίς Φρένο",
+        "season": 5,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/synanthropoi-ep-6-xoris-freno.jpg"
+      }
+    ]
+  }
+}

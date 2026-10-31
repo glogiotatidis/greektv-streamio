@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:ec7196be",
+    "type": "series",
+    "name": "Οι Έλληνες του Κόσμου",
+    "poster": "https://files2.app.ertflix.gr/files/enimerosi/oi-ellines-tou-kosmou/oi-ellines-tou-kosmou-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/enimerosi/oi-ellines-tou-kosmou/oi-ellines-tou-kosmou-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:ec7196be:oi-ellenes-tou-kosmou",
+        "title": "Αποστολή στη Νέα Υόρκη",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/oi-ellines-tou-kosmou/greeks-of-the-world-ep01-apostoli-sti-nea-yorki-subs.jpg"
+      }
+    ]
+  }
+}

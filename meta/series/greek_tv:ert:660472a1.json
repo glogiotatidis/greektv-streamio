@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:660472a1",
+    "type": "series",
+    "name": "Sing the Spot - Τραγούδια με Θέα",
+    "poster": "https://files2.app.ertflix.gr/files/mousiki/ertflix-poster-sing-the-spot-500x750.jpg",
+    "background": "https://files2.app.ertflix.gr/files/mousiki/sing-the-spot-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:660472a1:sing-the",
+        "title": "Blend Mishkin, Roots Evolution ft. BnC, Sugahspank, Σχοινιάς",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/sing-the-spot-blendmishkin.jpg"
+      },
+      {
+        "id": "greek_tv:ert:660472a1:sing-the-spot-1",
+        "title": "Anser x Eversor, Λεγρενά",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/sing-the-spot-anser.jpg"
+      },
+      {
+        "id": "greek_tv:ert:660472a1:sing-the-spot-2",
+        "title": "Εύα Θεοτοκάτου, Πειραιάς",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/sing-the-spot-theotokatou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:660472a1:sing-the-spot-3",
+        "title": "Monsieur Minimal, Τουρκοβούνια",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/sing-the-spot-monsieurminimal.jpg"
+      },
+      {
+        "id": "greek_tv:ert:660472a1:sing-the-spot-4",
+        "title": "Theodore, Λαύριο",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/sing-the-spot-theodore-revised.jpg"
+      },
+      {
+        "id": "greek_tv:ert:660472a1:sing-the-spot-5",
+        "title": "Whereswilder, Πέραμα",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/sing-the-spot-whereswilder.jpg"
+      },
+      {
+        "id": "greek_tv:ert:660472a1:sing-the-tragoudia-me-thea",
+        "title": "Nalyssa Green, Λίμνη Μαραθώνα",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/sing-the-spot-nalyssa-green.jpg"
+      },
+      {
+        "id": "greek_tv:ert:660472a1:sing-the-spot-tragoudia-me-thea",
+        "title": "Leon of Athens - Οινόφυτα",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/sing-the-spot-leon-of-athens.jpg"
+      },
+      {
+        "id": "greek_tv:ert:660472a1:sing-the-spot-tragoudia-me-thea-1",
+        "title": "Danai Nielsen & Παιδί Τραύμα - Σούνιο",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/sing-the-spot-sts-nielsen-paidi-thauma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:660472a1:sing-the-spot-tragoudia-me-thea-2",
+        "title": "ΤΑΦ ΛΑΘΟΣ full band, Υμηττός",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/sing-the-spot-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:660472a1:sing-the-spot-tragoudia-me-thea-3",
+        "title": "Ρουμπίνη Σταγκουράκη και Κλαούντια Μάτολα - Φιλοθέη",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/sing-the-spot/sing-the-spot-roumpini-stagouraki-claudia-matola.jpg"
+      },
+      {
+        "id": "greek_tv:ert:660472a1:sing-the-spot-tragoudia-me-thea-4",
+        "title": "Lip Forensics & Strawberry Pills, Πολυχώρος Λιπασμάτων",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/sing-the-spot/sing-the-spot-lip-and-strawberry.jpg"
+      }
+    ]
+  }
+}

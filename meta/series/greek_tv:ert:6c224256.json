@@ -1,0 +1,571 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:6c224256",
+    "type": "series",
+    "name": "Μαμά-δες",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/2024-2025/mamades-2024-2025-ertflix-img-new.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/2025/mama-des-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-147",
+        "title": "Καλεσμένοι: Πέννυ Μπαλτατζή, Χρήστος Τατσιόπουλος, Ματίνα Παγώνη",
+        "season": 5,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s09-ep03-mpaltatzi-tatsiopoulos-pagwni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-146",
+        "title": "Κατερίνα Τσάνταλη, Δέσποινα Οικονόμου, Παναγιώτης Μπουγιούρης",
+        "season": 5,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-th-kiklos-ep02-katerina-tsantali-1021x567.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-145",
+        "title": "Καλεσμένοι: Θανάσης Κουρλαμπάς, Ορέστης Τζιόβας",
+        "season": 5,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-th-kiklos-ep01-thanasis-kourlampas-orestis-tziovas-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-144",
+        "title": "Καλεσμένοι: Βίκυ Καγιά, Στέλιος Παρλιάρος",
+        "season": 5,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-h-kiklos-ep16-kagia-parliaros-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-143",
+        "title": "Καλεσμένοι: Μιμή Ντενίση, Μαρία Εκμεκτσίογλου, Παναγιώτης Πετράκης",
+        "season": 5,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/s05/mama-des-h-kiklos-ep15-mimi-ntenisi-1021x567.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-142",
+        "title": "Καλεσμένοι: Ευσταθία Τσαπαρέλη, Νάντια Αϊβάτογλου, Μαρία Παπαφωτίου",
+        "season": 5,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s08-ep14-tsapareli-aivatoglou-papafwtiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-141",
+        "title": "Καλεσμένοι: Τάνια Τρύπη, Νίκος Γιώτας, Κωστής Σαββιδάκης",
+        "season": 5,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s08-ep13-trypi-giwtas-savidakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-140",
+        "title": "Καλεσμένοι: Ντόρα Κουτροκόη, Κωνσταντίνος Λάγκος, Άννα Κανδαράκη, Κώστας Τσουκαλάς",
+        "season": 5,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s08-ep12-koutrokoi-lagkos-kandaraki-tsoukalas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-139",
+        "title": "Καλεσμένοι: Νίκος Πουρσανίδης, Βικτώρια Βελλοπούλου, Ελένη Βαΐτσου",
+        "season": 5,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-h-kiklos-ep11-nikos-poursanidis-biktoria-bellopoulou-eleni-baitsou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-138",
+        "title": "Καλεσμένοι: Μαρκέλλα Γιαννάτου, Λάκης Γαβαλάς",
+        "season": 5,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-h-kiklos-ep10-markella-giannatou-lakis-gavalas-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-137",
+        "title": "Καλεσμένοι: Αλεξάνδρα Νάτση, Ντάνη Γιαννακοπούλου, Ζερόμ Καλούτα",
+        "season": 5,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/s05/mama-des-s05-natsi-giannakopoulou-kaluta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-136",
+        "title": "Αφιέρωμα στην Παγκόσμια Εβδομάδα Θηλασμού. Καλεσμένοι: Βασιλική Τρουφάκου, Κατερίνα Νανοπούλου, Χριστίνα Φλαμπούρη, Δημήτρης Μαμιός",
+        "season": 5,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s08-ep08-troufakou-nanopoulou-flampouri-mamios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-135",
+        "title": "Καλεσμένοι: Χρήστος Πλαΐνης, Σταυρίνα Ψιμοπούλου, Νιόβη Μιχαλοπούλου, Κατερίνα Νανοπούλου, Μάρθα Λαμπίρη Φεντόρουφ",
+        "season": 5,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s08-ep07-plainis-psimopoulou-mihalopoulou-nanopoulou-fentorouf.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-134",
+        "title": "Καλεσμένοι: Βάσω Λασκαράκη, Σοφία Τσιακάλου, Χριστίνα Φλαμπούρη, Δημήτρης Γιαγτζόγλου",
+        "season": 5,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/s05/mama-des-h-kiklos-ep06-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-133",
+        "title": "Καλεσμένοι: Ιωάννα Τσιλίκα, Σάββας Πούμπουρας, 'Αννα, Τέα Πρέλεβιτς",
+        "season": 5,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s08-ep05-tsilika-poumpours-anna-kai-tea-prelevits.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-132",
+        "title": "Καλεσμένοι: Ρένα Κουβελιώτη, Δημήτρης Πλειώνης, Θάνος Μπίρκος",
+        "season": 5,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-h-kiklos-ep04-kouvelioti-pleionis-mpirkos-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-131",
+        "title": "Καλεσμένοι: Αλέξανδρος Παρθένης, Τζώρτζια Κουβαράκη, Εβελίνα Νικόλιζα",
+        "season": 5,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s08-ep02-parthenis-kouvaraki-nikoliza.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-130",
+        "title": "Καλεσμένοι: Σάγια Χάνσεν, Κατερίνα Γεωργακούλα, Ανδρέας Λαγός",
+        "season": 5,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/2024-2025/mama-des-s08-ep02-sagia-xansen-gewrgakoula-lagos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-129",
+        "title": "Καλεσμένοι: Αλεξάνδρα Πασχαλίδου, Ειρήνη Κόκα, Χάρης Ρώμας",
+        "season": 5,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/s05/mamades-s08-ep01-koka-pasxalidou-romas-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-168",
+        "title": "Καλεσμένοι: Γιάννης Τσιμιτσέλης, Σοφία Βογιατζάκη",
+        "season": 6,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-th-kiklos-ep24-vasiliki-andritsou-teleutaio-episodio-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-167",
+        "title": "Καλεσμένοι: Κατερίνα Στικούδη, Δανάη Δεληγιώργη, Δημήτρης Παπαστεργίου, Φάνης Λαμπρόπουλος",
+        "season": 6,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-th-kiklos-ep23-manto-gasteratou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-166",
+        "title": "Καλεσμένοι: Σίσσυ Χρηστίδου, Φρόσω Φωτεινάκη, Χρήστος Χατζηϊωάννου, Ελένη Νέννα Οκεκέ",
+        "season": 6,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-th-kiklos-ep22-xristina-kontova-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-165",
+        "title": "Καλεσμένοι: Κωνσταντίνος Γαβαλάς, Βίβιαν Κοντομάρη, Νάταλι Βέλτση",
+        "season": 6,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-th-kiklos-ep21-faih-xula-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-164",
+        "title": "Καλεσμένες: Βάσω Καβαλιεράτου, Άννα - Μαρία Παπαχαραλάμπους",
+        "season": 6,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/2025/mama-des-s09-ep-20-alexandra-ousta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-163",
+        "title": "Καλεσμένες: Κατερίνα Τσάβαλου, Χριστίνα Μπογιατζή, Ειρήνη Τουμπακάρη",
+        "season": 6,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-th-kiklos-ep19-maria-korinthiou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-162",
+        "title": "Καλεσμένοι: Νίκη Λυμπεράκη, Γιώργος Σιαδήμας, Λίλη Τζίμα",
+        "season": 6,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s09-ep-18-marilena-gerantoni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-161",
+        "title": "Καλεσμένοι: Βίκυ Βολιώτη, Αλέξανδρος Λογοθέτης",
+        "season": 6,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-th-kiklos-ep17-eustathia-tsapareli-1021x576.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-160",
+        "title": "Καλεσμένοι: Άγγελος Μπασινάς, Αναστασία Κωστάκη, Φωτεινή Κωνσταντοπούλου",
+        "season": 6,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s09-ep-16-lila-kountouriwth.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-159",
+        "title": "Εορταστική Εκπομπή",
+        "season": 6,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-th-kiklos-ep15-ina-tarantou-kerkira-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-158",
+        "title": "Καλεσμένοι: Χάρης Τζωρτζάκης, Δανάη Νίλσεν",
+        "season": 6,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s09-ep14-vasiliki-troufakou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-157",
+        "title": "Καλεσμένοι: Φαίη Ξυλά, Μαριαλένα Σπυροπούλου, Αγγελική Τσουκαλά, Χάρης Μαυρουδής, Χρήστος Ταουσάνης",
+        "season": 6,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s09-ep13-myrto-alikaki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-156",
+        "title": "Καλεσμένες: Κατερίνα Σαβράνη, Βιβή Συριοπούλου, Αγγελική Τσουκαλά, Ναταλί Βέλτση, Βίκυ Καρατζόγλου",
+        "season": 6,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/2025/mama-des-ep12-euaggelia-siriopoulou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-155",
+        "title": "Καλεσμένοι: Πέγκυ Τρικαλιώτη, Δέσποινα Οικονόμου, Αννα Μάσχα, Διαγόρας Ζαργάνης",
+        "season": 6,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-th-kiklos-ep11-elisavet-moutafi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-154",
+        "title": "Καλεσμένες: Νίνα Λοτσάρη, Φωτεινή Πατζιά",
+        "season": 6,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s09-ep10-zeta-douka.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-153",
+        "title": "Καλεσμένοι: Μάξιμος Μουμούρης, Αγγελική Τσουκαλά, Ναταλί Βέλτση, Αλεξάνδρα Ταβουλάρη",
+        "season": 6,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-th-kiklos-parousiasi-markella-giannatou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-152",
+        "title": "Καλεσμένοι: Δημήτρης Κοτταρίδης, Βέρα Αθανασίου, Κωνσταντία Δημογλίδου",
+        "season": 6,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-th-kiklos-ep08-nina-ksaimati-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-151",
+        "title": "Καλεσμένοι: Τζένη Μπότση, Ανδρέα Βούλγαρη",
+        "season": 6,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s09-ep07-valeria-kouroupi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-150",
+        "title": "Καλεσμένοι: Πηνελόπη Αναστασοπούλου, Νάρια Αθανασοπούλου, Μυρτώ Φαραζή, 'Ανταμ Κοντοβάς",
+        "season": 6,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/2024-2025/mama-des-th-kiklos-ep06-ntoretta-papadimitriou-pinelopi-anastasopoulou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-149",
+        "title": "Καλεσμένοι: Μαρίνα Ασλάνογλου, Ιωάννης Παπαζήσης",
+        "season": 6,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s09-ep05-matika-aslanoglou-papazisis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-148",
+        "title": "Καλεσμένοι: Γιώργος Κουβαράς, Φώτης Σεργουλόπουλος",
+        "season": 6,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s09-ep04-kouvaras-sergoulopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-210",
+        "title": "Η Ζωή Κρονάκη Συζητάει με την Έλενα Χαραλαμπούδη, τον Κώστα Παπαχλιμίντζο, τον Χάρη Χηνιάδη, τη Στέλλα Κάσδαγλη και τη Δανάη Δεληγεώργη",
+        "season": 7,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/ps051740-0040-mama-des-zoi-kronaki-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-209",
+        "title": "Η Αλεξάνδρα Δουβαρά Συζητάει με την Φανή Χαλκιά, τον Γιώργο Χατζηπαύλου, την Λένα Κομποθανάση και την Αναστασία Φωκιανού",
+        "season": 7,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/ps051740-0039-mama-des-alexandra-douvara.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-208",
+        "title": "Η Βασιλική Ανδρίτσου Συζητάει με την Φαίδρα Δούκα, τον Μιχάλη Μαρκάτη, την Πηγή Αθανασίου και την Άννα Παρδάλη",
+        "season": 7,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/ps051740-0038-mama-des-vasiliki-andritsou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-207",
+        "title": "Η Αιμιλία Τσουλφά Συζητάει με τον Δημοσθένη Ταμπάκο, την Μαρίνα Γιώτη, την Χριστίνα Φλαμπούρη και την Φιλία Δημητριάδη",
+        "season": 7,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/2025-2026/ps051740-0037.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-206",
+        "title": "Η Μάγκυ Ταμπακάκη Συζητά με την Μάρα Δαρμουσλή, την Σταυριανή Ζερβακάκου και την Σόφη Τζαλαλή",
+        "season": 7,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/ps051740-0036-mama-des-magky-tampakaki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-205",
+        "title": "Η Βάσω Κολλιδά Συζητάει με την Νεσχάν Μουλαζίμ, την 'Εφη Σφυρή, τον Διαγόρα Ζαργάνη και τον Βαγγέλη Στουραϊτη",
+        "season": 7,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/ps051740-0035-mama-des-vaso-kolida.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-202",
+        "title": "H Δανάη Μιχαλάκη Συζητάει με τη Γωγώ Καρτσάνα, τον Ζήση Ρούμπο, την Ερατώ Χατζημιχαλάκη και τη Βαρβάρα Σταμούλη",
+        "season": 7,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mamades-ikiklos-ep32-danai-mixalaki-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-204",
+        "title": "Η Νίνα Κασιμάτη Συζητάει με τον Δημήτρη Παπανικολάου, την Ζωή Παπαδοπούλου, την Εύη Δραμαλιώτη, τον Νίκο Βασιλάκο και την Ιωάννα Σκλιάμη",
+        "season": 7,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/ps051740-0034-mama-des-kasimati.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-203",
+        "title": "Η Λένα Παπαληγούρα Συζητάει με την Ευγενία Δημητροπούλου, την Ελένη Καρακούλη, τη Ζαϊρα Παπαληγούρα και τους Γιώργο Κλείδωνα και Γιάννη Μαργώνη",
+        "season": 7,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/ps051740-0033-mama-des-papaligoura.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-201",
+        "title": "Η Ελισάβετ Μουτάφη Συζητάει με τον Κωνσταντίνο Μουταφτσή, τη Νεφέλη Κουρή, τον Διαγόρα Ζαργάνη και την Μαρία Μπαριάμη",
+        "season": 7,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/ps051740-0031-mama-des-moutafi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-200",
+        "title": "Η Μορφούλα Ντώνα Συζητάει με τον Πέτρο Μαυρογιαννίδη, τη Χαρά Μπουντά, τη Φιλία Δημητριάδη και τον Νίκο Βασιλάκο",
+        "season": 7,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/2025-2026/20260404-mama-des-morfoula-ntona.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-199",
+        "title": "Η Βίκυ Καρατζόγλου Συναντά τον Γιούρκα Σεϊταρίδη, τον Στέφανο Δημητριάδη, τη Ρίτα Αντωνοπούλου και τον Κώστα Τσαρτσαρή",
+        "season": 7,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/ps049774-mama-des-karatzoglou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-198",
+        "title": "Η Αθανασία Τσουμελέκα Συναντά τη Σοφία Κωνσταντινίδου, την Εφη Παππά, τη Λιλή Πλέσσα και τον Ζαχαρία Δανιηλάκη",
+        "season": 7,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/2025-2026/ps049773-mama-des-athanasia-tsoumeleka.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-197",
+        "title": "H 'Ελενα Ασημακοπούλου Συναντά τη Χριστίνα Βραχάλη και τον Θανάση Βισκαδουράκη",
+        "season": 7,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/2025-2026/mama-des-s03-ep27-elena-ashmakopoulou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-195",
+        "title": "Η Βίκυ Βολιώτη Συναντά την Ευδοκία Ρουμελιώτη και την Εύα Νάθενα",
+        "season": 7,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/2025-2026/ps049770-mama-des-vicky-volioti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-194",
+        "title": "Η Ευσταθία Τσαπαρέλη Συναντά τη Δανάη Επιθυμιάδη, την Ελενα Ράπτη και τον Γιώργο Τσουρή",
+        "season": 7,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/ps049769-mama-des-efstathia-tsapareli.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-193",
+        "title": "Η Βαλέρια Κουρούπη Συναντά τη Λένα Παπαληγούρα και τον Νικόλα Ράπτη",
+        "season": 7,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/ps049768-mama-des-valeria-kouroupi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-192",
+        "title": "Η Ματίνα Νικολάου Συζητά με τη Βασιλική Ανδρίτσου και τον Δημήτρη Μακαλιά",
+        "season": 7,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/ps049767-mama-des-matina-nikolaou.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-191",
+        "title": "Η Γιολάντα Καλογεροπούλου Συναντά τη Χριστίνα Μπόμπα και τον Μιχάλη Οικονόμου",
+        "season": 7,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/ps049766-mama-des-giolanta-kalogeropoyloy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-190",
+        "title": "Η Μαρκέλλα Γιαννάτου Συναντά τον Θανάση Τσαλταμπάση, την Αγοραστή Αρβανίτη και την Ιωάννα Πιατά",
+        "season": 7,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/ps049765-horizontalposter.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-189",
+        "title": "Η Όλγα Βασδέκη Συζητά με τον Γιάννη Μπουρούση και τη Βίκυ Καρατζόγλου",
+        "season": 7,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/ps049764-mama-des-olga-basdeki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-188",
+        "title": "Η Ναταλία Δραγούμη Συναντά την Αλεξάνδρα Δουβαρά και τον Αγγελο Ανδριόπουλο",
+        "season": 7,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-i-kiklos-ep19-natalia-dragoumi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-187",
+        "title": "Η Φαίη Ξυλά Συζητά με τον Γεράσιμο Γεννατά και τη Βιολέτα Ίκαρη",
+        "season": 7,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-faih-xyla.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-186",
+        "title": "Η Αλεξάνδρα Ούστα Συζητά με τη Μαρία Μπαλούτσου και τον Γιάννη Σαρακατσάνη",
+        "season": 7,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/mama-des-alexandra-ousta-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-185",
+        "title": "Η Δώρα Παντέλη Συναντά τον Κώστα Παπανικολάου και την Αφροδίτη Σκαφίδα",
+        "season": 7,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/mama-des-i-kiklos-ep16-dora-panteli-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-184",
+        "title": "Η Σύλβια Δεληκούρα Συναντά τη Φωτεινή Αθερίδου και τη Μαριλού Κατσαφάδου",
+        "season": 7,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s03-ep15-silvia-delikoura-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-183",
+        "title": "Η Βασιλική Μιλλούση Συναντά τον Λευτέρη Πετρούνια, τον Γιώργο Χατζηευσταθίου και τη Μορφούλα Ντώνα",
+        "season": 7,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s03-ep14-vasiliki-millousi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-182",
+        "title": "Η Έλενα Μαυρίδου Συναντά τη Βίκυ Βολιώτη και τον Πάρι Μεξή",
+        "season": 7,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-i-kiklos-ep13-elena-mauridou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-181",
+        "title": "Η Μάρα Δαρμουσλή Συναντά τη Λήδα Μανιατάκου και τον Χάρη Γιακουμάτο",
+        "season": 7,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/mama-des-s03-ep12-mara-darmousli-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-180",
+        "title": "Η Κλέλια και Άννυ Πανταζή Συναντούν την Ολγα Βασδέκη και τη Στέλλα Ντζάνη",
+        "season": 7,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/ps045215-mama-des-klelia-kai-anny-pantazh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-179",
+        "title": "Η Ευγενία Δημητροπούλου Συναντά τον Ορφέα Αυγουστίδη και την Ευαγγελία Συριοπούλου",
+        "season": 7,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/ps045214-mama-des-evgenia-dimitropoulou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-178",
+        "title": "Η Κατερίνα Στικούδη Συναντά τον Κρατερό Κατσούλη και τη Μελίνα Μακρή",
+        "season": 7,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/ps045213-mama-des-katerina-stikoydh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-177",
+        "title": "Η Ζωή Παπαδοπούλου Συναντά τη Δώρα Παντελή και τον 'Ιαν Στρατή",
+        "season": 7,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/ps045212-mama-des-s10-ep08-zwi-papadopoulou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-176",
+        "title": "Η Γωγώ Καρτσάνα Συναντά τον Σταύρο Σβήγκο και τη Γιολάντα Καλογεροπούλου",
+        "season": 7,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/2025-2026/ps045211-mama-des-s10-ep07-kartsana.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-175",
+        "title": "Η Άννα Κουτσαφτίκη Συναντά την Κωνσταντίνα Λιναρδάτου και τον Πάρι Θωμόπουλο",
+        "season": 7,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/mama-des-i-kiklos-ep06-anna-koutsaftiki-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-174",
+        "title": "Η Πέννυ Μπαλτατζή Συναντά τον Γιώργο Παπαγεωργίου και την Παυλίνα Βουλγαράκη",
+        "season": 7,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/mama-des-s10-ep05-penny-mpaltatzi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-173",
+        "title": "Η Ιωάννα Παππά Συναντά τον Τάσο Ιορδανίδη και την Έλενα Μαυρίδου",
+        "season": 7,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/mama-des-s10-ep04-iwanna-pappa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-172",
+        "title": "Η Χριστίνα Βραχάλη Συναντά τη Νικόλ Κυριακοπούλου και την Αλεξάνδρα Ασημάκη",
+        "season": 7,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/mama-des-s10-ep03-xristina-vrahali.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-171",
+        "title": "Η Χριστίνα Φλαμπούρη Συναντά την Ελισάβετ Σπανού και την Εριέττα Κούρκουλου Λάτση",
+        "season": 7,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mama-des/kyklos-10/mama-des-s10-ep02-xristina-flambouri.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6c224256:mama-des-170",
+        "title": "Η Αρετή Πασχάλη Υποδέχεται τον Μελέτη Ηλία και τη Γιούλικα Σκαφιδά",
+        "season": 7,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mama-des/2025-2026/mama-des-s10-ep01-areth-pasxalh.jpg"
+      }
+    ]
+  }
+}

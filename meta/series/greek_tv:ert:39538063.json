@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:39538063",
+    "type": "series",
+    "name": "Σύνορα",
+    "poster": "https://files2.app.ertflix.gr/2026/shows/synora-26-27/sta-synora-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2026/shows/synora-26-27/sta-synora-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:39538063:sunora-138",
+        "title": "Η Eπικαιρότητα στις Xώρες των Βαλκανίων | 03.10.26",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/synora-s02-ep02-4mbpsmp4-2026-10-07-16h33m28s810.jpg"
+      },
+      {
+        "id": "greek_tv:ert:39538063:sunora-140",
+        "title": "Η Eπικαιρότητα στις Xώρες των Βαλκανίων | 10.10.26",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261010-synona-ep3-4mbpsmp4-2026-10-09-17h16m43s358.jpg"
+      },
+      {
+        "id": "greek_tv:ert:39538063:sunora-139",
+        "title": "Η Eπικαιρότητα στις Xώρες των Βαλκανίων | 17.10.26",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/synora/synora-s02-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:39538063:sunora-141",
+        "title": "Η Eπικαιρότητα στις Xώρες των Βαλκανίων | 24.10.26",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/synora/synora-ekp05-24102026.jpg"
+      },
+      {
+        "id": "greek_tv:ert:39538063:sunora-142",
+        "title": "Η Eπικαιρότητα στις Xώρες των Βαλκανίων | 31.10.26",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/synora/20261031-synora.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:d8d84d3c",
+    "type": "series",
+    "name": "Νησιά στην Άκρη",
+    "poster": "https://files2.app.ertflix.gr/2024/docs/nisia-stin-akri/se2/nisia-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2024/docs/nisia-stin-akri/se2/nisia-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-1",
+        "title": "Τέλενδος",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/nisia-stin-akri/nisia-stin-akri-telendos-s01-ep01-v23b-4mbps.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-2",
+        "title": "Ψέριμος",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/nisia-stin-akri/nisia-stin-akri-pserimos-s01e02-trailer-clean-4mbpsmp4-error732.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-3",
+        "title": "Αρκιοί",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/nisia-stin-akri/nisia-stin-akri-arki-s01-ep03-4mbpsmp4-error095.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-4",
+        "title": "Ψαρά",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/nisia-stin-akri/nisia-stin-akri-psara-s01e04-trailer-4mbpsmp4-error825.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-5",
+        "title": "Σαρία",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/nisia-stin-akri/nisia-stin-akri-saria-s01e05-4mbpsmp4-error226.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-6",
+        "title": "Μαθράκι",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/nisia-stin-akri/nisia-stin-akri-mathraki-s01e06-4mbpsmp4-error507.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-7",
+        "title": "Θύμαινα",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/nisia-stin-akri/nisia-stin-akri-thimena-s01e07-4mbpsmp4-error869.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-8",
+        "title": "Άη - Στράτης",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/nisia-stin-akri/nisia-stin-akri-ai-stratis-s01e08-4mbpsmp4-error003.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-9",
+        "title": "Σχοινούσα",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/nisia-stin-akri-schinousa-s02e01-4mbpsmp4-error942.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-10",
+        "title": "Ηρακλειά",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/docs/islands/nisia-stin-akri-iraklia-s02e02-clean-4mbpsmp4-2024-01-25-11h22m03s331.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-11",
+        "title": "Γυαλί",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/docs/islands/nisia-stin-akri-giali-s02e03-4mbpsmp4-2024-01-31-11h37m33s562.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-12",
+        "title": "Δονούσα",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/docs/islands/nisia-stin-akri-donousa-s02e04-4mbpsmp4-2024-02-07-09h55m48s913.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-13",
+        "title": "Κάτω Κουφονήσι",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/nisia-stin-akri-kato-koufonisi-s02e05-4mbpsmp4-2024-02-27-11h05m09s036.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-14",
+        "title": "Άνω Κουφονήσι",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/nisia-stin-akri-ano-koufonisi-s02e06-4mbps.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-15",
+        "title": "Χάλκη - Α' Μέρος",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/nisia-stin-akri-chalki-a-s02e07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-16",
+        "title": "Χάλκη - Β' Μέρος",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/nisia-stin-akri-chalki-b-s02e08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d8d84d3c:nesia-sten-akre-17",
+        "title": "Αντικύθηρα",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/nisia-stin-akri-antikithira-s02e09.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:b923680d",
+    "type": "series",
+    "name": "Ες Αύριον τα Σπουδαία",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-es-aurion-ta-spoudaia-500x750.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-oraia-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-to-alex-2",
+        "title": "Το Άλεξ",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/10/20201029-es-avrion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-game-boy",
+        "title": "Game boy",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/10/20201015-es-aurion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia",
+        "title": "Νέα Σελίδα",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-o-kolymvitis",
+        "title": "Ο Κολυμβητής",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/06/20200611-es-aurion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-to-doro-tis-dyslexias",
+        "title": "Το Δώρο της Δυσλεξίας",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/06/20200618-es-aurion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-me-tachytita-fotos",
+        "title": "Με Ταχύτητα Φωτός",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/06/20200625-es-aurion-ta-spoudaia.png"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-make-some-noiz",
+        "title": "Make Some Noiz",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200702-es-aurion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-orizontas",
+        "title": "Ορίζοντας",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200709-es-avrion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-toy-voynoy",
+        "title": "...Του Βουνού",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200716-es-avrion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-oh-that-s-insane",
+        "title": "Oh, That's Insane!",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200723-es-avrion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-elafina",
+        "title": "Ελαφίνα",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/08/20200806-es-avrion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-choreyontas-pame-sto-ayrio",
+        "title": "Χορεύοντας Πάμε στο Αύριο...",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/08/20200827-es-avrion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-simeio-stixis",
+        "title": "Σημείο Στίξης",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/09/20200903-es-avrion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-ligo-pano-ap-ton-oyrano",
+        "title": "Λίγο Πάνω απ' τον Ουρανό",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/09/20200910-es-avrion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-episkepsi",
+        "title": "Επίσκεψη",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/09/20200917-es-avrion-ta-spoudaia2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-silhouette",
+        "title": "Silhouette",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/09/20200924-es-avrion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-o-iasonas-kai-i-rompotiki",
+        "title": "Ο Ιάσονας και η Ρομποτική",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/10/20201001-es-avrion-ta-spoudaia-O-IASONAS-KAI-H-ROMPOTIKH.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-i-techni-tis-monadikotitas",
+        "title": "Η Τέχνη της Μοναδικότητας",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/10/20201008-es-avrion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-ayrion-ta-spoydaia-athlites-se-anamoni",
+        "title": "Αθλητές σε αναμονή",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200730-es-avrion-ta-spoudaia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-1",
+        "title": "Μακιγιάζ με την GingerELA",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/vlcsnap-2021-06-10-17h03m09s365.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-3",
+        "title": "Καλλιέργειες με Ένα Κλικ",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia-kalliergeies-me-ena-klik-1021-565x318.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-4",
+        "title": "Αγγίζοντας το Άυλο",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudaia-2022-ep01-aggizontas-to-aylo-1021.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-5",
+        "title": "Ας μιλήσουμε για eSports",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudaia-s02-e02-as-milisoume-gia-esports.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-6",
+        "title": "Ο Ερμής της Μουσικής",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudaia-s02-e03-o-ermis-tis-mousikis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-7",
+        "title": "Ο μικρός Balafola",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudaia-s02-e04-mirkos-bafola.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-8",
+        "title": "iGEM MetaThess, από την Θεσσαλονίκη στον κόσμο",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/eis-aurion-ta-spoudaia-2022-ep05-igem-metathess-apo-tin-thessaloniki-ston-kosmo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-9",
+        "title": "Μικρές Κυρίες, Μεγάλες Φωνές",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/eis-aurion-ta-spoudaia-2022-ep06-mikres-kiries-megales-fone.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-10",
+        "title": "Dominica Rides",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/eis-aurion-ta-spoudea-2022-ep07-dominica-rides.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-11",
+        "title": "Σταύρος Γκίνης: Το όνειρό του, όνειρό μας",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-aurion-ta-spoudea-2022-ep08-stavros-gkinis-to-oniro-tou-to-oniro-mas-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-12",
+        "title": "Ηλεκτρικές Κιθάρες Made in Greece",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudaia-s02-ep09-ilektrikes-kithares.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-13",
+        "title": "Ο Νικόλας της Μαρίας",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/eis-avrion-ta-spoudaia-2022-ep10-o-nikolas-tis-marias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-14",
+        "title": "Τα μικροζυθοποιεία της Αθήνας",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudaia-s02-ep11-mikrozithopeioia-tis-athinas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-15",
+        "title": "Μεγάλα Παιδιά",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudaia-s02-ep12-megala-paidia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-16",
+        "title": "Πολύχρωμα Νερά",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudaia-s03-ep01-polichroma-nera.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-17",
+        "title": "Παιδιά - Ζέβρες",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudaia-s03-ep02-paidia-zevres.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-18",
+        "title": "Desert Monks",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudaia-s03-ep03-desert-monks.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-19",
+        "title": "Καραγκιόζ Μπερντέ",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudaia-s03-ep04-karagioz-mpernte.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-20",
+        "title": "Θάλασσα Ανοιχτή",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudaia-s03-ep05-anoixti-thalassa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-21",
+        "title": "Άλμα στο Ενεργειακό Μέλλον",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudaia-s03-ep06-alma-sto-energeiako-mellon.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-22",
+        "title": "Βυθός",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/o-vythos/es-avrion-ta-spoudea-portreta-tou-avrio-ep07-vythos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-23",
+        "title": "Γιώργος Παππάς: Ελεύθερη Μουσική Κατάδυση",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudea-s03-ep08-pappas-eleftheri-mousiki-katadysi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-24",
+        "title": "Μάνθος Βαλσαμίδης: Ως την Κορυφή του Κόσμου… Για να Σώζει Ζωές",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudea-s03-ep09-manthos-balsamidis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-25",
+        "title": "Pixels & Πηλός",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudea-s03-ep10-pixels-kai-pilos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-26",
+        "title": "Μια Άλλη Νότα",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudea-s03-ep11-mia-alli-nota.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-27",
+        "title": "Η Ιστορία ενός Φλεγόμενου Ροδάκινου",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudea-s03-ep12-h-istoria-enos-flegomenou-rodakinou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-28",
+        "title": "Τη Γλώσσα Αφουγκράζονται",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudea-ti-glossa-afougrazonte.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-29",
+        "title": "Underdog",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudea-s03-ep14-underdog.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b923680d:es-aurion-ta-spoudaia-30",
+        "title": "Επιμελώς Πράττων",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/es-avrion-ta-spoudaia/es-avrion-ta-spoudea-s03-ep15-epimelws-prattwn.jpg"
+      }
+    ]
+  }
+}

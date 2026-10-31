@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:80074e5c",
+    "type": "series",
+    "name": "Εθνικές Εκλογές 1974-2019",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ethnikes-ekloges-1974-2019/ethnikes-ekloges-1974-2019-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/ethnikes-ekloges-1974-2019/ethnikes-ekloges-1974-2019-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:80074e5c:ethnikes-ekloges-1974-2019",
+        "title": "1974 - Κ. Καραμανλής «Ο από Μηχανής Θεός» | 1977 - Ο Κ. Καραμανλής Απέναντι στο Αίτημα της «Αλλαγής»",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ethnikes-ekloges-1974-2019/ethnikes-ekloges-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:80074e5c:ethnikes-ekloges-1974-2",
+        "title": "1981 - Ο Ανδρέας Παπανδρέου και το «Ραντεβού με την Ιστορία» | 1985 - Αναμέτρηση «Πράσινων και Γαλάζιων Καφενείων»",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ethnikes-ekloges-1974-2019/ethnikes-ekloges-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:80074e5c:ethnikes-ekloges-1974-3",
+        "title": "1989 - Εκλογές με Αίτημα την «Κάθαρση» | 1990 - Νέα Δημοκρατία, με Στόχο την Πολυπόθητη Αυτοδυναμία",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ethnikes-ekloges-1974-2019/ethnikes-ekloges-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:80074e5c:ethnikes-ekloges-1974-4",
+        "title": "1993 - Από το «Σκοπιανό» στην Επιστροφή του Α. Παπανδρέου στην Εξουσία",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ethnikes-ekloges-1974-2019/ethnikes-ekloges-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:80074e5c:ethnikes-ekloges-1974-5",
+        "title": "1996 - «Οι Εκλογές του Καναπέ»",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ethnikes-ekloges-1974-2019/ethnikes-ekloges-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:80074e5c:ethnikes-ekloges-1974-6",
+        "title": "2000 - «Το Μεγάλο Ντέρμπι» με το Χρηματιστήριο στα Ύψη",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ethnikes-ekloges-1974-2019/ethnikes-ekloges-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:80074e5c:ethnikes-ekloges-1974-7",
+        "title": "2004 - Ένας Καραμανλής και Ένας Παπανδρέου Ξανά Αντιμέτωποι σε Εκλογές | 2007 - Αναμέτρηση με Φόντο τα Πύρινα Μέτωπα",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ethnikes-ekloges-1974-2019/ethnikes-ekloges-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:80074e5c:ethnikes-ekloges-1974-8",
+        "title": "2009 - «Δύο Δύσκολα Χρόνια» ή «Ένα Καλύτερο Μέλλον»;",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ethnikes-ekloges-1974-2019/ethnikes-ekloges-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:80074e5c:ethnikes-ekloges-1974-9",
+        "title": "2012 Μάιος - Η Σύγκρουση «Μνημόνιο - Αντιμνημόνιο» | 2012 Ιούνιος - Η Γέννηση Ενός Νέου Διπολισμού",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ethnikes-ekloges-1974-2019/ethnikes-ekloges-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:80074e5c:ethnikes-ekloges-1974-10",
+        "title": "2015 Ιανουάριος - Ο ΣΥΡΙΖΑ στον Δρόμο προς την Εξουσία",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ethnikes-ekloges-1974-2019/ethnikes-ekloges-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:80074e5c:ethnikes-ekloges-1974-11",
+        "title": "2015 Σεπτέμβριος - Το «Παλιό» και το «Νέο»",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ethnikes-ekloges-1974-2019/ethnikes-ekloges-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:80074e5c:ethnikes-ekloges-1974-12",
+        "title": "2019 - Η Νέα Δημοκρατία στον Δρόμο για την Επιστροφή στην Εξουσία",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ethnikes-ekloges-1974-2019/ethnikes-ekloges-ep12.jpg"
+      }
+    ]
+  }
+}

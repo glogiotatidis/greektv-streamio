@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:94aa7a3b",
+    "type": "series",
+    "name": "Στον Καθρέφτη της Ιστορίας",
+    "poster": "https://files2.app.ertflix.gr/2026/shows/ston-kathrefti-tis-istorias/3rd-new/ston-kathrefti-tis-storias-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2026/shows/ston-kathrefti-tis-istorias/3rd-new/ston-kathrefti-tis-storias-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:94aa7a3b:ston-kathrephte-tes-istorias-1",
+        "title": "Ξενοφών Ζολώτας",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/zolotas-2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:94aa7a3b:ston-kathrephte-tes-istorias-2",
+        "title": "Διονύσιος Σολωμός",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ston-kathrefth-ths-istorias-s01e02-solomos-antikatastash-new-4mbpsmp4-2026-09-30-11h40m07s984.jpg"
+      },
+      {
+        "id": "greek_tv:ert:94aa7a3b:ston-kathrephte-tes-istorias-3",
+        "title": "Τεχνητή Νοημοσύνη - Μέρος Α΄",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/texnhth-nohmosynh-a-06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:94aa7a3b:ston-kathrephte-tes-istorias-4",
+        "title": "Τεχνητή Νοημοσύνη - Μέρος Β΄",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/texnhth-nohmosynh-b-02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:94aa7a3b:ston-kathrephte-tes-istorias-5",
+        "title": "Γεώργιος Παπανικολάου",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/papanikolaou-3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:94aa7a3b:ston-kathrephte-tes-istorias-7",
+        "title": "Στράτης Μυριβήλης",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/myrivilhs-08.jpg"
+      }
+    ]
+  }
+}

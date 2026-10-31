@@ -1,0 +1,592 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:4b8f93bf",
+    "type": "series",
+    "name": "Η Ζωή Αλλιώς",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-hzoiallios-500x750.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/h-zwh-einai-alliws-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-eyvoia-ekei-sto-noto",
+        "title": "Εύβοια, Εκεί στον Νότο",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/03/vlcsnap-2020-04-08-18h05m58s577.png"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-eyvoia-i-galini-tis-psychis-2",
+        "title": "Εύβοια: Η Γαλήνη της Ψυχής",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/08/20200804-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-oi-limnes-poy-oneireyontai",
+        "title": "Οι Λίμνες που Ονειρεύονται",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/04/20200215-i-zoi-allios.png"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-eyvoia-oyrios-anemos",
+        "title": "Εύβοια, Ούριος Άνεμος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/03/20200222-i-zoi-allios.png"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-kalavrita-metrontas-ta-astra-2",
+        "title": "Καλάβρυτα, Μετρώντας τα Άστρα",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/04/20200412-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-giannena-oneiron-antanaklasi",
+        "title": "Γιάννενα, Ονείρων Αντανάκλαση",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/02/20200229-i-zoi-allios.png"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-ta-petrochtista-tzoymerka-2",
+        "title": "Τα Πετρόχτιστα Τζουμέρκα",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/08/20200810-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-i-konitsa-ton-voynon-kai-ton-potamon",
+        "title": "Η Κόνιτσα των Βουνών και των Ποταμών",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/20200307-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-paros-otan-echei-kalosyni",
+        "title": "Πάρος, Όταν Έχει Καλοσύνη",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/03/20200308-i-zoi-allios.png"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-syros-mia-foyntosi-mia-floga",
+        "title": "Σύρος, μια Φούντωση, μια Φλόγα",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/10/20200829-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-syros-i-archontissa-ton-kykladon",
+        "title": "Σύρος, η Αρχόντισσα των Κυκλάδων",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/03/20200315-i-zoi-allios.png"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-10",
+        "title": "Ναύπακτος και Τριζόνια",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-zoh-allios-trizonia-nafpaktos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-oreini-achaia-oreini-korinthia",
+        "title": "Ορεινή Αχαΐα, Ορεινή Κορινθία",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/04/20200214-i-zoi-allios.png"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-8",
+        "title": "Θέρμο και Τριχωνίδα: η Ομορφιά του Αγνώστου",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/20200530-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-9",
+        "title": "Τριχωνίδα, το Πέλαγος της Αιτωλίας",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/20200525-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-patmos-psilafontas-to-aionio-a-meros",
+        "title": "Πάτμος, Ψηλαφώντας το Αιώνιο (A' μέρος)",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/05/20200808-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-patmos-marathi-kai-arkioi-v-meros",
+        "title": "Πάτμος, Μαράθι και Αρκιοί (Β' μέρος)",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/05/20200509-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-leipsoi-kai-arkioi",
+        "title": "Λειψοί και Αρκιοί: η Ηρεμία των Πραγμάτων",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/05/20200516-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-peiraias-i-techni-mias-allis-kathimerinotitas",
+        "title": "Πειραιάς, η Τέχνη μιας Άλλης Καθημερινότητας",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/06/20200613-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-stin-agkalia-tis-aiginas",
+        "title": "Στην Αγκαλιά της Αίγινας",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/06/20200620-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-paxoi-kai-antipaxoi-se-smaragdi-kai-mple",
+        "title": "Παξοί και Αντίπαξοι σε Σμαραγδί και Μπλε",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/07/20200725-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-kerkyra-i-psychi-tis-moysikis-a-meros",
+        "title": "Κέρκυρα, η Ψυχή της Μουσικής (Α' Μέρος)",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/09/20200919-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-kerkyra-i-archontissa-v-meros",
+        "title": "Κέρκυρα, η Αρχόντισσα (Β' Μέρος)",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/09/20200920-i-zoi-allios-kerkira-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-i-kerkyra-ton-chromaton-kai-tis-energeias-g-meros",
+        "title": "Η Κέρκυρα των Χρωμάτων και της Ενέργειας (Γ' Μέρος)",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/09/20200919-i-zoi-allios-kerkira-c-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-kuthera-to-nesi-tes-armonias-g-meros",
+        "title": "Κύθηρα, το Νησί της Αρμονίας (Γ' Μέρος)",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/i-zoi-allios-s03-ep03-kithira.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-kythira-to-nisi-tis-armonias-v-meros",
+        "title": "Κύθηρα, το Νησί της Αρμονίας (Β' Μέρος)",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/02/vlcsnap-2021-02-25-14h34m24s299.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-kythira-to-nisi-tis-armonias-a-meros",
+        "title": "Κύθηρα, το Νησί της Αρμονίας (Α' Μέρος)",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/02/20210220-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-to-agrio-megaleio-tou-kabo-malea",
+        "title": "Το Άγριο Μεγαλείο του Κάβο Μαλέα",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/i-zoi-allios-s03-ep04-kavo-maleas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-endoxe-ge-rethumno",
+        "title": "Ένδοξη Γη, Ρέθυμνο",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s03-ep05-rethimno.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-rodos-tes-kardias-kai-tou-eliou-a-meros",
+        "title": "Ρόδος της Καρδιάς και του Ήλιου - Α’ Μέρος",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s03-ep07-rodos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-sten-aploteta-to-kallos",
+        "title": "Ρόδος - Στην Απλότητα το Κάλλος",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s03-ep08-rodos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-khania-sunuparxe-antitheseon",
+        "title": "Χανιά, Συνύπαρξη Αντιθέσεων",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s03-ep09-chania.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-telos-mia-anoikhte-agkalia",
+        "title": "Τήλος, μια Ανοιχτή Αγκαλιά",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s03-ep11-tilos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-anogeia-ste-skia-tou-pseloreite",
+        "title": "Ανώγεια, στη Σκιά του Ψηλορείτη",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s03-ep12-anogia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-anogeia-apo-to-parelthon-sto-mellon",
+        "title": "Ανώγεια, από το Παρελθόν στο Μέλλον",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s03-ep13-anogia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-nisuros-aistheseis-apo-ephaisteio",
+        "title": "Νίσυρος, Αισθήσεις από Ηφαίστειο",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s03-ep14-nisyros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios",
+        "title": "Τήνος, μια Γλυκιά Πατρίδα",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s03-ep15-tinos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-lura-lebentia-kai-mneme-to-rethumno-se-mia-zoe-allios",
+        "title": "Λύρα, Λεβεντιά και Μνήμη: Το Ρέθυμνο σε μια Ζωή Αλλιώς",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s03-ep06-rethimno.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-e-athanate-pathia-tou-nikou-ksuloure",
+        "title": "Η Αθάνατη Παθιά του Νίκου Ξυλούρη",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s03-ep10-ksilouris.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-2",
+        "title": "Τήνος, το Χειροποίητο Νησί",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-tinos-300x169.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-3",
+        "title": "Οι Γυναίκες των Πρεσπών",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/20210626-i-zwi-allios-prespes-300x169.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-1",
+        "title": "Νυμφαίο, το Χωριό που Ερωτεύεσαι",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-alliws-nymfaio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-4",
+        "title": "Η Καρδιά των Ελλήνων της Νέας Υόρκης - Γυναικεία Υπόθεση",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/nea-uorke-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-5",
+        "title": "Νέα Υόρκη: ο Υπερόριος Ελληνικός Πολιτισμός",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/nea-uorke-2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-6",
+        "title": "Η καρδιά των Ελλήνων της Νέας Υόρκης: Μικρή Ελλάδα",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/nea-uorke-3-copy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-7",
+        "title": "XAMΠΤΟΝΣ: Μια Οικογένεια, μια Αγκαλιά",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/nea-uorke-4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-11",
+        "title": "Φλώρινα, το Φως του Χειμώνα",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-ep1-florina-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-12",
+        "title": "Λέσβος, η 10η Μούσα",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-zoh-allios-lesvos-10h-mousa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-13",
+        "title": "Λέσβος, το Αρχοντονήσι",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-zoh-allios-lesvos-to-arxontonisi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-14",
+        "title": "Έδεσσα, η Υδάτινη Πολιτεία",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s04-ep08-edessa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-15",
+        "title": "Σχοινούσα: η Ήρεμη Δύναμη",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/h-zoh-allios-shoinousa-iremi-dynami.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-16",
+        "title": "Κουφονήσι: σαν Παιδικό Καλοκαίρι",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s04-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-17",
+        "title": "Η Ζωή Αλλιώς στη Νάξο… Αυτόνομη και Τίμια",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-s04-ep07-naxos-aftonomi-kai-timia-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-18",
+        "title": "Η Ζωή Αλλιώς στη Νάξο… Η Αυθεντική",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s04-naxos-i-authentiki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-19",
+        "title": "Μάνη… Περήφανη και Αδούλωτη",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-mani-perifani-kai-adouloti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-20",
+        "title": "Η Ζωή Αλλιώς στη Βάλια Κάλντα… Η Συνωμοσία των Χριστουγέννων",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-valia-kalda.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-21",
+        "title": "Η Ζωή Αλλιώς στην Κίναρο… στη Χαραυγή του Νέου Χρόνου - Εορταστικό Επεισόδιο",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-s04-ep05-kinaros-eortastiko.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-22",
+        "title": "Μάνη… Πέτρα και Ελιά",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/h-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-23",
+        "title": "Σαντορίνη…από τις Στάχτες στο Φως",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s04-ep07-santorini-apo-tis-staxtes-sto-fws.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-24",
+        "title": "Η Ζωή Αλλιώς στη Σαντορίνη… Ένα Εκρηκτικό Γεγονός",
+        "season": 3,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-s04-ep08-santorini-ena-ekriktiko-gegonos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-26",
+        "title": "Κοζάνη ... σε μία Κατάθεση Ψυχής",
+        "season": 3,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/20220305-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-25",
+        "title": "Η Ζωή Αλλιώς στα Γρεβενά ... των 50 Αποχρώσεων του Πορτοκαλί",
+        "season": 3,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-s04-ep09-grevena.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-27",
+        "title": "Στα Ζαγόρια … σε μια Ακριβά Κερδισμένη Ζωή - Ά Μέρος",
+        "season": 3,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-s04-ep10-sta-zagoria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-28",
+        "title": "Στα Ζαγόρια … Η Αξία της Συνύπαρξης - Β' Μέρος",
+        "season": 3,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-s04-ep11-sta-zagoria-i-axia-tis-synyparksis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-29",
+        "title": "Δράμα… Μια Ζωή Ανάμεσα σε Δύο Πατρίδες",
+        "season": 3,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-2022-drama-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-milos-to-nisi-glypto-a-meros",
+        "title": "Μήλος, το Νησί - Γλυπτό (Α' Μέρος)",
+        "season": 3,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/10/20201003-i-zoi-allios-milos-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-30",
+        "title": "Μήλος, το Νησί - Γλυπτό (Β' Μέρος)",
+        "season": 3,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/20201004-i-zoi-allios-milos-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-31",
+        "title": "Λίμνη Κερκίνη… Εκεί που Καθρεπτίζεται η Μαγεία!",
+        "season": 3,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-s04-sp12-limnh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-32",
+        "title": "Γουμένισσα … η Μακεδονίτικη Χρυσαλίδα",
+        "season": 3,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/20220416-h-zwh-alliws-goymenissa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-33",
+        "title": "Ορεινή Ναυπακτία … οι Δυσκολίες και η Ανταμοιβή",
+        "season": 3,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-2022-orini-naupaktia-i-diskolies-kai-i-antamivi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-34",
+        "title": "Αγραφα… όταν Μιλάει η Καρδιά",
+        "season": 3,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios-2022-agrafa-otan-milaei-i-kardia-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-35",
+        "title": "Χωριά του Καρπενησίου... με Τόλμη και Αποφασιστικότητα",
+        "season": 3,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-s05-ep08-xwria-tou-karpenhsiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-36",
+        "title": "Παύλιανη … το Ζωγραφιστό Χωριό και Άλλες Ιστορίες",
+        "season": 3,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-2022-pauliani-to-zografisto-xorio-kai-alles-istories-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-38",
+        "title": "Ψαρά... το Ένδοξο Νησί",
+        "season": 3,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-s04-psara-to-endoxo-nisi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-39",
+        "title": "Χίος… η Μυροβόλος με Καπετάνιο Χιώτη",
+        "season": 3,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-s05-xios-myrovolos-me-kapetanio-xioti.png"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-40",
+        "title": "Χίος…το Ευλογημένο Νησί",
+        "season": 3,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-s05-xios-to-eulogimeno-nisi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-41",
+        "title": "Αη Στρατής, ένα Νησί μια Ιστορία",
+        "season": 3,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-2022-ai-stratis-ena-nisi-mia-istoria-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-43",
+        "title": "Μεσσηνία... το Παρελθόν Ζωντανεύει στο Παρόν",
+        "season": 3,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/2022/5/20220625-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-44",
+        "title": "Λήμνος… το Νησί της Απέριττης Ομορφιάς",
+        "season": 3,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-2022-limnos-to-nisi-tis-aperittis-omorfias-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-45",
+        "title": "Λήμνος... ο Ορισμός του Ευ Ζην",
+        "season": 3,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-s05-ep16-limnos-2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:e-zoe-allios-46",
+        "title": "Αχέροντας… ο Ποταμός των Ψυχών και της Αναγέννησης",
+        "season": 3,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-zoi-allios/i-zoi-allios-2022-axerontas-o-potamos-ton-psixon-kai-tis-anagennisis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-mesologgi-i-poli-ton-iroon-a-meros",
+        "title": "Μεσολόγγι, η Πόλη των Ηρώων - Α' Μέρος",
+        "season": 3,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/10/20201031-i-zoi-allios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b8f93bf:i-zoi-allios-mesologgi-i-poli-ton-iroon-v-meros",
+        "title": "Μεσολόγγι, η Πόλη των Ηρώων - Β' Μέρος",
+        "season": 3,
+        "episode": 41,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/11/20201101-i-zoi-allios.jpg"
+      }
+    ]
+  }
+}

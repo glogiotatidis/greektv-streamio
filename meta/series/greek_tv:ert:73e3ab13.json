@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:73e3ab13",
+    "type": "series",
+    "name": "Α.Π.Θ. Αποτυπώματα Ενός Αιώνα",
+    "poster": "https://files2.app.ertflix.gr/2025/docs/auth-fingerprints-of-a-century/graphics/apth-apotipomata1aiona-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2025/docs/auth-fingerprints-of-a-century/graphics/apth-apotipomata1aiona-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:73e3ab13:apth-apotupomata-enos-aiona",
+        "title": "Έτσι Άρχισαν Όλα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/docs/auth-fingerprints-of-a-century/auth-ep01-apotypwmata-enos-aiwna.jpg"
+      },
+      {
+        "id": "greek_tv:ert:73e3ab13:apth-apotupomata-enos-aiona-1",
+        "title": "Πατριδογνωσία",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/docs/auth-fingerprints-of-a-century/auth-ep02-patridognosia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:73e3ab13:apth-apotupomata-enos-aiona-2",
+        "title": "Πράττειν Εντέχνως",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/docs/auth-fingerprints-of-a-century/auth-ep03-prattein-entexnws.jpg"
+      },
+      {
+        "id": "greek_tv:ert:73e3ab13:apth-apotupomata-enos-aiona-3",
+        "title": "Μετάβαση",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/docs/auth-fingerprints-of-a-century/auth-ep04-metabash.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:84bd65a2",
+    "type": "series",
+    "name": "Μεσόγειος",
+    "poster": "https://files2.app.ertflix.gr/files/mousiki/mesogeios/mediterranea-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/mousiki/mesogeios/mediterranea-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:84bd65a2:mesogeios-1",
+        "title": "Nότια Ιταλία",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/mesogeios/mesogeios-2011-ep01-notia-italia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:84bd65a2:mesogeios-2",
+        "title": "Βόρεια Ιταλία",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/mesogeios/mesogeios-2011-ep02-voria-italia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:84bd65a2:mesogeios-3",
+        "title": "Κρήτη",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/mesogeios/mesogeios-2011-ep03-kriti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:84bd65a2:mesogeios-4",
+        "title": "Κωνσταντινούπολη",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/mesogeios/mesogeios-2011-ep04-konstantinoupoli.jpg"
+      },
+      {
+        "id": "greek_tv:ert:84bd65a2:mesogeios-5",
+        "title": "Λισαβόνα",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/mesogeios/mesogeios-2011-ep05-lisavona.jpg"
+      },
+      {
+        "id": "greek_tv:ert:84bd65a2:mesogeios-6",
+        "title": "Μασσαλία",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/mesogeios/mesogeios-2011-ep06-massalia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:84bd65a2:mesogeios-7",
+        "title": "Βαρκελώνη",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/mesogeios/mesogeios-2011-ep07-varkeloni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:84bd65a2:mesogeios-8",
+        "title": "Ανδαλουσία",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/mesogeios/mesogeios-2011-ep08-andalousia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:84bd65a2:mesogeios-9",
+        "title": "Κύπρος",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/mesogeios/mesogeios-2011-ep09-kipros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:84bd65a2:mesogeios-10",
+        "title": "Σικελία",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/mesogeios/mesogeios-2011-ep10-sikelia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:84bd65a2:mesogeios-11",
+        "title": "Σαρδηνία",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/mesogeios/mesogeios-2011-ep11-sardinia.jpg"
+      }
+    ]
+  }
+}

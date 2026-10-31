@@ -1,0 +1,473 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:7a9af0f5",
+    "type": "series",
+    "name": "Μονόγραμμα",
+    "poster": "https://files2.app.ertflix.gr/files/synentefxeis/ertflix-poster-monogramma-500x750.jpg",
+    "background": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-nikos-dimoy",
+        "title": "Νίκος Δήμου",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/09/20200921-monogramma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-konstantinos-dekavallas",
+        "title": "Κωνσταντίνος Δεκαβάλλας",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/09/20200928-monogramma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-nasos-vagenas",
+        "title": "Νάσος Βαγενάς",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/10/20201005-monogramma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-karmen-royggeri-ithopoios-syggrafeas-paidikon-paramythion",
+        "title": "Κάρμεν Ρουγγέρη",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/10/20201012-monogramma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-konstantinos-daskalakis",
+        "title": "Κωνσταντίνος Δασκαλάκης",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/10/20201019-monogramma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-alexis-panselinos",
+        "title": "Αλέξης Πανσέληνος",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/10/20201026-monogramma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-giorgos-stathopoylos",
+        "title": "Γιώργος Σταθόπουλος",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/11/20201102-monogramma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-dimitra-galani",
+        "title": "Δήμητρα Γαλάνη",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/11/20201116-monogramma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-giorgos-chronas",
+        "title": "Γιώργος Χρονάς",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/11/20201123-monogramma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-manolis-tzompanakis-glyptis",
+        "title": "Μανώλης Τζομπανάκης",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/11/20201130-monogramma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-tatiana-averof-syggrafeas-a-meros",
+        "title": "Τατιάνα Αβέρωφ, συγγραφέας (Α' μέρος)",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201207-monogramma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-tatiana-averof-syggrafeas-v-meros",
+        "title": "Τατιάνα Αβέρωφ, συγγραφέας (Β' μέρος)",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201214-monogramma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-popi-asteriadi-tragoydistria",
+        "title": "Πόπη Αστεριάδη",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201221-monogramma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-mina-papatheodoroy-valyraki",
+        "title": "Μίνα Παπαθεοδώρου Βαλυράκη",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201228-monogramma-valiraki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-4",
+        "title": "Γρηγόρης Βαλτινός",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma-grigoris-valtinos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-5",
+        "title": "Κώστας Φέρρης",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/20210412-monogramma-ferris.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-6",
+        "title": "Κώστας Γ. Παπαγεωργίου",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma-kostas-papageorgiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-8",
+        "title": "Δήμος Αβδελιώδης",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma-nikos-avdeliotis-300x169.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-9",
+        "title": "Γιώργος Μονεμβασίτης",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma-giorgos-monemvasitis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-10",
+        "title": "Γήσης Παπαγεωργίου",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma-gisis-papageorgiou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-11",
+        "title": "Δημήτρης Ραυτόπουλος",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma-dimitris-raftopoulos-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-12",
+        "title": "Γιοβάννα Φάσσου Καλπαξή",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma-giovanna-fassou-kalpaxi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-13",
+        "title": "Αιμίλιος Καλιακάτσος",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/20210607-monogramma-kaliakatsos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-14",
+        "title": "Βαγγέλης Μουστάκας",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma-vaggelis-moustakas-1021x576-300x169.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-15",
+        "title": "Γιάννης Παπακώστας",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma-papakostas-1021x576-300x169.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-16",
+        "title": "Γιάννης Φέρτης",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/monogramma-fertis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-17",
+        "title": "Μαρία Ευθυμίου (ιστορικός, καθηγήτρια πανεπιστημίου)",
+        "season": 2,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/xena-docs/monogramma-efthimiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-18",
+        "title": "Φώντας Λάδης",
+        "season": 2,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/xena-docs/monogramma-fontas-ladis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-19",
+        "title": "Γιώργος Ψαρρόπουλος , σκιτσογράφος",
+        "season": 2,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma-giorgos-psaropoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-kiki-dimoyla",
+        "title": "Κική Δημουλά",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/02/vlcsnap-2020-05-14-14h24m55s165.png"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-22",
+        "title": "Ντόρα Μπακοπούλου",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/monogramma-mpakopoulou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-23",
+        "title": "Δημήτρης Γέρος (εικαστικός)",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma-yeros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-25",
+        "title": "Γιάννης Γαρεδάκης - Μέρος 1ο",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-garedakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-27",
+        "title": "Γιάννης Γαρεδάκης - Μέρος 2ο",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-garedakis-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-28",
+        "title": "Γιώργος Κουμεντάκης - συνθέτης",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-koumentakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-29",
+        "title": "Έφη Σαπουνά Σακελλαράκη - αρχαιολόγος",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma-2021-2022-ep07-sapouna-sakellaraki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-30",
+        "title": "Ανδρέας Κουλουμπής - Βαρύτονος",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-kouloumbis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-31",
+        "title": "Στέλιος Γιαννακόπουλος",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-giannakopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-32",
+        "title": "Γιάννης Χάρης",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-xaris-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-33",
+        "title": "Αλέξης Κυριτσόπουλος",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-kyritsopoylos-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-34",
+        "title": "Τηλέμαχος Χυτήρης",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-hitiris.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-35",
+        "title": "Gail Holst Warhaft - καθηγήτρια, ποιήτρια, ελληνίστρια",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/monogramma-2021-2022-ep13-gail-holst-warhaft.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-36",
+        "title": "Νίνος Φένεκ Μικελίδης (κριτικός κινηματογράφου - συγγραφέας)",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-2021-2022-ep14-mikelidis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-37",
+        "title": "Κυριάκος Κάσσης (ποιητής, ζωγράφος, συγγραφέας)",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-kassis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-38",
+        "title": "Δημήτρης Παπαδημητρίου - 'Α μέρος",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/monogramma-papadimitriou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-39",
+        "title": "Δημήτρης Παπαδημητρίου - 'Β μέρος",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-papadimitriou-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-giorgos-arvanitis",
+        "title": "Γιώργος Αρβανίτης",
+        "season": 3,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/02/vlcsnap-2020-05-14-14h41m07s377.png"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-sotiris-sorogkas",
+        "title": "Σωτήρης Σόρογκας",
+        "season": 3,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/04/vlcsnap-2020-05-14-13h24m23s678.png"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-40",
+        "title": "Μαρίζα Κωχ",
+        "season": 3,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-mariza-koh-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-42",
+        "title": "Σοφία Ζαραμπούκα (ζωγράφος-συγγραφέας)",
+        "season": 3,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-zarampouka.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-43",
+        "title": "Σωτήρης Χατζάκης (ηθοποιός, σκηνοθέτης)",
+        "season": 3,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-2022-ep02-sotiris-xatzakis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-44",
+        "title": "Στάθης Βαλούκος (συγγραφέας, σεναριογράφος)",
+        "season": 3,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-2022-ep03-stathis-valoukos-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-45",
+        "title": "Μάριο Βίττι (Mario Vitti) - Καθηγητής, Νεοελληνιστής",
+        "season": 3,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-mario-vitti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-24",
+        "title": "Κατερίνα Χέλμη",
+        "season": 3,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma-helmi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-46",
+        "title": "Πέτρος Δραγουμάνος (Μαθηματικός)",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/photo-2022-10-06-15h02m26s282.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-47",
+        "title": "Ρένη Πιττακή",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-2022-ep05-reni-pittaki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-48",
+        "title": "Γιώργος Μανιώτης - Θεατρικός Συγγραφέας",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-manioths.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-49",
+        "title": "Μάνος Περράκης - Αρχιτέκτονας",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-perrakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-50",
+        "title": "Τάσος Γουδέλης (συγγραφέας, κριτικός, κινηματογραφιστής)",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-goudelis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-51",
+        "title": "Έφη Ξένου - Σκιτσογράφος",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-ksenou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-52",
+        "title": "Δημήτρης Καλοκύρης - Συγγραφέας",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-kalokyris.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-53",
+        "title": "Γιώργος Ρόρρης - Ζωγράφος» - Μέρος 1ο",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-rorris-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-54",
+        "title": "Γιώργος Ρόρρης - Ζωγράφος» - Μέρος 2ο",
+        "season": 4,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-rorris-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-55",
+        "title": "Γιώργης Καράτζης - Ποιητής, Μαντιναδολόγος",
+        "season": 4,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-karatzis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-56",
+        "title": "Μάκης Μάτσας (Μέρος 1ο)",
+        "season": 4,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-ep14-makis-matsas-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7a9af0f5:monogramma-57",
+        "title": "Μάκης Μάτσας (Μέρος 2ο)",
+        "season": 4,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/monogramma/monogramma-makis-matsas-meros2.jpg"
+      }
+    ]
+  }
+}

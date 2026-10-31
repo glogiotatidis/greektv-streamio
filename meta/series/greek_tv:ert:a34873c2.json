@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:a34873c2",
+    "type": "series",
+    "name": "Η Εποχή των Εικόνων",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/epoxi-eikonwn-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/epoxi-eikonwn24-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-5",
+        "title": "Κατερίνα Γρέγου",
+        "season": 6,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-02-gregou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-6",
+        "title": "1821, Πριν και Μετά",
+        "season": 6,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-2021-2022-ep03-1821-prin-kai-meta-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-7",
+        "title": "Πύλη - Μέρος 1ο",
+        "season": 6,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-04-pyli.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-8",
+        "title": "Πύλη - Μέρος 2ο",
+        "season": 6,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-04-pyli-part2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-9",
+        "title": "Ο κύριος Ροβινσώνας Κρούσος έμεινε σπίτι. Περιπέτειες σχεδιασμού σε συνθήκες κρίσης",
+        "season": 6,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-o-kos-rovinsonas-emeine-spiti-s06-e02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-10",
+        "title": "Γιώργος Ξένος",
+        "season": 6,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-giorgos-xenos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-11",
+        "title": "UBUNTU-ΕΜΣΤ, Χάρυ Δαυίδ και Lana de Beer Δαυίδ",
+        "season": 6,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-ubuntu-sto-emst.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-12",
+        "title": "Ζήσης Κοτιώνης - Λιθολογία: κάθε πέτρα είναι η γη",
+        "season": 6,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-zisis-kotionis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-13",
+        "title": "Βαγγέλης Γκόκας – omnia caritatis",
+        "season": 6,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-vaggelis-gkogkas-s21-22-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-14",
+        "title": "Χριστόφορος Μαρίνος",
+        "season": 6,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxh-twn-eikonon-xristoforos-marinos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-15",
+        "title": "7η Μπιενάλε της Αθήνας 2021 \"ECLIPSE\"",
+        "season": 6,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-bienale-ths-athinas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-16",
+        "title": "Jeff Koons “Apollo”- Ύδρα, Σφαγεία-ΔΕΣΤΕ-Δάκης Ιωάννου",
+        "season": 7,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-jeff-koons.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-17",
+        "title": "59η Μπιενάλε Βενετίας: The Milk of Dreams - Α’ ΜΕΡΟΣ: Τα Τζιαρντίνι και το Κεντρικό Περίπτερο Cecilia Alemani-Λουκία Αλαβάνου- Francis Alÿs- Zineb Sedira- Sonia Boyce",
+        "season": 7,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-biennale-di-venezia-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-18",
+        "title": "59η Μπιενάλε Βενετίας: The Milk of Dreams Β' μέρος",
+        "season": 7,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-biennale-di-venezia-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-19",
+        "title": "ΕΜΣΤ-Statecraft-Διαμορφώνοντας το Κράτος",
+        "season": 7,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-statecraft.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-20",
+        "title": "Το Δώρο",
+        "season": 7,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-the-gift.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-21",
+        "title": "Μέδουσα Αίθουσα Τέχνης (1979-2017)",
+        "season": 7,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-medusa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-22",
+        "title": "Ο Γιώργος Λαζόγκας στο Εθνικό Αρχαιολογικό Μουσείο Μπία Παπαδοπούλου-Ευθύμης Λαζόγκας-Άννα Καραπαναγιώτου. 'Το Χθες είναι Τώρα'",
+        "season": 7,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-giorgos-lazogkas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-23",
+        "title": "Ρεμπέτικο - Χριστόφορος Μαρίνος, Ρένα Παπασπύρου, Γιάννης Θεοδωρόπουλος, Μαρία Τσάγκαρη, The Callas",
+        "season": 7,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-rebetiko.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-24",
+        "title": "Άννα Μαρία Τσακάλη και Εδουάρδος Σακαγιάν",
+        "season": 7,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-tsakali-sakagian.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-25",
+        "title": "Διονύσης Σοτοβίκης",
+        "season": 7,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-sotovikis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-26",
+        "title": "'Αμαζόνιος' - Δημήτρης Τσουμπλέκας",
+        "season": 7,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-tsoublekas-amazonios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-27",
+        "title": "Κυριάκος Κουτσομάλλης για το νέο Μουσείο Βασίλη και Ελίζας Γουλανδρή στην Αθήνα",
+        "season": 7,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-idrima-goulandri.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-33",
+        "title": "Γυναίκες Μαζί – ΕΜΣΤ",
+        "season": 8,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-gynekes-mazi-emst.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-34",
+        "title": "Νάντια Αργυροπούλου «Έξω φρενών από Ευχαρίστηση»-Κτήριο Νόμπελ",
+        "season": 8,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-epoxi-ton-eikonon-ekso-frenon.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-35",
+        "title": "Καλεσμένοι: Οι Λάκης & Άρης Ιωνάς / The Callas",
+        "season": 8,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/epoxheikonwn-the-callas-e06-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-36",
+        "title": "Ελευσίνα Πολιτιστική Πρωτεύουσα 2023",
+        "season": 8,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/i-epoxi-ton-eikonon-elefsina-politistiki-protevousa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-37",
+        "title": "Μαρία Λοϊζίδου-Παρίσι, Μουσείο Κυνηγιού και Φύσης",
+        "season": 8,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-maria-loizidou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-38",
+        "title": "Marcel Duchamp",
+        "season": 8,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-marcel-duchamp.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-39",
+        "title": "Στέλιος Φαϊτάκης- Ένα Αφιέρωμα",
+        "season": 8,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-stelios-faitakis-afierwma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-40",
+        "title": "Γαβρίλος Μιχάλης - Ένας Τεχνίτης Πίσω από την Τέχνη",
+        "season": 8,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/i-epoxi-ton-eikonon-ep12-gavrilos-mixalis-new-4mbpsmp4-error195.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-29",
+        "title": "Λήδα Παπακωνσταντίνου στο ΕΜΣΤ \"Χρόνος στα Χέρια μου\"",
+        "season": 8,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/epoxi-eikonwn-lhda-papakwnstantinou-zaxaropoulou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-30",
+        "title": "Αλέξης Κυριτσόπουλος – Πινακοθήκη Δήμου Αθηναίων «Παράλληλα»",
+        "season": 8,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/i-epoxi-ton-eikonon-alexis-kiritsopoulos-parallila.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-31",
+        "title": "Αστυγραφία / Εθνική Πινακοθήκη",
+        "season": 8,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/epoxh-eikonwn-astygrafia-zaxaropoulu-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-32",
+        "title": "Γιώργος Χατζημιχάλης- Έργα από το 1966 έως το 2022 στο Μουσείο Μπενάκη",
+        "season": 8,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxi-eikonon/h-epoxh-eikonwn-xatzhmixalhs-s08-e06-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-41",
+        "title": "Δημοκρατία - Εθνική Πινακοθήκη",
+        "season": 9,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/epoxi-eikonon-9-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-42",
+        "title": "Penny Siopis - ΕΜΣΤ",
+        "season": 9,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/p-siopis-emst.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-43",
+        "title": "MOMus",
+        "season": 9,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ee-s9e3-momus.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-44",
+        "title": "Space of Togetherness | Σχολείον της Αθήνας - Ειρήνη Παπά",
+        "season": 9,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/eikones-s09e04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-45",
+        "title": "Jan Fabre - «I Am Blood»",
+        "season": 9,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/eikones-fabre.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-47",
+        "title": "Θεόδωρος Τερζόπουλος",
+        "season": 9,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/eikones-terzopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-46",
+        "title": "60η Μπιενάλε Βενετίας - Α' Μέρος",
+        "season": 9,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/epoxi-eikonon-bienale-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a34873c2:e-epokhe-ton-eikonon-48",
+        "title": "60η Μπιενάλε Βενετίας - B' Μέρος",
+        "season": 9,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/eikones-bienale-b.jpg"
+      }
+    ]
+  }
+}

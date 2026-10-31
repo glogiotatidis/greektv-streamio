@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:57890c5e",
+    "type": "series",
+    "name": "Οι Κυρίες του Ρεμπέτικου",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/oi-kyries-tou-rembetikou/oi-kyries-tou-rembetikou-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/oi-kyries-tou-rembetikou/oi-kyries-tou-rembetikou-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:57890c5e:oi-kuries-tou-rempetikou-9",
+        "title": "Ιωάννα Γεωργακοπούλου",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oi-kyries-tou-rembetikou/ps048131-oi-kyries-tou-rempetikou-s01-ep08-ioanna-georgakopoulou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:57890c5e:oi-kuries-tou-rempetikou-8",
+        "title": "Ρίτα Αμπατζή",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oi-kyries-tou-rembetikou/ps048130-oi-kyries-tou-rempetikou-s01-ep07-rita-ampatzi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:57890c5e:oi-kuries-tou-rempetikou-7",
+        "title": "Αγγέλα Παπάζογλου",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oi-kyries-tou-rembetikou/ps048129-oi-kyries-tou-rempetikou-aggela-papazoglou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:57890c5e:oi-kuries-tou-rempetikou-6",
+        "title": "Μαρίκα Νίνου",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oi-kyries-tou-rembetikou/ps048128-oi-kyries-tou-rempetikou-marika-ninou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:57890c5e:oi-kuries-tou-rempetikou-5",
+        "title": "Στέλλα Χασκίλ",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oi-kyries-tou-rembetikou/ps048127-oi-kyries-toy-rempetikoy-stella-xaskil.jpg"
+      },
+      {
+        "id": "greek_tv:ert:57890c5e:oi-kuries-tou-rempetikou-4",
+        "title": "Σεβάς Χανούμ",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oi-kyries-tou-rembetikou/ps048126-oi-kyries-tou-rempetikou-sevas-xanoum.jpg"
+      },
+      {
+        "id": "greek_tv:ert:57890c5e:oi-kuries-tou-rempetikou-3",
+        "title": "Σωτηρία Μπέλλου",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oi-kyries-tou-rembetikou/ps048125-oi-kyries-toy-rempetikoy-sotiria-bellou.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:57890c5e:oi-kuries-tou-rempetikou-2",
+        "title": "Ρόζα Εσκενάζυ",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oi-kyries-tou-rembetikou/ps048124-oi-kyries-toy-rempetikoy-roza-eskenazy.jpg"
+      }
+    ]
+  }
+}

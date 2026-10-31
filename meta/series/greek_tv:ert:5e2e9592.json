@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:5e2e9592",
+    "type": "series",
+    "name": "Δίγαμμα",
+    "poster": "https://files2.app.ertflix.gr/2025/series/digamma/digamma-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2025/series/digamma/digamma-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-2",
+        "title": "Γιώργος Σκαμπαρδώνης",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-10h44m41s303.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-3",
+        "title": "Τίτος Πατρίκιος",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-10h46m09s671.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-10",
+        "title": "Ισίδωρος Ζουργός",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-12h02m20s758.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-4",
+        "title": "Γιάννης Αντιόχου",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-10h46m25s206.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-11",
+        "title": "Θανάσης Τριαρίδης",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-12h03m12s345.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-5",
+        "title": "Δημοσθένης Παπαμάρκος",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-10h46m43s307.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-12",
+        "title": "Αύγουστος Κορτώ",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-12h03m29s705.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-13",
+        "title": "Δημιουργική Γραφή",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-12h08m16s222.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-16",
+        "title": "Μαρία Παπαγιάννη",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-12h33m52s482.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-6",
+        "title": "Οδυσσέας Ιωάννου",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-10h46m57s146.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma",
+        "title": "Θανάσης Βαλτινός",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/series/digamma/ert3-2025-02-20-14h05m18s086.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-17",
+        "title": "Θωμάς Κοροβίνης",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-13h10m20s775.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-7",
+        "title": "Δημοσθένης Κούρτοβικ",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-10h48m50s017.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-14",
+        "title": "Αχιλλέας Κυριακίδης",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-12h08m59s893.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-8",
+        "title": "Ηλίας Παπαμόσχος",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-10h49m06s370.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-9",
+        "title": "Μάνος Κοντολέων",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-10h49m40s180.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-15",
+        "title": "Έρση Σωτηροπούλου",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-12h09m49s944.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5e2e9592:digamma-18",
+        "title": "Παναγιώτης Χατζημωυσιάδης",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-21-13h08m18s838.jpg"
+      }
+    ]
+  }
+}

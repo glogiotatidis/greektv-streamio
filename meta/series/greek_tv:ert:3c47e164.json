@@ -1,0 +1,487 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:3c47e164",
+    "type": "series",
+    "name": "Στα Άκρα",
+    "poster": "https://files2.app.ertflix.gr/files/synentefxeis/ertflix-banner-sta-akra-flessa-640x360.jpg",
+    "background": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-kyriakos-pierrakakis-theofanis-tasis",
+        "title": "Κυριάκος Πιερρακάκης, Θεοφάνης Τάσης",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/11/20201104-sta-akra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-ta-panepistimia-christos-kittas-stayros-koympias-meros-1o",
+        "title": "Τα Πανεπιστήμια: Χρήστος Κίττας, Σταύρος Κουμπιάς | Μέρος 1ο",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/11/20201111-sta-akra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-antisminarchos-athanasios-mastoridis-episminagos-kai-istorikos-alexios-karytinos",
+        "title": "Αθανάσιος Μαστορίδης, Αλέξιος Καρυτινός",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/11/20201125-sta-akra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-vasilis-kontogiannopoylos",
+        "title": "Βασίλης Κοντογιαννόπουλος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20201202-sta-akra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-thanasis-papathanasioy-giorgos-kordis",
+        "title": "Θανάσης Παπαθανασίου, Γιώργος Κόρδης",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2020/12/20191230-sta-akra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-23",
+        "title": "Χαρά Σπηλιοπούλου, Σοφία Καλανταρίδου",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-xara-spiliopoulou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-ta-panepistimia-christos-kittas-stayros-koympias-meros-2o",
+        "title": "Τα Πανεπιστήμια: Χρήστος Κίττας, Σταύρος Κουμπιάς | Μέρος 2ο",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/01/20210120-sta-akra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-iakovos-martidis-psychiatros",
+        "title": "Ιάκωβος Μαρτίδης, Ψυχίατρος",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/01/20210127-sta-akra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-oi-iatroi-tin-epochi-tis-pandimias-covid-19",
+        "title": "Οι ιατροί την εποχή της πανδημίας COVID 19",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/02/sta_akra_Iatroi_Covid19_1021x576-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-i-akadimia-athinon-i-klimatiki-allagi",
+        "title": "Η Ακαδημία Αθηνών - Η κλιματική αλλαγή (Α' Μέρος)",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/02/20210217-sta-akra-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-i-akadimia-athinon-i-klimatiki-allagi-b-meros",
+        "title": "Η Ακαδημία Αθηνών, Η κλιματική αλλαγή (B' Μέρος)",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/02/20210224-sta-akra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-2",
+        "title": "Ιωάννα Τσιβάκου, καθηγήτρια στο Πάντειο Πανεπιστήμιο",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-ioanna-tsibakou-200-xronia-ethniki-paliggenesia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-5",
+        "title": "Μαρία Ευθυμίου , Θάνος Βερέμης, καθηγητές Ιστορίας",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-euthimiou-veremis-300x169.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-6",
+        "title": "Αικατερίνη Πολυμέρου Καμηλάκη, Δημήτριος Καραμπερόπουλος, Αγαμέμνων Τσελίκας",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-ethniki-paliggenesia-tselikas-karamperopoulos-300x169.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-7",
+        "title": "Ανδρέας Μανωλικάκης",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-andreas-manolikakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-8",
+        "title": "Χρυσόστομος Σταμούλης",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-xrisostomos-stamoulis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-9",
+        "title": "Λουκάς Χριστοφόρου Πρόεδρος της Ακαδημίας Αθηνών",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/20210421-sta-akra-xristoforou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-10",
+        "title": "Δέσποινα Χατζηβασιλείου - Τσοβίλη",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/20210505-sta-akra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-11",
+        "title": "Κυριάκος Βλασσόπουλος ψυχοθεραπευτής",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-12",
+        "title": "Γιάννης Μαστρογεωργίου, Χαράλαμπος Τσέκερης",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/staakra4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-15",
+        "title": "Δημήτριος Γιατρομανωλάκης",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-giatromanolakis-1021x576-300x169.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-16",
+        "title": "Θεοφάνης Τάσης",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/20210615-sta-akra-tasis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-17",
+        "title": "Παναγιώτης Ροϊλός",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/20210623-sta-akra-roilos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-18",
+        "title": "Τρύφων Ζαχαριάδης - Ψυχοθεραπευτής",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/2021063-sta-akra-zaxariadis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-19",
+        "title": "Δημήτρης Κουρέτας Καθηγητής στο Τμήμα Βιοχημείας του Πανεπιστημίου Θεσσαλίας",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/20210707-sta-akra-kouretas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-20",
+        "title": "Μελέτιος Ζαχαρόπουλος Αρχιμανδρίτης - ψυχοθεραπευτής",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-zaxaropoylos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-21",
+        "title": "Αφιέρωμα στην Προεδρική Φρουρά 'Α Μέρος",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/20210106-sta-akra-1024x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-22",
+        "title": "Αφιέρωμα στην Προεδρική Φρουρά 'Β Μέρος",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-eyzones-bmeros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-24",
+        "title": "Άρης Σερβετάλης-Σωτήρης Γουνελάς",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-servetalhs-s20-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-25",
+        "title": "Άρης Σερβετάλης-Σωτήρης Γουνελάς-Μέρος 2ο",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-servetalhs-s20-ep2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-26",
+        "title": "Γιώργος Γουδέβενος, οστεοπαθητικός-φυσικοθεραπευτής",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-goudevenos-s20-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-27",
+        "title": "Αντώνιος Ρεγκάκος, Θεόδωρος Παπαγγελής - Μέρος 1ο",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-akadhmaikoi-s20-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-29",
+        "title": "Αντώνιος Ρεγκάκος, Θεόδωρος Παπαγγελής - Μέρος 2ο",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-akadhmaikoi-part2-s20-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-30",
+        "title": "Ιωάννα Τσιβάκου, καθηγήτρια Θεωρίας Οργάνωσης και Διοίκησης στο Πάντειο Πανεπιστήμιο",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-tsivakou-s20-ep06-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-31",
+        "title": "Αθηνά Κακούρη - συγγραφέας",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-kakouri-s20-ep07-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-32",
+        "title": "Γιώργος Καραμπελιάς - συγγραφέας",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-karabelias-s20-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-33",
+        "title": "Βικτωρία Καρέλια - Νίκος Φλώρος",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-s20-ep09-nikos-floros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-34",
+        "title": "Ευγένιος Τριβιζάς",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-s20-ep10-trivizas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-35",
+        "title": "Οδοιπορικό στην ακριτική Ελλάδα με τον Αρχηγό ΓΕΕΘΑ, Στρατηγό Κωνσταντίνο Φλώρο - Mέρος Α΄",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-konstantinos-floros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-36",
+        "title": "Οδοιπορικό στην ακριτική Ελλάδα με τον Αρχηγό ΓΕΕΘΑ, Στρατηγό Κωνσταντίνο Φλώρο - Mέρος Β΄",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/vlcsnap-2022-02-04-16h26m41s267.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-38",
+        "title": "Αρχιμανδρίτης Μελέτιος Ζαχαρόπουλος",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-arximadritis-meletios-zaxaropoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-37",
+        "title": "Πατήρ Χαράλαμπος Παπαδόπουλος (Λίβυος)",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-livios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-39",
+        "title": "Μελέτης Μελετόπουλος, Κώστας Σταματόπουλος",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-kwstas-stamatopoylos-meleths-meletopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-40",
+        "title": "Αντώνης Φωστιέρης",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-fostieris-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-41",
+        "title": "Θεόδωρος Κουρεντζής",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-kourentzis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-42",
+        "title": "Θεόδωρος Κουρεντζής - Β' μέρος",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-kourentzia-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-43",
+        "title": "Λίνος-Αλέξανδρος Σισιλιάνος",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-sisilianos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-44",
+        "title": "Νίκος Σιδέρης - ψυχίατρος (Μέρος 1ο)",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-sideris.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-45",
+        "title": "Νίκος Σιδέρης - ψυχίατρος (Μέρος 2ο)",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-sideris-part2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-46",
+        "title": "Γιώργος Κοντογιώργης",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-kontogiwrgis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-47",
+        "title": "Αφιέρωμα στην Κική Δημουλά, με καλεσμένη την κόρη της, Έλση Δημουλά",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-dimoula.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-48",
+        "title": "Κωνσταντίνος Στρατάκης, Γενετιστής και Ενδοκρινολόγος & Σοφία Καλανταρίδου, καθ. Μαιευτικής-Γυναικολογίας",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra-stratakhs-kalantaridoy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-49",
+        "title": "Πατήρ Φιλόθεος Φάρος",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-filitheos-faros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-50",
+        "title": "Θανάσης Χρήστου, καθηγητής Νεότερης και Σύγχρονης Ιστορίας Παν/μιου Πελοποννήσου - Αφιέρωμα στην Ίδρυση της Αστυνομίας",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-xrhstoy-afieroma-sthn-idrish-ths-astynomias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-51",
+        "title": "Θανάσης Χρήστου, καθηγητής Νεότερης και Σύγχρονης Ιστορίας Παν/μιου Πελοποννήσου - Αφιέρωμα στο Πανεπιστήμιο της Σμύρνης και στον Κωνσταντίνο Καραθεοδωρή",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-xrhstou-panepistimio-smyrnhs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-52",
+        "title": "Στέφανος Μίλερ - Αρχαιολόγος - Μέρος 1ο",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-miller-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-53",
+        "title": "Στέφανος Μίλερ - Αρχαιολόγος - Μέρος 2ο",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-miller-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-54",
+        "title": "Στέφανος Μίλερ - Αρχαιολόγος - Μέρος 3ο",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-miller-g-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-56",
+        "title": "Τρύφων Ζαχαριάδης - Ψυχοαναλυτικός Θεραπευτής, συγγραφέας",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-trifon-zahariadis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-55",
+        "title": "Άγγελος Συρίγος & Γιώργος Καραμπελιάς",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/20221118-sta-akra-syrigos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-57",
+        "title": "Μιχάλης Χαλιάσος",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/20221125-sta-akra-haliasos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-58",
+        "title": "Μίμης Ανδρουλάκης",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/20221202-sta-akra-androulakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-59",
+        "title": "Βασίλης Καραποστόλης",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/20221209-sta-akra-karapostolis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-60",
+        "title": "Αντώνης Φωστιέρης - Μέρος 2ο",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-fostieris-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-61",
+        "title": "Πέλη Γαλίτη-Κυρβασίλη",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-galiti-kyrvasili-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-62",
+        "title": "Γιάννης Πανούσης - Δημήτριος Δημηνάς",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-panousis-dimitris-diminas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-63",
+        "title": "Μιχαήλ Κοσμόπουλος, καθηγητής αρχαιολογίας",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-panousis-kosmopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3c47e164:sta-akra-64",
+        "title": "Θεόδωρος Κουρεντζής - Μέρος γ'",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/sta-akra/sta-akra-kourentzis.jpg"
+      }
+    ]
+  }
+}

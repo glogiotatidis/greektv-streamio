@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:42e7fd59",
+    "type": "series",
+    "name": "Η Γενιά των 17",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/h-genia-twn-17/genia17-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/h-genia-twn-17/genia17-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-7",
+        "title": "Στόχος 1 - Μηδενική Φτώχεια",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/geniatwn17-s01-e06-stoxos1-4mbpsmp4-error676.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-18",
+        "title": "Στόχος 2 - Μηδενική Πείνα",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-genia-twn-17/geniatwn17-s01-e17-stoxos2-4mbpsmp4-error644.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-4",
+        "title": "Στόχος 3 - Καλή Υγεία και Ευημερία",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-genia-twn-17/geniatwn17-s01-e03-stoxos3-4mbpsmp4-error064.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-16",
+        "title": "Στόχος 4 - Ποιοτική Εκπαίδευση",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-genia-twn-17/geniatwn17-s01-ep16-stoxos4-4mbpsmp4-2022-02-11-13h41m57s981.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-15",
+        "title": "Στόχος 5 - Ισότητα των Φύλων",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-genia-twn-17/geniatwn17-s01-stoxos5-4mbpsmp4-2022-02-10-11h07m54s124.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-10",
+        "title": "Στόχος 6 - Kαθαρό Nερό και Aποχέτευση",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-genia-twn-17/geniatwn17-s01-e10-stoxos6-4mbpsmp4-2022-01-11-10h14m16s022.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-12",
+        "title": "Στόχος 7 - Φτηνή και Kαθαρή Eνέργεια",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/geniatwn17-s01-e12-stoxos07-4mbpsmp4-error252.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-14",
+        "title": "Στόχος 8 - Αξιοπρεπής εργασία και οικονομική ανάπτυξη",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/geniatwn17-s01-ep14-stoxos8-4mbpsmp4-error528.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-11",
+        "title": "Στόχος 9 - Βιομηχανία, Kαινοτομία, Yποδομές",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-genia-twn-17/geniatwn17-s01-e11-stoxos9-4mbpsmp4-2022-01-17-10h44m09s988.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-1",
+        "title": "Στόχος 10 - Λιγότερες Ανισότητες",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-genia-twn-17/genia0101.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-6",
+        "title": "Στόχος 11 - Βιώσιμες Πόλεις και Κοινότητες",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-genia-twn-17/geniatwn17-s01-e05-stoxos11-4mbpsmp4-2021-12-06-20h11m46s204.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-8",
+        "title": "Στόχος 12 - Υπεύθυνη Κατανάλωση και Παραγωγή",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-genia-twn-17/geniatwn17-s01-e08-stoxos12-4mbpsmp4-error318.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-2",
+        "title": "Στόχος 13 - Δράση για την Κλιματική Αλλαγή",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-genia-twn-17/geniatwn17-s01-e01-stoxos13-4mbpsmp4-error899.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-3",
+        "title": "Στόχος 14 - Ζωή στο Νερό",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/geniatwn17-s01-e02-stoxos14-new-4mbpsmp4-error883.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-5",
+        "title": "Στόχος 15 - Ζωή στη Στεριά",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-genia-twn-17/geniatwn17-s01-e04-stoxos15-4mbpsmp4-error866.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-9",
+        "title": "Στόχος 16 - Ειρήνη, Δικαιοσύνη και Ισχυροί Θεσμοί",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-genia-twn-17/geniatwn17-s01-e09-stoxos16-4mbpsmp4-error714.jpg"
+      },
+      {
+        "id": "greek_tv:ert:42e7fd59:e-genia-ton-13",
+        "title": "Στόχος 17 - Συνεργασία για τους Στόχους",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/geniatwn17-s01-e13-stoxos17-4mbpsmp4-error018.jpg"
+      }
+    ]
+  }
+}

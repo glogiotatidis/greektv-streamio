@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:61bf0457",
+    "type": "series",
+    "name": "Με τις Μπάντες",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-ertflix-imgb.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-hbbtv-bg-newb.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-37",
+        "title": "Moses Remax - White Rabbit Bar",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/20231012-me-tis-mpantes-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-36",
+        "title": "Μουσικοί Ταξιδιώτες - Cheki Morena the Canoe",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-mousikoi-taksidiwtes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-35",
+        "title": "Nyctophilia - When the Night Falls",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-nyctophilia-when-the-night-falls.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-34",
+        "title": "Jazz Collective - Moanin'",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-jazz-collective-moanin.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-33",
+        "title": "Wannabe Jazz Band - California Dreaming",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-wannabe-jazz-band-california-dreaming.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-32",
+        "title": "Panic Alarm - Panic Alarm",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-panic-alarm.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-31",
+        "title": "Demonica - Δίκοπη Ζωή",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-demonica-dikopi-zoi-3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-30",
+        "title": "The Pags - Μαζί",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-the-pags-mazi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-29",
+        "title": "Supervoid - Joan Crawford",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-joan-crawford.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-28",
+        "title": "Black Velvet - No One",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-black-velvet-no-one.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-27",
+        "title": "Singularity-Black Magic Woman",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-singularity-black-magic-woman.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-25",
+        "title": "Ταξιδευτές της Παράδοσης - Μικρασιατική Σουίτα",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-taxideftes-tis-paradosis-mikrasiatiki-souita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-26",
+        "title": "North Stars - Change The World",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-north-stars-change-the-world.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-24",
+        "title": "Τράνταγμα - Κοντούλα Λεμονιά - Feeling Good",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-trandagma-kontoula-lemonia-feeling-good.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-23",
+        "title": "Κατά Τύχη - Τραγουδάμε Δίχως Φόβο",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-ep22.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-22",
+        "title": "Aurum - Aces High",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-aurum-aces-high.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-21",
+        "title": "Dark Rose Sweet Child",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-ep20.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-20",
+        "title": "Πεντοζαλισμένοι - Του Λασιθιού η Στράτα",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-pentozalismenoi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-19",
+        "title": "Hλεκtrons – Εθελοντής",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/ru11d31.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-18",
+        "title": "Ενχόρδιος Δεσμός- Θεσσαλομακεδονικού Συρτού",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-enxordios-desmos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-17",
+        "title": "Spoilers Crew- Esmeralda",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-spoilers-crew-esmeralda.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-16",
+        "title": "Ηπειρώτικος Λυρισμός - Ηπειρώτικη Σουίτα",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-hpeirwtikos-lyrismos-hpeirwtikh-soyita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-15",
+        "title": "Συνάφεια - Στο Γκρί",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-synafeia-gri.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-14",
+        "title": "Πόντος εν άστρον φωτεινόν - Σουίτα",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-en-astron-foteinon.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-12",
+        "title": "Alter Ego - Μαζί",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-alter-ego-mazi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-13",
+        "title": "Painkillers - My Guita",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-painkillers-my-guita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-11",
+        "title": "The Non Group - Στης Πικροδάφνης τον Ανθό",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-pikrodafni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-10",
+        "title": "M.E - Καταλάθος Λάθος",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-katalathos-lathos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-9",
+        "title": "Dead or Dead - Marquis",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-marquis-dead-or-dead.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-2",
+        "title": "Green Sound - Which Side Are You On",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-green-sound-which-side-are-you-on.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-3",
+        "title": "Red Wire - Burned Out",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-red-wire-burned-out.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-4",
+        "title": "French Fries - Everybody",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-french-fries-everybody.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-5",
+        "title": "Rock Explorers - I Need You",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-rock-explorers-i-need-you-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-6",
+        "title": "The Deterrents - Hopeless with a Gun",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-the-deterrents-hopeless-with-a-gun.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-7",
+        "title": "Omicron Quartet - Smash",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-omikron-quartet-smash.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61bf0457:me-tis-mpantes-8",
+        "title": "Garlic Bongs - The Rain",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/me-tis-mpantes/me-tis-mpantes-garlic-bongs-thw-rain.jpg"
+      }
+    ]
+  }
+}

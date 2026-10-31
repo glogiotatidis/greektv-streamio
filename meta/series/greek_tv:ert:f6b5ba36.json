@@ -1,0 +1,648 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:f6b5ba36",
+    "type": "series",
+    "name": "Art Week",
+    "poster": "https://files2.app.ertflix.gr/files/synentefxeis/ertflix-banner-artweek-640x360.jpg",
+    "background": "https://files2.app.ertflix.gr/files/synentefxeis/artweek-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-21",
+        "title": "Μόνικα Μπελούτσι , Αργύρης Πανταζάρας",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week-bellucci-pantazaras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-22",
+        "title": "Ρένη Πιττακή, Ναταλία Τσαλίκη - Αλέξανδρος Μυλωνάς",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/artwek-pitakh-tsalikh-s21-22-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-23",
+        "title": "Νένα Μεντή",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week-menti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-24",
+        "title": "Αφιέρωμα στο θέατρο ΠΟΡΤΑ: Θωμάς Μοσχόπουλος - Αμαλία Καβάλη - Μελαχροινός Βελέντζας",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week-theatro-porta-s21-22-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-25",
+        "title": "Γιώργος Κουμεντάκης",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week-koumentakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-26",
+        "title": "Μιχαήλ Μαρμαρινός",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/art-week-marmarinos-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-27",
+        "title": "Ευανθία Ρεμπούτσικα",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-reboutsika.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-28",
+        "title": "Ρεβεγιόν Χριστουγέννων",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/artweek-revegion-xristoygennwn-s21-22-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-29",
+        "title": "Κατερίνα Βρανά - Γιώργος Καπουτζίδης",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-vrana-kapoutzidis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-30",
+        "title": "Γλυκερία, Φωτεινή Βελεσιώτου, Μελίνα Κανά",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-glykeria-velesiotou-kana-s21-22-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-31",
+        "title": "Καρυοφυλλιά Καραμπέτη - Νίκος Ψαρράς",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-psaras-karampeti-s21-22-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-32",
+        "title": "Άννα Μαρία Παπαχαραλάμπους - Ζωή Ρηγοπούλου",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-papacharalampus-rigopoulou-s21-22-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-33",
+        "title": "Μιχάλης Γκανάς",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-ganas-s21-22-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-34",
+        "title": "Robert Wilson",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/art-week/20220305-art-week-wilson.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-35",
+        "title": "Μαρία Πρωτόπαπα",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-maria-protopappa-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-36",
+        "title": "Γιάννης Μπέζος",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-giannis-mpezos-s21-22-ep17.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-37",
+        "title": "Γιάννης Χουβαρδάς-Αλέξανδρος Δράκος Κτιστάκης",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/20220326-art-week-xoubardas-ktistakhs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-38",
+        "title": "Γιάννης Μετζικώφ",
+        "season": 3,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/artweek-2022-giannis-metziko.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-39",
+        "title": "Γιάννης Στάνκογλου - Μανώλης Φάμελλος",
+        "season": 3,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-stankoglou-famelos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-40",
+        "title": "Κ. Μαρκουλάκης - Οδ. Παπασπηλιόπουλος - Σμ. Καρύδη Λ. Παπαληγούρα - Γ. Χρυσοστόμου - Στ. Γουλιώτη",
+        "season": 3,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week-2022-ep21-to-sose-1021x576-markoulakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-41",
+        "title": "Δήμητρα Γαλάνη",
+        "season": 3,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week-2022-ep22-dimitra-galani-1021x576jpg.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-42",
+        "title": "Κώστας Καζάκος",
+        "season": 3,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-ep23-kostas-kazakos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-43",
+        "title": "Αναστασία Μουτσάτσου, Δημήτρης Γκοτσόπουλος, Alex Sid",
+        "season": 3,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-ep24-anastasia-moutsatsou-dimitris-gkotsopoulos-alex-sid-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-44",
+        "title": "Στέφανος Κορκολής",
+        "season": 3,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-ep25-stefanos-korkolis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-45",
+        "title": "Γιώργος Νταλάρας",
+        "season": 3,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-ep26-giorgos-ntalaras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-46",
+        "title": "Μελίνα Κανά-Χριστίνα Πουλίτση",
+        "season": 3,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-ep27-melina-kana-xristina-poulitsi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-47",
+        "title": "Ελένη Σαμαράκη - Μέρος 1ο",
+        "season": 3,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-ep28-eleni-samaraki-1o-meros-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-48",
+        "title": "Ελένη Σαμαράκη - Μέρος 2ο",
+        "season": 3,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-ep28-eleni-samaraki-meros-2o-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-49",
+        "title": "Τάκης Ζαχαράτος",
+        "season": 3,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-takis-zaxaratos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-50",
+        "title": "Αιμίλιος Χειλάκης - Αθηνά Μαξίμου - Γιώτα Νέγκα",
+        "season": 3,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-aimilios-hilakis-athina-maximou-giota-negka-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-51",
+        "title": "Θέμης Μουμουλίδης",
+        "season": 3,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-themis-moumoulidis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-52",
+        "title": "Διονύσης Σιμόπουλος",
+        "season": 3,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-dionisis-simopoylos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-85",
+        "title": "Παντελής Βούλγαρης - Άνδρος",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-ep34-pantelis-voulgaris-andros-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-84",
+        "title": "Καλεσμένοι: Η Κατερίνα Ευαγγελάτου, η Έλενα Τοπαλίδου, η Μαρία Σκουλά, και ο Ορέστης Χαλκιάς",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/art-week/art-week-ep33-eyaggelatou-topalidou-skoula-xalkias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-83",
+        "title": "Μάκης Μάτσας - Μέρος 2ο",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-makis-matsas-meros-b.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-82",
+        "title": "Μάκης Μάτσας - Μέρος 1ο",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-makis-matsas-meros-a.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-81",
+        "title": "Γιασεμί και Μαρία Κηλαηδόνη για τον Λουκιανό Κηλαηδόνη",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-giasemi-maria-kilaidoni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-80",
+        "title": "Αφιέρωμα για τα 80 χρόνια Θεάτρου Τέχνης - Ρένη Πιττακή, Κάτια Γέρου, Μαριάννα Κάλμπαρη - Μέρος 2ο",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-theatro-texnis-b.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-79",
+        "title": "Αφιέρωμα για τα 80 χρόνια Θεάτρου Τέχνης - Ρένη Πιττακή, Κάτια Γέρου, Μαριάννα Κάλμπαρη - Μέρος 1ο",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-afieroma-80-xronia-theatrou-pittaki-gerou-kalmpari-meros-1o-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-78",
+        "title": "Κώστας Βαρώτσος",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-ep24-kostas-varotsos-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-77",
+        "title": "Μανώλης Μητσιάς",
+        "season": 4,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-manolis-mitsias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-76",
+        "title": "Γιώργος Σταθόπουλος",
+        "season": 4,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-giorgos-stathopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-75",
+        "title": "Μαρίζα Ρίζου",
+        "season": 4,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-mariza-rizou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-74",
+        "title": "Αννίτα Ρατσβελισβίλι",
+        "season": 4,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-annita-ratsbelisbili.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-73",
+        "title": "Δημήτρης Πιατάς - Κώστας Μακεδόνας",
+        "season": 4,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-piatas-makedonas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-72",
+        "title": "Εθνική Λυρική Σκηνή - Βαρύτονοι Τάσος Αποστόλου - Διονύσης Σούρμπης",
+        "season": 4,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-ethniki-lyriki-scene.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-71",
+        "title": "Γιάννης Μπέζος, Άρης Λεμπεσόπουλος και Μάκης Παπαδημητρίου",
+        "season": 4,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-mpezos-lempesopoulos-papadimitriou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-70",
+        "title": "Γιώργος Ξένος",
+        "season": 4,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-2023-ep18-giorgos-xenos-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-69",
+        "title": "Αντίνοος Αλμπάνης",
+        "season": 4,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/art-week/art-week-2022-2023-ep17-antinoos-almpanis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-68",
+        "title": "Ιεροκλής Μιχαηλίδης",
+        "season": 4,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-2023-ep16-ieroklis-mihailidis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-67",
+        "title": "Ελένη Σκότη",
+        "season": 4,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-eleni-skoti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-66",
+        "title": "Λένα Παπαληγούρα, Δημήτρης Τάρλοου",
+        "season": 4,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-2023-ep14-lena-papaligoura-dimitris-tarloou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-65",
+        "title": "Μιχαήλ Μαρμαρινός, Ελευσίνα - Πολιτιστική Πρωτεύουσα της Ευρώπης",
+        "season": 4,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-ep-13-marmarinos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-64",
+        "title": "Γιώργος Περρής - Δημήτρης Φραγκάκης",
+        "season": 4,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-perris-fragakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-63",
+        "title": "Κώστας Λειβαδάς, Ανδριάνα Μπάμπαλη, Βασίλης Χαραλαμπόπουλος",
+        "season": 4,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-leivadas-babali-charalambopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-62",
+        "title": "Ελευθερία Αρβανιτάκη - Ελεονώρα Ζουγανέλη",
+        "season": 4,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-ep10-eleutheria-arvanitaki-eleonora-zouganeli.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-61",
+        "title": "Κωστής Γεωργίου",
+        "season": 4,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-kostis-georgiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-60",
+        "title": "Θανάσης Παπαγεωργίου",
+        "season": 4,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-2023-ep08-thanasis-papageorgiou-1021x576jpg.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-59",
+        "title": "Βασίλης Χαραλαμπόπουλος-Φάνης Μουρατίδης",
+        "season": 4,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-2023-ep07-vasilis-xaralampopoulos-fanis-mouratidis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-58",
+        "title": "Γρηγόρης Βαλτινός - Έλλη Πασπαλά",
+        "season": 4,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-paspala-valtinos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-57",
+        "title": "Αφιέρωμα στο ΚΘΒΕ και στο Μουσείο Φωτογραφίας",
+        "season": 4,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-afierwma-kube-sto-mouseio-fwtografias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-55",
+        "title": "Ελένη Ράντου",
+        "season": 4,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-rantou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-54",
+        "title": "Σάσα Ντάριο",
+        "season": 4,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-sasa-dario.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-53",
+        "title": "Αφιέρωμα στον Μάνο Λοΐζο: Μαργαρίτα Ζορμπαλά - Μυρσίνη Λοΐζου",
+        "season": 4,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-2022-23-ep01-zormpala-loizou-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-56",
+        "title": "Γιώργος Νανούρης - Πυγμαλίων Δαδακαρίδης",
+        "season": 4,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-nanouris-dadakaridis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-111",
+        "title": "Καλεσμένος: Placido Domingo",
+        "season": 5,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-placido-domingo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-110",
+        "title": "Καλεσμένος: Παύλος Παυλίδης",
+        "season": 5,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/artweek-paylos-paylidhs-11zon.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-109",
+        "title": "Καλεσμένη: Κατερίνα Ευαγγελάτου",
+        "season": 5,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-katerina-eyaggelatoy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-108",
+        "title": "Καλεσμένη: Όλια Λαζαρίδου",
+        "season": 5,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-olia-lazaridou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-106",
+        "title": "Καλεσμένος: Γιάννης Κότσιρας",
+        "season": 5,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-giannhs-kotsiras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-107",
+        "title": "Καλεσμένοι: Αιμίλιος Χειλάκης, Αθηνά Μαξίμου, Μανώλης Δούνιας",
+        "season": 5,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-hilakis-maximou-dounias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-105",
+        "title": "Καλεσμένοι: Κωσταντίνος Μαρκουλάκης, Γκι Κασίερς",
+        "season": 5,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-markoulakis-kasiers.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-104",
+        "title": "Καλεσμένη: Ευανθία Ρεμπούτσικα",
+        "season": 5,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/artweek-s09-e07-eyanthia-rempoutsika-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-103",
+        "title": "Καλεσμένη: Μαρία Παπαγεωργίου",
+        "season": 5,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-maria-papagewrgiou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-102",
+        "title": "Καλεσμένοι: Γιώργος Ανδρέου, Οδυσσέας Ιωάννου, Αστέριος Πελτέκης, Ελένη Τσαλιγοπούλου, Κορίνα Λεγάκη",
+        "season": 5,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-marika-me-eipane-marika-me-vgalane.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-101",
+        "title": "Καλεσμένος: Τάσης Χριστογιαννόπουλος",
+        "season": 5,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-tassis-hristogiannopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-100",
+        "title": "Καλεσμένη: Φωτεινή Τσαλίκογλου",
+        "season": 5,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-tsalikoglou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-99",
+        "title": "Καλεσμένοι: Ντάνι Κλάιν, Θοδωρής Βουτσικάκης",
+        "season": 5,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-danny-klein-thodoris-voutsikakis-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-98",
+        "title": "Καλεσμένοι: Αντόλφ Σαπίρο",
+        "season": 5,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-antolf-sapiro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-97",
+        "title": "Καλεσμένοι: Βασίλης Χαραλαμπόπουλος, Γιάννης Τσορτέκης, Αλεξάνδρα Αϊδίνη",
+        "season": 5,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-vasilis-charalampopoulos-giannis-tsortekis-alexandra-aidini-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-96",
+        "title": "Σαβίνα Γιαννάτου - Έλλη Πασπαλά",
+        "season": 5,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/artweek-s08-giannatoy-paspala1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-95",
+        "title": "Καλεσμένος: Μιχάλης Δέλτα",
+        "season": 5,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/art-week/artweek-e10-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-94",
+        "title": "Καλεσμένοι: Φάνης Μουρατίδης, Εβελίνα Παπούλια",
+        "season": 5,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-mouratidis-papoulia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-93",
+        "title": "Καλεσμένοι: Μαρία Πρωτόπαππα, Χρήστος Στέργιογλου",
+        "season": 5,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/artweek-prwtopapas-sterioglou-1021x576-min.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-92",
+        "title": "Καλεσμένη: Ξένια Καλογεροπούλου",
+        "season": 5,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-e07-kalogeropouloy-1021x576-min.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-91",
+        "title": "Καλεσμένοι: Δήμητρα Γαλάνη, Σεραφείμ Γιαννακόπουλος",
+        "season": 5,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/artweek-galani1021x576-min.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-90",
+        "title": "Ναταλία Τσαλίκη και Άρης Λεμπεσόπουλος",
+        "season": 5,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/artweeke05-min.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-89",
+        "title": "Μάριος Φραγκούλης - Γιώργος Πέρρης",
+        "season": 5,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-fragkoulis-perris.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-88",
+        "title": "Αφιέρωμα στην Άλκη Ζέη -100 Χρόνια Από την Γέννηση της",
+        "season": 5,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/art-week-s08-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-87",
+        "title": "Καρυοφυλλιά Καραμπέτη και Εύα Νάθενα",
+        "season": 5,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/art-week/aroni-karampeth-ertflix-img-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6b5ba36:art-week-86",
+        "title": "Χόρχε και Ντεμιάν Μπουκάι",
+        "season": 5,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/art-week-s08-ep01-jorge-bukay-4mbpsmp4-2023-12-08-14h25m27s848.jpg"
+      }
+    ]
+  }
+}

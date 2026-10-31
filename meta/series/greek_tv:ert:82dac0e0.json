@@ -1,0 +1,543 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:82dac0e0",
+    "type": "series",
+    "name": "Φτάσαμε",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-ertflix-img-new.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/ftasame/ftasame-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-1",
+        "title": "Η Άγνωστη, Συναρπαστική Αργολίδα & η Ύδρα του Λέοναρντ Κοέν",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-ep01-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-3",
+        "title": "Βουνό, Θάλασσα, Κόκκινος Βράχος και Τσακώνικη Κληρονομιά, Λεωνίδιο",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-ep02-leonidio-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-4",
+        "title": "Κερκίνη",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-ep03-kerkini-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-5",
+        "title": "Θάσος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-ep04-thasos-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-6",
+        "title": "Ευρυτανία",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s01-ep05-evritania-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-7",
+        "title": "Ήπειρος",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-ep06-ipeiros-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-8",
+        "title": "Γιάννενα",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-ep7-giannena-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-9",
+        "title": "Μεσσηνία",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-ep8-messinia-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-10",
+        "title": "Μεσσηνιακή Μάνη",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-ep9-messiniaki-mani-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-11",
+        "title": "Σύρος",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-ep-10-suros-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-12",
+        "title": "Μεσολόγγι",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-ep11-mesologgi-new-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-13",
+        "title": "Ορεινή Κορινθία",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/20231217-ftasame-s02-ep01-oreini-korinthia-d.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-14",
+        "title": "Ορεινή Αρκαδία",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep02-orini-arkadia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-15",
+        "title": "Ηλεία",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep3-ileia-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-16",
+        "title": "Καλάβρυτα",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep4-kalavrita-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-17",
+        "title": "Ορεινή Ναυπακτία",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-2024-s02-ep5-oreini-naupaktia-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-18",
+        "title": "Παύλιανη",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep6-pavliani-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-19",
+        "title": "Αγρίνιο",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep7-agrinio-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-20",
+        "title": "Αμβρακικός",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-ep08-amvrakikos-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-21",
+        "title": "Πρέσπες",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep09-prespes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-22",
+        "title": "Καστοριά",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep10-kastoria-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-23",
+        "title": "Φλώρινα",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep11-flwrina.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-24",
+        "title": "Λέσβος - 1ο μέρος",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep12-lesvos-a-meros-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-25",
+        "title": "Λέσβος - 2ο μέρος",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-ep13-lesvos-b-meros-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-26",
+        "title": "Πήλιο - Μέρος 1ο",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep14-pilio-part-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-27",
+        "title": "Πήλιο - Μέρος 2ο",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep15-pilio-b-meros-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-28",
+        "title": "Κάρπαθος",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep16-karpathos-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-29",
+        "title": "Κάσος",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep17-kasos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-30",
+        "title": "Ναύπλιο - Τολό",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/import/ftasame-s02-ep18-nauplio-tolo-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-31",
+        "title": "Τήνος",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep19-tinos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-32",
+        "title": "Αμοργός",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/20240505-ftasame-amorgos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-33",
+        "title": "Τζια",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep21-tzia-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-34",
+        "title": "Ηράκλειο - Λασίθι",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep22-kriti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-35",
+        "title": "Ρέθυμνο",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep23-kriti-rethimno.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-36",
+        "title": "Χανιά",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s02-ep24-chania.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-38",
+        "title": "Μικρά Χωριά, Μεγάλες Ιστορίες Θεσσαλικής Γης",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-mikra-xoria-megales-istories-thessalikis-gis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-37",
+        "title": "Κέρκυρα - Α' Μέρος",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep01-kerkyra-part1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-39",
+        "title": "Κέρκυρα - Β' Μέρος & Παξοί",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep01-kerkyra-part2-kai-paxoi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-40",
+        "title": "Μήλος",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep02-milos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-41",
+        "title": "Κίμωλος",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep04-kimwlos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-42",
+        "title": "Αίγινα",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep05-aigina.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-43",
+        "title": "Τροιζηνία - Μέθανα",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep06-troizinia-methana.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-44",
+        "title": "Μονεμβασιά",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep07-monevasia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-45",
+        "title": "Κύθηρα",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep08-kithira-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-46",
+        "title": "Βόρεια Εύβοια",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep09-voreia-evoia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-47",
+        "title": "Νότια Εύβοια",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep10-notia-euboia-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-48",
+        "title": "Βόρεια Τζουμέρκα",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep11-voreia-tzoumerka.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-49",
+        "title": "Κεντρικά Τζουμέρκα",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep12-kentrika-tzoumerka.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-50",
+        "title": "Έβρος- Α' Μέρος",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep13-evros-part-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-51",
+        "title": "Έβρος - Β' Μέρος",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s03-ep14-evros-part-2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-52",
+        "title": "Σαμοθράκη",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s03-ep15-samothraki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-53",
+        "title": "Κομοτηνή",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s03-ep16-komotini-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-54",
+        "title": "Σέρρες",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep17-serres.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-55",
+        "title": "Ξάνθη",
+        "season": 3,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep18-xanthi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-56",
+        "title": "Βοιωτία",
+        "season": 3,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s03-ep19-voiotia-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-57",
+        "title": "Πέλλα",
+        "season": 3,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep20-pella.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-58",
+        "title": "Κοζάνη",
+        "season": 3,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s03-ep21-kozani-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-59",
+        "title": "Μετέωρα",
+        "season": 3,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep22-meteora.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-60",
+        "title": "Τρίκαλα",
+        "season": 3,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep23-trikala.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-61",
+        "title": "Σάμος",
+        "season": 3,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s03-ep24-samos-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-62",
+        "title": "Στα Μυστικά του Αιγαίου με το Αρχιπέλαγος",
+        "season": 3,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-ep25-sta-mistika-tou-aigaiou-me-to-arxipelagos-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-63",
+        "title": "Δίστομο",
+        "season": 3,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s03-ep26-distomo-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-64",
+        "title": "Δωρίδα",
+        "season": 3,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep27-dorida.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-65",
+        "title": "Δελφοί",
+        "season": 3,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-ep28-delfoi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-66",
+        "title": "Τρίπολη",
+        "season": 3,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ttasame-s03-ep29-tripoli-1021x576576jpg.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-67",
+        "title": "Καλαμάτα",
+        "season": 3,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s03-ep30-kalamata-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-68",
+        "title": "Βέροια",
+        "season": 3,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s03-ep31-veroia-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-69",
+        "title": "Νάουσα",
+        "season": 3,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s03-ep32-naousa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-103",
+        "title": "Χίος - Α' Μέρος",
+        "season": 3,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep33-chios-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-104",
+        "title": "Χίος - Β' Μέρος",
+        "season": 3,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep34-chios-b-meros-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-107",
+        "title": "Νάξος",
+        "season": 3,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep35-naxos-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-109",
+        "title": "Άνδρος",
+        "season": 3,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep36-andros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-111",
+        "title": "Μεγανήσι",
+        "season": 3,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep37-meganisi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-113",
+        "title": "Λευκάδα",
+        "season": 3,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep38-lefkada.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-114",
+        "title": "Σαντορίνη",
+        "season": 3,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/s03/ftasame-s03-ep39-santorini.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82dac0e0:phtasame-116",
+        "title": "Κεφαλονιά",
+        "season": 3,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/ftasame/ftasame-s03-ep40-kefalonia-1021x576.jpg"
+      }
+    ]
+  }
+}

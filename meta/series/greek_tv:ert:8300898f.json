@@ -1,0 +1,494 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:8300898f",
+    "type": "series",
+    "name": "mindZet",
+    "poster": "https://files2.app.ertflix.gr/2026/shows/mindzet/2026-2027-gfx/mindzet-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2026/shows/mindzet/2026-2027-gfx/mindzet-hbbtv-bg2.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-64",
+        "title": "Best of | Μέρος B | 05.07.26",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260705-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-63",
+        "title": "Best of | Μέρος Α | 04.07.26",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260704-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-62",
+        "title": "Καλοκαιρινές Διακοπές | 28.06.26",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260628-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-60",
+        "title": "Η Γιορτή του Πατέρα | 21.06.26",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260621-mz1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-59",
+        "title": "Ευρωπαϊκή Μέρα Μουσικής | 20.06.26",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260620-mz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-58",
+        "title": "ΛΟΑΤΚΙ+ Κοινότητα και Pride Month (Μήνας Υπερηφάνειας) | 14.06.26",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20260614-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-57",
+        "title": "Πρώτες Βοήθειες - Άμεση Δράση - Διάσωση | 13.06.26",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20260613-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-56",
+        "title": "Φυσικό Περιβάλλον - Κλιματική Αλλαγή | 07.06.26",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260607-mindz-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-55",
+        "title": "Φεστιβάλ | 06.06.26",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260606-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-54",
+        "title": "Προγραμματιστές Παιχνιδιών - Παιχνίδια | 31.05.26",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260531-mz1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-53",
+        "title": "Πολιτισμός | 30.05.26",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260530-mz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-52",
+        "title": "Podcast | 24.05.26",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/greece-1080-hd-may24-16-55-23.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-51",
+        "title": "Ελληνική Ενημέρωση, Δημοσιογραφία και Fake News | 23.05.26",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260523-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-50",
+        "title": "Λάτιν χορός | 17.05.26",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260517-mz5.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-49",
+        "title": "Η καλλιτεχνική πλευρά της Gen Z | 16.05.26",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260516-mz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-48",
+        "title": "Γιορτή Μητέρας | 10.05.26",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260510-mndz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-47",
+        "title": "Eurovision | 09.05.26",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260509-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-46",
+        "title": "Αυτισμός: Έκφραση, Συμπερίληψη και Δημιουργία | 03.05.26",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260503-mz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-45",
+        "title": "Η Σχέση της Νέας Γενιάς με το Βιβλίο και την Ανάγνωση | 02.05.26",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260502-mz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-44",
+        "title": "Εναλλακτικές Μορφές και Trends Άσκησης | 26.04.26",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260426-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-43",
+        "title": "Ψηφιακός Αναλφαβητισμός | 19.04.26",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20260419-mindz-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-42",
+        "title": "Παραβατικότητα Νέων και Εφηβεία | 18.04.26",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20260418-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-41",
+        "title": "Γιορτάζοντας το Πάσχα | 05.04.26",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260405-mz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-40",
+        "title": "Όρεξη για Zωή | 04.04.26",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260404-mz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-39",
+        "title": "Ασιατική Κουλτούρα | 29.03.26",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/greece-1080-hd-mar29-16-52-21.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-38",
+        "title": "Gen Z και Πολιτική | 28.03.26",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/greece-1080-hd-mar28-16-56-38.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-37",
+        "title": "Οδική Συμπεριφορά και Κ.Ο.Κ. | 22.03.26",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260322-mz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-36",
+        "title": "Oμαδικό Πνεύμα | 21.03.26",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260321-mz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-35",
+        "title": "Το Λεξιλόγιο της Gen Z | 15.03.26",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/mz-20260315.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-34",
+        "title": "Φοιτητική Ζωή | 14.03.26",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/mz-20260314.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-32",
+        "title": "Γυναίκα | 08.03.26",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260308-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-31",
+        "title": "Ποδόσφαιρο | 07.03.26",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260307-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-30",
+        "title": "Εναλλακτικός Τουρισμός | 01.03.26",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260301-mindzet.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-29",
+        "title": "Απόκριες | 22.02.26",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/greece-1080-hd-feb22-16-52-00.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-28",
+        "title": "Στυλ, Αισθητική και Ταυτότητα | 21.02.26",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/ert3-2026-02-21-19h16m01s300.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-27",
+        "title": "Ζωή στο Εξωτερικό | 15.02.26",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260215-mindzet.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-26",
+        "title": "Έρωτας και Gen Z | 14.02.26",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260214-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-25",
+        "title": "Οικονομικό Stress | 08.02.26",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260208-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-24",
+        "title": "Δημιουργοί Περιεχομένου - Youtubers | 07.02.26",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260207-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-23",
+        "title": "Κατοικίδια και Gen Z | 01.02.26",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260201-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-22",
+        "title": "Η Τέχνη στον Δρόμο | 31.01.26",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260131-mindzet.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-21",
+        "title": "Gen Z και Τεχνητή Νοημοσύνη | 25.01.26",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/20260125-minndz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-20",
+        "title": "Gen Z Playlist | 24.01.26",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/20260124-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-19",
+        "title": "Το Άγχος | 18.01.26",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/greece-1080-hd-jan18-16-58-24.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-18",
+        "title": "Επιχειρηματικότητα | 17.01.26",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/ert3-2026-01-17-18h59m12s105.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-17",
+        "title": "Τουρισμός και Ταξίδια | 11.01.26",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260111-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-16",
+        "title": "Νέα Χρονιά, Νέοι Στόχοι | 10.01.26",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260110-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-15",
+        "title": "Mια Eιδική Eορταστική Eκπομπή | 01.01.26",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/mindzet-eortastiko-xmas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-14",
+        "title": "Μια Κοινωνία για Όλους | 28.12.25",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/mindz-thumbnails/20251228-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-13",
+        "title": "Gen Z και Εθελοντισμός | 27.12.25",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/mindz-thumbnails/20251227-mindzet.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-12",
+        "title": "Gen Z και Παράδοση | 21.12.25",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/20251221-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-11",
+        "title": "Καταναλωτισμός και Αγορές | 20.12.25",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/20251220-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-10",
+        "title": "Οικογένεια | 14.12.25",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/mindz-thumbnails/ert3-2025-12-14-19h17m38s812.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-9",
+        "title": "Η Διατροφή της Gen Z | 13.12.25",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/mindz-thumbnails/ert3-2025-12-13-19h59m13s972.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-8",
+        "title": "Ετικέτες - Aνάγκη του Ανήκειν | 07.12.25",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/mindz-thumbnails/20251207-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-7",
+        "title": "Εξαρτήσεις - Εθισμοί | 06.12.25",
+        "season": 1,
+        "episode": 56,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/mindz-thumbnails/20251206-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-6",
+        "title": "Διασκέδαση της Gen Z | 30.11.25",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/mindz-thumbnails/20251130-mindzet.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-5",
+        "title": "Η Άθληση στη Ζωή της Gen Z | 29.11.25",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/mindz-thumbnails/20251129-mindz-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-4",
+        "title": "Σχολείο και Επαγγελματικός Προσανατολισμός | 23.11.25",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/mindz-thumbnails/20251123-mindzet.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-3",
+        "title": "Dating και Σχέσεις | 22.11.25",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/mindz-thumbnails/20251122-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet",
+        "title": "Χάσμα Γενεών - Boomers vs Zoomers | 16.11.25",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/shows-25/mindz-thumbnails/20251116-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-2",
+        "title": "Social Media και Ψυχική Υγεία | 15.11.25",
+        "season": 1,
+        "episode": 62,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/20251115-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-65",
+        "title": "Νέες Αρχές - Το Άγχος της Πρεμιέρας | 19.09.26",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20260919-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-66",
+        "title": "Ρετρό Νοσταλγία 90s - 00s | 26.09.26",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20260926-mz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-67",
+        "title": "Αυτοί που Φεύγουν, Αυτοί που Μένουν | 03.10.26",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20261003-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-68",
+        "title": "GenZ και Ψυχική Υγεία | 10.10.26",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20261010-mindz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-69",
+        "title": "Οικονομική/Xρηματική Δυσμορφία| 17.10.26",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261017-mz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-70",
+        "title": "Είναι η Gen Z Aνιστόρητη; | 24.10.26",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20261024-mindzet.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-71",
+        "title": "Una Faccia Una Razza | 31.10.26",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261031-mind.jpg"
+      }
+    ]
+  }
+}

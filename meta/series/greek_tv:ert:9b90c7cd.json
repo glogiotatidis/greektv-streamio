@@ -1,0 +1,1054 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:9b90c7cd",
+    "type": "series",
+    "name": "Στο Κέντρο",
+    "poster": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/sto-kentro-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/sto-kentro-hbbtv-bg-nn.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-116",
+        "title": "Η Πολιτιστική και Αρχιτεκτονική Ταυτότητα της Καβάλας | 27.08.24",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240827-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-115",
+        "title": "Best Of | 30.07.24",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240730-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-114",
+        "title": "Καλεσμένος: Γ. Λώλος | 25.07.24",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240725-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-113",
+        "title": "Καλεσμένοι: Ν. Μουστακλή, Τ. Σακελλαρόπουλος | 16.07.24",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240716-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-111",
+        "title": "Καλεσμένοι: Στ. Φασουλής, Αστ. Πελτέκης | 09.07.24",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240709-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-112",
+        "title": "Καλεσμένοι: Δ. Παπαστεργίου, Ζ. Κωνσταντοπούλου | 02.07.24",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240702-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-110",
+        "title": "Καλεσμένοι: Β. Ζούλιας, Ορ. Παρθένη, Δ. Βαλέντε, Ι. Κουρμπέλα | 25.06.24",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240625-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-109",
+        "title": "Καλεσμένος: Στ. Παπαδόπουλος | 18.06.24",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240618-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-108",
+        "title": "Καλεσμένοι: Μ. Δαμανάκη, Δ. Αβραμόπουλος | 11.06.24",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240612-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-107",
+        "title": "Καλεσμένοι: Π. Τεμεκενίδης, Λ. Τσούκαλης | 04.06.25",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240604-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-106",
+        "title": "Καλεσμένοι: Αν. Λοβέρδος, Π. Κόκκαλης | 28.05.24",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240528-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-105",
+        "title": "Αφιέρωμα στη Μελίνα Μερκούρη Β' Μέρος | 21.05.24",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240521-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-104",
+        "title": "Αφιέρωμα στη Μελίνα Μερκούρη Α' Μέρος | 14.05.24",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/vlcsnap-2024-05-15-08h44m20s618.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-103",
+        "title": "Καλεσμένοι: Ρ. Πατεράκη, Ν. Καραθάνος, Μ. Διακοπαναγιώτου, Κ. Χάσκα, Λ. Γιοβανίδης, Σ. Χηνιάδου, Ε. Αχλάδη | 07.05.24",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240507-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-102",
+        "title": "Καλεσμένοι: Ε. Βενιζέλος, Κ. Γανωτής | 30.04.24",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240430-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-101",
+        "title": "Καλεσμένη: Γ. Αγγελοπούλου Δασκαλάκη | 23.04.24",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240423-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-100",
+        "title": "Καλεσμένος: Κ. Πιερρακάκης | 09.04.24",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240409-sto-kentro-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-99",
+        "title": "Καλεσμένοι: Σ. Ζαχαράκη, Σ. Φάμελλος | 02.04.24",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240402-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-98",
+        "title": "Καλεσμένοι: Δ. Μιχαηλίδου, Μ. Μητσιάς | 26.03.24",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240326-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-97",
+        "title": "Καλεσμένη: Ντ. Μπακογιάννη | 19.03.24",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240319-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-96",
+        "title": "Καλεσμένοι: M. Βορίδης, B. Κεχαγιά | 12.03.24",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240312-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-95",
+        "title": "Καλεσμένος: Ν. Σταμπολίδης | 05.03.24",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240305-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-94",
+        "title": "Καλεσμένος: Αλ. Παπαχελάς | 27.02.24",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240227-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-93",
+        "title": "Καλεσμένη: Αγ. Κοτταρίδη | 20.02.24",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240220-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-92",
+        "title": "Καλεσμένοι: Χρ. Λούκος, Γ. Καλόφωνος, Γ. Ζορμπάς, Γ. Καπουτζίδης, Κ. Γιάννακα | 13.02.24",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240213-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-91",
+        "title": "Καλεσμένος: Π. Μαρινάκης | 06.02.24",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240206-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-90",
+        "title": "Καλεσμένοι: Αν. Λοβέρδος, Ολ. Γεροβασίλη | 30.01.24",
+        "season": 2,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240130-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-89",
+        "title": "Καλεσμένος: Μ. Χρυσοχοΐδης | 23.01.24",
+        "season": 2,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240123-sto-kentro-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-88",
+        "title": "Καλεσμένοι: Ζ. Κωνσταντοπούλου, Γ. Σταμάτης | 16.01.24",
+        "season": 2,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240116-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-87",
+        "title": "Καλεσμένοι: Κ. Πιερρακάκης, Ολ. Μπακομάρου | 09.01.24",
+        "season": 2,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240109-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-86",
+        "title": "Καλεσμένος: Π. Τσίμας | 02.01.24",
+        "season": 2,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240102-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-85",
+        "title": "Καλεσμένες: Δ. Γαλάνη, Π. Βουλγαράκη | 01.01.24",
+        "season": 2,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240101-sto-kentro-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-84",
+        "title": "Το Ελληνικό Κρασί | 29.12.23",
+        "season": 2,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20231226-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-83",
+        "title": "Καλεσμένοι: Αγ. Παπαδημητρίου, Ζ. Σαπουντζάκη | 25.12.23",
+        "season": 2,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20231225-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-82",
+        "title": "Καλεσμένοι: Μ. Μαλλιώρη, Χρ. Λιάπης, Ι. Μπάφη | 19.12.23",
+        "season": 2,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20231219-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-81",
+        "title": "Καλεσμένος: Στ. Κασσελάκης | 12.12.23",
+        "season": 2,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20231212-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-80",
+        "title": "Το Ορφανοτροφείο της Πριγκήπου | 05.12.23",
+        "season": 2,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20231205-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-79",
+        "title": "Καλεσμένοι: Θ. Πλεύρης, Αρ. Ηλία, Αθ. Τσακρής, Χρ. Χατζηχριστοδούλου | 28.11.23",
+        "season": 2,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20231128-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-78",
+        "title": "Καλεσμένοι: Στ. Καλύβας, Γ. Ξανθούλης | 21.11.23",
+        "season": 2,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20231121-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-77",
+        "title": "Καλεσμένος: Χ. Δούκας | 14.11.23",
+        "season": 2,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20231114-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-76",
+        "title": "Καλεσμένοι: Στ. Αγγελούδης, Δ. Αβραμόπουλος | 07.11.23",
+        "season": 2,
+        "episode": 41,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20231107-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-75",
+        "title": "Καλεσμένος: Κ. Χατζηδάκης | 31.10.23",
+        "season": 2,
+        "episode": 42,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20231031-sto-kentro-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-74",
+        "title": "Ταξίδι από τη Γη στο Διάστημα | 24.10.23",
+        "season": 2,
+        "episode": 43,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20231024-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-73",
+        "title": "Καλεσμένος: Μ. Χρυσοχοΐδης | 17.10.23",
+        "season": 2,
+        "episode": 44,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20231017-sto-kentro-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-72",
+        "title": "Καλεσμένοι: Λ. Τσούκαλης, Δ. Κούρκουλας, Μ. Μπλέτσας, Β. Νέδος, Κλ. Νικολάου | 10.10.23",
+        "season": 2,
+        "episode": 45,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20231010-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-71",
+        "title": "Καλεσμένοι: Αν. Διαμαντοπούλου, Δ. Καιρίδης | 03.10.23",
+        "season": 2,
+        "episode": 46,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20231003-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-70",
+        "title": "Καλεσμένοι: Γ. Φλωρίδης, Ν. Σούλης | 26.09.23",
+        "season": 2,
+        "episode": 47,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20230926-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-69",
+        "title": "Καλεσμένος: Γ. Χατζηνάσιος | 19.09.23",
+        "season": 2,
+        "episode": 48,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20230919-sto-kentro-xatzinasios.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-68",
+        "title": "Καλεσμένος: Γ. Άλεν | 12.09.23",
+        "season": 2,
+        "episode": 49,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20230912-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-66",
+        "title": "Καλεσμένος: Κ. Μπακογιάννης | 05.09.23",
+        "season": 2,
+        "episode": 50,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20230905-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-67",
+        "title": "Καλεσμένος: Γ. Σμαραγδής | 29.08.23",
+        "season": 2,
+        "episode": 51,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20230829-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-164",
+        "title": "Οδοιπορικό στην Πάτμο | 30.07.25",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250730-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-163",
+        "title": "Καλεσμένοι: Μ. Μπλέτσας, Στ. Παπαθανασόπουλος, Γ. Κωνσταντινίδης, Μ. Καρακλιούμη, Δ. Σωτηρόπουλος, Γ. Θεοχάρης | 23.07.25",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250723-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-162",
+        "title": "Καλεσμένοι: Ερσ. Σωτηροπούλου, Μ. Πιμπλής, Ν. Μπακουνάκης, Τ. Μανδηλαρά, Γ. Καλόφωνος, Χρ. Λεοντής | 16.07.25",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250716-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-160",
+        "title": "Καλεσμένοι: Ν. Ανδρουλάκης, Στ. Γκαντώνα, Β. Κεχαγιά, Γ. Μουρούτης, Μ. Μιχαήλ, Εμμ. Αργείτη | 02.07.25",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250702-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-159",
+        "title": "Καλεσμένοι: Δ. Καιρίδης, Κ. Μπότσιου, Δ. Κούρκουλας, Γ. Παλαιολόγος, Αν. Παπασωτηρίου, Ν. Φαραντούρης, Ι. Αφεντούλη | 25.06.25",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250625-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-158",
+        "title": "Καλεσμένοι: Δ. Μαύρος, Π. Σιάνης, Λ. Ιωάννου, Γρ. Τζιοβάρας, Κ. Πασακυριάκος | 18.06.25",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250620-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-157",
+        "title": "Καλεσμένοι: Γ. Φλωρίδης, Κ. Παναγόπουλος, Κ. Γιαννακίδης, Χρ. Κοραή, Χ. Ιωάννου | 11.06.25",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250611-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-156",
+        "title": "Η Μαγεία των Δελφών | 04.06.25",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250604-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-155",
+        "title": "Καλεσμένοι: Δ. Μιχαηλίδου, Τ. Γιαννίτσης | 28.05.25",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250528-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-154",
+        "title": "Δημογραφικό Πρόβλημα | 21.05.25",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250521-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-153",
+        "title": "Καλεσμένοι: Π. Ρουμελιώτης, Κ. Αρβανιτόπουλος, Δ. Μαύρος, Λ. Ιωάννου, Δ. Νασόπουλος, Π. Σιανής | 14.05.25",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250514-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-152",
+        "title": "Καλεσμένοι: Γ. Βαρουφάκης, Ε. Βαρδουλάκης, Γ. Τσαπρούνης, Φ. Γιωτάκη, Μ. Μιχαήλ, Εμμ. Αργείτη | 07.05.25",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250507-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-151",
+        "title": "Καλεσμένοι: Ζ. Κωνσταντοπούλου, Κ. Οικονομάκου, Γρ. Τζιοβάρας, Γ. Φασουλάς, Θ. Γεωργακόπουλος | 30.04.25",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250430-sto-kentro-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-149",
+        "title": "Καλεσμένοι: Χρ. Κοραή, Χ. Ιωάννου, Λ. Ιωάννου, Κ. Πασακυριάκο, Π. Σιάνης, Κ. Τσουκαλά | 23.04.25",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250423-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-148",
+        "title": "Καλεσμένοι: Μητρ. Γαβριήλ, Γ. Βούλγαρης, Λ. Τσούκαλης | 16.04.25",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250416-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-147",
+        "title": "Καλεσμένοι: Λ. Διβάνη, Στ. Στυλιανίδης, Β. Λινάρδου, Χ. Πάλλης, Δ. Παπαστεργίου, Θ. Διαμαντόπουλος | 09.04.25",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250409-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-146",
+        "title": "Καλεσμένοι: Στ. Κασσελάκης, Κ. Παναγόπουλος, Μ. Προβατάς, Κ. Πασακυριάκος, Α. Παπαδόπουλος | 02.04.25",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250402-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-145",
+        "title": "Καλεσμένοι: Μ. Χρυσοχοΐδης, Μ. Γαβουνέλη, Κ. Μπότσιου, Άν. Ποδηματά, Ν. Μελέτης | 26.03.25",
+        "season": 3,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250326-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-144",
+        "title": "100 Χρόνια Ελληνική Δισκογραφία | 19.03.25",
+        "season": 3,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250319-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-143",
+        "title": "Καλεσμένοι: Ισ. Κούβελος, Ε. Βαρδουλάκης, Στ. Γκαντώνα, Χρ. Κοραή, Στ. Παπαντωνίου | 12.03.25",
+        "season": 3,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250312-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-142",
+        "title": "Καλεσμένοι: Κ. Χατζηδάκης, Μ. Πυργιώτη, Λ. Ιωάννου, Χ. Ιωάννου, Γ. Μουρούτης | 05.03.25",
+        "season": 3,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250305-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-141",
+        "title": "Τέμπη: Δύο Χρόνια από την Τραγωδία | 26.02.25",
+        "season": 3,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250226-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-140",
+        "title": "Η Προεκλογική Περίοδος στη Γερμανία - Το Φεστιβάλ Βερολίνου | 19.02.25",
+        "season": 3,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250219-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-139",
+        "title": "Καλεσμένοι: Μ. Βορίδης, Γ. Αράπογλου, Αγ. Σπανού, Χρ. Κοραή, Δ. Νασόπουλος, Κ. Τσαλακός | 12.02.25",
+        "season": 3,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250212-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-138",
+        "title": "Καλεσμένοι: Ντ. Μπακογιάννη, Γ. Μετζικώφ, Ιρ. Κρητικού, Ντ. Μπακοπούλου | 05.02.25",
+        "season": 3,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250205-sto-kentro-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-137",
+        "title": "Καλεσμένοι: Μ. Ευθυμίου, Μ. Πυργιώτη, Π. Σιάνης, Κ. Πασακυριάκος, Αν. Παπαδόπουλος, Αγ. Σπανού | 29.01.25",
+        "season": 3,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250129-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-136",
+        "title": "Καλεσμένοι: Τ. Γιαννίτσης, Λ. Ιωάννου, Γ. Μουρούτης, Δ. Κρουστάλλη, Αγ. Σπανού, Δ. Σεβαστάκης | 22.01.25",
+        "season": 3,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250122-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-135",
+        "title": "Καλεσμένοι: Δ. Κουτσούμπας, Δ. Μαύρος, Χρ. Κοραή, Γ. Φασουλάς, Αγ. Σπανού, Χ. Ιωάννου | 15.01.25",
+        "season": 3,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250115-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-134",
+        "title": "Καλεσμένοι: Χρ. Χωμενίδης, Γ. Παπαχρήστος, Λ. Κουσούλης, Αγ. Σπανού, Γ. Κουμουτσάκος, Χρ. Κουλούρη | 08.01.25",
+        "season": 3,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250108-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-133",
+        "title": "Καλεσμένοι: Στ. Καλύβας, Λ. Τσούκαλης, Κ. Παναγόπουλος, Ιν. Αφεντούλη, Δ. Καιρίδης | 01.01.25",
+        "season": 3,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20250101-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-132",
+        "title": "Ο Ελληνισμός της Βιέννης | 25.12.24",
+        "season": 3,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20241225-sto-kentro.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-131",
+        "title": "Καλεσμένοι: Κ. Πιερρακάκης, Κ. Γιαννακίδης, Στ. Γκαντώνα, Β. Νέδος, Π. Σιάνης | 18.12.24",
+        "season": 3,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20241218-sto-kentro-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-130",
+        "title": "Καλεσμένοι: Κ. Παναγόπουλος, Δ. Κουνιάς, Αγγ. Σπανού, Χ. Ιωάννου, Κ. Γαβράς, Μ. Κομνηνού | 11.12.24",
+        "season": 3,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20241211-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-129",
+        "title": "Kαλεσμένοι: Μ. Χρυσοχοΐδης, Ε. Βαρδουλάκης, Λ. Ιωάννου, Αν. Παπαδόπουλος, Κ. Πασακυριάκος, Θ. Τσίκας | 04.12.24",
+        "season": 3,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20241204-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-128",
+        "title": "Καλεσμένος: Ν. Ανδρουλάκης | 27.11.24",
+        "season": 3,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20241127-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-127",
+        "title": "Καλεσμένοι: Αλ. Μητσοτάκη, Π. Κούτρας, Ορ. Ανδρεαδάκης | 13.11.24",
+        "season": 3,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20241113-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-126",
+        "title": "Οι ΗΠΑ και ο Κόσμος Μετά τη Σαρωτική Νίκη του Τραμπ | 06.11.24",
+        "season": 3,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20241106-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-125",
+        "title": "Καλεσμένοι: Ζ. Κωνσταντοπούλου, Ρ. Πιττακή, Κ. Καραμπέτη, Λ. Μιχαλοπούλου, Μπ. Γουίλσον | 30.10.24",
+        "season": 3,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20241030-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-124",
+        "title": "Καλεσμένοι: Αν. Παπαγιαννίδης, Χρ. Κοραή, Αν. Παπαδόπουλος, Χ. Ιωάννου, Στ. Κασσελάκης | 23.10.24",
+        "season": 3,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20241023-sto-kentro-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-123",
+        "title": "Καλεσμένοι: Α. Σκέρτσος, Δ. Μαύρος, Γ. Παπαχρήστος, Κ. Μακρή, Λ. Ιωάννου, Κ. Τσαλακός | 16.10.24",
+        "season": 3,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20241016-sto-kentro-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-122",
+        "title": "Καλεσμένοι: Α. Διαμαντοπούλου, Χρ. Κοραή, Δ. Κοτταρίδης, Εμ. Αργείτη, Θ. Γεωργακόπουλος, Αγ. Σπανού | 09.10.24",
+        "season": 3,
+        "episode": 41,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240910-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-121",
+        "title": "Η Βία των Ανηλίκων | 02.10.24",
+        "season": 3,
+        "episode": 42,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20241002-sto-kentro-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-120",
+        "title": "Καλεσμένοι: Κ. Παναγόπουλος, Λ. Ιωάννου, Στ. Γκαντώνα, Λ. Μπόλα, Λ. Τσούκαλης, Δ. Κούρκουλας, Κλ. Νικολάου | 25.09.24",
+        "season": 3,
+        "episode": 43,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240925-sto-kentro-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-119",
+        "title": "Καλεσμένοι: Ν. Ανδρουλάκης, Δ. Μαύρος, Μ. Νταλιάνη, Α. Παπαγιαννίδης, Χ. Ιωάννου | 18.09.24",
+        "season": 3,
+        "episode": 44,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240918-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-118",
+        "title": "Καλεσμένοι: Κ. Χατζηδάκης, Ν. Φιλιππίδης, Θ. Τσίρος, Στ. Αγγελούδης, Αν. Τζήκας | 11.09.24",
+        "season": 3,
+        "episode": 45,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240911-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-117",
+        "title": "Καλεσμένοι: Ε. Βενιζέλος, Ντ. Μπακογιάννη, Π. Τσίμας | 04.09.24",
+        "season": 3,
+        "episode": 46,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20240904-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-208",
+        "title": "Καλεσμένοι: Κώστας Βαρώτσος, Γιώργος Ξένος |19.08.26",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20260819-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-207",
+        "title": "Καλεσμένος: Μιχαήλ Μαρμαρινός | 12.08.26",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260812-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-206",
+        "title": "Καλεσμένος: Θεόδωρος Σκυλακάκης | 29.07.26",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260729-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-205",
+        "title": "Καλεσμένος: Νικήτας Κακλαμάνης | 22.07.26",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260722-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-204",
+        "title": "Καλεσμένοι: Γ. Μαγγίνης, Ν. Τριβουλίδης, Μ. Μωραΐτου, Τ. Σακελλαρόπουλος, Κ. Σακελλαροπούλου, Π. Γερουλάνος, Α. Κούρκουλας | 15.07.26",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260715-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-203",
+        "title": "Καλεσμένοι: Σοφία Αντωνίου, Μαριλένα Καλαϊτζαντωνάκη, Λωξάνδρα Λούκας, Γεράσιμος Σκιαδαρέσης | 01.07.26",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260701-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-202",
+        "title": "Καλεσμένος: Νίκος Ανδρουλάκης | 24.06.26",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260624-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-201",
+        "title": "Εθνικός Μηχανισμός Προστασίας Ζώων | 17.06.26",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260617-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-200",
+        "title": "Καλεσμένοι: Δάφνη Οικονόμου, Κωνσταντίνος Μαρκουλάκης, Ιωάννα Κουτουβή, Βαγγέλης Βασαλάκης | 10.06.26",
+        "season": 4,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260610-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-199",
+        "title": "Φεστιβάλ Βιβλίου Χανίων | 03.06.26",
+        "season": 4,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260603-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-198",
+        "title": "Καλεσμένοι: Θανάσης Λάλας, Γιώργος Παπαχρήστος, Λώρα Ιωάννου | 27.05.26",
+        "season": 4,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260527-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-197",
+        "title": "Καλεσμένοι: Δημήτρης Μαύρος, Ευτύχης Βαρδουλάκης | 20.05.26",
+        "season": 4,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/ps047616-20260520-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-196",
+        "title": "Καλεσμένοι: Ισίδωρος Κούβελος, Ζωή Φίτσιου, Βάσω Πλευρίτου | 13.05.26",
+        "season": 4,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260513-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-195",
+        "title": "Καλεσμένος: Νικηφόρος Διαμαντούρος | 06.05.26",
+        "season": 4,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260506-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-194",
+        "title": "Καλεσμένοι: Κάτια Δανδουλάκη, Μαριάννα Κάλμπαρη | 29.04.26",
+        "season": 4,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/ps047613-20260429-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-193",
+        "title": "Καλεσμένοι: Άννα Βλαχοπαναγιώτη, Ντίνα Τσουκαλά | 22.04.26",
+        "season": 4,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/ps047612-20260422-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-192",
+        "title": "Καλεσμένοι: Λένα Διβάνη, Θοδωρής Γεωργακόπουλος | 15.04.26",
+        "season": 4,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260415-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-191",
+        "title": "Καλεσμένοι: Λίνα Μενδώνη, Νίκος Στεφάνης | 08.04.26",
+        "season": 4,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260408-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-190",
+        "title": "Καλεσμένοι: Γιώργος Αλογοσκούφης, Τάσος Γιαννίτσης | 01.04.26",
+        "season": 4,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260401-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-189",
+        "title": "Καλεσμένοι: Κώστας Κωστής, Χριστίνα Κουλούρη | 25.03.26",
+        "season": 4,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260325-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-188",
+        "title": "Καλεσμένος: Δημήτρης Αβραμόπουλος | 18.03.26",
+        "season": 4,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260318-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-187",
+        "title": "Καλεσμένος: Θάνος Πλεύρης | 11.03.26",
+        "season": 4,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20260311-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-186",
+        "title": "Καλεσμένοι: Σωκράτης Φάμελλος, Λουκάς Τσούκαλης | 04.03.26",
+        "season": 4,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20260304-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-185",
+        "title": "Καλεσμένοι: Άννα Διαμαντοπούλου, Θανάσης Λάλας | 25.02.26",
+        "season": 4,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/ps047604-20260225-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-184",
+        "title": "Καλεσμένη: Ζωή Κωνσταντοπούλου | 18.02.26",
+        "season": 4,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20260218-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-183",
+        "title": "Καλεσμένοι: Ευτύχης Βαρδουλάκης, Κώστας Παναγόπουλος | 11.02.26",
+        "season": 4,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20260211-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-182",
+        "title": "Καλεσμένοι: Στέλιος Αγγελούδης, Γιώργος Σκαμπαρδώνης | 04.02.26",
+        "season": 4,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20260204-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-181",
+        "title": "Καλεσμένος: Μιχάλης Χρυσοχοΐδης | 28.01.26",
+        "season": 4,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20260128-to-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-180",
+        "title": "Καλεσμένοι: Δημήτρης Σεβαστάκης, Σταύρος Ζουμπουλάκης | 21.01.26",
+        "season": 4,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20260121-sto-kentro-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-179",
+        "title": "Καλεσμένη: Μαρία Ευθυμίου | 14.01.26",
+        "season": 4,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20260114-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-178",
+        "title": "Καλεσμένοι: Δημήτρης Καιρίδης, Λουκάς Τσούκαλης | 07.01.26",
+        "season": 4,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20260107-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-177",
+        "title": "Καλεσμένοι: Στάθης Καλύβας, Φώτης Σεργουλόπουλος | 31.12.25",
+        "season": 4,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20251231-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-176",
+        "title": "Καλεσμένοι: Μάριος Βουτσινάς, Άγγελος Παπαδημητρίου, Ίρις Κρητικού | 24.12.25",
+        "season": 4,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20251224-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-175",
+        "title": "Καλεσμένοι: Κωστής Χατζηδάκης, Ιεροκλής Μιχαηλίδης | 17.12.25",
+        "season": 4,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20251217-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-174",
+        "title": "Καλεσμένος: Νίκος Ανδρουλάκης | 10.12.25",
+        "season": 4,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20251210-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-173",
+        "title": "Καλεσμένοι: Στέφανος Κασσελάκης, Έλενα Κρεμλίδου | 03.12.25",
+        "season": 4,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20251203-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-172",
+        "title": "Καλεσμένοι: Δημήτρης Καιρίδης, Αντώνης Παπαγιαννίδης | 26.11.25",
+        "season": 4,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20251126-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-171",
+        "title": "Καλεσμένοι: Ντόρα Μπακογιάννη, Μιχάλης Μπλέτσας | 19.11.25",
+        "season": 4,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20251119-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-170",
+        "title": "Καλεσμένοι: Χρήστος Λούλης, Μιλένα Αποστολάκη | 12.11.25",
+        "season": 4,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20251112-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-169",
+        "title": "Καλεσμένος: Κυριάκος Πιερρακάκης | 05.11.25",
+        "season": 4,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20251105-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-168",
+        "title": "Καλεσμένοι: Γιώργος Λεμπέσης, Σία Κοσιώνη | 29.10.25",
+        "season": 4,
+        "episode": 41,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20251029-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-167",
+        "title": "Καλεσμένοι: Ευκλείδης Τσακαλώτος, Τάσος Γιαννίτσης | 22.10.25",
+        "season": 4,
+        "episode": 42,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20251022-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-166",
+        "title": "Καλεσμένος: Ευάγγελος Βενιζέλος | 15.10.25",
+        "season": 4,
+        "episode": 43,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20251015-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-165",
+        "title": "Καλεσμένοι: Νικήτας Κακλαμάνης, Γιάννης Ξανθούλης | 08.10.25",
+        "season": 4,
+        "episode": 44,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20251009-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-209",
+        "title": "Τετάρτη 09 Σεπτεμβρίου 2026",
+        "season": 5,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/ps058523-0001-20260909-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-210",
+        "title": "Τετάρτη 16 Σεπτεμβρίου 2026",
+        "season": 5,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20260916-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-211",
+        "title": "Τετάρτη 23 Σεπτεμβρίου 2026",
+        "season": 5,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/2025-2026/20260923-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-212",
+        "title": "Τετάρτη 30 Σεπτεμβρίου 2026",
+        "season": 5,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/ps058523-0004-20260930-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-213",
+        "title": "Τετάρτη 07 Οκτωβρίου 2026",
+        "season": 5,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/ps058523-0005-20261007-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-214",
+        "title": "Τετάρτη 14 Οκτωβρίου 2026",
+        "season": 5,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20261014-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-215",
+        "title": "Τετάρτη 21 Οκτωβρίου 2026",
+        "season": 5,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/ps058523-0007-20261021-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-216",
+        "title": "Τετάρτη 28 Οκτωβρίου 2026",
+        "season": 5,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20261028-sto-kentro.jpg"
+      }
+    ]
+  }
+}

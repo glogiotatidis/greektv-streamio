@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:e457f8ae",
+    "type": "series",
+    "name": "Οίνος ο Αγαπητός",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/oinosagapitos/ertflix-oinosagapitos-640x360.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/oinosagapitos/oinosagapitos-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:e457f8ae:oinos-o-agapitos-voiotia",
+        "title": "Βοιωτία",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/viotia3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e457f8ae:oinos-o-agapitos-aigialeia",
+        "title": "Αιγιάλεια",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/aigialia4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e457f8ae:oinos-o-agapitos-eyvoia",
+        "title": "Εύβοια",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/evia2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e457f8ae:oinos-o-agapitos-goymenissa",
+        "title": "Γουμένισσα",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/goumenissa2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e457f8ae:oinos-o-agapitos-amyntaio",
+        "title": "Αμύνταιο",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/oinosagapitos/aminteo2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e457f8ae:oinos-o-agapitos-xino-nero-siatista-velvento",
+        "title": "Ξινό Νερό - Σιάτιστα – Βελβεντό",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/amyntaio-15.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e457f8ae:oinos-o-agapitos-achinos-fthiotidas-gialtra-aidipsoy-palioyri-karditsas",
+        "title": "Αχινός Φθιώτιδας – Γιάλτρα Αιδηψού – Παλιούρι Καρδίτσας",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/vlcsnap-error564.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e457f8ae:oinos-o-agapitos-thessalia-tyrnavos-voynaina-tempi",
+        "title": "Θεσσαλία (Τύρναβος –Βούναινα – Τέμπη)",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/thessalia-4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e457f8ae:oinos-o-agapitos-lakonia-monemvasia",
+        "title": "Λακωνία (Μονεμβασιά)",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/vlcsnap-error727.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e457f8ae:oinos-o-agapitos-spata-ritsona",
+        "title": "Σπάτα - Ριτσώνα",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/spata-ritsona-3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e457f8ae:oinos-o-agapetos-4",
+        "title": "Αποστάγματα- μέρος 1ο (Τύρναβος – Πέτρα Βοιωτίας)",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/photo4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e457f8ae:oinos-o-agapetos-5",
+        "title": "Αποστάγματα- μέρος 2ο",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/apostagmata-2-3.jpg"
+      }
+    ]
+  }
+}

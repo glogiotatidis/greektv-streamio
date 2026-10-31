@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:a64e9c62",
+    "type": "series",
+    "name": "(AS, CC) CERN 70 Χρόνια – Το Ελληνικό Αποτύπωμα",
+    "poster": "https://files2.app.ertflix.gr/files/cern-70-n/cern70-new-ertflix-img-as-cc-n.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/cern/cern70-hbbtv-bgn.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:a64e9c62:cern-70-khronia-to-elleniko-apotupoma-2",
+        "title": "CERN 70 Χρόνια – Το Ελληνικό Αποτύπωμα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/cern-cc-noim-n/cern70-new-ertflix-img-cc-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a64e9c62:cern-70-khronia-to-elleniko-apotupoma-3",
+        "title": "(AS) CERN 70 Χρόνια – Το Ελληνικό Αποτύπωμα",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/cern-70-n/cern70-new-ertflix-img-as-cc-n.jpg"
+      }
+    ]
+  }
+}

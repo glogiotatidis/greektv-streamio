@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:6f376bc5",
+    "type": "series",
+    "name": "45 Μάστοροι 60 Μαθητάδες",
+    "poster": "https://files2.app.ertflix.gr/2023/ert3/ellinika-doc/45mastoroi-60mathitades/new-graphics-24/45-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2023/ert3/ellinika-doc/45mastoroi-60mathitades/new-graphics-24/45-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades",
+        "title": "Γιαννιώτικη Αργυροτεχνία",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/45mastoroi60mathitades/45-mastoroi-giannotiki-argiroxoia-4mbpsmp4-2022-10-19-12h59m36s149.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-1",
+        "title": "Σχολή Ξυλογλυπτικής Καλαμπάκας",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/45mastoroi60mathitades/45-mastoroi-sxoli-ksilogliptikis-kalampakas-4mbpsmp4-error889.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-2",
+        "title": "Τηνιακή Μαρμαροτεχνία",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/45mastoroi60mathitades/45-mastoroi-thniakh-marmarotexnia-4mbpsmp4-error684.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-3",
+        "title": "Παραδοσιακές Καμπάνες στην Παραμυθιά",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/45mastoroi60mathitades/45mastoroi-paradosiakes-kampanes-paramythias-4mbpsmp4-2022-11-03-14h19m51s834.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-4",
+        "title": "Παραδοσιακή Ξυλοναυπηγικη στη Σάμο και στην Πάτμο",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/45mastoroi60mathitades/45-mastoroi-paradosiakh-xylonayphgikh-samo-kai-patmo-4mbpsmp4-error614.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-5",
+        "title": "Παραδοσιακή Υφαντική σε Όρθιο Αργαλειό στο Γεράκι Λακωνίας",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/45mastoroi60mathitades/45-mastoroi-parafosiaki-ifantiki-se-orthio-argaleio-sto-geraki-lakonias-4mbpsmp4-error079.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-6",
+        "title": "Σαπωνοποιία Κέρκυρας Πατούνη",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/45mastoroi60mathitades/45-mastoroi-sapounopoiia-kerkiras-patouni-antik-4mbpsmp4-error051.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-7",
+        "title": "Η Κεραμική Κουρτζή στη Λέσβο",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/45mastoroi60mathitades/45mastoroi-h-keramiki-kourtzh-sth-lesvo-antik-4mbpsmp4-error420.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-8",
+        "title": "Παραδοσιακή Σιδηρουργία στη Θράκη",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/45mastoroi60mathitades/45-mastoroi-paradosiakh-sidhrourgia-sth-thrakh-4mbpsmp4-error948.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-9",
+        "title": "Η Τέχνη της Πέτρας στα Λαγκάδια Αρκαδίας",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/45mastoroi60mathitades/45-mastoroi-i-texnh-ths-petras-sta-lagkadia-arkadias-4mbpsmp4-2022-12-30-11h10m48s933.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-10",
+        "title": "Υφαντική, Πλεκτική και Βαφική στα Πομακοχώρια",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/45mastoroi60mathitades/45mastoroi-ifantiki-plektiki-vafiki-pomakoxoria-4mbpsmp4-error286.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-11",
+        "title": "Κεραμική Σίφνου",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/45mastoroi60mathitades/45-mastoroi-keramikh-sifnou-antik-4mbpsmp4-error317.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-12",
+        "title": "Πετράδες και Πετρόκτιστα στον Πεντάλοφο Κοζάνης",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/ellinika-doc/45mastoroi-60mathitades/45mastoroi60mathitades-pentalofos-4mbpsmp4-2023-11-30-12h21m43s227.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-13",
+        "title": "Παραδοσιακή Οργανοποιία - Η Κρητική Λύρα",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/ellinika-doc/45mastoroi-60mathitades/45mastoroi60mathitades-kritikilyra-new-4mbpsmp4-2023-12-06-15h28m49s811.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-14",
+        "title": "Η Τέχνη του Βαρελοποιού στο Μέτσοβο",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/45-mastoroi-s02-ep03-metsovo-new-4mbpsmp4-error455.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-15",
+        "title": "Παραδοσιακή Χειροποίητη Υποδηματοποιία - Στιβάνια",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/ellinika-doc/45mastoroi-60mathitades/45-mastoroi-60-mathitades-kritiki-ypodoimatopoiia-4mbpsmp4-2024-01-10-10h58m14s566.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-16",
+        "title": "Παραδοσιακή Οργανοποιία - Αγγεία, Ασκομαντουρες και Τσαμπούνες",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/45-mastoroi-paradosiakh-organopoiia-trailer-final-mix-ccmxf-2024-01-19-09h40m52s775.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-17",
+        "title": "Η Τέχνη του Χαλκουργού στην Κοζάνη",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/45mastoroi60mathitades-kozani-4mbpsmp4-2024-01-25-12h35m28s939.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-18",
+        "title": "Παραδοσιακή Αγγειοπλαστική στο Θραψανό Κρήτης",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/ellinika-doc/45mastoroi-60mathitades/45mastoroiparadosiakiageioplastikikritistrailermxf-2024-02-15-09h25m12s546.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-19",
+        "title": "Παραδοσιακή Οργανοποιία: Μπουζούκι και Άλλα Έγχορδα Νυκτά",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/paradosiakh-organopoia-mpoyzoyki-sparti-trailer-4mbpsmp4-2024-02-22-09h53m17s293.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-20",
+        "title": "Ψηφιδωτό και Αγιογραφία στο Διδυμότειχο - Παράδοση και Συνέχεια",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/didimoteixo-45.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6f376bc5:45-mastoroi-60-mathetades-21",
+        "title": "Αργυροχρυσοχοΐα στη Στεμνίτσα Γορτυνίας - Παράδοση και Μέλλον",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/ellinika-doc/45mastoroi-60mathitades/45mastoroi-argyroxrysoxoia-stemnitsa-gortynias.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:1e0e1ea8",
+    "type": "series",
+    "name": "Είναι στο Χέρι σου",
+    "poster": "https://files2.app.ertflix.gr/2025/shows-25/einai-sto-xeri-sou-se03/einaistoxerisou-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2025/shows-25/einai-sto-xeri-sou-se03/einaistoxerisou-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-2",
+        "title": "Είναι στο Χέρι σου",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/series/einai-sto-xeri-sou/einaistoxerisou-episode-1-4mbpsmp4-error920.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-3",
+        "title": "Είναι στο Χέρι σου",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/einaistoxerisou-episode-2-4mbpsmp4-error979.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-4",
+        "title": "Είναι στο Χέρι σου",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/einaistoxerisou-episode-3-4mbpsmp4-error301.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-5",
+        "title": "Είναι στο Χέρι σου",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/einaistoxerisou-episode-4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-6",
+        "title": "Είναι στο Χέρι σου",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/einai-sto-xeri-sou-5.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-7",
+        "title": "Είναι στο Χέρι σου",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ep06-v11-0300.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-8",
+        "title": "Είναι στο Χέρι σου",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/einai-sto-xeri-s1e7.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-9",
+        "title": "Είναι στο Χέρι σου",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/einai-sto-xeris-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-10",
+        "title": "Είναι στο Χέρι σου",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/xeri-09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-11",
+        "title": "Είναι στο Χέρι σου",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ep-10-photo-3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-12",
+        "title": "Είναι στο Χέρι σου",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ep-11-photo-4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-13",
+        "title": "Είναι στο Χέρι σου",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/xeri-12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-14",
+        "title": "Είναι στο Χέρι σου",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/xeri-ep-01b-still001.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-15",
+        "title": "Είναι στο Χέρι σου",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-28-10h55m53s141.png"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-16",
+        "title": "Είναι στο Χέρι σου",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-06-05-11h56m14s992.png"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-17",
+        "title": "Είναι στο Χέρι σου",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ep4-b-kyklos-3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-18",
+        "title": "Είναι στο Χέρι σου",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-06-17-11h34m23s544.png"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-19",
+        "title": "Είναι στο Χέρι σου",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/einai-sto-xeri-soy-s02-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-20",
+        "title": "Είναι στο Χέρι σου",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/einai-sto-xeri-soy-s02-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-21",
+        "title": "Είναι στο Χέρι σου",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/einai-sto-xeri-soy-s02-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-22",
+        "title": "Είναι στο Χέρι σου",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/einai-sto-xeri-soy-s02-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-23",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ps045750-esx-s03-ep01-antikatastasi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-24",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/einaistoxerisou-s03-episode-2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-26",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/einaistoxerisou-s03-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-27",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/einaistoxerisou-s03-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-28",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ps045754-esx-s03-ep05-antikatastasi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-29",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ps045755-esx-s03-ep06-antikatastasi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-30",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ps045756-esx-s03-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-32",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/esx-s03-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-33",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/einaistoxerisou-s03-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-34",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps048886-esx-s03-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-35",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/einaistoxerisou-s03-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-31",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/einaistoxerisou-s03-ep12-xmas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-36",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps048872-esx-s03-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-37",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps048888-esx-s03-ep14.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-38",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps048889-esx-s03-ep15-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-39",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps048890-esx-s03-ep16.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-40",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/einaistoxerisou-s03-ep17.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-41",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/einaistoxerisou-s03-ep18.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-42",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps048893-esx-s03-ep19.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-43",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps048894-esx-s03-ep20.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-44",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/esx-ep21.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-45",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps048896-einaistoxerisou-s03-ep22mxf-2026-03-31-12h40m52s292.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-46",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/esx-ep-23.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-47",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/trailer-proxeiro-24mp4-2026-04-08-12h25m49s187.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-48",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps048899-einaistoxerisou-s03-ep25mxf-2026-04-24-09h59m57s152.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-49",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps048900-esx-s03-ep26-4mbpsmp4-2026-04-30-13h52m03s793.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-50",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/esx-episode-27-final-broadcast-4mbpsmp4-2026-05-07-09h24m06s931.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-51",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/einaistoxerisou-s03-ep28-4mbpsmp4-2026-05-14-12h18m19s538.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-52",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/esx-episode-29.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1e0e1ea8:einai-sto-kheri-sou-53",
+        "title": "Είναι στο Χέρι σου",
+        "season": 3,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/einaistoxerisou-s03-ep30.jpg"
+      }
+    ]
+  }
+}

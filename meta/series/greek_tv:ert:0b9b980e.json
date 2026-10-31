@@ -1,0 +1,431 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:0b9b980e",
+    "type": "series",
+    "name": "Istorima",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/istorima/nea-dimiourgika-2024/istorima-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/istorima/istorima-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-48",
+        "title": "Αναζητώντας τις Γητειές της Κρήτης",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/istorima/istorima-anazitontas-tis-gitreies-ths-krhths-ep1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-44",
+        "title": "Η Γητεύτρα του Παλαίκαστρου",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/istorima/2025-2026/istorima-i-giteytra-tou-palaiokastrou-ep2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-45",
+        "title": "Οι Υφάντρες των Ανωγείων",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/istorima/2025-2026/istorima-oi-ifantres-ton-anogeion-ep3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-46",
+        "title": "Οι Τελευταίοι Καμπανοποιοί της Ελλάδας",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/istorima/2025-2026/istorima-oi-teleutaioi-kampanopoioi-tis-elladas-ep4.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-47",
+        "title": "Το Ρεμπέτικο Ζει Ακόμα στη Σύρο",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/istorima/2025-2026/istorima-to-rebetiko-zei-akoma-sti-sysro-ep5.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-43",
+        "title": "Εξερευνώντας τα Έγκατα της Μήλου",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-eksereunwntas-ta-egkata-tis-mylou-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-49",
+        "title": "Γυναίκα Μεταλλεργάτρια στις Στοές της Μήλου",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-gynaika-metallergatria-stis-stoes-tis-milou-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-50",
+        "title": "Μπήκα στον Τάφο για να Νιώσω την Παγωνιά του",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-mpika-ston-tafo-gia-na-niwsw-thn-pagwnia-tou-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-51",
+        "title": "Το Συριανό Λουκούμι της Προσφυγιάς",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-to-syriano-loukoumi-thw-prosfygias-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-52",
+        "title": "Οι Θησαυροκυνηγοί των Ελληνικών Βουνών",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-oi-thisaurokynhgoi-twn-vounwn-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-53",
+        "title": "Φαροφύλακας σε Ξερονήσια",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-farofylakas-se-jeronhsia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-54",
+        "title": "Ο Φαροφύλακας της Γριάς",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-o-farofilakas-tis-grias.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-55",
+        "title": "Κατασκευάζοντας το Σύμβολο της Άνδρου",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-kataskeyazontas-to-faro-symbolo-ths-androy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-56",
+        "title": "Με Λίγο Χώμα και Νερό, Φτιάχνεις τα Πάντα",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-me-ligo-xwma-kai-nero-ftiaxneis-ta-panta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-57",
+        "title": "Μαζί με το Νησί, Χάνεται και η Τέχνη μου",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-mazi-me-to-nhsi-xanetai-kai-h-texnh-moy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-58",
+        "title": "Ριζίτικα: Η Ψυχή της Κρήτης",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/20251120-rizitika-h-psixh-tis-kriths.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-59",
+        "title": "Η Ριζίτισσα των Χανίων",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/20251120-h-rizitisa-ton-chanion.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-60",
+        "title": "Οι Αναβιωτές της Επανάστασης στην Κρήτη",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/20251120-oi-anaviotes-tis-epanastashs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-61",
+        "title": "Η Μοναδική Οικογένεια του Λύκου",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/20251120-istorima-oikogeneia-tou-lykou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-62",
+        "title": "Οι Τουρκοκρητικοί του Μαρουλά",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/20251120-istorima-tourkokritikoi-tou-maroulia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-63",
+        "title": "Ρούπελ: Το Οχυρό της Αντίστασης",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/istorima/ds014413-istorima-roupel-ep21.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-64",
+        "title": "Τα Ξεχασμένα Οχυρά",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/istorima/ds014414-istorima-ta-xehasmena-oxyra-ep22-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-65",
+        "title": "Στο Βουνό του Ψυχρού Πολέμου",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/istorima/ds014415-istorima-sto-vouno-tou-pryxrou-polemou-ep23.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-66",
+        "title": "Το Άγνωστο Σπήλαιο του Κρητικού Ελέφαντα",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/istorima/ds014416-istorima-to-agnosto-sphlaio-tou-krhtikou-elefanta-ep24.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-67",
+        "title": "Η Παραλία που «Γέννησε» τον Ζορμπά",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/istorima/ds014417-istorima-h-paralia-pou-gennhse-ton-zorba-ep25.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-68",
+        "title": "Ο Ψαράς της Παμβώτιδας",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/istorima/ds014418-istorima-o-psaras-ths-pamvotidas-ep26.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-69",
+        "title": "Οι Άνθρωποι της Λίμνης",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/istorima/ds014419-istorima-oi-anthropoi-ths-limnhs-ep27.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-70",
+        "title": "Το Πιστόλι του Πατέρα μου",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/istorima/ds014420-istorima-to-pistoli-tou-patera-mou-ep28.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-71",
+        "title": "Οι Κωπηλάτες των Ιωαννίνων",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/istorima/ds014421-istorima-oi-kopilates-ton-ioanninon-ep29.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-72",
+        "title": "Το Μυστηριώδες Ναυάγιο",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/istorima/ds014422-istorima-to-mistiriodes-nauagio-ep30.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-73",
+        "title": "Κάλαντα σε Τρεις Γλώσσες που Χάνονται",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014423-istorima-kalanta-se-treis-glwsses-poy-xanontai.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-74",
+        "title": "Αναμνήσεις Γύρω από μία Μετσοβίτικη Κρεατόπιτα",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/istorima/ds014424-istorima-anamniseis-gyro-apo-mia-metsobitiki-kreatopita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-75",
+        "title": "Το Ποντιακό Πρωτοχρονιάτικο Τραπέζι",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014425-istorima-to-pontiako-prwtoxroniatiko-trapezi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-76",
+        "title": "Διασώζοντας τις Παραδοσιακές Συνταγές της Τήνου",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014426-istorima-diaswzwntas-tis-geyseis-ths-thnoy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-77",
+        "title": "Ο «Κάβος» που Ενώνει το Χωριό μας",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014427-istorima-o-kabos-poy-enwnei-to-xwrio-mas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-78",
+        "title": "Μνήμες της Μάνης",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014428-istorima-mnimes-tis-manis-ep36-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-79",
+        "title": "Το Διάσημο Χωριό που Χάνεται",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014429-istorima-to-diasimo-xorio-pou-xanetai-ep37.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-80",
+        "title": "Η «Αρχαιολόγος» της Μανιάτικης Διατροφής",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014430-istorima-arxaiologos-maniatikhs-diatrofis-ep38.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-81",
+        "title": "Ο Μελισσοκόμος της Μάνης",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014431-istorima-melisokomos-manhs-ep39.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-82",
+        "title": "Ο Τελευταίος Φαροφύλακας του Ταινάρου",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014432-istorima-farofilakas-tainarou-ep40.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-83",
+        "title": "Οι Μοιρολογίστρες της Μάνης",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014433-istorima-oi-mirologistres-ths-manhs-ep41.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-84",
+        "title": "Η Τελευταία Μοιρολογίστρα",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014434-istorima-h-teleutaia-mirologistra-ep42.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-85",
+        "title": "Το Αδούλωτο Χωριό",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014435-istorima-to-adouloto-xorio-ep43.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-86",
+        "title": "Οι Έλληνες του Τιτανικού",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014436-istorima-oi-ellines-tou-titanikou-ep44.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-87",
+        "title": "Το Κυνήγι του Ακατόρθωτου",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014437-istorima-to-kynhgi-tou-akatorthotou-ep45.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-88",
+        "title": "Τα Καζανέματα της Κρήτης",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014438-istorima-sta-kazanemata-tis-kritis-ep46.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-89",
+        "title": "Κρούστας: Το Χωριό της Παράδοσης",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014439-istorima-kroustas-to-xorio-tis-paradosis-ep47.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-90",
+        "title": "Από τον «Ζυγό» στην Παράδοση",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014440-istorima-apo-ton-zygo-stin-paradosi-ep48.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-91",
+        "title": "Ο Κουδουνάρης της Κρήτης",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014441-istorima-o-koudounaris-tis-kritis-ep49.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-92",
+        "title": "Οι Χαμένοι Στρατιώτες της Περαταριάς",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014442-istorima-oi-xamenoi-stratiotes-tis-peratarias-ep50.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-93",
+        "title": "Το Παιδί του Φάρου Δύσβατο",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014443-istorima-faros-dysbato.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-95",
+        "title": "Η Διάσωση του Φάρου Λιβάδας",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014444-istorima-faros-libadas-ep52.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-97",
+        "title": "Το Μάρμαρο Είναι η Ίδια η Ελλάδα",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014445-istorima-marmaroglyptes-ep53.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-96",
+        "title": "Περιστεριώνες, οι Σιωπηλοί Φρουροί της Παράδοσης",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014446-istorima-peristeriwnes-ep54.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-94",
+        "title": "Καλαθοπλέκτες στο Χωριό της Σελήνης",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds014447-istorima-bwlakas-ep55.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-98",
+        "title": "15 Ώρες στα Κύματα της Φαλκονέρας",
+        "season": 1,
+        "episode": 56,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-ep56.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-99",
+        "title": "Επιζών της Φαλκονέρας",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-ep57.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-100",
+        "title": "Η Σφαγή των Λιγκιάδων",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-ep58.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-101",
+        "title": "Η Κίμωλος που Χάθηκε",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-ep59.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-102",
+        "title": "Στον Βυθό “Περπατάω” και Πάλι",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-ep60.jpg"
+      }
+    ]
+  }
+}

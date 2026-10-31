@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:a37db29d",
+    "type": "series",
+    "name": "Ευθέως",
+    "poster": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/eythews-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/eythews-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:a37db29d:eutheos-1",
+        "title": "Δευτέρα 07 Σεπτεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/20260907-eftheos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a37db29d:eutheos-2",
+        "title": "Δευτέρα 14 Σεπτεμβρίου 2026",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/20260914-eftheos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a37db29d:eutheos-3",
+        "title": "Δευτέρα 21 Σεπτεμβρίου 2026",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/ls029109-0003-20260921-eftheos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a37db29d:eutheos-4",
+        "title": "Δευτέρα 28 Σεπτεμβρίου 2026",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/ls029109-0004-20260928-eftheos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a37db29d:eutheos-5",
+        "title": "Δευτέρα 05 Οκτωβρίου 2026",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/ls029109-0005-20261005-eftheos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a37db29d:eutheos-6",
+        "title": "Δευτέρα 12 Οκτωβρίου 2026",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/ls029109-0006-20261012-eftheos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a37db29d:eutheos-7",
+        "title": "Δευτέρα 19 Οκτωβρίου 2026",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/20261019-euftheos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a37db29d:eutheos-8",
+        "title": "Δευτέρα 26 Οκτωβρίου 2026",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/ls029109-0008-20261026-eftheos.jpg"
+      }
+    ]
+  }
+}

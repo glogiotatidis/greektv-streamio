@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:d162ac97",
+    "type": "series",
+    "name": "Ένα Απότομο Ξύπνημα",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/enaapotomoxipnima-photo.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/ena-apotomo-xypnima-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:d162ac97:ena-apotomo-xupnema-1",
+        "title": "Τα Τανκς στο Δρόμο",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/enaapotomoxipnima-ep1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d162ac97:ena-apotomo-xupnema-2",
+        "title": "Ο Καιρός των Δολοφόνων",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/002-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d162ac97:ena-apotomo-xupnema-3",
+        "title": "Γυναίκα μας Είναι η Πατρίς...",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/002-1-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d162ac97:ena-apotomo-xupnema-4",
+        "title": "Έχε το Νου σου στο Παιδί",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/002.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:3ba9c1a2",
+    "type": "series",
+    "name": "Σύγχρονη Παραδοσιακή Μουσική",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/ertflix-sixroni-paradosiaki-mousiki-640x360.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/sixronh-paradosiakh-mousikh-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:3ba9c1a2:sygchroni-paradosiaki-moysiki-dimitris-sfiggos",
+        "title": "Δημήτρης Σφίγγος",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sugxroni-paradosiaki-mousiki-s03-ep01-4mbpsmp4-error767.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3ba9c1a2:sygchroni-paradosiaki-moysiki-banda-entopica",
+        "title": "Banda Entopica",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sugxroni-paradosiaki-mousiki-s03-ep02-4mbpsmp4-error503.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3ba9c1a2:sygchroni-paradosiaki-moysiki-alekos-tsolakis",
+        "title": "Αλέκος Τσολάκης",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sugxroni-paradosiaki-mousiki-s03-ep03-4mbpsmp4-error939.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3ba9c1a2:sygchroni-paradosiaki-moysiki-thomas-grigoropoylos",
+        "title": "Θωμάς Γρηγορόπουλος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sugxroni-paradosiaki-mousiki-s03-ep04-4mbpsmp4-error474.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3ba9c1a2:sygchroni-paradosiaki-moysiki-leftokarya",
+        "title": "Λεφτοκάρυα",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sugxroni-paradosiaki-mousiki-s03-ep05-4mbpsmp4-error721.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3ba9c1a2:sygchroni-paradosiaki-moysiki-rebeltes",
+        "title": "Rebeltes",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sugxroni-paradosiaki-mousiki-s03-ep06-4mbpsmp4-error471.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3ba9c1a2:sygchroni-paradosiaki-moysiki-akis-pitsanis",
+        "title": "Άκης Πιτσάνης",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sugxroni-paradosiaki-mousiki-s03-ep07-4mbpsmp4-error625.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3ba9c1a2:sygchroni-paradosiaki-moysiki-vaggelis-psathas",
+        "title": "Βαγγέλης Ψαθάς",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sugxroni-paradosiaki-mousiki-s03-ep08-4mbpsmp4-error965.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3ba9c1a2:sygchroni-paradosiaki-moysiki-ymnoi-stin-panagia-georgios-patronas",
+        "title": "Ύμνοι στην Παναγία – Γεώργιος Πατρώνας",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sugxroni-paradosiaki-mousiki-s03-ep09-4mbpsmp4-error600.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3ba9c1a2:sygchroni-paradosiaki-moysiki-evritiki-zygia",
+        "title": "Εβρίτικη Ζυγιά",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sugxroni-paradosiaki-mousiki-s03-ep10-4mbpsmp4-error872.jpg"
+      }
+    ]
+  }
+}

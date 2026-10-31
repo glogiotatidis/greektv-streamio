@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:fb2dca86",
+    "type": "series",
+    "name": "Λίστα Γάμου",
+    "poster": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/lista-gamou-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/lista-gamou-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-1",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018484-lista-gamou-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-2",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018485-lista-gamou-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-3",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018486-lista-gamou-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-4",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018487-lista-gamou-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-5",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018488-lista-gamou-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-6",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018489-lista-gamou-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-7",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018491-lista-gamou-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-8",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018492-lista-gamou-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-9",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018493-lista-gamou-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-10",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018494-lista-gamou-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-11",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018495-lista-gamou-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-12",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018496-lista-gamou-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-13",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018497-lista-gamou-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-14",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018498-lista-gamou-ep14.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-15",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018499-lista-gamou-ep15.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-16",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018500-lista-gamou-ep16.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-17",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018501-lista-gamou-ep17.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-18",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018502-lista-gamou-ep18.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-19",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018503-lista-gamou-ep19.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-20",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018504-lista-gamou-ep20.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fb2dca86:lista-gamou-21",
+        "title": "Λίστα Γάμου",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/ps018505-lista-gamou-ep21.jpg"
+      }
+    ]
+  }
+}

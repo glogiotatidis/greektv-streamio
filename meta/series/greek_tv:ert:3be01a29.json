@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:3be01a29",
+    "type": "series",
+    "name": "Μουσικές Οικογένειες",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-1",
+        "title": "Οι Πλανήτες του Κάμπου των Τρικάλων",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousikes-oikogeneies-s1e1-o-planitis-ton-trikalon-4mbpsmp4-error775.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-3",
+        "title": "Et in Arcadia Ego ...κι εγώ στην Αρκαδία",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousikesoik-s01-ep02-et-in-arcadia-ego-4mbpsmp4-error764.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-7",
+        "title": "Οι μουσικοί του Τσιρίγο",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikesoik-s01-ep03-oi-mousikoi-tou-tsirigo-4mbpsmp4-2022-02-10-11h59m04s769.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-5",
+        "title": "Καρυοφύλλης Δοϊτσίδης",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousikes-oikogeneies-ep04-kariofilis-doitsidis-4mbpsmp4-error453.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-4",
+        "title": "Οι Φιλιππιδαίοι από το Κεράσοβο",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousikes-oikogeneies-ep05-filippidaioi-4mbpsmp4-error517.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-2",
+        "title": "Οι Τσαχουρίδηδες του Πόντου",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousikes-oikogeneies-ep06-oi-tsaxouridides-tou-pontou-4mbpsmp4-error300.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-6",
+        "title": "Η κομπανία των Τσιοτικαίων",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousikes-oikogeneies-ep07-hw-4mbpsmp4-error710.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-8",
+        "title": "Με τα κλαρίνα των Kαρσλήδων",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-s01-ep08-4mbpsmp4-2022-02-11-14h00m32s553.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-9",
+        "title": "Οι Τηγανούρηδες της Σαμοθράκης",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/mousikes-oikogeneies-s02-ep01-4mbpsmp4-error605.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-10",
+        "title": "Oι Μουσικοί των Πομάκων",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-s02-ep2-oi-moisikoi-twn-pomakwn-4mbpsmp4-error990.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-11",
+        "title": "Η Κομπανία του Βέρδη",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-s02-ep03-h-kompania-tou-berdi-4mbpsmp4-error886.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-12",
+        "title": "Πρωτομάστορες",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-s02-ep04-protomastores-4mbpsmp4-error772.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-13",
+        "title": "Η Οικογένεια του Δίσκου",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-s02-ep05-h-oikogeneia-tou-diskou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-14",
+        "title": "Στην Αυλή του Λουδοβίκου",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-s02-ep06-stin-avli-toy-loudovikou-4mbpsmp4-error793.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-15",
+        "title": "Η Λύρα του Πόντου",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-s02-ep07-h-lira-tou-pontou-4mbpsmp4-error399.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-16",
+        "title": "Οι Οικογένειες της Παλαιάς",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-s02-ep08-oi-oiikogeneies-ths-palaias-4mbpsmp4-error610.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-17",
+        "title": "Οι Χάλκινοι της Γουμένισσας",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-s02-ep09-xalkinoi-goumenissas-4mbpsmp4-error689.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-18",
+        "title": "«Μπρατσέρα μου έλα γιαλό, Που ΄χω δυο λόγια να σου πω» - Μέρος Α'",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-s02-ep10-leros-part1-4mbpsmp4-2023-06-06-17h43m01s281.jpg"
+      },
+      {
+        "id": "greek_tv:ert:3be01a29:mousikes-oikogeneies-19",
+        "title": "«Μπρατσέρα μου έλα γιαλό, Που ΄χω δυο λόγια να σου πω» - Μέρος B'",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/mousikes-oikogeneies-s2-ep10-leros-2o-meros-roi-4mbpsmp4-error209.jpg"
+      }
+    ]
+  }
+}

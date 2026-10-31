@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:6df6af5c",
+    "type": "series",
+    "name": "Ακρίτες",
+    "poster": "https://files2.app.ertflix.gr/2023/ert3/akrites/akrites-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2023/ert3/akrites/akrites-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:6df6af5c:akrites-1",
+        "title": "Ατενίζοντας τ’ Άστρα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/akrites/akrites-s01-e01-atenizontas-ta-astra-4mbpsmp4-error584.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6df6af5c:akrites-3",
+        "title": "Όλυμπος: οι Καταφυγιάδες στα 2697μ.",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/akrites/akrites-s01-e02-olympos-4mbpsmp4-error191.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6df6af5c:akrites-4",
+        "title": "Φρακτό: Οι Ακρίτες του Δάσους",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/akrites/akrites-s01-ep03-4mbpsmp4-error309.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6df6af5c:akrites-2",
+        "title": "Οίτη: Γυναίκες που Τρέχουν με τους Λύκους",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/akrites/akrites-s01-e04-provolh-4mbpsmp4-error340.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6df6af5c:akrites-5",
+        "title": "Κυρά Παναγιά: Οι Ακρίτες της Πίστης",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/akrites/akrites-s01-e05-4mbpsmp4-error862.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6df6af5c:akrites-6",
+        "title": "Βάλια Κάλντα: Οι Ακρίτες της Ζεστής Κοιλάδας",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/akrites/akrites-s01-ep06-4mbpsmp4-error972.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6df6af5c:akrites-7",
+        "title": "Γαύδος: Γιατροί στην Άκρη της Ευρώπης",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/akrites/akrites-s01-e07-provolh-updated-4mbpsmp4-error997.jpg"
+      },
+      {
+        "id": "greek_tv:ert:6df6af5c:akrites-8",
+        "title": "Όρη Βροντούς: Οι Ακρίτες των Σπηλαίων",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/ert3/akrites/akrites-s01-e08-provolh-4mbpsmp4-error595.jpg"
+      }
+    ]
+  }
+}

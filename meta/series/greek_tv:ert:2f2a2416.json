@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:2f2a2416",
+    "type": "series",
+    "name": "Ανοιχτό Βιβλίο",
+    "poster": "https://files2.app.ertflix.gr/2024/series/vivlio-anoixto/anoixto-biblio-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2024/series/vivlio-anoixto/anoixto-biblio-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-2",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/series/vivlio-anoixto/vlcsnap-2024-10-10-09h14m08s940.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-3",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/vlcsnap-2024-10-10-09h25m06s244.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-4",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/anoixto-vivlio-3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-5",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-6",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/anoixto-vivlio-ep-5-4mbpsmp4-error219.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-7",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/anoixto-xanthoulis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-8",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/anoixto-vivlio-7.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-9",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/anoixto-vivlio-soti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-10",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/anoixto-vivlio-ep9-avcintra-100-4mbpsmp4-error741.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-11",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/anoixto-vivlio-10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-12",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/anoixto-vivlio-11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-13",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/anoixto-vivlio-12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-14",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/anoixto-s2e1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-15",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-28-09h04m01s975.png"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-16",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-28-11h35m58s262.png"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-17",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-06-10-08h49m13s330.png"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-18",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-06-17-14h09m17s533.png"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-19",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/anoixtavivlio-s02-ep-06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-20",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/anoixtovivlio-s02-ep-07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-21",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/anoixtovivlio-s02-ep-08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-22",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/anoixtovivlio-s02-ep-09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2f2a2416:anoikhto-biblio-23",
+        "title": "Ανοιχτό Βιβλίο",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/anoixtovivlio-s02-ep10.jpg"
+      }
+    ]
+  }
+}

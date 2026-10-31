@@ -7,13 +7,6 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/weekend_live/2026_2027/weekwnd_live_landscape.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:25e6ca35:2026-09-12-14",
-        "title": "Επεισόδιο 3",
-        "season": 1,
-        "episode": 3,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/weekend_live/2026_2027/weekend_3.jpg"
-      },
-      {
         "id": "greek_tv:skai:25e6ca35:2026-09-19-14",
         "title": "Επεισόδιο 4",
         "season": 1,
@@ -89,6 +82,13 @@
         "season": 1,
         "episode": 14,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/weekend_live/2026_2027/weekend_14.jpg"
+      },
+      {
+        "id": "greek_tv:skai:25e6ca35:2026-10-31-14",
+        "title": "Επεισόδιο 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/weekend_live/2026_2027/weekwnd_live_landscape.jpg"
       }
     ]
   }

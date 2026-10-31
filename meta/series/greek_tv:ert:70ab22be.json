@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:70ab22be",
+    "type": "series",
+    "name": "Ελλήνων Δρώμενα",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-ellinondromena-640x360.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/ellinon-dromena-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:70ab22be:ellinon-dromena-amorgos-giakoymis-gavras",
+        "title": "Αμοργός - Γιακουμής Γαβράς",
+        "season": 7,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/4-ellenon-dromena-amorgos-giakoumes-gabras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellinon-dromena-thanasis-skordalos-tis-lyras-moy-oi-filoi",
+        "title": "Θανάσης Σκορδαλός - Της Λύρας μου οι Φίλοι",
+        "season": 7,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/2-ellenon-dromena-epeis2-thanases-skordalos-tes-luras-mou-oi-philoi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellinon-dromena-vasilis-kostas-apo-tin-ipeiro-ston-kosmo",
+        "title": "Βασίλης Κώστας -Από την Ήπειρο στον Κόσμο",
+        "season": 7,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ellinon-dromen-ep3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellinon-dromena-i-skala-toy-vradetoy",
+        "title": "Η Σκάλα του Βραδέτου",
+        "season": 7,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/3-ellenon-dromena-epeis-4-e-skala-tou-bradetou-1024x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellinon-dromena-vre-kechagia-perifane",
+        "title": "Βρε Κεχαγιά Περήφανε!",
+        "season": 7,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ellinon-dromena-ep5.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellinon-dromena-nychteria-gynaikon-thrakis",
+        "title": "Νυχτέρια Γυναικών Θράκης",
+        "season": 7,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/4-ellenon-dromena-epeis-6-nukhteria-gunaikon-1024x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellinon-dromena-ichos-pneystos",
+        "title": "Ήχος Πνευστός",
+        "season": 7,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/3-ellenon-dromena-epeis-7-ekhos-pneustos-1024x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellinon-dromena-sifnos-i-poiitiki",
+        "title": "Σίφνος η Ποιητική",
+        "season": 7,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ellinon-dromena-ep8.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellinon-dromena-mantolino",
+        "title": "Μαντολίνο",
+        "season": 7,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ellinon-dromena-ep9.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellinon-dromena-sokratis-sinopoylos",
+        "title": "Σωκράτης Σινόπουλος",
+        "season": 7,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ellinon-dromena-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellinon-dromena-nees-archaies-moysikes",
+        "title": "Νέες Αρχαίες Μουσικές",
+        "season": 7,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ellinon-dromena-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellinon-dromena-manos-achalinotopoylos",
+        "title": "Μάνος Αχαλινοτόπουλος",
+        "season": 7,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ellinon-dromena-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellinon-dromena-nychtes-stin-paraliaki",
+        "title": "Νύχτες στην Παραλιακή",
+        "season": 7,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ellinon-dromena-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena",
+        "title": "Της Ρόδου ο Λυράρης - Γιάννης Κλαδάκης",
+        "season": 7,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/6-ellenon-dromena-tes-rodou-o-lurares-giannes-kladakes-300x169.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-1",
+        "title": "Το Κανονάκι",
+        "season": 7,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/ellenon-dromena-to-kanonaki-photo-2-300x169.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-2",
+        "title": "Ο Άνθρωπος Μουσείο - Φώτης Ραπακούσης",
+        "season": 7,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/2-ellenon-dromena-o-anthropos-mouseio-ph-rapakouses-1-300x169.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-3",
+        "title": "Ο Τραγουδιστής Τάκης Καρναβάς",
+        "season": 7,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/5-ellenon-dromena-o-tragoudistes-takes-karnabas-300x194.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-4",
+        "title": "Το Μπουζούκι - Οι Πρώτες Πενιές",
+        "season": 7,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/3-ellenon-dromena-to-mpouzouki-oi-protes-penies.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-5",
+        "title": "Το Μπουζούκι - Μάγκες Μεσσίας Πρόβαλε!",
+        "season": 7,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/3-ellenon-dromena-to-mpouzouki-magkes-messias-probale.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-6",
+        "title": "Η Κως που Τραγουδάει",
+        "season": 7,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/2-ellenon-dromena-e-kos-pou-tragoudei.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-7",
+        "title": "Ερωτόκριτος",
+        "season": 8,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ellhnwn-drwmena-s8-ep1-erwtokritos-4mbpsmp4-error372.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-8",
+        "title": "Η Πνοή του Κλαρίνου",
+        "season": 8,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ellhnwn-drwmena-s8-ep2-h-pnoh-tou-klarinou-4mbpsmp4-2024-02-28-09h59m54s573.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-9",
+        "title": "Καφενεία της Λέσβου",
+        "season": 8,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ellhnwn-drwmena-s8-ep3-kafeneia-ths-lesvou-4mbpsmp4-2024-03-06-12h10m08s114.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-10",
+        "title": "Οι Λύρες του Πόντου Τραγουδούν",
+        "season": 8,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ellhnwn-drwmena-s8-ep4-oi-lyres-tou-pontou-tragoudoun-4mbps.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-11",
+        "title": "Κερκυραϊκή Χορωδία",
+        "season": 8,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ellhnwn-drwmena-s8-ep5-kerkyraikh-xorwdia-4mbpsmp4-error044.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-12",
+        "title": "Η Προίκα",
+        "season": 8,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ellhnwn-drwmena-s8-ep6-h-proika-4mbpsmp4-error221.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-13",
+        "title": "Καρσάνικη Ομορφιά",
+        "season": 8,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ell-drwmena-seo8ep07-karsianikh-omorfia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-14",
+        "title": "Η Ιστορία της Μαριόλας",
+        "season": 8,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ellhnwn-drwmena-s8-ep8-istoria-ths-mariolas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-15",
+        "title": "Οι Βιολιστές της Πάτμου",
+        "season": 8,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ellhnwn-drwmena-s8-ep9-oi-biolistes-ths-patmou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-16",
+        "title": "Στης Γραμβούσας το Ακρωτήρι",
+        "season": 8,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ell-drwmena-se08-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-17",
+        "title": "Ζεϊμπέκικος",
+        "season": 8,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ellhnwn-drwmena-s8-ep11-zeimpekikos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:70ab22be:ellenon-dromena-19",
+        "title": "Κάλυμνος - Στεριά και Θάλασσα",
+        "season": 8,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/ellhnwn-drwmena-s8-ep12-kalymnos-steria-k-thalassa.jpg"
+      }
+    ]
+  }
+}

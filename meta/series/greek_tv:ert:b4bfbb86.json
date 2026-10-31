@@ -1,0 +1,389 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:b4bfbb86",
+    "type": "series",
+    "name": "#STArt",
+    "poster": "https://files2.app.ertflix.gr/2024/series/start/start-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2024/series/start/start-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-1",
+        "title": "Φανί Αρντάν",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/start/start-fani-arntan.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-2",
+        "title": "Ρένη Πιττακή",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/hr-ps028217-start-rena-pittakh-4mbpsmp4-error085.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-3",
+        "title": "Θεόδωρος Τερζόπουλος - A' Μέρος",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/start-ueodwros-terzopoylos-meros-a-4mbpsmp4-error728.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-4",
+        "title": "Θεόδωρος Τερζόπουλος - Β' Μέρος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/start-ueodwros-terzopoylos-meros-a-4mbpsmp4-error791.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-5",
+        "title": "Σούζι Μίλερ",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/start-se01-ep05-miller-1-4mbpsmp4-error569.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-6",
+        "title": "Καρυοφυλλιά Καραμπέτη",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/start-karabeti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-7",
+        "title": "Ελευθερία Αρβανιτάκη",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/vlcsnap-2024-12-16-14h42m15s021.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-8",
+        "title": "Βασίλης Χαραλαμπόπουλος",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/start-se01-ep08-xaralampopoulos-4mbpsmp4-error850.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-9",
+        "title": "Ντούλτσε Πόντες",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/465646215-8708186922564204-3242560028708804171-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-10",
+        "title": "Όλγα Μαλέα",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/start-malea.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-11",
+        "title": "Κώστας Γαβράς - Α' Μέρος",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-00009.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-12",
+        "title": "Κώστας Γαβράς - B' Μέρος",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-03-13-12h52m47s521.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-39",
+        "title": "Μαρία Φαραντούρη (Β' Μέρος)",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-farant-2o-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-38",
+        "title": "Μαρία Φαραντούρη (Α' Μέρος)",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-se02-ep32-farantouri-part-a.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-37",
+        "title": "Τίτος Πατρίκιος (B' Μέρος)",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-s02-ep24-patrikios-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-36",
+        "title": "Τίτος Πατρίκιος (Α' Μέρος)",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-s02-ep23-patrikios-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-35",
+        "title": "Γιάννης Χουβαρδάς",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-se02-ep22-houvardas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-34",
+        "title": "Μελίνα Κανά",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-s02-ep21-melina-kana.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-32",
+        "title": "Χρήστος Νικολόπουλος - B' Μέρος",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/start-ep20-nikolopoylos-2omeros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-33",
+        "title": "Πρωτοχρονιά με τη Λένα Αρώνη, τη Καίτη Γαρμπή και τον Διονύση Σχοινά",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/start-protoxronia-2026-garmpi-sxoinas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-31",
+        "title": "Χρήστος Νικολόπουλος - Α' Μέρος",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/start-ep19-nikolopoylos-1o-meros-4mbpsmp4-2025-12-25-14h28m55s272.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-30",
+        "title": "Χριστούγεννα με τη Λένα Αρώνη και τους Πυξ Λαξ",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/start-xristoygenna-2025-26-pyx-lax-4mbpsmp4-2025-12-25-14h29m52s277.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-29",
+        "title": "Κωνσταντίνος Τσουκαλάς",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/start-se2-ep16-kwn-tsoukalas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-28",
+        "title": "Ελεωνόρα Ζουγανέλη",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/start-se02-ep15-zouganelh-4mbpsmp4-2025-12-09-10h30m31s646.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-27",
+        "title": "Λεωνίδας Καβάκος",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/start-ep14-leonidas-kavakos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-15",
+        "title": "Βασίλης Λούρας",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-04-09-08h03m05s249.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-26",
+        "title": "Ξένια Καλογεροπούλου",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ps048346-start-s02-ep13-kalogeropoulou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-25",
+        "title": "Κώστας Τσόκλης- Β' Μέρος",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/start-s02-ep012-tsoklhs-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-24",
+        "title": "Κώστας Τσόκλης- Α' Μέρος",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/start-s02-ep11-tsoklhs-a-meros-1-4mbpsmp4-2025-10-30-10h36m26s255.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-22",
+        "title": "Λήδα Πρωτοψάλτη",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/lhda-prwtopsalth-01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-21",
+        "title": "Ούτε Λέμπερ",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/ute-lemper-01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-20",
+        "title": "Γιώργος Νταλάρας - Β' Μέρος",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-06-05-07h45m27s429.png"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-19",
+        "title": "Γιώργος Νταλάρας - Α' Μέρος",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/start-ntalaras-part1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-18",
+        "title": "Κωνσταντίνος Ρήγος",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/start-se02-rhgos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-16",
+        "title": "Λουκάς Καρυτινός",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-04-16-10h32m35s884.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-17",
+        "title": "Τάνια Τσανακλίδου",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/start-se02-ep05-tsanaklidou-4mbpsmp4-2025-04-24-13h17m42s239.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-14",
+        "title": "Ντόρα Μπακοπούλου",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-03-27-10h10m19s296.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-13",
+        "title": "Μπέτυ Αρβανίτη",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-03-19-13h42m11s741.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-51",
+        "title": "Best Of",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-s03-ep14-best-of.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-54",
+        "title": "Νίκος Καραθάνος",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-s03-ep13-karathanosmxf-2026-06-10-09h46m16s556.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-52",
+        "title": "Αντόλφ Σαπίρο",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-s03-ep12-sapiromxf-2026-06-02-10h44m01s984.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-50",
+        "title": "Μιχαήλ Μαρμαρινός",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-s03-ep11-marmarinos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-49",
+        "title": "Ελένη Τσαλιγοπούλου",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-s03-ep23-tsaligopouloumxf-2026-05-18-10h08m36s570.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-48",
+        "title": "Ιουλίτα Ηλιοπούλου",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps053044-0009-start-s03-ep09-hliopoulou-4mbpsmp4-2026-05-11-11h54m23s145.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-47",
+        "title": "Μαρίζα Καλογεροπούλου Φασιανού - Μέρος Β'",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-s03-ep08-fasianoy-b-meros-4mbpsmp4-2026-05-06-10h13m14s430.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-46",
+        "title": "Μαρίζα Καλογεροπούλου Φασιανού - Μέρος Α'",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-se3-ep7-fasianou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-45",
+        "title": "Άλκηστη Πρωτοψάλτη",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps053044-0006-start-s03-ep06-protopsalth-antikatastasi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-44",
+        "title": "Λυδία Κονιόρδου",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-s03-ep18-koniordoumxf-2026-03-30-10h03m35s272.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-43",
+        "title": "Νίκος Πορτοκάλογλου",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-portokaloglou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-42",
+        "title": "Γιώργος Κουμεντάκης",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-se03-ep-29-koumentakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-41",
+        "title": "Λένα Παπαληγούρα",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps060045-start-s02-ep28-papalhgoura.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-40",
+        "title": "Αμαλία Μουτούση",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-s02-ep27-amalia-moutoush.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-56",
+        "title": "Δημήτρης Πλατανιάς",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/trailer-start-plataniasmxf-2026-10-21-14h15m21s873.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-55",
+        "title": "Ζάχι Χαουάς",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-s04-ep02-haouas.jpg"
+      }
+    ]
+  }
+}

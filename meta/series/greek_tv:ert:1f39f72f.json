@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:1f39f72f",
+    "type": "series",
+    "name": "100 Χρόνια Ελληνική Δισκογραφία",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/100xroniaelldiskografia/100xroniaelldiskografia-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/100xroniaelldiskografia/100xroniaelldiskografia-hbbtv-bg-alexiou.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:1f39f72f:100-khronia-ellenike-diskographia-1",
+        "title": "Η Αυγή της Ελληνικής Δισκογραφίας",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/100xroniaelldiskografia/100xroniaelldiskografia-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1f39f72f:100-khronia-ellenike-diskographia-4",
+        "title": "Η Ελληνική Δισκογραφία στα Πρώτα Μεταπολεμικά Χρόνια",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/100xroniaelldiskografia/100-xronia-elliniki-diskografia-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1f39f72f:100-khronia-ellenike-diskographia-5",
+        "title": "Η Χρυσή Δεκαετία του '60 | Α’ Μέρος",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/100xroniaelldiskografia/100-xronia-elliniki-diskografia-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1f39f72f:100-khronia-ellenike-diskographia-6",
+        "title": "Η Χρυσή Δεκαετία του '60 | Β’ Μέρος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/100xroniaelldiskografia/100-xronia-elliniki-diskografia-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1f39f72f:100-khronia-ellenike-diskographia-7",
+        "title": "Η Δισκογραφία στα Χρόνια της Χούντας | A' Μέρος",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/100xroniaelldiskografia/100-xronia-elliniki-diskografia-ep05-1.png"
+      },
+      {
+        "id": "greek_tv:ert:1f39f72f:100-khronia-ellenike-diskographia-8",
+        "title": "Η Δισκογραφία στα Χρόνια της Χούντας | Β' Μέρος",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/100xroniaelldiskografia/100-xronia-elliniki-diskografia-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1f39f72f:100-khronia-ellenike-diskographia-9",
+        "title": "Η Δισκογραφία στα Πρώτα Χρόνια της Μεταπολίτευσης",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/100xroniaelldiskografia/100-xronia-elliniki-diskografia-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1f39f72f:100-khronia-ellenike-diskographia-10",
+        "title": "Η Δισκογραφία στη Δεκαετία της Αλλαγής | Α' Μέρος",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/100xroniaelldiskografia/100-xronia-elliniki-diskografia-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1f39f72f:100-khronia-ellenike-diskographia-11",
+        "title": "Η Δισκογραφία στη Δεκαετία της Αλλαγής | Β' Μέρος",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/100xroniaelldiskografia/100-xronia-elliniki-diskografia-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1f39f72f:100-khronia-ellenike-diskographia-12",
+        "title": "Η Δισκογραφία στη Δεκαετία του '90» | Α’ Μέρος: Τα Χρόνια της Εικόνας",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/100xroniaelldiskografia/100-xronia-elliniki-diskografia-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1f39f72f:100-khronia-ellenike-diskographia-13",
+        "title": "Η Δισκογραφία στη Δεκαετία του '90 | Β' Μέρος: Η Επικράτηση του CD",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinika-documentaires/100-xronia-elliniki-diskografia-ep-11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1f39f72f:100-khronia-ellenike-diskographia-14",
+        "title": "Η Δισκογραφία στη Νέα Χιλιετία",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/100xroniaelldiskografia/100-xronia-elliniki-diskografia-ep12-n.jpg"
+      }
+    ]
+  }
+}

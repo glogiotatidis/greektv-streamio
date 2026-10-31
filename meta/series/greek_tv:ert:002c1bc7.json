@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:002c1bc7",
+    "type": "series",
+    "name": "Στους Δρόμους των Ελλήνων",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/stous-dromous-twn-ellhnwn/stous-dromous-twn-ellhnwn-tsoklh-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/stous-dromous-twn-ellhnwn/stous-dromous-twn-ellhnwn-tsoklh-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:002c1bc7:stous-dromous-ton-ellenon-2",
+        "title": "Η Μεγάλη Βδομάδα στην Άλλη Ελλάδα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/stous-dromous-twn-ellhnwn/stous-dromous-ton-ellinon-ep01-i-megali-bdomada-stin-alli-ellada-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:002c1bc7:stous-dromous-ton-ellenon-3",
+        "title": "Αστόρια",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/stous-dromous-twn-ellinwn/stous-dromous-ton-ellinon-ep02-astoria-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:002c1bc7:stous-dromous-ton-ellenon-4",
+        "title": "Στο Λόουελ της Μασαχουσέτης",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/stous-dromous-twn-ellinwn/stous-dromous-twn-ellinwn-lowell.jpg"
+      },
+      {
+        "id": "greek_tv:ert:002c1bc7:stous-dromous-ton-ellenon-5",
+        "title": "Πρώτη Άφιξη",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/stous-dromous-twn-ellinwn/stous-dromous-ton-ellinon-ep04-proti-afixi-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:002c1bc7:stous-dromous-ton-ellenon-6",
+        "title": "Οι Έλληνες Εβραίοι της Αμερικής",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/stous-dromous-twn-ellhnwn/stous-dromous-ton-ellinon-ep05-oi-ellines-evraioi-tis-amerikis-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:002c1bc7:stous-dromous-ton-ellenon-7",
+        "title": "Η Εκκλησία",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/stous-dromous-twn-ellinwn/stous-dromous-ton-ellinon-i-ekklissia-7.jpg"
+      },
+      {
+        "id": "greek_tv:ert:002c1bc7:stous-dromous-ton-ellenon-8",
+        "title": "Νέα Υόρκη Α' Μέρος",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/stous-dromous-twn-ellhnwn/stous-dromous-twn-ellinwn-s01-h-nea-yorki-twn-ellinwn-meros-a1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:002c1bc7:stous-dromous-ton-ellenon-9",
+        "title": "Από τη Νέα Υόρκη στο Cape Cod",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/stous-dromous-twn-ellhnwn/stous-dromous-twn-ellinwn-s01-apo-ti-nea-yorki-sto-cape-cod.jpg"
+      },
+      {
+        "id": "greek_tv:ert:002c1bc7:stous-dromous-ton-ellenon-10",
+        "title": "Η Βοστώνη των Ελλήνων",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/stous-dromous-twn-ellhnwn/stous-dromous-twn-ellinwn-i-bostoni-twn-ellinwn.jpg"
+      },
+      {
+        "id": "greek_tv:ert:002c1bc7:stous-dromous-ton-ellenon-11",
+        "title": "Νέα Υόρκη Β' Μέρος",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/stous-dromous-twn-ellhnwn/stous-dromous-twn-ellinwn-ep10.jpg"
+      }
+    ]
+  }
+}

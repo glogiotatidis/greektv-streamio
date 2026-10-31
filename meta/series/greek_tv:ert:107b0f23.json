@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:107b0f23",
+    "type": "series",
+    "name": "Η Ιστορία του Ελληνικού Τύπου",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/istoria-tou-typou/ta-tragoudia-pou-egrapsan-istoria-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/istoria-tou-typou/istoria-tou-ellinikou-typou-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:107b0f23:e-istoria-tou-ellenikou-tupou",
+        "title": "Το ΟΧΙ των Ελλήνων Δημοσιογράφων |Α΄Μερός",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/i-istoria-tou-typou/ta-tragoudia-pou-egrapsan-istoria-ertflix-img3.jpg"
+      },
+      {
+        "id": "greek_tv:ert:107b0f23:e-istoria-tou-ellenikou-tupou-1",
+        "title": "Ο Τύπος στην Κατοχή και την Αντίσταση |Β΄Μερος",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ert-thimatai/i-istoria-tou-typou/ta-tragoudia-pou-egrapsan-istoria-ertflix-img3.jpg"
+      }
+    ]
+  }
+}

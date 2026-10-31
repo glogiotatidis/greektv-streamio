@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:5b5818df",
+    "type": "series",
+    "name": "Εποχές και Συγγραφείς",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-epoxes-syggrafeis-640x360.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxes-syggrafeis-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-19",
+        "title": "Κώστας Ταχτσής",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxes-kai-syggrafeis-kostas-taxtsis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-18",
+        "title": "Βασίλης Βασιλικός",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxes-kai-syggrafeis-vasilis-vasilikos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-17",
+        "title": "Eμμανουήλ Ροίδης",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxes-kai-syggrafeis-emmanouil-roidis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-16",
+        "title": "Διονύσιος Σολωμός :Σύγχρονες Προσεγγίσεις (Γ'Μέρος)",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxes-kai-syggrafeis-dionysios-solomos-c-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-15",
+        "title": "Διονύσιος Σολωμός : Η Κερκυραική Περίοδος (Β'Μέρος)",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxes-kai-syggrafeis-dionysios-solomos-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-14",
+        "title": "Διονύσιος Σολωμός : Από τη Γέννηση του έως τον Ύμνο (Α'Μέρος)",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxes-kai-syggrafeis-dionysios-solomos-a-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-13",
+        "title": "Αλέξης Ζήρας",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxes-kai-eikones-ziras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-12",
+        "title": "Μάτση Χατζηλαζάρου",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxes-kai-suggrafeis-2021-2022-ep05-matsi-xatzilazarou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-11",
+        "title": "Τάκης Παπατσώνης",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxes-kai-suggrafeis-2021-2022-ep4-takis-papatsonis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-10",
+        "title": "Μιχαήλ Μητσάκης",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxes-kai-syggrafeis-mitsakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-9",
+        "title": "Τέλλος Άγρας",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxes-kai-syggrafeis-tellos-agras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-8",
+        "title": "Λάμπρος Πορφύρας",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mousiki/epohes-kai-sygrafeis/epoxes-kai-syggrafeis-porfyras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-7",
+        "title": "Παυλίνα Παμπούδη",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/20210413-epoxes-kai-sygrafeis-pavlina.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-6",
+        "title": "Γεώργιος Βιζυηνός",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/viziinos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-5",
+        "title": "Μυρτιώτισσα",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/20210330-epoxes-kai-syggrafeis-myriwtissa-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-4",
+        "title": "Παύλος Νιρβάνας",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/20210323-epoxes-kai-sigrafeis-nirvanas-e05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-3",
+        "title": "Ρώμος Φιλύρας",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/20210316-epoxes-kai-sigrafeis-filyras-e04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-2",
+        "title": "Κωστής Παλαμάς Μέρος 2ο",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxes-kai-syggrafeis-kostis-palamas-2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epokhes-kai-suggrapheis-1",
+        "title": "Κωστής Παλαμάς Μέρος 1ο",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/epoxes-kai-siggrafeis-kostis-palamas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:5b5818df:epoches-kai-syggrafeis-zisimos-lorentzatos",
+        "title": "Ζήσιμος Λορεντζάτος",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/2021/02/20210223-epoxes-kai-sigrafeis.jpg"
+      }
+    ]
+  }
+}

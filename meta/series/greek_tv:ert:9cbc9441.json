@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:9cbc9441",
+    "type": "series",
+    "name": "Όσα Φέρνει η Μνήμη",
+    "poster": "https://files2.app.ertflix.gr/2026/shows/osa-phernei-e-mneme/osaferneihmnimi-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2026/shows/osa-phernei-e-mneme/osaferneihmnimi-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:9cbc9441:osa-phernei-e-mneme-1",
+        "title": "Κώστας Σπυριούνης",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/osa-fernei-h-mnhmh-ep01-kostas-spirgiounis-antikatastasi-4mbpsmp4-2026-09-09-14h23m40s249.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cbc9441:osa-phernei-e-mneme-2",
+        "title": "Νίκος Καβουκίδης",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/osa-fernei-h-mnhmh-ep02-nikos-kaboykidhs-4mbpsmp4-2026-09-24-10h08m21s598.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cbc9441:osa-phernei-e-mneme-3",
+        "title": "Δημήτρης Παπαχρήστος - Μέρος Α'",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/3e-photo-3o-epeisodio-demetres-papakhrestos-dendro-mesa-ston-anemo-ameros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cbc9441:osa-phernei-e-mneme-4",
+        "title": "Δημήτρης Παπαχρήστος - Μέρος Β'",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/1e-photo-4o-epeisodio-demetres-papakhrestos-dendro-mesa-ston-anemo-b-meros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cbc9441:osa-phernei-e-mneme-5",
+        "title": "Θεσπιές",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/osa-fernei-i-mnimi-ep05-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cbc9441:osa-phernei-e-mneme-6",
+        "title": "Θέατρο Σκιών, Η Tέχνη να Aντέχεις",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/osa-fernei-h-mnhmh-ep06-karagkiozhs-4mbpsmp4-2026-10-20-09h33m02s891.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cbc9441:osa-phernei-e-mneme-7",
+        "title": "Η Βιβλιοθήκη του Φροντιστηρίου της Αργυρούπολης του Πόντου",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/osa-fernei-h-mnhmh-ep07-vivliothiki-frontistirioy-argyroylophs-pontoy.jpg"
+      }
+    ]
+  }
+}

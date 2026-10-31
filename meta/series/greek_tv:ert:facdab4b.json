@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:facdab4b",
+    "type": "series",
+    "name": "Una Faccia Una Razza",
+    "poster": "https://files2.app.ertflix.gr/2026/documentaries/una-faccia-una-razza/unafacciaunarazza-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2026/documentaries/una-faccia-una-razza/unafacciaunarazza-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:facdab4b:una-faccia-una-razza-1",
+        "title": "Καλαβρία - Μέρος 1ο",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/galliciano-6.jpg"
+      },
+      {
+        "id": "greek_tv:ert:facdab4b:una-faccia-una-razza-2",
+        "title": "Καλαβρία - Μέρος 2ο",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds022696-0002-02-una-faccia-una-razza-ep02-calavria-newmxf-2026-09-24-11h30m51s085.jpg"
+      },
+      {
+        "id": "greek_tv:ert:facdab4b:una-faccia-una-razza-3",
+        "title": "Καλαβρία - Μέρος 3ο",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/vlcsnap-2026-09-21-18h35m33s870.jpg"
+      },
+      {
+        "id": "greek_tv:ert:facdab4b:una-faccia-una-razza-4",
+        "title": "Καλαβρία - Μέρος 4ο",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/vlcsnap-2026-10-06-12h51m41s590.jpg"
+      },
+      {
+        "id": "greek_tv:ert:facdab4b:una-faccia-una-razza-5",
+        "title": "Καλαβρία - Μέρος 5ο",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/una-faccia-una-razza-ep05-calavria-05-antikatastash-4mbpsmp4-2026-10-20-10h28m59s742-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:facdab4b:una-faccia-una-razza-6",
+        "title": "Απουλία - Μέρος 1ο",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/una-faccia-una-razza-ep06-pouglia-a-meros-4mbpsmp4-2026-10-20-10h46m51s532.jpg"
+      }
+    ]
+  }
+}

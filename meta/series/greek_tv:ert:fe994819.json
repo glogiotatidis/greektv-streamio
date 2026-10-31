@@ -1,0 +1,599 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:fe994819",
+    "type": "series",
+    "name": "Auto Moto",
+    "poster": "https://files2.app.ertflix.gr/files/sports/ertflix-banner-auto-moto-640x360.jpg",
+    "background": "https://files2.app.ertflix.gr/files/sports/auto-moto-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-6",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/automoto-s07-e01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-12",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ame-s07e02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-13",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ame-s07e03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-14",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ame-s07e04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-15",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ame-s07e05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-16",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ame-s07e06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-22",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/automoto-s07-e07-4mbpsmp4-error161.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-17",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/auto0708.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-18",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/automoto-s07-e09-4mbpsmp4-error118.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-19",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/auto-moto-10h-ekpomph-4mbpsmp4-error545.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-21",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/automoto-s07-e11-4mbpsmp4-error972.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-2",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/auto-moto-s07-e12-4mbpsmp4-error143.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-3",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/auto-moto-s07-e13-4mbpsmp4-error957.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-1",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/auto-moto-s07-e14-4mbpsmp4-error008.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-20",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/automoto-s7-ep15mxf-error292.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-4",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/auto-moto-16-ekpomph-4mbpsmp4-error545.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-5",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/auto-moto-s07e17-4mbpsmp4-error387.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-7",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/auto/auto-moto-18-ekpomph-4mbpsmp4-error186.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-8",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/import/auto-moto-19-ekpomph-4mbpsmp4-error788.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-9",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/import/auto-moto-ep20-4mbpsmp4-error949.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-10",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/import/auto-moto-21-ekpomph-nfv-4mbpsmp4-error197.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-11",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/2022/ert3/auto-moto-ekpompi-22-4mbpsmp4-error133.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-23",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/auto-moto-23-ekpomphmxf-2022-11-04-09h19m15s830.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-24",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/auto-moto-24-ekpomph-4mbpsmp4-error252.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-25",
+        "title": "Auto Moto ΕΡΤ",
+        "season": 7,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/auto-moto-s07-e25-4mbpsmp4-error258.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-ert-26",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/auto-moto-2023-ep01-4mbpsmp4-error358.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/auto-moto-s08-ep02-4mbpsmp4-error419.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-1",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/auto-moto-s08-ep03-4mbpsmp4-error859.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-2",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/auto-moto-s08-ep04-4mbpsmp4-error188.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-3",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/auto-moto-s08-ep05-4mbpsmp4-2023-08-02-12h37m10s667.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-4",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/hr-524272-auto-moto-2023-06-nfv-4mbpsmp4-error170.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-5",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/hr-524275-auto-moto-2023-07-nfv-4mbpsmp4-error081.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-6",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/auto-moto-s08e08-4mbpsmp4-error945.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-8",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/hr-527101-auto-moto-2023-09-norm-nfv-4mbpsmp4-error123.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-7",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/automoto-2023-10-4mbpsmp4-error487.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-9",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/auto-moto-s8e11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-10",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/automoto-s08e12-4mbpsmp4-error366.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-11",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2023/imgs/automoto-s08e13-4mbpsmp4-2023-12-19-09h34m44s341.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-12",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/automoto-s08e14-4mbpsmp4-2024-01-12-14h30m02s436.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-13",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/automoto-s08ep15-4mbpsmp4-2024-02-02-14h45m20s299.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-15",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/automoto-s08ep16-4mbpsmp4-error162.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-14",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/automoto-s08ep17.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-16",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/hr-ps018480-auto-moto-18h-ekpomph-4mbpsmp4-error158.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-17",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/hr-ps019607-auto-moto-19h-ekpomph-4mbpsmp4-error807.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-18",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/hr-ps021264-auto-moto-20h-ekpomph-4mbps.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-19",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/auto-moto-21h-ekpomph-4mbpsmp4-error294.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-20",
+        "title": "Auto Moto",
+        "season": 8,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/hr-ps023486-auto-moto-22h-ekpomph-4mbpsmp4-error821.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-21",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/automoto-2025-ep1-4mbpsmp4-error783.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-22",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/automoto-s9-ep2-4mbpsmp4-error910.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-23",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/auto-moto-auto-moto-s9e3-4mbpsmp4-error054.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-24",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/auto-moto-s9e4-4mbpsmp4-error240.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-25",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/auto-moto-s9e5-4mbpsmp4-error567.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-26",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/auto-moto-se09-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-27",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-02-20-12h25m18s721.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-28",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-03-12-10h45m26s803.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-29",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-04-01-10h50m24s127.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-30",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/hr-ps028693-auto-moto-auto-moto-se-000ep-010-4mbpsmp4-2025-04-30-14h14m59s343.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-31",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-14-13h27m38s136.png"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-32",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-05-30-12h02m31s392.png"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-33",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-06-17-13h44m09s807.png"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-34",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/hr-ps028697-auto-moto-se-09-ep-014.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-35",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ps028698-auto-moto-se9-ep15.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-36",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/hr-ps028699-auto-moto-se09-ep16.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-37",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-09-04-14h06m03s526.png"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-38",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-09-22-12h58m29s737.png"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-39",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/auto-moto-s09-ep19.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-40",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps028703-auto-moto-s09-ep20.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-41",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps028704-auto-moto-s09-ep21-4mbps.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-42",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/auto-moto/ps028705-auto-moto-s09-ep22.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-43",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps048637-auto-moto-s09-ep23.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-44",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps048693-auto-moto-s09-ep24.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-45",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/auto-moto-s09-ep25.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-46",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps049786-auto-moto-s02-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-47",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps049944-auto-moto-s09-ep27.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-48",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps060198-auto-moto-s02-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-49",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps055057-0006-auto-moto-s02-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-50",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps055057-0007-auto-moto-s02-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-51",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps055057-0008-auto-moto-s02-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-52",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps055057-0009-auto-moto.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-53",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps055057-0010-auto-moto-s02-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-54",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps055057-0011-auto-moto.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-55",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps055057-0012-auto-moto-s02-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-57",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps055057-0013-auto-moto-s02-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-56",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps055057-0014-auto-moto-s02-ep14.jpg"
+      }
+    ]
+  }
+}

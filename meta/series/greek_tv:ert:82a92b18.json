@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:82a92b18",
+    "type": "series",
+    "name": "με Αποφασιστικότητα",
+    "poster": "https://files2.app.ertflix.gr/2026/news24/me-apofasistikotita/me-apofasistikotita-nohm-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2026/news24/me-apofasistikotita/me-apofasistikotita-new-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-37",
+        "title": "Θεοδώρα Κουτσομίχα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep37-theodora-koytsomixamxf-2026-06-25-09h47m23s878.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-36",
+        "title": "Φάνης Παπαδημητρίου",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps053101-0036-01-me-apofasistikothta-ep36-papadhmhtrioy-fanhsmxf-2026-06-19-13h05m42s309.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-35",
+        "title": "Χαρά Μπαξεβάνη και ο Νίκος Αργυρός",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep35-xara-baxebanh-nikos-argyros-4mbpsmp4-2026-06-16-09h47m12s828.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-34",
+        "title": "Στέλλα Σμαραγδή",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep34-stella-smaragdhmxf-2026-06-04-10h16m36s418.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-33",
+        "title": "Δημήτρης Μουρατίδης",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep33-moyratidhs-4mbpsmp4-2026-06-02-10h28m44s623.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-32",
+        "title": "Παύλος Χιδίρογλου και Αντιγόνη Στάμου",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps053101-0032-01-me-apofasistikothta-ep32-paylos-xidirogloymxf-2026-05-22-10h01m41s092.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-31",
+        "title": "Χριστίνα Ντούμα",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep31-ntoyma-4mbpsmp4-2026-05-19-09h39m07s380.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-30",
+        "title": "Κωνσταντίνος Κακούρος",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep30-kostas-kakoyrosmxf-2026-05-11-11h34m36s888.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-29",
+        "title": "Λέανδρος και Φίλιππος Παπαχαραλαμπίδης",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps053101-0029-01-me-apofasistikothta-ep29-leandrosmxf-2026-05-01-16h36m32s358.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-28",
+        "title": "Ιωάννα Τσιλίκα",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps053101-0028-me-apofasistikothta-ep28-tsilika-4mbpsmp4-2026-04-24-10h52m59s725.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-27",
+        "title": "Δημήτρης Αντωνίου",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep27-dhmhtrhs-antwnioy-4mbpsmp4-2026-04-22-09h44m24s717.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-26",
+        "title": "Σύνδρομο Angelman",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep26-katerinamariaxrysafoudi-4mbpsmp4-2026-04-14-09h51m10s629.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-25",
+        "title": "Κατερίνα Μποφίλιου και η Mητέρα της Γεωργία Μπαντούνα",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps053101-0025-me-apofasistikothta-ep25-katerina-mpofilioy-4mbpsmp4-2026-04-06-10h54m46s618.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-24",
+        "title": "Γιώργος Τσικουδής - Στυλιανή Κανταρτζή",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep24-tsikoydhs-kantartzhmxf-2026-03-27-09h44m48s076.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-23",
+        "title": "Καθολική και ο Δημήτρης Θαρενός",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps060206-me-apofasistikothta-ep23-dhmhtrhs-katholikh-tharenoymxf-2026-03-24-10h52m46s184.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-22",
+        "title": "Τάκης Αλεξανδράκης",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/apofasistikothta-ep22-takhs-alexandrakhs-4mbpsmp4-2026-03-16-15h51m59s410.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-21",
+        "title": "Νάσος Γκαβέλας",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep21-nasos-gkabelas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-20",
+        "title": "Ετεοκλής Παύλου",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep20-eteoklhs-payloy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-19",
+        "title": "Χαράλαμπος Ταϊγανίδης",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps060004-apofasistikothta-ep19-taiganidis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-18",
+        "title": "Μαργαρίτα Τζιοπάνου",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ps060003-me-apofasistikothta-ep18-margarita-tziopanoy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-17",
+        "title": "«Μια Μπάλα για 'Ολους»: Ηλίας Μάστορας και Λουκία Κασαμάκη",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep17-mastoras-kasamakh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-16",
+        "title": "Κατερίνα Βρανά",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep16-brana.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-15",
+        "title": "Βασίλης Μόραλης",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep15-vasilis-moralis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-14",
+        "title": "Αργύρης και Σεβαστός Κουμτζής",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep14-aderfia-koumtzh.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-13",
+        "title": "Αθανάσιος Βασιλειάδης",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-ep13-athanasios-basileiadhs-4mbpsmp4-2026-01-14-10h11m29s962.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-12",
+        "title": "Μαρία Σγούρου",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ps048468-me-apofasistikothta-ep12-maria-sgoyroy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-11",
+        "title": "Best of 2025 – Οι Στιγμές που μας Έκαναν να Πιστέψουμε Ξανά",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/news-24/me-apofasistikotita/ps048467-me-apofasistikothta-bestof-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-10",
+        "title": "Με Φωνές Παιδιών, Ιστορίες Συμπερίληψης και Μηνύματα Ανθρωπιάς",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/ps048466-me-apofasistikothta-xristoygenniatikomxf-2025-12-25-13h49m32s305.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-9",
+        "title": "Θανάσης Σιδέρης",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/news-24/me-apofasistikotita/me-apofasistikothta-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-8",
+        "title": "Λήδα Μανθοπούλου",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/news-24/me-apofasistikotita/20251210-me-apofasistikothta-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-7",
+        "title": "Παγκόσμια Ημέρα Αναπηρίας",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/news-24/me-apofasistikotita/20251203-me-apofasistikothta-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-6",
+        "title": "Γιώργος Λαζαρίδης",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/news-24/me-apofasistikotita/20251126-me-apofasistikothta-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-5",
+        "title": "Κωνσταντίνος Τζούνης",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/news-24/me-apofasistikotita/20251119-me-apofasistikothta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-4",
+        "title": "Μια Zωή με Aποφασιστικότητα",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/news-24/me-apofasistikotita/20251112-me-apofasistikothta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-3",
+        "title": "Δεν Υπάρχει δεν Μπορώ",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/news-24/me-apofasistikotita/20251105-me-apofasistikotita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-2",
+        "title": "H Δύναμη της Θέλησης",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/news-24/me-apofasistikotita/20251029-me-apofasistikothta.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-1",
+        "title": "Δώρα Πασχαλίδου",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/news-24/me-apofasistikotita/20251022-apofasistikotita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-38",
+        "title": "Αλεξάνδρα Σταματοπούλου",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-s02-ep01-stamatopoyloy-4mbpsmp4-2026-09-26-12h18m06s332.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-39",
+        "title": "Η Μαρία Χατζηιωάννου (MariaRolls) και ο Δημήτρης Πανόπουλος",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-maria-xatzhiwannoy-dhm-panopoylos-s02-ep02-4mbpsmp4-2026-10-02-15h38m27s587.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-40",
+        "title": "Αναστάσιος Τσίου",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/me-apofasistikotita/me-apofasistikothta-s02-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-41",
+        "title": "Αναστάσης Κουρδής",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/me-apofasistikotita/me-apofasistikothta-s02-ep04-anastashs-koyrdhs.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-42",
+        "title": "Αρετή Αγγελή: Μια Ζωή Γεμάτη Δύναμη, Αποφασιστικότητα και Νίκες",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/me-apofasistikotita/me-apofasistikothta-s02-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:82a92b18:me-apophasistikoteta-43",
+        "title": "Ειρήνη Πατσαβούδη",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/me-apofasistikothta-s02-ep06-eirhnh-patsavoydh.jpg"
+      }
+    ]
+  }
+}

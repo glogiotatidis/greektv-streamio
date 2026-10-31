@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:e78a7be6",
+    "type": "series",
+    "name": "Μικρά Βιβλία Μεγάλες Ιδέες",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/mikra-vivlia-megales-idees/mikravivliamegalesideesertflix-poster.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/mikra-vivlia-megales-idees/mikravivliamegalesidees-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:e78a7be6:mikra-biblia-megales-idees-1",
+        "title": "Sapiens",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mikra-vivlia-megales-idees-s01-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e78a7be6:mikra-biblia-megales-idees-2",
+        "title": "The Subtle Art of not Giving A F*ck",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mikra-vivlia-megales-idees/mikra-vivlia-s01-ep02-the-subtle-art-of-not-giving-fuck.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e78a7be6:mikra-biblia-megales-idees-3",
+        "title": "Το Μέλλον Αρχίζει Εδώ και Τώρα",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mikra-vivlia-megales-idees/mikra-vivlia-s01-ep03-to-mellon-arhizei-edo-kai-tora.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e78a7be6:mikra-biblia-megales-idees-4",
+        "title": "Είμαι Επικίνδυνη",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mikra-vivlia-sapiens-s01-ep04-eimai-epikindini.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e78a7be6:mikra-biblia-megales-idees-5",
+        "title": "Ελληνικό Όνειρο",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mikra-vivlia-megales-idees/mikra-vivlia-sapiens-s01-ep05-elliniko-oneiro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e78a7be6:mikra-biblia-megales-idees-6",
+        "title": "Ευτυχιοκρατία. Πώς η βιομηχανία της ευτυχίας κυβερνά τη ζωή μας",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/mikra-vivlia-sapiens-s01-ep06-eytyxiokratia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e78a7be6:mikra-biblia-megales-idees-7",
+        "title": "Ανθρωπότητα: Μια απροσδόκητα αισιόδοξη ιστορία",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mikra-vivlia-megales-idees/mikra-vivlia-s01-ep07-antropotita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e78a7be6:mikra-biblia-megales-idees-8",
+        "title": "Πώς να είμαστε στωϊκοί",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mikra-vivlia-megales-idees/mikra-vivlia-sapiens-s01-ep08-pos-na-eimastai-stoikoi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e78a7be6:mikra-biblia-megales-idees-9",
+        "title": "12 Κανόνες για τη Ζωή: Ένα αντίδοτο για το χάος",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mikra-vivlia-megales-idees/mikra-vivlia-s01-ep09-12-kanones-gia-ti-zoi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e78a7be6:mikra-biblia-megales-idees-10",
+        "title": "Καθημερινή Φιλοσοφία: 5 μαθήματα από την εποχή μας",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mikra-vivlia-megales-idees/mikra-vivlia-sapiens-s01-ep10-kathimerini-filosofia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e78a7be6:mikra-biblia-megales-idees-11",
+        "title": "Το Βέλος του Απόλλωνα",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mikra-vivlia-megales-idees/mikra-vivlia-sapiens-s01-ep11-to-velos-tou-apolona.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e78a7be6:mikra-biblia-megales-idees-12",
+        "title": "Έθνη σε Αναταραχή",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/mikra-vivlia-megales-idees/mikra-vivlia-s01-ep12-ethni-se-anataraxi.jpg"
+      }
+    ]
+  }
+}

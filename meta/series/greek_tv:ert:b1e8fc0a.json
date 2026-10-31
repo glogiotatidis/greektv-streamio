@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:b1e8fc0a",
+    "type": "series",
+    "name": "Συνθέσεις",
+    "poster": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/2026-2027/syntheseis-2026-27-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/2026-2027/syntheseis-2026-27-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-35",
+        "title": "Τεχνητή Νοημοσύνη: Ηθική, Άνθρωπος και Διακυβέρνηση στον Καινούργιο Κόσμο | 02.08.25",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250802-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-34",
+        "title": "Το Άγνωστο Ωδείο του Ηρώδου του Αττικού | 19.07.25",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250720-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-33",
+        "title": "Οι Περιφέρειες σε Ελλάδα και Ευρώπη ως Κέντρο Εξελίξεων | 12.07.25",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250712-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-32",
+        "title": "Οι Πολιτικές Επιστήμες: Παρελθόν, Παρόν, Μέλλον | 05.07.25",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250705-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-31",
+        "title": "Ακολούθησε το Νερό | 28.06.25",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250629-syntheseis-f.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-30",
+        "title": "Η Ασία ως Κέντρο Βάρους ενός Κόσμου που Αλλάζει | 21.06.25",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250621-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-29",
+        "title": "Σύνταγμα και Συνταγματική Αναθεώρηση | 14.06.25",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250614-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-28",
+        "title": "Τι Διαχωρίζει μια «Καλή Ιδέα» από το να Δημιουργηθεί μια Επιτυχημένη Start - up; | 07.06.25",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250607-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-27",
+        "title": "Μπροστά στο Καινούργιο που Είναι Ήδη Εδώ | 31.05.25",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250531-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-26",
+        "title": "Παγκόσμια και Ελληνική Λογοτεχνία: Γιατί Έχει Σημασία να Διαβάζουμε Βιβλία; | 24.05.25",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250524-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-24",
+        "title": "Το Δημογραφικό | 10.05.25",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250510-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-22",
+        "title": "Ο Καπιταλισμός τον 21ο Αιώνα | 26.04.25",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250426-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-21",
+        "title": "Δημοκρατία, Απολυταρχία, Ελευθερία, Λαϊκισμός: Η Σημασία των Λέξεων | 12.04.25",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250412-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-20",
+        "title": "Μέση Ανατολή, η Τυραννία των Προσδοκιών και η Τυραννία των Πεποιθήσεων | 05.04.25",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250405-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-19",
+        "title": "Ο Παραμορφωτικός Φακός των Μέσων Κοινωνικής Δικτύωσης | 29.03.25",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250329-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-18",
+        "title": "Η Ευρώπη | 22.03.25",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250322-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-17",
+        "title": "Υπάρχει Ακόμη η «Δύση»; | 15.03.25",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250315-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-16",
+        "title": "Δικαιοσύνη και Δημοκρατία | 08.03.25",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250308-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-15",
+        "title": "Τεχνητή Νοημοσύνη και Θρησκεία | 01.03.25",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250301-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-14",
+        "title": "Από την Καπερναούμ στα Υψίπεδα του Γκολάν | 22.02.25",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250222-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-13",
+        "title": "Ταυτότητα, Ταυτότητες... | 15.02.25",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250215-syntheseis-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-12",
+        "title": "Οι Αυτοκρατορίες | 08.02.25",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250208-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-11",
+        "title": "Η Φιλοσοφία είναι Απαραίτητη στον 21o Αιώνα; | 01.02.25",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250201-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-10",
+        "title": "Ισραήλ | 25.01.25",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250125-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-9",
+        "title": "Μην Αγχώνεστε, η Ζωή Χρειάζεται Στρες | 18.01.25",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250118-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-8",
+        "title": "Η Θεατρικότητα των Πραγμάτων | 11.01.25",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250111-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-7",
+        "title": "Ανθρώπινο Γονιδίωμα | Κοινωνικοπολιτική και Θρησκευτική Ταυτότητα | 28.12.24",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20241228-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-6",
+        "title": "Πρέπει να Ορίσουμε και Πάλι τη Δημοκρατία; | 21.12.24",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20241221-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-5",
+        "title": "Υπέροχος Καινούργιος Κόσμος | Υποσχέσεις και Κίνδυνοι | 14.12.24",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20241214-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-4",
+        "title": "Δικαιοσύνη, Πόλεμος και Ειρήνη | 07.12.24",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20241206-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-3",
+        "title": "Ο Σύγχρονος Άνθρωπος και η Γλώσσα | 30.11.24",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20241130-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-2",
+        "title": "Αριστεία, Αξιοκρατία, Αξιολόγηση και 'Ηθος | 23.11.24",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20242311-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-1",
+        "title": "Politically Correct & Woke Κουλτούρα | 16.11.24",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20241116-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-72",
+        "title": "Μπορεί η Τεχνητή Νοημοσύνη να επηρεάσει το πως θα γράφεται η Κωμωδία | 29.08.26",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049231-synthesis-tehniti-noimosini-kai-kwmwdia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-71",
+        "title": "Η Επιστήμη και η Τέχνη ως Συνεννόηση με τον Εαυτό μας | 22.08.26",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049221-synthesis-epistimi-kai-texni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-70",
+        "title": "Μαρία Ευθυμίου 2006-2026, 20 Χρόνια Ομιλίες για την Ιστορία στο Ευρύ Κοινό Μέρος Β' | 15.08.26",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049533-synthesis-maria-euthimiou-part2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-69",
+        "title": "Μαρία Ευθυμίου 2006-2026, 20 Χρόνια Ομιλίες για την Ιστορία στο Ευρύ Κοινό Μέρος Α' | 08.08.26",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049532-synthesis-maria-euthimiou-part1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-68",
+        "title": "Η Ελλάδα Καινοτομεί Ξανά Μετά από Αιώνες | 25.07.26",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049227-synthesis-i-ellada-kainotomei.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-66",
+        "title": "Η Τεχνητή Νοημοσύνη Μπορεί και να μας Σώσει | 18.07.26",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049228-h-texniti-noimosini-mporei-na-mas-swsei.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-67",
+        "title": "Δυτικό Αέτωμα Παρθενώνα - 224 χρόνια μετά | 11.07.26",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049229-synthesis-aetoma-parthenona.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-65",
+        "title": "Νέοι Άνθρωποι που δε «Διαφημίζονται» Αλλά Δουλεύουν | 27.06.26",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049220-synthesis-neoi-anthropoi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-64",
+        "title": "Τεχνητή Νοημοσύνη, Ψηφιακή Εικόνα και Πραγματικότητα Μέρος Β' | 20.06.26",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049226-syntheseis-ionio-panepistimio-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-63",
+        "title": "Τεχνητή Νοημοσύνη, Ψηφιακή Εικόνα και Πραγματικότητα Μέρος Α' | 13.06.26",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049225-synthesis-texniti-noimosyni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-62",
+        "title": "Υγεία για Όλους σε Δύσκολους Καιρούς | 06.06.26",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/syntheseis-s02-ep24-paster.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-61",
+        "title": "Ακούμε τα Νέα Παιδιά Μέρος Β' | 30.05.26",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049224-synthesis-akoume-ta-paidia-b.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-60",
+        "title": "Ακούμε τα Νέα Παιδιά Μέρος Α' | 23.05.26",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049223-synthesis-akoume-ta-paidia-a.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-59",
+        "title": "Φωτίζοντας την Ακαδημία Αθηνών | 16.05.26",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049219-syntheseis-akadimia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-58",
+        "title": "Η Ελληνική Ιστορία ως Παγκόσμιο Γεγονός | 09.05.26",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20260509-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-56",
+        "title": "Το ΝΑΤΟ από το 1949 Μέχρι Σήμερα | 21.02.26",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049217-20260221-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-55",
+        "title": "Επιζώντας από το Ολοκαύτωμα | 14.02.26",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049216-syntheseis-14-02-2026.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-54",
+        "title": "Βασικές Αρχές της Συνταγματικής Αναθεώρησης | 07.02.26",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20260207-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-53",
+        "title": "Η Ιστορία του Ισλάμ και η Ισλαμική Ευρωπαϊκότητα | 31.01.26",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/ps049214-20260131-syntheseis-17.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-52",
+        "title": "Τα Δελφικά Προτάγματα και οι Δελφικές Αξίες Εδώ και Χιλιάδες Χρόνια Αλλά και για Πάντα | 24.01.26",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20260124-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-51",
+        "title": "Φασισμός, η Ιστορία μιας Ιδεολογίας | 17.01.26",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20260117-synytheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-49",
+        "title": "Ο Χριστιανισμός και η Ορθοδοξία τον 21ο Αιώνα | 27.12.25",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20251227-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-48",
+        "title": "130 Συρράξεις Μακριά από τα Φώτα της Δημοκρατίας | 20.12.25",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20251220-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-47",
+        "title": "Περί Μουσείων | 13.12.25",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20251213-syntheseis-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-46",
+        "title": "Ο Χρυσός Αιώνας της Επιστήμης | 06.12.25",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20251206-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-45",
+        "title": "Ο Μεσοπόλεμος ως Μεγεθυντικός Φακός του Σήμερα | 29.11.25",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/740866-20251129-syntheseis-mesopolemos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-44",
+        "title": "Τόση Πολλή Επιστήμη σε Τόσα Λίγα Τετραγωνικά...Μέρος Β' | 22.11.25",
+        "season": 2,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20251122-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-43",
+        "title": "Τόση Πολλή Επιστήμη σε Τόσα Λίγα Τετραγωνικά...Μέρος A' | 15.11.25",
+        "season": 2,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20251115-sintheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-42",
+        "title": "Η Αναζήτηση της Αυθεντικότητας Μέσα από την Τέχνη, τη Φιλοσοφία και τη Ζωή | 08.11.25",
+        "season": 2,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/732818-s02-08-syntheseis-filosofoi-081125.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-41",
+        "title": "Η Νέα Εποχή στην Υγεία Παγκοσμίως | 01.11.25",
+        "season": 2,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20251101-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-40",
+        "title": "Οι Μέντορες του Υπουργείου Μετανάστευσης και Ασύλου | 25.10.25",
+        "season": 2,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20251025-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-39",
+        "title": "Πολιτική Επικοινωνία: Εικόνα ή Ψευδαίσθηση; | 18.10.25",
+        "season": 2,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20251018-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-38",
+        "title": "Κίνηση | 11.10.25",
+        "season": 2,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20251011-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-37",
+        "title": "Σκέψεις για τη Διανόηση | 04.10.25",
+        "season": 2,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20251004-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-36",
+        "title": "H Χαρτογράφηση του Γονιδιώματος των Νεογνών και τα Ηθικά Προβλήματα που Προκύπτουν | 27.09.25",
+        "season": 2,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/20250927-syntheseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-73",
+        "title": "Ο 21ος Αιώνας Χαρακτηρίστηκε «ο Αιώνας των Άκρων» ο 21ος Αιώνας πώς θα Χαρακτηριστεί; | 19.09.26",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/2026-2027/ps058555-0001-synthesis-21os-aionas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-74",
+        "title": "Βοηθάει η Τέχνη να Κρατήσουμε την Ανθρωπινότητά μας; | 26.09.26",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/2026-2027/ps058555-0002-synthesis-livathinos-mihalakakou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-75",
+        "title": "Μία Ουσιαστική Γέφυρα Μεταξύ Ακαδημαϊκής Έρευνας και Αγοράς | 03.10.26",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/2026-2027/ps049230-synthesis-ereuna-kai-agora-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-76",
+        "title": "Το Παράλληλο Σύμπαν της ΜΕΘ | 10.10.26",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/2026-2027/ps058555-0004-synthesis-to-parallilo-syban-tis-meth.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-77",
+        "title": "Η Κλασική Μουσική δε θα Πεθάνει Ποτέ | 17.10.26",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/2026-2027/ps058555-0005-synthesis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-78",
+        "title": "Αν δεν Αλλάξουμε Πορεία θα Καταλήξουμε Εκεί που Πηγαίνουμε | 24.10.26",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/2026-2027/ps058555-0006-synthesis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-79",
+        "title": "Μοιάζουν τα Γεγονότα της Εποχής μας με Οποιαδήποτε Άλλη Ιστορική Περίοδο; | 31.10.26",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/2026-2027/ps058555-0007-synthesis.jpg"
+      }
+    ]
+  }
+}

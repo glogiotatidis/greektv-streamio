@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:12860762",
+    "type": "series",
+    "name": "100 Χρόνια Ακαδημία Αθηνών: Σημειώσεις για το Σήμερα και το Αύριο",
+    "poster": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-1",
+        "title": "Νικηφόρος Διαμαντούρος",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-diamantouros-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-2",
+        "title": "Αντώνης Ρεγκάκος",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-regakos-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-20",
+        "title": "Σταμάτης Κριμιζής",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-krimizis-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-21",
+        "title": "Αντωνία Τριχοπούλου",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-trixopoulou-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-22",
+        "title": "Μιχάλης Κοσμόπουλος",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-kosmopoulos-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-23",
+        "title": "Προκόπης Παυλόπουλος",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-pavlopoulos-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-24",
+        "title": "Ανδρέας Τζάκης",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-tzakis-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-3",
+        "title": "Ιόλη Καλαβρέζου",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-kalavrezou-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-4",
+        "title": "Χρήστος Ζερεφός",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-zeferos-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-5",
+        "title": "Άρης Ροζάκης",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-rozakis-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-25",
+        "title": "Γιώργος Κόλλιας",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-kollias-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-26",
+        "title": "Αλέκος Λεβίδης",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-levidis-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-27",
+        "title": "Μανόλης Κορρές",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-korres-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-28",
+        "title": "Δώρος Θεοδώρου",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-theodorou-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-6",
+        "title": "Χριστόφορος Χαραλαμπάκης",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/ps058565-0015-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-7",
+        "title": "Χρίστος Παπαδημητρίου",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/ps058565-0016-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-29",
+        "title": "Μιχάλης Σταθόπουλος",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-stathopoulos-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-30",
+        "title": "Αθανάσιος Φωκάς",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-fokas-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-8",
+        "title": "Στάθης Λιβαθινός",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-livathinos-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-9",
+        "title": "Δημήτρης Σκαρβέλης",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/ps058565-0020-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-31",
+        "title": "Πασχάλης Κιτρομηλίδης",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-kitromilidis-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-32",
+        "title": "Κωνσταντίνος Βαγενάς",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-vagenas-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-10",
+        "title": "Απόστολος Γεωργιάδης",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/ps058565-0023-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-33",
+        "title": "Αλέξανδρος Νεχαμάς",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-nexamas-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-34",
+        "title": "Θεόδωρος Παπαγγελής",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-papagelis-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-11",
+        "title": "Παύλος Σούρλας",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/ps058565-0026-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-12",
+        "title": "Δημήτρης Θάνος",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/ps058565-0027-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-13",
+        "title": "Κωνσταντίνος Μπουραζέλης",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/ps058565-0028-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-14",
+        "title": "Χαράλαμπος Ρούσσος",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-roussos-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-35",
+        "title": "Μανώλης Φλωράτος",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-floratos-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-15",
+        "title": "Κώστας Συνολάκης",
+        "season": 2,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-synolakis-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-36",
+        "title": "Γιώργος Χρούσος",
+        "season": 2,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-xrousos-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-16",
+        "title": "Βασίλης Ράπανος",
+        "season": 2,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-rapanos-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-17",
+        "title": "Μιχάλης Τιβέριος",
+        "season": 2,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-tiverios-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-18",
+        "title": "Ανδρέας Καραμάνος",
+        "season": 2,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-karamanos-ertflix-img.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12860762:100-khronia-akademia-athenon-semeioseis-gia-to-semera-kai-to-aurio-19",
+        "title": "Παναγιώτης Σουκάκος",
+        "season": 2,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/100-xronia-akadimia-athinon/100-xronia-akadimia-athinon-soukakos-ertflix-img.jpg"
+      }
+    ]
+  }
+}

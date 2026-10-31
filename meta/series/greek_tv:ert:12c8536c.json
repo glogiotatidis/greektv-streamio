@@ -1,0 +1,3434 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:12c8536c",
+    "type": "series",
+    "name": "Ηλέκτρα",
+    "poster": "https://files2.app.ertflix.gr/electra/hlektra-ertflix-img-ad-cc.jpg",
+    "background": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-2",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep01-oti-grafei-h-moira-melano.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-3",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep02-h-mnhmh-opou-kai-na-thn-aggikseis-ponei.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-4",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep03-pare-apo-tous-vomous-tou-parelthontos-thn-fwtia-oxi-thn-staxth.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-5",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep04-mporeis-na-xehaseis-to-parelthon-afto-den-simaini-pws-tha-to-xeperaseis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-6",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep05-h-sphlia-poy-fovasai-na-beis-kruvei-to-thisavro-poy-psaxneis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-7",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep06-na-exeis-to-kouragio-na-energeis-anti-na-antidras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-8",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep07-to-teleftaio-pragma-pou-xehna-i-mnimi-einai-oi-enoxes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-9",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep08-afto-pou-kryvoume-einai-afto-pou-piotero-mas-fanerwnei.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-10",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep09-ageras-kai-gynaika-den-kleidwnontai.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-11",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep10-pote-min-apologeisai-protou-katigoritheis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-12",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-13",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-14",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-15",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep14.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-16",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep15.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-17",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep16.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-18",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep17.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-19",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep18.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-20",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep19.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-21",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep20.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-22",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep21.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-23",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep22.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-24",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep23.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-25",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep24.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-26",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep25.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-27",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep26.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-28",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep27.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-29",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep28.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-30",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep29.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-31",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep30.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-32",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep31.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-33",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep32.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-34",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep33.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-35",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep34.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-36",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep35.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-37",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep36.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-38",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep37.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-39",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep38.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-40",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep39.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-41",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep40.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-42",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep41.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-43",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep42.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-44",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep43.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-45",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep44.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-46",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep45-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-47",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep46.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-48",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep47.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-49",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep48.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-50",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep49-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-51",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep50.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-52",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep51.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-53",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep52.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-54",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep53-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-55",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep54.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-56",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep55.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-57",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 56,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep56.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-58",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep57.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-59",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep58.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-60",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep59.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-61",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep60.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-62",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep61.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-63",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 62,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep62.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-64",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 63,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep63.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-65",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 64,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep64.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-66",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 65,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep65.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-67",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 66,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep66.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-68",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 67,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep67.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-69",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 68,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep68.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-70",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 69,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep69.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-71",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 70,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep70.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-72",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 71,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep71.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-73",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 72,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep72.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-74",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 73,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep73.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-75",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 74,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep74.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-76",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 75,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep75.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-77",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 76,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep76.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-78",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 77,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep77.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-79",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 78,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep78.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-80",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 79,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep79.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-81",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 80,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep80.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-82",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 81,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep81.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-83",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 82,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep82.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-84",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 83,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep83.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-85",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 84,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep84.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-86",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 85,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep85.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-87",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 86,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep86.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-88",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 87,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep87.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-89",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 88,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep88.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-90",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 89,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep89.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-91",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 90,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep90.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-92",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 91,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep91.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-93",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 92,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep92.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-94",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 93,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep93.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-95",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 94,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep94.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-96",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 95,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep95.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-97",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 96,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep96.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-98",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 97,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep97.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-99",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 98,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep98.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-100",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 99,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep99.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-101",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 100,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep100.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-102",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 101,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep101.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-103",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 102,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep102.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-104",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 103,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep103.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-105",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 104,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep104.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-106",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 105,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep105.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-107",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 106,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep106.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-108",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 107,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep107.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-109",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 108,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep108.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-110",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 109,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep109.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-111",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 110,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep110.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-112",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 111,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep111.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-113",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 112,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep112.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-114",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 113,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep113.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-115",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 114,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep114.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-116",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 115,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep115.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-117",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 116,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep116.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-118",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 117,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep117.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-119",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 118,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep118.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-120",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 119,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep119.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-121",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 120,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep120.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-122",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 121,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep121.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-123",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 122,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep122.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-124",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 123,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep123.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-125",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 124,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep124.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-126",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 125,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep125.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-127",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 126,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep126.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-128",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 127,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep127.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-129",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 128,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep128.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-130",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 129,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep129.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-131",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 130,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ilektra-s01-ep130.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-132",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 131,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep131.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-133",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 132,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep132.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-134",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 133,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep133.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-135",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 134,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep134.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-136",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 135,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep135.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-137",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 136,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep136.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-138",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 137,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep137.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-139",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 138,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep138.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-140",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 139,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep139.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-141",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 140,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep140.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-142",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 141,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep141.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-143",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 142,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep142.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-144",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 143,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep143.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-145",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 144,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep144.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-146",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 145,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep145.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-147",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 146,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep146.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-148",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 147,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep147.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-149",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 148,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep148.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-150",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 149,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep149.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-151",
+        "title": "Ηλέκτρα",
+        "season": 1,
+        "episode": 150,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s01-ep150.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-173",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-189",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-190",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-191",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-192",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-193",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-194",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-195",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-196",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-197",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-198",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-199",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-200",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-201",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep14.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-202",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep15.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-203",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep16.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-204",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep17.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-205",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep18.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-206",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep19.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-207",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep20.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-208",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep21.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-209",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep22.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-210",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep23.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-211",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep24.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-212",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep25-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-213",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep26.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-214",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep27.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-215",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep28.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-216",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep29.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-217",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep30.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-218",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep31.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-219",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep32.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-220",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep33.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-221",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep34.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-222",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep35.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-223",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep36.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-224",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep37.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-225",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep38.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-226",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep39.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-227",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep40.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-228",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 41,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep41.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-229",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 42,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep42.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-230",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 43,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep43.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-231",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 44,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep44.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-232",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 45,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep45.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-233",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 46,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep46.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-234",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 47,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep47.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-235",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 48,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep48.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-236",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 49,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep49.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-237",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 50,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep50.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-238",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 51,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep51.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-239",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 52,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep52.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-240",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 53,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep53.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-241",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 54,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep54.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-242",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 55,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep55.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-243",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 56,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep56.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-244",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 57,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep57.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-245",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 58,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep58.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-246",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 59,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep59.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-247",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 60,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep60.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-248",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 61,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep61.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-249",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 62,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep62.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-250",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 63,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep63.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-251",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 64,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep64.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-252",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 65,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep65.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-253",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 66,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep66.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-254",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 67,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep67.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-255",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 68,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep68.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-256",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 69,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep69.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-257",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 70,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep70.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-258",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 71,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep71.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-259",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 72,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep72.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-260",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 73,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep73.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-261",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 74,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep74.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-262",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 75,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep75.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-263",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 76,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep76.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-264",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 77,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep77.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-265",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 78,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep78.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-266",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 79,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep79.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-267",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 80,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep80.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-268",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 81,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep81.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-269",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 82,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep82.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-270",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 83,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep83-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-271",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 84,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep84.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-272",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 85,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep85.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-273",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 86,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep86.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-274",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 87,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep87.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-275",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 88,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep88.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-276",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 89,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep89.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-277",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 90,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep90.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-278",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 91,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep91.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-279",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 92,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep92.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-280",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 93,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep93.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-281",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 94,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep94.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-282",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 95,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep95.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-283",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 96,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep96.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-284",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 97,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep97.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-285",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 98,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep98.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-286",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 99,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep99.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-287",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 100,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep100.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-288",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 101,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep101.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-289",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 102,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep102.png"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-290",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 103,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep103.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-291",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 104,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep104.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-292",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 105,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep105.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-293",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 106,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep106.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-294",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 107,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep107.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-295",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 108,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep108.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-296",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 109,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep109.png"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-297",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 110,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep110.png"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-298",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 111,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep111.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-299",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 112,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep112.png"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-300",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 113,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep113.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-301",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 114,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep114.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-302",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 115,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep115.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-303",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 116,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep116.png"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-304",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 117,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep117.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-305",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 118,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep118.png"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-306",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 119,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep119.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-307",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 120,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep120.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-308",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 121,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep121.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-309",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 122,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep122.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-310",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 123,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep123-new.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-311",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 124,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep124.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-312",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 125,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep125.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-313",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 126,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep126.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-314",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 127,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-s02-ep127.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-315",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 128,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep128.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-316",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 129,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep129.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-317",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 130,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep130.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-318",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 131,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep131.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-319",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 132,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep132.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-320",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 133,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep133.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-321",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 134,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep134.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-322",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 135,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep135.png"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-323",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 136,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep136.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-325",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 137,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep137.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-324",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 138,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep138.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-326",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 139,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep139.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-327",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 140,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep140.png"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-328",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 141,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep141.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-329",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 142,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep142.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-330",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 143,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep143.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-331",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 144,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep144.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-332",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 145,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep145.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-333",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 146,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/20250501-hlektra-s2-ep146.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-334",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 147,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep147.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-335",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 148,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep148.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-336",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 149,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep149.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-337",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 150,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep150.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-338",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 151,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep151.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-339",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 152,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep152.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-340",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 153,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep153.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-341",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 154,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep154.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-342",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 155,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep155.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-343",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 156,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep156.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-344",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 157,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep157.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-345",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 158,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep158.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-346",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 159,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep159.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-347",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 160,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep160.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-348",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 161,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep161.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-349",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 162,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep162.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-350",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 163,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s03-ep163.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-351",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 164,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep164.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-352",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 165,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep165.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-353",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 166,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep166.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-354",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 167,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep167.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-355",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 168,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep168.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-356",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 169,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-24-25/hlektra-s02-ep169.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-357",
+        "title": "Ηλέκτρα",
+        "season": 2,
+        "episode": 170,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s02-ep170.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-359",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-360",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-361",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-362",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-363",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-364",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-365",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-366",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep08.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-367",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-368",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-369",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-370",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep12.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-371",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep13.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-372",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep14.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-373",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep15.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-374",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep16.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-375",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep17.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-376",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep18.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-377",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep19.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-378",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep20.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-379",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep21.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-380",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046039-hlektra-s03-ep22.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-381",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s03-ep23.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-382",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 24,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep24.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-383",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 25,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/hlektra-s03-ep25.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-384",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 26,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046042-hlektra-s03-ep26.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-385",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 27,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps046044-hlektra-s03-ep27.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-386",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 28,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046045-hlektra-s03-ep28.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-387",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 29,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046046-hlektra-s03-ep29.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-388",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 30,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046047-hlektra-s03-ep30.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-389",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 31,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046048-hlektra-s03-ep31.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-390",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 32,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046049-hlektra-hlektra-se-003ep-032.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-391",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 33,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlektra-s03-ep33.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-392",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 34,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046051-hlektra-s03-ep34.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-393",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 35,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046052-hlektra-s03-ep35.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-394",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046053-hlektra-s03-ep36.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-395",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps046054-hlektra-s03-ep37.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-396",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046055-hlektra-s03-ep38.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-397",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046056-hlektra-s03-ep39.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-398",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046057-hlektra-s03-ep40.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-399",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 41,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046058-hlektra-s03-ep41.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-400",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 42,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046059-hlektra-s03-ep42.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-401",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 43,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046060-hlektra-s03-ep43.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-402",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 44,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046061-hlektra-s03-ep44.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-403",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 45,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046062-hlektra-s03-ep45.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-404",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 46,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046063-hlektra-s03-ep46.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-405",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 47,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046064-hlektra-s03-ep47.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-406",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 48,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046065-hlektra-hlektra-se-003ep-048.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-407",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 49,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046066-hlektra-s03-ep49.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-408",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 50,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046067-hlektra-s03-ep50.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-409",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 51,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046068-hlektra-s03-ep51.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-410",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 52,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps046069-hlektra-hlektra-se-003ep-052.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-411",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 53,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps046070-hlektra-s03-ep53.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-412",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 54,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046071-hlektra-s03-ep54.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-413",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 55,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps046072-hlektra-hlektra-se-003ep-055.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-414",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 56,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046073-hlektra-s03-ep-56.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-415",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 57,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046074-hlektra-s03-ep-57.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-416",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 58,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046075-hlektra-s03-ep-58.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-417",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 59,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046076-hlektra-s03-ep-59.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-418",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 60,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps046077-hlektra-s03-ep-60.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-419",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 61,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046078-hlektra-s03-ep61.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-420",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 62,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046079-hlektra-s03-ep-62.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-421",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 63,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046080-hlektra-s03-ep-63.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-422",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 64,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046081-hlektra-s03-ep-64.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-423",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 65,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046082-hlektra-s03-ep-65.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-424",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 66,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046083-hlektra-s03-ep-59.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-425",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 67,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046084-hlektra-s03-ep67.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-426",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 68,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046085-hlektra-s03-ep68.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-427",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 69,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046086-hlektra-s03-ep69.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-428",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 70,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps046087-hlektra-s03-ep70-4mbps.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-429",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 71,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046088-hlektra-s03-ep71.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-430",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 72,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps046089-hlektra-s03-ep72.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-431",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 73,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046090-hlektra-s03-ep73.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-432",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 74,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps046091-hlektra-s03-ep74.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-433",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 75,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046092-hlektra-s03-ep75.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-434",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 76,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046093-hlektra-s03-ep76.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-435",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 77,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046094-hlektra-s03-ep77.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-436",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 78,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps046095-hlektra-s03-ep78.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-437",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 79,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046096-hlektra-s03-ep79.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-438",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 80,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps046097-hlektra-s03-ep80.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-440",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 81,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046098-hlektra-s03-ep81.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-439",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 82,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046099-hlektra-s03-ep82.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-441",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 83,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps046100-hlektra-s03-ep83.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-442",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 84,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046101-hlektra-s03-ep84.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-443",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 85,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046102-hlektra-s03-ep85.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-444",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 86,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046103-hlektra-s03-ep86.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-445",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 87,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046104-hlektra-s03-ep87.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-446",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 88,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046105-hlektra-s03-ep88.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-447",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 89,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046106-hlektra-s03-ep89.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-448",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 90,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046107-hlektra-s03-ep90.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-449",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 91,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046108-hlektra-s03-ep91.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-450",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 92,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046109-hlektra-s03-ep92.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-451",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 93,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps046110-hlektra-s03-ep93.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-452",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 94,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046111-hlektra-s03-ep94.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-453",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 95,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046112-hlektra-s03-ep95.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-454",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 96,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046113-hlektra-s03-ep96.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-455",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 97,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046114-hlektra-s03-ep97.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-456",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 98,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046115-hlektra-s03-ep98.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-457",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 99,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046116-hlektra-s03-ep99.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-458",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 100,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046117-hlektra-s03-ep100.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-459",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 101,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046118-hlektra-s03-ep101.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-460",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 102,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046119-hlektra-s03-ep102.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-461",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 103,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046120-hlektra-s03-ep103.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-462",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 104,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046121-hlektra-hlektra-se-003ep-104.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-463",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 105,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046122-hlektra-hlektra-se-003ep-105.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-464",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 106,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046123-hlektra-s03-ep106.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-465",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 107,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046124-hlektra-s03-ep107.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-466",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 108,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046125-hlektra-s03-ep108.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-467",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 109,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046126-hlektra-s03-ep109.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-468",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 110,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps046127-hlektra-s03-ep110.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-469",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 111,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0111-hlektra-s03-ep111.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-470",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 112,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0112-hlektra-s03-ep112.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-471",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 113,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0113-hlektra-s03-ep113.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-472",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 114,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0114-hlektra-s03-ep114.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-473",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 115,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0115-hlektra-s03-ep115.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-474",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 116,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0116-hlektra-s03-ep116.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-475",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 117,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0117-hlektra-s03-ep117.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-476",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 118,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0118-hlektra-s03-ep118.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-478",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 119,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0119-hlektra-s03-ep119.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-479",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 120,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0120-hlektra-s03-ep120.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-477",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 121,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0121-hlektra-s03-ep121.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-480",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 122,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps052066-0122-hlektra-s03-ep122.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-481",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 123,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0123-hlektra-s03-ep123.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-482",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 124,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0124-hlektra-s03-ep124.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-483",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 125,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0125-hlektra-s03-ep125.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-484",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 126,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0126-hlektra-s03-ep125.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-485",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 127,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0127-hlektra-s03-ep127.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-486",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 128,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0128-hlektra-s03-ep128.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-487",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 129,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0129-hlektra-s03-ep129.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-488",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 130,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0130-hlektra-s03-ep130.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-489",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 131,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0131-hlektra-s03-ep131.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-490",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 132,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0132-hlektra-s03-ep132.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-491",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 133,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0133-hlektra-s03-ep133.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-493",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 134,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0134-hlektra-s03-ep134.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-492",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 135,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0135-hlektra-s03-ep135.png"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-494",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 136,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0136-hlektra-s03-ep136.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-495",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 137,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0137-hlektra-s03-ep137.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-496",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 138,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0138-hlektra-s03-ep138.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-497",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 139,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0139-hlektra-s03-ep139.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-498",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 140,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0140-hlektra-s03-ep140.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-499",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 141,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0141-hlektra-s03-ep141.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-500",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 142,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0142-hlektra-s03-ep142.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-501",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 143,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0143-hlektra-s03-ep143.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-502",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 144,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps052066-0144-hlektra-s03-ep144.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-504",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 145,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0145-hlektra-s03-ep145.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-503",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 146,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0146-hlektra-s03-ep146.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-505",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 147,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0147-hlektra-s03-ep147.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-506",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 148,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0148-hlektra-s03-ep148.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-507",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 149,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0149-hlektra-s03-ep149.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-508",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 150,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0150-hlektra-s03-ep150.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-510",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 152,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0152-hlektra-s03-ep152.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-511",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 153,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0153.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-512",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 154,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0154.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-513",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 155,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0155.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-514",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 156,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps052066-0156-hlektra-s03-ep156.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-515",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 157,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0157-hlektra-s03-ep157.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-516",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 158,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0158.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-517",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 159,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0159.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-518",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 160,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0160.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-519",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 161,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0161.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-520",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 162,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0162.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-521",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 163,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0163-hlektra-s03-ep163.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-522",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 164,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0164-hlektra-s03-ep164.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-523",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 165,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0165-hlektra-s03-ep165.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-524",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 166,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0166-hlektra-s03-ep166.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-529",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 167,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/hlekra-kyklos-c/ps052066-0167-hlektra-s03-ep167.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-526",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 168,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps052066-0168.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-527",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 169,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps052066-0169.jpg"
+      },
+      {
+        "id": "greek_tv:ert:12c8536c:elektra-528",
+        "title": "Ηλέκτρα",
+        "season": 3,
+        "episode": 170,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/hlektra/ps052066-0170.jpg"
+      }
+    ]
+  }
+}

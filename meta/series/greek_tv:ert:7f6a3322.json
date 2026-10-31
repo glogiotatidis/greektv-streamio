@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:7f6a3322",
+    "type": "series",
+    "name": "Μνήμη μου σε Λένε Πόντο",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/mnimi-mou-se-lene-ponto/mnimipontos-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/mnimi-mou-se-lene-ponto/mnimipontos-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:7f6a3322:mneme-mou-se-lene-ponto-1",
+        "title": "Αφοί Τσαχουρίδη",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mnimi-mou-se-lene-ponto/mnhmh-mou-se-lene-ponto-ep01-afoi-tsaxoyridh-4mbpsmp4-error515.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7f6a3322:mneme-mou-se-lene-ponto-2",
+        "title": "Πόντος, Ελληνικός, μεγάλος και ευδαίμων",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mnhmh-mou-se-lene-ponto-ep02-pontos-ellhnikos-megalos-kai-eydaimon-4mbpsmp4-error752.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7f6a3322:mneme-mou-se-lene-ponto-3",
+        "title": "Θεοφυλάκτου",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mnhmh-mou-se-lene-ponto-ep03-theofylakton-4mbpsmp4-error522.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7f6a3322:mneme-mou-se-lene-ponto-4",
+        "title": "Η ιστορία της οικογένειας του Πάνου Ηλιάδη",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mnhmh-mou-se-lene-ponto-ep04-hliadhs-4mbpsmp4-error093.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7f6a3322:mneme-mou-se-lene-ponto-5",
+        "title": "Σοφία Μουτεσίδου - Ελένη Παβριανίδου",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mnhmh-mou-se-lene-ponto-ep05-montesidoy-payrianidoy-4mbpsmp4-error560.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7f6a3322:mneme-mou-se-lene-ponto-6",
+        "title": "Το ποντιακό τραγούδι στην διαμόρφωση της ιστορικής μνήμης - Α",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mnhmh-mou-se-lene-ponto-ep06-to-pontiako-tragoydi-sth-diamorfosh-ths-istorikhs-mnhmhs-a-4mbpsmp4-error383.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7f6a3322:mneme-mou-se-lene-ponto-7",
+        "title": "Το ποντιακό τραγούδι στην διαμόρφωση της ιστορικής μνήμης - Β",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mnhmh-mou-se-lene-ponto-ep07-to-pontiako-tragoydi-sth-diamorfosh-ths-istorikhs-mnhmhs-b-4mbpsmp4-error979.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7f6a3322:mneme-mou-se-lene-ponto-8",
+        "title": "Η γενοκτονία του Ποντιακού Ελληνισμού",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mnhmh-mou-se-lene-ponto-ep08-h-genoktonia-toy-pontiakoy-ellhnismoy-4mbpsmp4-error022.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7f6a3322:mneme-mou-se-lene-ponto-9",
+        "title": "Παναγία Σουμελά",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mnhmh-mou-se-lene-ponto-ep10-panagia-soymela-4mbpsmp4-error417.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7f6a3322:mneme-mou-se-lene-ponto-10",
+        "title": "Ο πολιτισμός του Πόντου – Γλώσσα, λογοτεχνία, θέατρο",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mnhmh-mou-se-lene-ponto-ep11-o-politismos-toy-pontoy-4mbpsmp4-error234.jpg"
+      },
+      {
+        "id": "greek_tv:ert:7f6a3322:mneme-mou-se-lene-ponto-11",
+        "title": "Ο Ελληνισμός της Ρωσίας",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mnhmh-mou-se-lene-ponto-ep12-o-ellhnismos-ths-rosias-4mbpsmp4-error918.jpg"
+      }
+    ]
+  }
+}

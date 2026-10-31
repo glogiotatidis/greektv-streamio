@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:c7dc38bd",
+    "type": "series",
+    "name": "Van life - Η Ζωή Έξω",
+    "poster": "https://files2.app.ertflix.gr/files/synentefxeis/van-life/van-life-ertflix-poster.jpg",
+    "background": "https://files2.app.ertflix.gr/files/synentefxeis/van-life/van-life-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-1",
+        "title": "Διόνι",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/van-life-dioni.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo",
+        "title": "Λαγκούβαρδος",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/van-life-lagouvardos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-1",
+        "title": "Ταΰγετος",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/vanlife-taygetos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-2",
+        "title": "Κυπαρίσσι",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/van-life/vanlife-kyparissi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-3",
+        "title": "Ποτιδάνεια",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/xena-docs/van-life/vanlife-s01-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-4",
+        "title": "Όλυμπος",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/van-life/van-life-ep06-olimpos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-5",
+        "title": "Καλάβρυτα",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/van-life/vanlife-kalavrita.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-6",
+        "title": "Group Therapy",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/van-life-group-therapy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-7",
+        "title": "Λίμνη Πλαστήρα-Άγραφα",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/van-life/vanlife-limni-plastira.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-8",
+        "title": "Σμόλικας - Αώος",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/van-life/van-life-s02-ep02-smolikas-athoos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-9",
+        "title": "Βοβούσα Ιωαννίνων, καταφύγιο Βάλια Κάλντα",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/van-life/van-life-s02-ep03-vovousa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-10",
+        "title": "Ζήρεια",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/van-life/van-life-s02-ep04-ziria.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-11",
+        "title": "Ηράκλειο Κρήτης",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/van-life/van-life-s02-kriti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-12",
+        "title": "Ρακοκάζανο, σπήλαιο Μιλάτου, φαράγγι του Μυλωνά",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/van-life/van-life-s02-ep14-rakokazano-milatoy-milona.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-13",
+        "title": "Κρήτη - Windsurf",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/van-life/van-life-s02-ep15-kriti-windsurf-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-14",
+        "title": "Καλαμπάκα",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/van-life/van-life-s02-ep16-kalampaka.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-15",
+        "title": "Οίτη",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/van-life/van-life-oiti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:c7dc38bd:van-life-e-zoe-exo-16",
+        "title": "Μέγαρα-skydiving, Μαλακάσα-paint ball",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/van-life-ep18-megara-skydiving-malakasa-paint-ball-1021x576.jpg"
+      }
+    ]
+  }
+}

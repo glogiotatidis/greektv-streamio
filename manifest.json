@@ -34,6 +34,11 @@
     },
     {
       "type": "series",
+      "id": "greek_tv_ert",
+      "name": "Greek TV — ERT"
+    },
+    {
+      "type": "series",
       "id": "greek_tv_ant1",
       "name": "Greek TV — ANT1"
     }

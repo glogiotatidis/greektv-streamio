@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:38ea7244",
+    "type": "series",
+    "name": "Μια Κληρονομιά",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-klironomia/mia-klhronomia-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-klironomia/mia-klhronomia-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:38ea7244:mia-kleronomia-1",
+        "title": "Κομμάτια και θρύψαλα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mia-klironomia-ep01-kommatia-kai-8ripsala-4mbpsmp4-error717.jpg"
+      },
+      {
+        "id": "greek_tv:ert:38ea7244:mia-kleronomia-2",
+        "title": "Του καιρού γυρίσματα",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/mia-klironomia-ep02-toy-kairou-girismata-4mbpsmp4-error411.jpg"
+      },
+      {
+        "id": "greek_tv:ert:38ea7244:mia-kleronomia-3",
+        "title": "Η Μάνα μου",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-klironomia/mia-klironomia-ep03-i-mana-mou-4mbpsmp4-2022-07-11-19h30m52s912.jpg"
+      },
+      {
+        "id": "greek_tv:ert:38ea7244:mia-kleronomia-4",
+        "title": "Αδερφέ μου, που είσαι;",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-klironomia/mia-klironomia-ep04-adelfe-mou-pou-eisai-4mbpsmp4-2022-07-11-19h14m18s917.jpg"
+      },
+      {
+        "id": "greek_tv:ert:38ea7244:mia-kleronomia-5",
+        "title": "Πιστεύω εις έναν Θεό",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-klironomia/mia-klironomia-ep05-pisteyw-se-ena-8eo-4mbpsmp4-2022-07-11-19h17m00s871.jpg"
+      },
+      {
+        "id": "greek_tv:ert:38ea7244:mia-kleronomia-6",
+        "title": "Με την ψυχή στο στόμα",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/mia-klhronomia-ep06-me-tin-psyxh-sto-stoma.jpg"
+      },
+      {
+        "id": "greek_tv:ert:38ea7244:mia-kleronomia-7",
+        "title": "Μας πήρε ο αέρας και μας σήκωσε",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-klironomia/mia-klironomia-ep07-mas-pire-o-aeras-kai-mas-sikose-4mbpsmp4-2022-07-11-19h20m21s845.jpg"
+      },
+      {
+        "id": "greek_tv:ert:38ea7244:mia-kleronomia-8",
+        "title": "Ξένη χώρα",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2024/imgs/mia-klhronomia-ep08-ksenh-xwra-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:38ea7244:mia-kleronomia-9",
+        "title": "Τα νερά της λήθης",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-klironomia/mia-klironomia-ep09-ta-nera-tis-li8is-4mbpsmp4-2022-07-11-19h23m33s099.jpg"
+      },
+      {
+        "id": "greek_tv:ert:38ea7244:mia-kleronomia-10",
+        "title": "Ψίχουλα ιστορίας",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-klironomia/mia-klironomia-ep10-psixoula-istorias-4mbpsmp4-2022-07-11-19h24m49s596.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:cf184797",
+    "type": "series",
+    "name": "\"Σε Γνωρίζω από την Όψη\" 200 Χρόνια Ελλάδα",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-200xroniaellada-640x360.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/200-xronia-ellada-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:cf184797:se-gnorizo-apo-ten-opse-200-khronia-ellada",
+        "title": "\"Σε Γνωρίζω από την Όψη\" 200 Χρόνια Ελλάδα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/200-xronia-ellada-img-cc.jpg"
+      },
+      {
+        "id": "greek_tv:ert:cf184797:se-gnorizo-apo-ten-opse-200-khronia-ellada-2",
+        "title": "Hymn to Liberty: 200 YEARS OF GREECE",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/hymn-to-liberty-200-years-of-greece-ertflix-img.jpg"
+      }
+    ]
+  }
+}

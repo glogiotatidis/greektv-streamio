@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:19ed9384",
+    "type": "series",
+    "name": "Το Αιγαίο της Ζωής μας",
+    "poster": "https://files2.app.ertflix.gr/2025/series/to-aigaio-tes-zoes-mas/to-aigaio-tis-zois-mas-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2025/series/to-aigaio-tes-zoes-mas/to-aigaio-tis-zois-mas-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:19ed9384:to-aigaio-tes-zoes-mas-1",
+        "title": "Το Ξεκίνημα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/to-aigaio-ths-zohs-mas-ep01-to-ksekinhma-4mbpsmp4-2025-08-21-10h03m13s830.jpg"
+      },
+      {
+        "id": "greek_tv:ert:19ed9384:to-aigaio-tes-zoes-mas-2",
+        "title": "Προσφορά στα Άκρα",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/to-aigaio-ths-zohs-mas-ep02-prosfora-sta-akra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:19ed9384:to-aigaio-tes-zoes-mas-3",
+        "title": "Ό,τι Δόθηκε και Έμεινε",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-09-02-11h10m43s923.png"
+      }
+    ]
+  }
+}

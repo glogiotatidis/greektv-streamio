@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:df75fc0b",
+    "type": "series",
+    "name": "Ρίζες Abroad",
+    "poster": "https://files2.app.ertflix.gr/files/enimerosi/rizes/new-creatives/rizes-abroad-ertflix-img-new.jpg",
+    "background": "https://files2.app.ertflix.gr/files/enimerosi/rizes/new-creatives/rizes-abroad-hbbtv-bg-new.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-10",
+        "title": "Τετάρτη 15 Ιουλίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20260715-rizes-abroad.jpg"
+      },
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-9",
+        "title": "Τετάρτη 08 Ιουλίου 2026",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20260708-rizes-abroad.jpg"
+      },
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-8",
+        "title": "Τετάρτη 01 Ιουλίου 2026",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20260701-rizes-abroad.jpg"
+      },
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-7",
+        "title": "Τετάρτη 24 Ιουνίου 2026",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20260624-rizes-abroad.jpg"
+      },
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-6",
+        "title": "Τετάρτη 17 Ιουνίου 2026",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20260617-rizes-abroad.jpg"
+      },
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-5",
+        "title": "Τετάρτη 10 Ιουνίου 2026",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20260610-rizes-abroad.jpg"
+      },
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-4",
+        "title": "Τετάρτη 03 Ιουνίου 2026",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20260603-rizes.jpg"
+      },
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-3",
+        "title": "Τετάρτη 27 Μαΐου 2026",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20260527-rizes-abroad.jpg"
+      },
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-2",
+        "title": "Τετάρτη 20 Μαΐου 2026",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20260520-rizes-abroad.jpg"
+      },
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-1",
+        "title": "Τετάρτη 13 Μαΐου 2026",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/2026513-rizes-aboard-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-11",
+        "title": "Τετάρτη 07 Οκτωβρίου 2026",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20261007-rizes-abroad-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-12",
+        "title": "Τετάρτη 14 Οκτωβρίου 2026",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20261014-rizes-abroad.jpg"
+      },
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-13",
+        "title": "Τετάρτη 21 Οκτωβρίου 2026",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20261021-rizes-abroad.jpg"
+      },
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-14",
+        "title": "Τετάρτη 28 Οκτωβρίου 2026",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20261028-rizes-abroad.jpg"
+      }
+    ]
+  }
+}

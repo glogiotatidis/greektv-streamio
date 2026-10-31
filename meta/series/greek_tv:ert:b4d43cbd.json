@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:b4d43cbd",
+    "type": "series",
+    "name": "Forcé",
+    "poster": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/force-2026-27-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/force-2026-27-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-61",
+        "title": "Τρίτη 14 Ιουλίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260414-force-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-60",
+        "title": "Τρίτη 07 Ιουλίου 2026",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260707-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-59",
+        "title": "Τρίτη 30 Ιουνίου 2026",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260630-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-58",
+        "title": "Τρίτη 23 Ιουνίου 2026",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260623-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-57",
+        "title": "Τρίτη 16 Ιουνίου 2026",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260616-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-56",
+        "title": "Τρίτη 09 Ιουνίου 2026",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260609-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-55",
+        "title": "Τρίτη 02 Ιουνίου 2026",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260602-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-54",
+        "title": "Τρίτη 26 Μαΐου 2026",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260526-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-53",
+        "title": "Τρίτη 19 Μαΐου 2026",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260519-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-52",
+        "title": "Τρίτη 12 Μαΐου 2026",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260512-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-51",
+        "title": "Τρίτη 05 Μαΐου 2026",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260505-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-50",
+        "title": "Τρίτη 28 Απριλίου 2026",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/20260428-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-49",
+        "title": "Τρίτη 21 Απριλίου 2026",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260421-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-48",
+        "title": "Τρίτη 14 Απριλίου 2026",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260414-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-47",
+        "title": "Τρίτη 7 Απριλίου 2026",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260407-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-46",
+        "title": "Τρίτη 31 Mαρτίου 2026",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260331-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-45",
+        "title": "Τρίτη 24 Mαρτίου 2026",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260324-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-44",
+        "title": "Τρίτη 17 Mαρτίου 2026",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260317-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-43",
+        "title": "Τρίτη 10 Mαρτίου 2026",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260310-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-42",
+        "title": "Τρίτη 03 Mαρτίου 2026",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260303-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-41",
+        "title": "Τρίτη 24 Φεβρουαρίου 2026",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260224-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-40",
+        "title": "Τρίτη 17 Φεβρουαρίου 2026",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260217-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-39",
+        "title": "Τρίτη 10 Φεβρουαρίου 2026",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20260210-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-62",
+        "title": "Τρίτη 22 Σεπτεμβρίου 2026",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/ls029110-0001-20260922-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-63",
+        "title": "Τρίτη 29 Σεπτεμβρίου 2026",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/ls029110-0002-20260929-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-64",
+        "title": "Τρίτη 06 Οκτωβρίου 2026",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/ls029110-0003-20261006-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-65",
+        "title": "Τρίτη 13 Οκτωβρίου 2026",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/ls029110-0004-20261013-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-66",
+        "title": "Τρίτη 20 Οκτωβρίου 2026",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/ls029110-0005-20261020-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-67",
+        "title": "Τρίτη 27 Οκτωβρίου 2026",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/ls029110-0006-20261027-force.jpg"
+      }
+    ]
+  }
+}

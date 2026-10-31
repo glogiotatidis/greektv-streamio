@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:9f54cc2c",
+    "type": "series",
+    "name": "Θάλαττα - Τα Μυστικά του Αιγαίου",
+    "poster": "https://files2.app.ertflix.gr/wunderland/thalatta-tamystikatouaigaiou-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/wunderland/thalatta-ta-mystika-toy-aigaioy-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:9f54cc2c:thalatta-ta-mustika-tou-aigaiou-1",
+        "title": "Σκόπελος: Η Πράσινη Βασίλισσα των Σποράδων",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/thalatta-skopelos-antikatastasi-v2-4mbpsmp4-2025-10-30-13h39m54s740.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9f54cc2c:thalatta-ta-mustika-tou-aigaiou-2",
+        "title": "Ψαρά: Ο Θρύλος Ενός Γερμανικού Αεροσκάφους του Β’ Π.Π.",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/vlcsnap-2025-10-02-13h17m43s940.png"
+      },
+      {
+        "id": "greek_tv:ert:9f54cc2c:thalatta-ta-mustika-tou-aigaiou-3",
+        "title": "Βόρειος Ευβοϊκός – Ωρεοί, Βαθύκοιλο, Λιχαδονήσια",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-10-10h41m03s372.png"
+      },
+      {
+        "id": "greek_tv:ert:9f54cc2c:thalatta-ta-mustika-tou-aigaiou-4",
+        "title": "Νότιο και Ανατολικό Πήλιο",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/thalatta-notio-anatoliko-phlio-antikatastasi-4mbpsmp4-2025-10-22-11h51m54s209.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9f54cc2c:thalatta-ta-mustika-tou-aigaiou-5",
+        "title": "Σποράδες",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/thalatta-sporades-antikatastasi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9f54cc2c:thalatta-ta-mustika-tou-aigaiou-6",
+        "title": "Καβάλα",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/thalatta-kavala-vrasidas-antikatastasi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9f54cc2c:thalatta-ta-mustika-tou-aigaiou-7",
+        "title": "Νέα Μουδανιά | Seatrekking στο Πρώτο Πόδι της Χαλκιδικής",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/thalatta-nea-moydania-antikatastasi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9f54cc2c:thalatta-ta-mustika-tou-aigaiou-8",
+        "title": "Βόρεια Εύβοια - Με Bάση το Ψαροπούλι",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/thalatta-voreia-evia-psaropouli-antik.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9f54cc2c:thalatta-ta-mustika-tou-aigaiou-9",
+        "title": "Αντίψαρα",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2025/imgs/thalatta-antipsara-antikatastasi.jpg"
+      }
+    ]
+  }
+}

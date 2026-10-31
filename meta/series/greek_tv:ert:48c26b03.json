@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:48c26b03",
+    "type": "series",
+    "name": "f+ΖΗΝ",
+    "poster": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/f-zhn-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/f-zhn-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:48c26b03:f-zen-12",
+        "title": "Αθανασία Χατζηπρίμου - Δημήτρης Δρακάκης - Στέλιος Σακελλαρίου, Παναγιώτης Μαρκουίζος-Αρσένης Γκρεγκοριάν, Κωνσταντίνος Χαρδαβέλλας- Χρόνης Δαμαλάς, Αλεξάνδρα Σταματοπούλου",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/ps052733-0013-f-zin-alexandra-stamatopoulou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:48c26b03:f-zen-11",
+        "title": "Αλέξανδρος Παπαγεωργόπουλος, Ελένη Τώρου, Νίκος Φουντάς, Άννα Βερούλη",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/ps052733-0012-f-zin-anna-verouli.jpg"
+      },
+      {
+        "id": "greek_tv:ert:48c26b03:f-zen-10",
+        "title": "Ακυλίνα Παλιανοπούλου, Αθηνά Μπουζάνη, Αλέξανδρος Γκιννής, Clément Noël -Hugo Desgrippes-Thea Stjernesund, Κλέλια Πανταζή",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/ps052733-0011-f-zin-akylina-palianopoulou-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:48c26b03:f-zen-9",
+        "title": "Mario Barcelo, Θανάσης Μπάρκας-Ουρανία-Αριέττα Τσαούση-Μπάρκα, Κωνσταντίνος Χαλιορής, Κατερίνα Θεοπίστου, Σπύρος Χρυσικόπουλος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/ps052733-0010-f-zin-xrysikopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:48c26b03:f-zen-8",
+        "title": "Μανώλης Κρητικός-Ιωάννα Λάμπρου, Χρυσάνθη Παππά-Κωνσταντίνος Νίκας, Παναγιώτης & Μιχάλης Νικηφόρος, Ευαγγελία Λαγουδάκου",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/ps052733-0009-f-zin-ep09-kritikos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:48c26b03:f-zen-7",
+        "title": "Εθνική Ομάδα Cheerleading Hip Hop, Άγγελος Πεντάρης, Εβίνα Μάλτση, Γιώργος Κατσινόπουλος",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/ps052733-0008-f-zin-ep08-katsinopoulos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:48c26b03:f-zen-6",
+        "title": "Εμμανουήλ Καραλής, Χάρης Καραλής, Στέλλα Ντζάνη και Βασίλης Ζάχος",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/ps052733-0007-f-zin-ep07-karalis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:48c26b03:f-zen-5",
+        "title": "Μαρία Πολύζου, Λάκης Γαβαλάς, Μάριος Γκρόγκος, Μάκης Καλαράς",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/ps049950-f-zin-ep06-makis-kalaras.jpg"
+      },
+      {
+        "id": "greek_tv:ert:48c26b03:f-zen-4",
+        "title": "Άννα Αγραφιώτη, Γεωργία Καλτσή, Δημήτρης Σταρόβας",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/ps049949-f-zin-ep05-starovas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:48c26b03:f-zen-3",
+        "title": "Βασίλης Κουμανάκος, Κωνσταντίνος Νικηφόρος, Τατιάνα Γκούσιν",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/ps049948-fzin-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:48c26b03:f-zen-2",
+        "title": "Κορίνα Πολίτη, Νίκος Παναγιωτόπουλος, Ιζαμπέλλα Φούλοπ, Ευάγγελος Φιλόπουλος",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/f-zin-ep03-filopoulos-1021x576.jpg"
+      },
+      {
+        "id": "greek_tv:ert:48c26b03:f-zen-1",
+        "title": "Μιχάλης Σεΐτης, Εθνική Ομάδα Rugby, Παναγιώτης Καραΐσκος",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/ps049945-20260315-f-zin-panagiwths-karaiskos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:48c26b03:f-zhn",
+        "title": "Παγκόσμια Ημέρα της Γυναίκας",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/ps049946-20260308-f-zin-drispioti.jpg"
+      }
+    ]
+  }
+}

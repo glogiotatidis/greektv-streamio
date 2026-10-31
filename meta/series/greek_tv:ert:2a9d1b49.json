@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:2a9d1b49",
+    "type": "series",
+    "name": "Η Τέχνη του Δρόμου",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/texni-tou-dromou/h-texni-tou-dromou-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/texni-tou-dromou/h-texni-tou-dromou-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:2a9d1b49:i-techni-toy-dromoy-syros",
+        "title": "Σύρος",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/syros03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:i-techni-toy-dromoy-tinos",
+        "title": "Τήνος",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/tinos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:i-techni-toy-dromoy-leonidio",
+        "title": "Λεωνίδιο",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/leonidio.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou",
+        "title": "Σπάρτη",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-2",
+        "title": "Kαλαμάτα",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-1",
+        "title": "Τρίκαλα",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/01-e-tekhne-tou-dromou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-3",
+        "title": "Ιωάννινα",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/e-tekhne-tou-dromou-toikhographia-ioannina.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-4",
+        "title": "Έδεσσα",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-5",
+        "title": "Βόλος",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/tekhne-tou-dromou-bolos-1jpg.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-6",
+        "title": "Αλεξανδρούπολη",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/3-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-7",
+        "title": "Καβάλα",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/1-1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-8",
+        "title": "Κέρκυρα",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/1-2.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-9",
+        "title": "Ηράκλειο Κρήτης",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/h-texni-tou-dromou-s02-ep01-hrakleio-4mbpsmp4-error741.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-10",
+        "title": "Χανιά",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/h-texni-tou-dromou-s02-ep02-chania-4mbpsmp4-error510.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-11",
+        "title": "Πάρος",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/texni-tou-dromou/h-texni-tou-dromou-s02-ep03-paros-4mbpsmp4-error178.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-12",
+        "title": "Σαντορίνη",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/texni-tou-dromou/h-texni-tou-dromou-s02-ep04-santorini-4mbpsmp4-2022-03-16-11h32m00s937.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-13",
+        "title": "Κομοτηνή",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/texni-tou-dromou/h-texni-tou-dromou-s02-ep05-komothnh-4mbpsmp4-error900.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-14",
+        "title": "Ξάνθη",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/texni-tou-dromou/h-texni-tou-dromou-s02-ep06-xanthi-4mbpsmp4-2022-03-24-09h55m22s461.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-15",
+        "title": "Πρέσπες",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/texni-tou-dromou/h-texni-tou-dromou-s02-ep07-prespes-4mbpsmp4-error927.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-16",
+        "title": "Κοζάνη",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/texni-tou-dromou/h-texni-tou-dromou-s02-ep08-kozanh-antik-4mbpsmp4-error786.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-17",
+        "title": "Αθήνα",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/texni-tou-dromou/h-texni-tou-dromou-s02-ep9-athina-4mbpsmp4-error300.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-18",
+        "title": "Καλάβρυτα",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/texni-tou-dromou/h-texni-tou-dromou-s02-ep10-kalavryra-4mbpsmp4-2022-05-04-13h23m24s537.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-19",
+        "title": "Σέρρες",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/h-texni-tou-dromou-s02-ep11-serres-4mbpsmp4-error597.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2a9d1b49:e-tekhne-tou-dromou-20",
+        "title": "Θεσσαλονίκη",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/texni-tou-dromou/itexnitoudromou-s02e12-thessaloniki-4mbpsmp4-error764.jpg"
+      }
+    ]
+  }
+}

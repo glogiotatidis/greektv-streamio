@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:632d8eda",
+    "type": "series",
+    "name": "Ήχος του Βορρά",
+    "poster": "https://files2.app.ertflix.gr/2026/shows/ekhos-tou-borra/hxos-toy-borra-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2026/shows/ekhos-tou-borra/hxos-toy-borra-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:632d8eda:ekhos-tou-borra-1",
+        "title": "Η Οθωμανική Θεσσαλονίκη",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/hxostouvorra-ep01-othomaniki-thessaloniki-antikatastasi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:632d8eda:ekhos-tou-borra-2",
+        "title": "Η Θεσσαλονίκη στην Aπελευθέρωση",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/hxostouvorra-ep02-master-45min-03112026-ert-1mp4-2026-09-24-10h31m59s484.jpg"
+      },
+      {
+        "id": "greek_tv:ert:632d8eda:ekhos-tou-borra-3",
+        "title": "Οι Πρόσφυγες",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/vlcsnap-2026-09-21-18h51m51s085.jpg"
+      },
+      {
+        "id": "greek_tv:ert:632d8eda:ekhos-tou-borra-4",
+        "title": "Ο Μεσοπόλεμος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/vlcsnap-2026-09-21-18h57m18s586.jpg"
+      },
+      {
+        "id": "greek_tv:ert:632d8eda:ekhos-tou-borra-5",
+        "title": "Κατοχή",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/hxostouvorra-ep05-4mbpsmp4-2026-10-20-10h05m50s361.jpg"
+      },
+      {
+        "id": "greek_tv:ert:632d8eda:ekhos-tou-borra-6",
+        "title": "Ο Τσιτσάνης της Θεσσαλονίκης",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/hxostouvorra-ep06.jpg"
+      }
+    ]
+  }
+}
