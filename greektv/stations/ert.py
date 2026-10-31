@@ -1,3 +1,4 @@
+from curl_cffi import requests
 from greektv.common import clean, fetch_json, placeholder, slug_title
 
 BASE = "https://api.app.ertflix.gr"
@@ -156,6 +157,14 @@ def stream(episode):
     if not url:
         raise RuntimeError(f"ERT no playable format for {codename}")
     lower = url.lower()
-    if ".m3u8" in lower or lower.endswith((".mp4", ".mpd")):
-        return url
-    return url.rstrip("/") + "/index.m3u8"
+    if ".m3u8" not in lower and not lower.endswith((".mp4", ".mpd")):
+        url = url.rstrip("/") + "/index.m3u8"
+    # Resolve redirects to the final playable host.
+    try:
+        response = requests.get(url, impersonate="chrome", timeout=20, allow_redirects=True, stream=True)
+        response.close()
+        if response.status_code < 400 and response.url:
+            url = response.url
+    except Exception:  # noqa: BLE001
+        pass
+    return url
