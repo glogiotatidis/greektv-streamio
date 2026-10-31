@@ -50,6 +50,8 @@ jobs:
       - run: python static_export.py
         env:
           GREEKTV_STATIONS: ${{ matrix.station }}
+          GREEKTV_WORKERS: "4"
+          GREEKTV_STREAM_WORKERS: "2"
       - run: test -s site/manifest.json
       - run: cd site && zip -r ../site.zip .
       - uses: actions/upload-artifact@v4
