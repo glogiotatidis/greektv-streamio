@@ -6,6 +6,8 @@ on:
         description: "Comma-separated station slugs (empty = all)"
         required: false
         default: ""
+  schedule:
+    - cron: "0 */4 * * *"
 permissions:
   contents: write
 concurrency:
