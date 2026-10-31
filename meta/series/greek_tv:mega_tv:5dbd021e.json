@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "id": "greek_tv:mega_tv:5dbd021e",
+    "type": "series",
+    "name": "Πειραιάς, το Λιμάνι της Ψυχής μας",
+    "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg",
+    "background": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:mega_tv:5dbd021e:o-peiraikos-syndesmos",
+        "title": "Ο Πειραϊκός Σύνδεσμος -",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5dbd021e:istories-tou-porto-leone",
+        "title": "Iστορίες του Πόρτο Λεόνε -",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5dbd021e:to-mnima-tou-gallou",
+        "title": "Το μνήμα του Γάλλου -",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5dbd021e:ta-polemika-gegonota-tou-1827-se-peiraia-kai-falirea",
+        "title": "Τα πολεμικά γεγονότα του 1827 σε Πειραιά και Φαληρέα -",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5dbd021e:i-synoikia-tsiller-stin-kastella",
+        "title": "Η συνοικία Τσίλλερ στην Καστέλλα -",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5dbd021e:to-dimotiko-theatro-peiraia",
+        "title": "Το Δημοτικό Θέατρο Πειραιά -",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5dbd021e:oi-prosfyges-ston-peiraia",
+        "title": "Οι πρόσφυγες στον Πειραιά -",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5dbd021e:oi-thalassioi-dromoi-metanasteysis-ton-ellinon",
+        "title": "Οι θαλάσσιοι δρόμοι Μετανάστευσης των Ελλήνων -",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5dbd021e:o-symmaxikos-vomvardismos-tou-1944",
+        "title": "Ο συμμαχικός βομβαρδισμός του 1944 -",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:5dbd021e:oi-koinonies-tou-peiraikou-lmena",
+        "title": "Οι κοινωνίες του Πειραϊκού Λιμένα -",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
+      }
+    ]
+  }
+}

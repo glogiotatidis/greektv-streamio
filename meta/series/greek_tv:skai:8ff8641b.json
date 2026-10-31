@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:8ff8641b",
+    "type": "series",
+    "name": "Μικρά Ασία",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mikrasia.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mikrasia.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:8ff8641b:2022-09-12-22",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/docs/mikra_asia_1.jpg"
+      },
+      {
+        "id": "greek_tv:skai:8ff8641b:2022-09-13-22",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/docs/mikra_asia_2.jpg"
+      }
+    ]
+  }
+}

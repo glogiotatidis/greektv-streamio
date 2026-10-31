@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "id": "greek_tv:star_channel:f46058ae",
+    "type": "series",
+    "name": "ΜΑΡΣΟΥΠΙΛΑΜΙ (THE MARSUPILAMIS)",
+    "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png",
+    "background": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png",
+    "videos": [
+      {
+        "id": "greek_tv:star_channel:f46058ae:recipe-thief",
+        "title": "10/10/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
+      },
+      {
+        "id": "greek_tv:star_channel:f46058ae:twisters-treehouse",
+        "title": "10/10/2026",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
+      },
+      {
+        "id": "greek_tv:star_channel:f46058ae:the-show-must-go-on",
+        "title": "17/10/2026",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
+      },
+      {
+        "id": "greek_tv:star_channel:f46058ae:jade-the-influencer",
+        "title": "17/10/2026",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
+      },
+      {
+        "id": "greek_tv:star_channel:f46058ae:mar-spooky-lami",
+        "title": "24/10/2026",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
+      },
+      {
+        "id": "greek_tv:star_channel:f46058ae:the-truth-is-out-there",
+        "title": "24/10/2026",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
+      },
+      {
+        "id": "greek_tv:star_channel:f46058ae:shell-shock",
+        "title": "31/10/2026",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
+      },
+      {
+        "id": "greek_tv:star_channel:f46058ae:runaway-hope",
+        "title": "31/10/2026",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
+      },
+      {
+        "id": "greek_tv:star_channel:f46058ae:the-dance-off",
+        "title": "The Dance Off",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
+      },
+      {
+        "id": "greek_tv:star_channel:f46058ae:golfalami",
+        "title": "Golfalami",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
+      }
+    ]
+  }
+}

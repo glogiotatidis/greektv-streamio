@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "greek_tv:ant1:02d9b2dd",
+    "type": "series",
+    "name": "ROUK ZOUK",
+    "poster": "https://www.antenna.gr/imgHandler/1920/64facc74-1633-4fdc-a547-e80ca477527d.jpg",
+    "background": "https://www.antenna.gr/imgHandler/1920/64facc74-1633-4fdc-a547-e80ca477527d.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ant1:02d9b2dd:mukovi6go2zv9pb7yxike519",
+        "title": "ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 177 - 9η ΣΕΖΟΝ",
+        "season": 9,
+        "episode": 177,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/64facc74-1633-4fdc-a547-e80ca477527d.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:02d9b2dd:x6swcrxjarwkwm5c5cgwmf6e",
+        "title": "ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 178 - 9η ΣΕΖΟΝ",
+        "season": 9,
+        "episode": 178,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/64facc74-1633-4fdc-a547-e80ca477527d.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:02d9b2dd:gmlanj7eso0fteahenckzc9y",
+        "title": "ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 179 - 9η ΣΕΖΟΝ",
+        "season": 9,
+        "episode": 179,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/64facc74-1633-4fdc-a547-e80ca477527d.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:02d9b2dd:i5ucxaq7erh4bll1we1tc6bl",
+        "title": "ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 180 - 9η ΣΕΖΟΝ",
+        "season": 9,
+        "episode": 180,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/64facc74-1633-4fdc-a547-e80ca477527d.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "id": "greek_tv:star_channel:85137388",
+    "type": "series",
+    "name": "ΕΡΩΤΑΣ ΜΕ ΔΙΑΦΟΡΑ",
+    "poster": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg",
+    "background": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-epeisodio-1",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-epeisodio-2",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-epeisodio-3",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-epeisodio-4",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-epeisodio-5",
+        "title": "Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-epeisodio-6",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-epeisodio-7",
+        "title": "Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-epeisodio-8",
+        "title": "Επεισόδιο 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-epeisodio-9",
+        "title": "Επεισόδιο 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-epeisodio-10",
+        "title": "Επεισόδιο 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-epeisodio-11",
+        "title": "Επεισόδιο 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-epeisodio-12",
+        "title": "Επεισόδιο 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-epeisodio-13",
+        "title": "Επεισόδιο 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-2os-kuklos-epeisodio-1",
+        "title": "Επεισόδιο 1",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-2os-kuklos-epeisodio-2",
+        "title": "Επεισόδιο 2",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-2os-kuklos-epeisodio-4",
+        "title": "Επεισόδιο 4",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-2os-kuklos-epeisodio-5",
+        "title": "Επεισόδιο 5",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-2os-kuklos-epeisodio-6",
+        "title": "Επεισόδιο 6",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-2os-kuklos-epeisodio-7",
+        "title": "Επεισόδιο 7",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-2os-kuklos-epeisodio-8",
+        "title": "Επεισόδιο 8",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-2os-kuklos-epeisodio-9",
+        "title": "Επεισόδιο 9",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-2os-kuklos-epeisodio-10",
+        "title": "Επεισόδιο 10",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-2os-kuklos-epeisodio-11",
+        "title": "Επεισόδιο 11",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-2os-kuklos-epeisodio-12",
+        "title": "Επεισόδιο 12",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:85137388:erotas-me-diafora-2os-kuklos-epeisodio-13-teleutaio",
+        "title": "Επεισόδιο 13",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+      }
+    ]
+  }
+}

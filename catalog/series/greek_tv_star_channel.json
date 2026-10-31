@@ -1,0 +1,232 @@
+{
+  "metas": [
+    {
+      "id": "greek_tv:star_channel:c3eaa682",
+      "type": "series",
+      "name": "Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ",
+      "poster": "https://www.star.gr/tv/images/640x360/4/jpg/files/%CE%97_%CE%9C%CE%91%CE%9C%CE%91_%CE%9B%CE%95%CE%99%CE%A0%CE%95%CE%99_%CE%A4%CE%91%CE%9E%CE%99%CE%94%CE%99_%CE%93%CE%99%CE%91_%CE%94%CE%9F%CE%A5%CE%9B%CE%95%CE%99%CE%95%CE%A3__6.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:f7833bfc",
+      "type": "series",
+      "name": "Ο ΑΝΤΡΑΣ ΤΩΝ ΟΝΕΙΡΩΝ ΜΟΥ",
+      "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/%CE%BF_%CE%B1%CE%BD%CF%84%CF%81%CE%B1%CF%82_%CF%84%CF%89%CE%BD_%CE%BF%CE%BD%CE%B5%CE%B9%CF%81%CF%89%CE%BD_%CE%BC%CE%BF%CF%85_1920x1004_logo_b.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:85137388",
+      "type": "series",
+      "name": "ΕΡΩΤΑΣ ΜΕ ΔΙΑΦΟΡΑ",
+      "poster": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:8b7defca",
+      "type": "series",
+      "name": "AR3NA",
+      "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Arena_1920x1004_logo_b.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:17bfa241",
+      "type": "series",
+      "name": "IQ 160",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/seires/iq_160/season_4/final/iq_160-s4-1920x1080-new.png"
+    },
+    {
+      "id": "greek_tv:star_channel:b3791b03",
+      "type": "series",
+      "name": "ΤΟ ΜΠΕΡΔΕΜΑ",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:0ed4c8f3",
+      "type": "series",
+      "name": "ΤΑ ΦΑΝΤΑΣΜΑΤΑ",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/seires/ta_fantasmata/final/fantasmata-1920x1080-final.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:3f92c17e",
+      "type": "series",
+      "name": "ΜΑΥΡΟΙ ΠΙΝΑΚΕΣ",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png"
+    },
+    {
+      "id": "greek_tv:star_channel:41aa8960",
+      "type": "series",
+      "name": "ΣΤΑ ΣΥΝΟΡΑ",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:312da8f0",
+      "type": "series",
+      "name": "STARS SYSTEM",
+      "poster": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarsSystem_1920x1004a_2021-22_logo.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:940c324d",
+      "type": "series",
+      "name": "ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"
+    },
+    {
+      "id": "greek_tv:star_channel:4922bd32",
+      "type": "series",
+      "name": "1% CLUB",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/1_percent_club/semifinal/1_percent_club-1920x1080-semifinal.png"
+    },
+    {
+      "id": "greek_tv:star_channel:d347ead7",
+      "type": "series",
+      "name": "LINGO",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/lingo/final/lingo-1920x1080-final-with_logo.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:e0e660bb",
+      "type": "series",
+      "name": "ΠΡΩΤΟΣ ΚΑΦΕΣ ΜΕ ΤΗ ΖΗΝΑ",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:d344ae8e",
+      "type": "series",
+      "name": "POCOYO",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/pocoyo-1920x1080.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:738afbce",
+      "type": "series",
+      "name": "Ο ΝΤΑΓΚ ΑΠΟΣΥΝΔΕΕΤΑΙ (DOUG UNPLUGS)",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/doug_unplugs-1920x1080.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:4d389c7f",
+      "type": "series",
+      "name": "FIRST DATES",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/first_dates/2026/temp/first_dates_2026-27-1920x1080-temp.png"
+    },
+    {
+      "id": "greek_tv:star_channel:f46058ae",
+      "type": "series",
+      "name": "ΜΑΡΣΟΥΠΙΛΑΜΙ (THE MARSUPILAMIS)",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
+    },
+    {
+      "id": "greek_tv:star_channel:cc3be537",
+      "type": "series",
+      "name": "GREECE'S NEXT TOP MODEL",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"
+    },
+    {
+      "id": "greek_tv:star_channel:ee50d207",
+      "type": "series",
+      "name": "NINJA EXPRESS",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:2beb8cd4",
+      "type": "series",
+      "name": "RAINBOW BUBBLEGEM",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/rainbow_bubblegem-1920x1080.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:5bcfe350",
+      "type": "series",
+      "name": "MINIBODS",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
+    },
+    {
+      "id": "greek_tv:star_channel:7b2fe6a7",
+      "type": "series",
+      "name": "KI & HI",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ki___hi-1920x1080.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:50c6da9f",
+      "type": "series",
+      "name": "THE WEASY FAMILY",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:77be04b3",
+      "type": "series",
+      "name": "BING",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:cf1c01f3",
+      "type": "series",
+      "name": "BOOBA",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:3bce9aa6",
+      "type": "series",
+      "name": "ODDBODS",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/oddbods-1920x1080.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:85ebe5a1",
+      "type": "series",
+      "name": "TRACTION",
+      "poster": "https://www.star.gr/tv/images/640x360/5/jpg/files/2022-01-11/traction_2021-22/traction_1920x1004a_21-22.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:d7d6af2c",
+      "type": "series",
+      "name": "Η ΜΑΣΑ ΚΑΙ Ο ΑΡΚΟΥΔΟΣ (MASHA AND THE BEAR)",
+      "poster": "https://www.star.gr/tv/images/640x360/1/jpg/files/Masa_and_the_Bear_1920x1004.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:12b6c6ca",
+      "type": "series",
+      "name": "ΦΑΡΜΑ",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/farma_2025/final/farma_2025-1920x1080.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:6e2ec62f",
+      "type": "series",
+      "name": "MasterChef",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/mc10-2026/final/masterchef2026-1920x1080-final.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:6474b95a",
+      "type": "series",
+      "name": "BREAKFAST@STAR",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/breakfast_2025-26/final/breakfast_star_2025-26-1920x1080-final.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:ccd0a80c",
+      "type": "series",
+      "name": "STAR ΚΑΙΡΟΣ",
+      "poster": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarKairos_1920x1004.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:5fa4f9de",
+      "type": "series",
+      "name": "CASH OR TRASH",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/cash_or_trash/2026-27/final/cot_2026-27-1920x1080-temp.png"
+    },
+    {
+      "id": "greek_tv:star_channel:80e7ac5d",
+      "type": "series",
+      "name": "ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ ΣΑΒΒΑΤΟΚΥΡΙΑΚΟΥ",
+      "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:5ebc346e",
+      "type": "series",
+      "name": "ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/%CE%B5%CE%BD%CE%B7%CE%BC%CE%B5%CF%81%CF%89%CF%83%CE%B7_2025-26/parousiastes/1920x1080_zaxarea.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:b526c6d4",
+      "type": "series",
+      "name": "ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ ΣΤΗ ΝΟΗΜΑΤΙΚΗ",
+      "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Tragomallou_1920x1004_2021-22.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:923c28e6",
+      "type": "series",
+      "name": "ΜΕΣΗΜΕΡΙΑΝΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ",
+      "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Eugenidis_1920x1004_2021-22.jpg"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "greek_tv:star_channel:738afbce",
+    "type": "series",
+    "name": "Ο ΝΤΑΓΚ ΑΠΟΣΥΝΔΕΕΤΑΙ (DOUG UNPLUGS)",
+    "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/doug_unplugs-1920x1080.jpg",
+    "background": "https://www.star.gr/tv/images/640x360/jpg/files/starland/doug_unplugs-1920x1080.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:star_channel:738afbce:bot-at-the-museum-x-marks-the-bot",
+        "title": "31/10/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/doug_unplugs-1920x1080.jpg"
+      }
+    ]
+  }
+}

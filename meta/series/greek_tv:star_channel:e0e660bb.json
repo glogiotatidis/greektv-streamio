@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "id": "greek_tv:star_channel:e0e660bb",
+    "type": "series",
+    "name": "ΠΡΩΤΟΣ ΚΑΦΕΣ ΜΕ ΤΗ ΖΗΝΑ",
+    "poster": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg",
+    "background": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:star_channel:e0e660bb:12102026-protos-kafes-me-ti-zina",
+        "title": "12/10/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:13102026-protos-kafes-me-ti-zina",
+        "title": "13/10/2026",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:14102026-protos-kafes-me-ti-zina",
+        "title": "14/10/2026",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:15102026-protos-kafes-me-ti-zina",
+        "title": "15/10/2026",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:16102026-protos-kafes-me-ti-zina",
+        "title": "16/10/2026",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:19102026-protos-kafes-me-ti-zina",
+        "title": "19/10/2026",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:21102026-protos-kafes-me-ti-zina",
+        "title": "21/10/2026",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:22102026-protos-kafes-me-ti-zina",
+        "title": "22/10/2026",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:23102026-protos-kafes-me-ti-zina",
+        "title": "23/10/2026",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:26102026-protos-kafes-me-ti-zina",
+        "title": "26/10/2026",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:27102026-protos-kafes-me-ti-zina",
+        "title": "27/10/2026",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:29102026-protos-kafes-me-ti-zina",
+        "title": "29/10/2026",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:30102026-protos-kafes-me-ti-zina",
+        "title": "30/10/2026",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:9102026-protos-kafes-me-ti-zina",
+        "title": "9102026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:8102026-protos-kafes-me-ti-zina",
+        "title": "8102026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:7102026-protos-kafes-me-ti-zina",
+        "title": "7102026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:6102026-protos-kafes-me-ti-zina",
+        "title": "6102026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:5102026-protos-kafes-me-ti-zina",
+        "title": "5102026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:2102026-protos-kafes-me-ti-zina",
+        "title": "2102026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:1102026-protos-kafes-me-ti-zina",
+        "title": "1102026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:iq-160-apokleistiko-apospasma-apo-to-3o-epeisodio-ti-tha-doume-tin-kuriaki-111",
+        "title": "Iq 160 Apokleistiko Apospasma Apo To 3O Epeisodio Ti Tha Doume Tin Kuriaki 111",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:3092026-protos-kafes-me-ti-zina",
+        "title": "3092026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:2992026-protos-kafes-me-ti-zina",
+        "title": "2992026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:2892026-protos-kafes-me-ti-zina",
+        "title": "2892026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:2592026-protos-kafes-me-ti-zina",
+        "title": "2592026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:2492026-protos-kafes-me-ti-zina",
+        "title": "2492026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:2392026-protos-kafes-me-ti-zina",
+        "title": "2392026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:2292026-protos-kafes-me-ti-zina",
+        "title": "2292026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:e0e660bb:2192026-protos-kafes-me-ti-zina",
+        "title": "2192026 Protos Kafes Me Ti Zina",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
+      }
+    ]
+  }
+}

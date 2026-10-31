@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "greek_tv:ant1:880223c8",
+    "type": "series",
+    "name": "ΣΠΙΛΙΑΔΕΣ",
+    "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Spiliades_1920x780_5f0b81ffdd.jpg",
+    "background": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Spiliades_1920x780_5f0b81ffdd.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ant1:880223c8:jricqyyezpbliy2m2ei6hrj3",
+        "title": "Σπιλιάδες - Έρχεται",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Spiliades_1920x780_5f0b81ffdd.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:880223c8:mfe574e8klgjepd2x8ewhx6m",
+        "title": "Σπιλιάδες - Έρχεται",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Spiliades_1920x780_5f0b81ffdd.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:880223c8:ryekklinyn5icoq9rlg9j9wu",
+        "title": "Σπιλιάδες - Έρχεται",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Spiliades_1920x780_5f0b81ffdd.jpg"
+      }
+    ]
+  }
+}

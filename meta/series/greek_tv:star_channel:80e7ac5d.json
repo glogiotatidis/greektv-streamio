@@ -1,0 +1,620 @@
+{
+  "meta": {
+    "id": "greek_tv:star_channel:80e7ac5d",
+    "type": "series",
+    "name": "ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ ΣΑΒΒΑΤΟΚΥΡΙΑΚΟΥ",
+    "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg",
+    "background": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:10102026-kedriko-deltio-eidiseon",
+        "title": "10/10/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:11102026-kedriko-deltio-eidiseon",
+        "title": "11/10/2026",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:17102026-kedriko-deltio-eidiseon",
+        "title": "17/10/2026",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:18102026-kedriko-deltio-eidiseon",
+        "title": "18/10/2026",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:24102026-kedriko-deltio-eidiseon",
+        "title": "24/10/2026",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:25102026-kedriko-deltio-eidiseon",
+        "title": "25/10/2026",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:31102026-kedriko-deltio-eidiseon",
+        "title": "31/10/2026",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:4102026-kedriko-deltio-eidiseon",
+        "title": "4102026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:3102026-kedriko-deltio-eidiseon",
+        "title": "3102026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2792026-kedriko-deltio-eidiseon",
+        "title": "2792026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2692026-kedriko-deltio-eidiseon",
+        "title": "2692026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2092026-kedriko-deltio-eidiseon",
+        "title": "2092026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1992026-kedriko-deltio-eidiseon",
+        "title": "1992026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1392026-kedriko-deltio-eidiseon",
+        "title": "1392026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1292026-kedriko-deltio-eidiseon",
+        "title": "1292026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:692026-kedriko-deltio-eidiseon",
+        "title": "692026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:592026-kedriko-deltio-eidiseon",
+        "title": "592026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:3082026-kedriko-deltio-eidiseon",
+        "title": "3082026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2982026-kedriko-deltio-eidiseon",
+        "title": "2982026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2382026-kedriko-deltio-eidiseon",
+        "title": "2382026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2282026-kedriko-deltio-eidiseon",
+        "title": "2282026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1682026-kedriko-deltio-eidiseon",
+        "title": "1682026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1582026-kedriko-deltio-eidiseon",
+        "title": "1582026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:982026-kedriko-deltio-eidiseon",
+        "title": "982026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:882026-kedriko-deltio-eidiseon",
+        "title": "882026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:282026-kedriko-deltio-eidiseon",
+        "title": "282026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:182026-kedriko-deltio-eidiseon",
+        "title": "182026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2672026-kedriko-deltio-eidiseon",
+        "title": "2672026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2572026-kedriko-deltio-eidiseon",
+        "title": "2572026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1972026-kedriko-deltio-eidiseon",
+        "title": "1972026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1872026-kedriko-deltio-eidiseon",
+        "title": "1872026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1272026-kedriko-deltio-eidiseon",
+        "title": "1272026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1172026-kedriko-deltio-eidiseon",
+        "title": "1172026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:572026-kedriko-deltio-eidiseon",
+        "title": "572026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:472026-kedriko-deltio-eidiseon",
+        "title": "472026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2862026-kedriko-deltio-eidiseon",
+        "title": "2862026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2762026-kedriko-deltio-eidiseon",
+        "title": "2762026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2162026-kedriko-deltio-eidiseon",
+        "title": "2162026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2062026-kedriko-deltio-eidiseon",
+        "title": "2062026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1462026-kedriko-deltio-eidiseon",
+        "title": "1462026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1362026-kedriko-deltio-eidiseon",
+        "title": "1362026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:762026-kedriko-deltio-eidiseon",
+        "title": "762026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:662026-kedriko-deltio-eidiseon",
+        "title": "662026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:3152026-kedriko-deltio-eidiseon",
+        "title": "3152026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:3052026-kedriko-deltio-eidiseon",
+        "title": "3052026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2452026-kedriko-deltio-eidiseon",
+        "title": "2452026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2352026-kedriko-deltio-eidiseon",
+        "title": "2352026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1752026-kedriko-deltio-eidiseon",
+        "title": "1752026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1652026-kedriko-deltio-eidiseon",
+        "title": "1652026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1052026-kedriko-deltio-eidiseon",
+        "title": "1052026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:952026-kedriko-deltio-eidiseon",
+        "title": "952026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:352026-kedriko-deltio-eidiseon",
+        "title": "352026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:252026-kedriko-deltio-eidiseon",
+        "title": "252026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2642026-kedriko-deltio-eidiseon",
+        "title": "2642026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2542026-kedriko-deltio-eidiseon",
+        "title": "2542026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1942026-kedriko-deltio-eidiseon",
+        "title": "1942026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 56,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1842026-kedriko-deltio-eidiseon",
+        "title": "1842026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1242026-kedriko-deltio-eidiseon",
+        "title": "1242026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1142026-kedriko-deltio-eidiseon",
+        "title": "1142026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:542026-kedriko-deltio-eidiseon",
+        "title": "542026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:442026-kedriko-deltio-eidiseon",
+        "title": "442026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2932026-kedriko-deltio-eidiseon",
+        "title": "2932026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 62,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2832026-kedriko-deltio-eidiseon",
+        "title": "2832026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 63,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2232026-kedriko-deltio-eidiseon",
+        "title": "2232026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 64,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2132026-kedriko-deltio-eidiseon",
+        "title": "2132026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 65,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1532026-kedriko-deltio-eidiseon",
+        "title": "1532026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 66,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1432026-kedriko-deltio-eidiseon",
+        "title": "1432026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 67,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:832026-kedriko-deltio-eidiseon",
+        "title": "832026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 68,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:732026-kedriko-deltio-eidiseon",
+        "title": "732026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 69,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:132026-kedriko-deltio-eidiseon",
+        "title": "132026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 70,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2822026-kedriko-deltio-eidiseon",
+        "title": "2822026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 71,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2222026-kedriko-deltio-eidiseon",
+        "title": "2222026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 72,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2122026-kedriko-deltio-eidiseon",
+        "title": "2122026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 73,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1522026-kedriko-deltio-eidiseon",
+        "title": "1522026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 74,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1422026-kedriko-deltio-eidiseon",
+        "title": "1422026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 75,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:822026-kedriko-deltio-eidiseon",
+        "title": "822026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 76,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:722026-kedriko-deltio-eidiseon",
+        "title": "722026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 77,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:122026-kedriko-deltio-eidiseon",
+        "title": "122026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 78,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:3112026-kedriko-deltio-eidiseon",
+        "title": "3112026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 79,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2512026-kedriko-deltio-eidiseon",
+        "title": "2512026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 80,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:2412026-kedriko-deltio-eidiseon",
+        "title": "2412026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 81,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1812026-kedriko-deltio-eidiseon",
+        "title": "1812026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 82,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1712026-kedriko-deltio-eidiseon",
+        "title": "1712026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 83,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1112026-kedriko-deltio-eidiseon",
+        "title": "1112026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 84,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:1012026-kedriko-deltio-eidiseon",
+        "title": "1012026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 85,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:412026-kedriko-deltio-eidiseon",
+        "title": "412026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 86,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:80e7ac5d:312026-kedriko-deltio-eidiseon",
+        "title": "312026 Kedriko Deltio Eidiseon",
+        "season": 1,
+        "episode": 87,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:1b429fbc",
+    "type": "series",
+    "name": "Ποιος Είσαι Τελικά;",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/psichagogia/2025_2026/poios_eisai_landscape.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/psichagogia/2025_2026/poios_eisai_landscape.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:1b429fbc:2025-11-28-11",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/psichagogia/2025_2026/poios_eisai_1_chilakis.jpg"
+      },
+      {
+        "id": "greek_tv:skai:1b429fbc:2025-12-12-18",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/psichagogia/2025_2026/poios_eisai_2_alevras.jpg"
+      },
+      {
+        "id": "greek_tv:skai:1b429fbc:2026-01-18-18",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/psichagogia/2025_2026/poios_eisai_3_xomenidis.jpg"
+      },
+      {
+        "id": "greek_tv:skai:1b429fbc:2026-02-16-09",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/psichagogia/2025_2026/poios_eisai_4_menti.jpg"
+      },
+      {
+        "id": "greek_tv:skai:1b429fbc:2026-03-10-09",
+        "title": "Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/psichagogia/2025_2026/poios_eisai_5_markaris.jpg"
+      },
+      {
+        "id": "greek_tv:skai:1b429fbc:2026-06-30-09",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/psichagogia/2025_2026/poios_eisai_karidi.jpg"
+      }
+    ]
+  }
+}

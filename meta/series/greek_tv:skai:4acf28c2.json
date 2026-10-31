@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "greek_tv:skai:4acf28c2",
+    "type": "series",
+    "name": "Πρώτη Εικόνα",
+    "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg",
+    "background": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:skai:4acf28c2:2026-10-30-05",
+        "title": "Επεισόδιο 50",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
+      }
+    ]
+  }
+}

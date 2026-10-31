@@ -1,0 +1,396 @@
+{
+  "meta": {
+    "id": "greek_tv:mega_tv:e944bf7f",
+    "type": "series",
+    "name": "Ιστορίες του Τόπου μας",
+    "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg",
+    "background": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:polyaigos-kimolou-enas-paradeisos-stis-kyklades",
+        "title": "Πολύαιγος Κιμώλου – Ένας παράδεισος στις Κυκλάδες -",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:periigisi-sti-metalleytiki-stoa-no-80-tou-layriou",
+        "title": "Περιήγηση στη μεταλλευτική στοά Νο 80 του Λαυρίου -",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:ekthesi-zografikis-aigaineto-fos",
+        "title": "Έκθεση ζωγραφικής «Αιγαίνετο Φως» -",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:ta-nayagia-pou-sygklonisan-tous-ellines-tis-imvrou",
+        "title": "Τα ναυάγια που συγκλόνισαν τους Έλληνες της Ίμβρου -",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:elliniki-paideia-stin-poli-kai-ta-prigkiponisa",
+        "title": "Ελληνική παιδεία στην Πόλη και τα Πριγκηπόνησα -",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:alieytikos-tourismos",
+        "title": "Αλιευτικός Τουρισμός -",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:to-patriko-spiti-tou-andrea-miaouli",
+        "title": "Το πατρικό σπίτι του Ανδρέα Μιαούλη -",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:emmanouil-ksanthos-o-patmios-protergatis-tis-filikis-etaireias",
+        "title": "Εμμανουήλ Ξάνθος – Ο πάτμιος πρωτεργάτης της Φιλικής Εταιρείας -",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:ta-karamanlidika",
+        "title": "Τα Καραμανλήδικα -",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:i-iroida-tou-v-pagkosmiou-polemou-aikaterini-logotheti",
+        "title": "Η ηρωίδα του Β’ Παγκοσμίου Πολεμου Αικατερίνη Λογοθέτη -",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:mathima-paraskeyis-prosforou",
+        "title": "Μάθημα παρασκευής προσφόρου -",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:to-paradosiako-kafeneio-panellinio",
+        "title": "Το παραδοσιακό καφενείο “Πανελλήνιο” -",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:sto-palio-kafekopteio",
+        "title": "Στο παλιό καφεκοπτείο -",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:i-dimotiki-paradosi-stin-katoxi-mesologgiou",
+        "title": "Η δημοτική παράδοση στην Κατοχή Μεσολογγίου -",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:oi-teleytaies-moirologistres-tis-katoxis-mesologgiou",
+        "title": "Οι τελευταίες μοιρολογίστρες της Κατοχής Μεσολογγίου -",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:mia-paradosiaki-taverna-ston-dimo-limnis-plastira-stis-plagies-ton-agrafon",
+        "title": "Μία παραδοσιακή ταβέρνα στον Δήμο Λίμνης Πλαστήρα, στις πλαγιές των Αγράφων -",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:istories-ton-psaradon-sto-dioni-mesologgiou",
+        "title": "Ιστορίες των ψαράδων στο Διόνι Μεσολογγίου -",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:to-spilaio-katafyki-sti-dryopida-kythnou",
+        "title": "Το σπήλαιο Καταφύκι στη Δρυοπίδα Κύθνου -",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:ta-iamatika-loutra-tis-kythnou",
+        "title": "Τα ιαματικά λουτρά της Κύθνου -",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:ta-kalokairia-sti-xalki",
+        "title": "Τα καλοκαίρια στη Χάλκη -",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:ta-ethima-tis-petras-lesvou",
+        "title": "Τα έθιμα της Πέτρας Λέσβου -",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:katoxi-mesologgiou-to-xorio-pou-ymnise-o-kostis-palamas",
+        "title": "Κατοχή Μεσολογγίου – Το χωριό που ύμνησε ο Κωστής Παλαμάς -",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:i-texni-tis-keramikis",
+        "title": "Η τέχνη της κεραμικής -",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:vafontas-yfasmata-me-fysikes-xrostikes-sto-istoriko-yfantourgeio-sen",
+        "title": "Βάφοντας Υφάσματα με φυσικές χρωστικές στο Ιστορικό Υφαντουργείο ΣΕΝ -",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:texnikes-yfansis-apo-tin-arxaiotita-eos-simera-sto-istoriko-yfantourgeio-sen",
+        "title": "Τεχνικές ύφανσης από την αρχαιότητα έως σήμερα στο Ιστορικό Υφαντουργείο ΣΕΝ -",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:to-tsarouxadiko",
+        "title": "Το τσαρουχάδικο -",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:o-loustradoros-tis-odou-voukourestiou",
+        "title": "O Λουστραδόρος της οδού Βουκουρεστίου -",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:to-theatro-kouklas-v-meros",
+        "title": "Το Θέατρο Κούκλας (β’ μέρος) -",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:to-theatro-kouklas-a-meros",
+        "title": "Το Θέατρο Κούκλας (α’ μέρος) -",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:enas-sygxronos-ifaistos-o-monadikos-armatopoios-tis-xoras",
+        "title": "Ένας σύγχρονος Ήφαιστος – Ο μοναδικός αρματοποιός της χώρας -",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:figoures-piso-apo-tis-skies",
+        "title": "Φιγούρες πίσω από τις σκιές -",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:istories-apo-imidiafano-xarti",
+        "title": "Ιστορίες από ημιδιάφανο χαρτί -",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:to-xeiropoiito-kapelo",
+        "title": "Το χειροποίητο καπέλο -",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:to-kompologadiko",
+        "title": "Το Κομπολογάδικο -",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:epaggelmata-pou-xathikan-me-tis-xeiropoiites-koukles",
+        "title": "Επαγγέλματα που χάθηκαν με τις χειροποίητες κούκλες -",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:oi-xeiropoiites-koukles-tis-eirinis-me-paradosiakes-foresies",
+        "title": "Οι χειροποίητες κούκλες της Ειρήνης με παραδοσιακές φορεσιές -",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:i-texni-tou-votsalotou",
+        "title": "Η Τέχνη του βοτσαλωτού -",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:o-karagkiozis-apo-to-theatro-skion-spyropoulou",
+        "title": "Ο Καραγκιόζης από το θέατρο Σκιών Σπυρόπουλου -",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:to-epaggelma-tou-laternatzi",
+        "title": "Το επάγγελμα του λατερνατζή -",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:o-teleytaios-kataskeyastis-mpaoulon-stin-athina",
+        "title": "Ο τελευταίος κατασκευαστής μπαούλων στην Αθήνα -",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:i-psatha-tis-kimolou",
+        "title": "Η Ψάθα της Κιμώλου -",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:i-texni-tou-argaleiou-stin-katoxi-mesologgiou",
+        "title": "Η τέχνη του Αργαλειού στην Κατοχή Μεσολογγίου -",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:o-raftis-paradosiakon-foresion-tis-katoxis-mesologgiou",
+        "title": "Ο ράφτης παραδοσιακών φορεσιών της Κατοχής Μεσολογγίου -",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:mpatzina-i-paradosiaki-pita-tis-thessalias",
+        "title": "Μπατζίνα – Η παραδοσιακή πίτα της Θεσσαλίας -",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:to-paradosiako-psomi-ton-agrafon",
+        "title": "Το παραδοσιακό ψωμί των Αγράφων -",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:paradosiako-psomi-me-prozymi-ston-ksylofourno",
+        "title": "Παραδοσιακό ψωμί με προζύμι στον ξυλόφουρνο -",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:o-paradosiakos-xalvas-tis-drapetsonas",
+        "title": "Ο παραδοσιακός χαλβάς της Δραπετσώνας -",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:gkiouzlemedes-ta-paradosiaka-edesmata-tis-lesvou",
+        "title": "Γκιουζλεμέδες – Τα παραδοσιακά εδέσματα της Λέσβου -",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:to-fimismeno-glyko-triantafyllo-tis-i-m-agiou-georgiou-feneou",
+        "title": "Το φημισμένο γλυκό τριαντάφυλλο της Ι.Μ. Αγίου Γεωργίου Φενεού -",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:paradosiaki-makaronopita-stin-kapsoraxi-agriniou",
+        "title": "Παραδοσιακή μακαρονόπιτα στην Καψοράχη Αγρινίου -",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:to-fimismeno-krasi-tis-katoxis-mesologgiou",
+        "title": "Το φημισμένο κρασί της Κατοχής Μεσολογγίου -",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:paradosiako-ravani-katoxis-mesologgiou",
+        "title": "Παραδοσιακό ραβανί Κατοχής Μεσολογγίου -",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:to-meli-tis-kimolou",
+        "title": "Το μέλι της Κιμώλου -",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:i-ladenia-tis-kimolou",
+        "title": "Η λαδένια της Κιμώλου -",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e944bf7f:i-paradosiaki-spanakopita-tou-mesologgiou",
+        "title": "Η παραδοσιακή σπανακόπιτα του Μεσολογγίου -",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
+      }
+    ]
+  }
+}

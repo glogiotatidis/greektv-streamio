@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "greek_tv:ant1:82eb81c2",
+    "type": "series",
+    "name": "ANT1 SPORTS",
+    "poster": "https://www.antenna.gr/imgHandler/1920/ANT_1_Sports_Telekom_F_1920_00ec843a34.jpg",
+    "background": "https://www.antenna.gr/imgHandler/1920/ANT_1_Sports_Telekom_F_1920_00ec843a34.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ant1:82eb81c2:y9zhjj4tzuglhmhgqe695pil",
+        "title": "ΑΝΤ1 Sports – 30-10-2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/ANT_1_Sports_Telekom_F_1920_00ec843a34.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:82eb81c2:j5nssekr4x9uteen6u7zsg58",
+        "title": "ΑΝΤ1 Sports – 29-10-2026",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/ANT_1_Sports_Telekom_F_1920_00ec843a34.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:82eb81c2:ctfhttsxw9i2zmtehzcgtqul",
+        "title": "ΑΝΤ1 Sports – 28-10-2026",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/ANT_1_Sports_Telekom_F_1920_00ec843a34.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:82eb81c2:d7j22laxvmwmemmlpsa2ik4p",
+        "title": "ΑΝΤ1 Sports – 27-09-2026",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/ANT_1_Sports_Telekom_F_1920_00ec843a34.jpg"
+      }
+    ]
+  }
+}

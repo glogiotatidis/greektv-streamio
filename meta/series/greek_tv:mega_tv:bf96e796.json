@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:mega_tv:bf96e796",
+    "type": "series",
+    "name": "Νταντά της Γειτονιάς",
+    "poster": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Ntanta_ths_geitonias_960X600-1.jpg",
+    "background": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Ntanta_ths_geitonias_960X600-1.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:mega_tv:bf96e796:epeisodio-1-125",
+        "title": "Επεισόδιο 1 -",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Ntanta_ths_geitonias_960X600-1.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:bf96e796:epeisodio-2-123",
+        "title": "Επεισόδιο 2 -",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Ntanta_ths_geitonias_960X600-1.jpg"
+      }
+    ]
+  }
+}

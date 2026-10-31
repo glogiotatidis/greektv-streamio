@@ -1,0 +1,136 @@
+{
+  "metas": [
+    {
+      "id": "greek_tv:ant1:6b71e430",
+      "type": "series",
+      "name": "ΝΤΕΡΤΙ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
+    },
+    {
+      "id": "greek_tv:ant1:a6015cac",
+      "type": "series",
+      "name": "ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Krino_and_Agathi_1920x780_Full_Cast_V2_8ddf3e6d3b.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:880223c8",
+      "type": "series",
+      "name": "ΣΠΙΛΙΑΔΕΣ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Spiliades_1920x780_5f0b81ffdd.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:84d3e000",
+      "type": "series",
+      "name": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ;",
+      "poster": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:96adda6b",
+      "type": "series",
+      "name": "THE 2NIGHT SHOW",
+      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:106cd1b4",
+      "type": "series",
+      "name": "ΑΠΟΚΑΛΥΨΕΙΣ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:3fd4340e",
+      "type": "series",
+      "name": "ANT1 NEWS",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_ANT_1_NEWS_03_a05a83d976.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:f60aef3a",
+      "type": "series",
+      "name": "FOR YOU",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:570c2277",
+      "type": "series",
+      "name": "ΣΟΥΠΕΡ ΗΡΩΕΣ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_SUPER_HEROES_efabdfebd8.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:f81c6aae",
+      "type": "series",
+      "name": "MOMENTS",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Antenna_gr_Moments_1920x780_51da673a54.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:059b1645",
+      "type": "series",
+      "name": "ΕΝΩΠΙΟΣ ΕΝΩΠΙΩ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/7027ab07-570d-4ee0-9071-500da4a822f8.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:4c6ac268",
+      "type": "series",
+      "name": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:fa9db4c2",
+      "type": "series",
+      "name": "ΤΟ ΠΡΩΙΝΟ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:02d9b2dd",
+      "type": "series",
+      "name": "ROUK ZOUK",
+      "poster": "https://www.antenna.gr/imgHandler/1920/64facc74-1633-4fdc-a547-e80ca477527d.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:a9b22b95",
+      "type": "series",
+      "name": "THE ROADSHOW",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_The_Roadshow_3_1920x780_a3024e7003.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:35800f78",
+      "type": "series",
+      "name": "ΚΑΤΙ ΨΗΝΕΤΑΙ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:ae69d93a",
+      "type": "series",
+      "name": "ΥΓΕΙΑ ΠΑΝΩ ΑΠ’ ΟΛΑ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Ygeia_Panp_Ap_Ola_1920x780_8d6243d4aa.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:797e177b",
+      "type": "series",
+      "name": "YOUR FACE SOUNDS FAMILIAR",
+      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_YFSF_PRESENTER_3c838a07cb.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:78c38c13",
+      "type": "series",
+      "name": "BRAVE NEW GREECE",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_BRAVE_NEW_GREECE_fc0f52f075.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:4638e85a",
+      "type": "series",
+      "name": "ΝΥΧΤΑ ΑΠΟΚΑΛΥΨΕΩΝ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Antenna_gr_1920x780_Nixta_Apokalipseon_a83726da94.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:82eb81c2",
+      "type": "series",
+      "name": "ANT1 SPORTS",
+      "poster": "https://www.antenna.gr/imgHandler/1920/ANT_1_Sports_Telekom_F_1920_00ec843a34.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:c38ff60c",
+      "type": "series",
+      "name": "ΠΡΟΣΩΠΟ ΜΕ ΠΡΟΣΩΠΟ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
+    }
+  ]
+}

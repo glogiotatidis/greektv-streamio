@@ -1,0 +1,970 @@
+{
+  "meta": {
+    "id": "greek_tv:mega_tv:845da4c5",
+    "type": "series",
+    "name": "Mega Αθλητικά powered by Stoiximan",
+    "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg",
+    "background": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:mega_tv:845da4c5:mega-athlitika-powered-by-stoiximan-25-02-2025",
+        "title": "MEGA Αθλητικά powered by Stoiximan (25/02/2025) -",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:30-10-26",
+        "title": "30/10/26 -",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:29-10-26",
+        "title": "29/10/26 -",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:28-10-26",
+        "title": "28/10/26 -",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:27-10-26",
+        "title": "27/10/26 -",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:26-10-26",
+        "title": "26/10/26 -",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:25-10-26",
+        "title": "25/10/26 -",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:24-10-26",
+        "title": "24/10/26 -",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:23-10-26",
+        "title": "23/10/26 -",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:22-10-26",
+        "title": "22/10/26 -",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:21-10-26",
+        "title": "21/10/26 -",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:20-10-26",
+        "title": "20/10/26 -",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:19-10-26",
+        "title": "19/10/26 -",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:18-10-26",
+        "title": "18/10/26 -",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:17-10-26",
+        "title": "17/10/26 -",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:16-10-26",
+        "title": "16/10/26 -",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:15-10-26",
+        "title": "15/10/26 -",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:14-10-26",
+        "title": "14/10/26 -",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:13-10-26",
+        "title": "13/10/26 -",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:12-10-26",
+        "title": "12/10/26 -",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:11-10-26",
+        "title": "11/10/26 -",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:10-10-26",
+        "title": "10/10/26 -",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:09-10-26",
+        "title": "09/10/26 -",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:08-10-26",
+        "title": "08/10/26 -",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:07-10-26",
+        "title": "07/10/26 -",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:06-10-26",
+        "title": "06/10/26 -",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:05-10-26",
+        "title": "05/10/26 -",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:04-10-26",
+        "title": "04/10/26 -",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:03-10-26",
+        "title": "03/10/26 -",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:02-10-26",
+        "title": "02/10/26 -",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:01-10-26",
+        "title": "01/10/26 -",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:30-09-26",
+        "title": "30/09/26 -",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:29-09-26",
+        "title": "29/09/26 -",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:28-09-26",
+        "title": "28/09/26 -",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:27-09-26",
+        "title": "27/09/26 -",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:26-09-26",
+        "title": "26/09/26 -",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:25-09-26",
+        "title": "25/09/26 -",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:24-09-26",
+        "title": "24/09/26 -",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:23-09-26",
+        "title": "23/09/26 -",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:22-09-26",
+        "title": "22/09/26 -",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:21-09-26",
+        "title": "21/09/26 -",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:20-09-26",
+        "title": "20/09/26 -",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:19-09-26",
+        "title": "19/09/26 -",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:18-09-26",
+        "title": "18/09/26 -",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:17-09-26",
+        "title": "17/09/26 -",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:16-09-26",
+        "title": "16/09/26 -",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:15-09-26",
+        "title": "15/09/26 -",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:13-09-26",
+        "title": "13/09/26 -",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:12-09-26",
+        "title": "12/09/26 -",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:11-09-26",
+        "title": "11/09/26 -",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:10-09-26",
+        "title": "10/09/26 -",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:09-09-26",
+        "title": "09/09/26 -",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:08-09-26",
+        "title": "08/09/26 -",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:07-09-26",
+        "title": "07/09/26 -",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:06-09-26",
+        "title": "06/09/26 -",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:05-09-26",
+        "title": "05/09/26 -",
+        "season": 1,
+        "episode": 56,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:04-09-26",
+        "title": "04/09/26 -",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:03-09-26",
+        "title": "03/09/26 -",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:02-09-26",
+        "title": "02/09/26 -",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:01-09-26",
+        "title": "01/09/26 -",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:31-08-26",
+        "title": "31/08/26 -",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:30-08-26",
+        "title": "30/08/26 -",
+        "season": 1,
+        "episode": 62,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:29-08-26",
+        "title": "29/08/26 -",
+        "season": 1,
+        "episode": 63,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:28-08-26",
+        "title": "28/08/26 -",
+        "season": 1,
+        "episode": 64,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:27-08-26",
+        "title": "27/08/26 -",
+        "season": 1,
+        "episode": 65,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:26-08-26",
+        "title": "26/08/26 -",
+        "season": 1,
+        "episode": 66,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:25-08-26",
+        "title": "25/08/26 -",
+        "season": 1,
+        "episode": 67,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:24-08-26",
+        "title": "24/08/26 -",
+        "season": 1,
+        "episode": 68,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:23-08-26",
+        "title": "23/08/26 -",
+        "season": 1,
+        "episode": 69,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:22-08-26",
+        "title": "22/08/26 -",
+        "season": 1,
+        "episode": 70,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:21-08-26",
+        "title": "21/08/26 -",
+        "season": 1,
+        "episode": 71,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:20-08-26",
+        "title": "20/08/26 -",
+        "season": 1,
+        "episode": 72,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:19-08-26",
+        "title": "19/08/26 -",
+        "season": 1,
+        "episode": 73,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:18-08-26",
+        "title": "18/08/26 -",
+        "season": 1,
+        "episode": 74,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:17-08-26",
+        "title": "17/08/26 -",
+        "season": 1,
+        "episode": 75,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:16-08-26",
+        "title": "16/08/26 -",
+        "season": 1,
+        "episode": 76,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:15-08-26",
+        "title": "15/08/26 -",
+        "season": 1,
+        "episode": 77,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:14-08-26",
+        "title": "14/08/26 -",
+        "season": 1,
+        "episode": 78,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:13-08-26",
+        "title": "13/08/26 -",
+        "season": 1,
+        "episode": 79,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:12-08-26",
+        "title": "12/08/26 -",
+        "season": 1,
+        "episode": 80,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:10-08-26",
+        "title": "10/08/26 -",
+        "season": 1,
+        "episode": 81,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:09-08-26",
+        "title": "09/08/26 -",
+        "season": 1,
+        "episode": 82,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:08-08-26",
+        "title": "08/08/26 -",
+        "season": 1,
+        "episode": 83,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:07-08-26",
+        "title": "07/08/26 -",
+        "season": 1,
+        "episode": 84,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:06-08-26",
+        "title": "06/08/26 -",
+        "season": 1,
+        "episode": 85,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:05-08-26",
+        "title": "05/08/26 -",
+        "season": 1,
+        "episode": 86,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:04-08-26",
+        "title": "04/08/26 -",
+        "season": 1,
+        "episode": 87,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:03-08-26",
+        "title": "03/08/26 -",
+        "season": 1,
+        "episode": 88,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:02-08-26",
+        "title": "02/08/26 -",
+        "season": 1,
+        "episode": 89,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:01-08-26",
+        "title": "01/08/26 -",
+        "season": 1,
+        "episode": 90,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:31-07-26",
+        "title": "31/07/26 -",
+        "season": 1,
+        "episode": 91,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:30-07-26",
+        "title": "30/07/26 -",
+        "season": 1,
+        "episode": 92,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:29-07-26",
+        "title": "29/07/26 -",
+        "season": 1,
+        "episode": 93,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:28-07-26",
+        "title": "28/07/26 -",
+        "season": 1,
+        "episode": 94,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:27-07-26",
+        "title": "27/07/26 -",
+        "season": 1,
+        "episode": 95,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:26-07-26",
+        "title": "26/07/26 -",
+        "season": 1,
+        "episode": 96,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:25-07-26",
+        "title": "25/07/26 -",
+        "season": 1,
+        "episode": 97,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:24-07-26",
+        "title": "24/07/26 -",
+        "season": 1,
+        "episode": 98,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:23-07-26",
+        "title": "23/07/26 -",
+        "season": 1,
+        "episode": 99,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:22-07-26",
+        "title": "22/07/26 -",
+        "season": 1,
+        "episode": 100,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:21-07-26",
+        "title": "21/07/26 -",
+        "season": 1,
+        "episode": 101,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:20-07-26",
+        "title": "20/07/26 -",
+        "season": 1,
+        "episode": 102,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:19-07-26",
+        "title": "19/07/26 -",
+        "season": 1,
+        "episode": 103,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:18-07-26",
+        "title": "18/07/26 -",
+        "season": 1,
+        "episode": 104,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:17-07-26",
+        "title": "17/07/26 -",
+        "season": 1,
+        "episode": 105,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:16-07-26",
+        "title": "16/07/26 -",
+        "season": 1,
+        "episode": 106,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:15-07-26",
+        "title": "15/07/26 -",
+        "season": 1,
+        "episode": 107,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:14-07-26",
+        "title": "14/07/26 -",
+        "season": 1,
+        "episode": 108,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:13-07-26",
+        "title": "13/07/26 -",
+        "season": 1,
+        "episode": 109,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:12-07-26",
+        "title": "12/07/26 -",
+        "season": 1,
+        "episode": 110,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:11-07-26",
+        "title": "11/07/26 -",
+        "season": 1,
+        "episode": 111,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:10-07-26",
+        "title": "10/07/26 -",
+        "season": 1,
+        "episode": 112,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:09-07-26",
+        "title": "09/07/26 -",
+        "season": 1,
+        "episode": 113,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:08-07-26",
+        "title": "08/07/26 -",
+        "season": 1,
+        "episode": 114,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:07-07-26",
+        "title": "07/07/26 -",
+        "season": 1,
+        "episode": 115,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:06-07-26",
+        "title": "06/07/26 -",
+        "season": 1,
+        "episode": 116,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:05-07-26",
+        "title": "05/07/26 -",
+        "season": 1,
+        "episode": 117,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:04-07-26",
+        "title": "04/07/26 -",
+        "season": 1,
+        "episode": 118,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:03-07-26",
+        "title": "03/07/26 -",
+        "season": 1,
+        "episode": 119,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:02-07-26",
+        "title": "02/07/26 -",
+        "season": 1,
+        "episode": 120,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:01-07-26",
+        "title": "01/07/26 -",
+        "season": 1,
+        "episode": 121,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:30-06-26",
+        "title": "30/06/26 -",
+        "season": 1,
+        "episode": 122,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:29-06-26",
+        "title": "29/06/26 -",
+        "season": 1,
+        "episode": 123,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:28-06-26",
+        "title": "28/06/26 -",
+        "season": 1,
+        "episode": 124,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:27-06-26",
+        "title": "27/06/26 -",
+        "season": 1,
+        "episode": 125,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:26-06-26-2",
+        "title": "26/06/26 -",
+        "season": 1,
+        "episode": 126,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:25-06-26-2",
+        "title": "25/06/26 -",
+        "season": 1,
+        "episode": 127,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:24-06-26-2",
+        "title": "24/06/26 -",
+        "season": 1,
+        "episode": 128,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:23-06-26-2",
+        "title": "23/06/26 -",
+        "season": 1,
+        "episode": 129,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:22-06-26-2",
+        "title": "22/06/26 -",
+        "season": 1,
+        "episode": 130,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:21-06-26",
+        "title": "21/06/26 -",
+        "season": 1,
+        "episode": 131,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:20-06-26",
+        "title": "20/06/26 -",
+        "season": 1,
+        "episode": 132,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:19-06-26-2",
+        "title": "19/06/26 -",
+        "season": 1,
+        "episode": 133,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:18-06-26-2",
+        "title": "18/06/26 -",
+        "season": 1,
+        "episode": 134,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:17-06-26-2",
+        "title": "17/06/26 -",
+        "season": 1,
+        "episode": 135,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:16-06-26-2",
+        "title": "16/06/26 -",
+        "season": 1,
+        "episode": 136,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:845da4c5:15-06-26-2",
+        "title": "15/06/26 -",
+        "season": 1,
+        "episode": 137,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      }
+    ]
+  }
+}

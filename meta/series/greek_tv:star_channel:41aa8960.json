@@ -1,0 +1,543 @@
+{
+  "meta": {
+    "id": "greek_tv:star_channel:41aa8960",
+    "type": "series",
+    "name": "ΣΤΑ ΣΥΝΟΡΑ",
+    "poster": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg",
+    "background": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-1",
+        "title": "Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-36",
+        "title": "Επεισόδιο 36",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-37",
+        "title": "Επεισόδιο 37",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-38",
+        "title": "Επεισόδιο 38",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-39",
+        "title": "Επεισόδιο 39",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-39-sneak-preview",
+        "title": "Επεισόδιο 39",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-40",
+        "title": "Επεισόδιο 40",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-40-sneak-preview",
+        "title": "Επεισόδιο 40",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-41",
+        "title": "Επεισόδιο 41",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-41-sneak-preview",
+        "title": "Επεισόδιο 41",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-42",
+        "title": "Επεισόδιο 42",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-42-sneak-preview",
+        "title": "Επεισόδιο 42",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-43",
+        "title": "Επεισόδιο 43",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-43-sneak-preview",
+        "title": "Επεισόδιο 43",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-44",
+        "title": "Επεισόδιο 44",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-44-sneak-preview-part-2",
+        "title": "Επεισόδιο 44",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-44-sneak-preview-part-1",
+        "title": "Επεισόδιο 44",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-45",
+        "title": "Επεισόδιο 45",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-45-sneak-preview",
+        "title": "Επεισόδιο 45",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-46",
+        "title": "Επεισόδιο 46",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-46-sneak-preview",
+        "title": "Επεισόδιο 46",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-47",
+        "title": "Επεισόδιο 47",
+        "season": 1,
+        "episode": 56,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-47-sneak-preview",
+        "title": "Επεισόδιο 47",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-48",
+        "title": "Επεισόδιο 48",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-48-sneak-preview",
+        "title": "Επεισόδιο 48",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-49",
+        "title": "Επεισόδιο 49",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-49-sneak-preview",
+        "title": "Επεισόδιο 49",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-50",
+        "title": "Επεισόδιο 50",
+        "season": 1,
+        "episode": 62,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-50-sneak-preview",
+        "title": "Επεισόδιο 50",
+        "season": 1,
+        "episode": 63,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-51",
+        "title": "Επεισόδιο 51",
+        "season": 1,
+        "episode": 64,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-51-sneak-preview",
+        "title": "Επεισόδιο 51",
+        "season": 1,
+        "episode": 65,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-52",
+        "title": "Επεισόδιο 52",
+        "season": 1,
+        "episode": 66,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-52-sneak-preview",
+        "title": "Επεισόδιο 52",
+        "season": 1,
+        "episode": 67,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-53",
+        "title": "Επεισόδιο 53",
+        "season": 1,
+        "episode": 68,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-53-sneak-preview-part-2",
+        "title": "Επεισόδιο 53",
+        "season": 1,
+        "episode": 69,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-53-sneak-preview-part-1",
+        "title": "Επεισόδιο 53",
+        "season": 1,
+        "episode": 70,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-54",
+        "title": "Επεισόδιο 54",
+        "season": 1,
+        "episode": 71,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-54-sneak-preview",
+        "title": "Επεισόδιο 54",
+        "season": 1,
+        "episode": 72,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-55",
+        "title": "Επεισόδιο 55",
+        "season": 1,
+        "episode": 73,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-55-sneak-preview",
+        "title": "Επεισόδιο 55",
+        "season": 1,
+        "episode": 74,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-56",
+        "title": "Επεισόδιο 56",
+        "season": 1,
+        "episode": 75,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-56-sneak-preview",
+        "title": "Επεισόδιο 56",
+        "season": 1,
+        "episode": 76,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-57",
+        "title": "Επεισόδιο 57",
+        "season": 1,
+        "episode": 77,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-57-sneak-preview",
+        "title": "Επεισόδιο 57",
+        "season": 1,
+        "episode": 78,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-58",
+        "title": "Επεισόδιο 58",
+        "season": 1,
+        "episode": 79,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-58-sneak-preview",
+        "title": "Επεισόδιο 58",
+        "season": 1,
+        "episode": 80,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-59",
+        "title": "Επεισόδιο 59",
+        "season": 1,
+        "episode": 81,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-59-sneak-preview",
+        "title": "Επεισόδιο 59",
+        "season": 1,
+        "episode": 82,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-60",
+        "title": "Επεισόδιο 60",
+        "season": 1,
+        "episode": 83,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-60-sneak-preview-part-2-teleutaio-epeisodio",
+        "title": "Επεισόδιο 60",
+        "season": 1,
+        "episode": 84,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-epeisodio-60-sneak-preview-part-1-teleutaio-epeisodio",
+        "title": "Επεισόδιο 60",
+        "season": 1,
+        "episode": 85,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-60ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 60Ou Epeisodiou",
+        "season": 1,
+        "episode": 86,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-59ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 59Ou Epeisodiou",
+        "season": 1,
+        "episode": 87,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-58ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 58Ou Epeisodiou",
+        "season": 1,
+        "episode": 88,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-57ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 57Ou Epeisodiou",
+        "season": 1,
+        "episode": 89,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-56ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 56Ou Epeisodiou",
+        "season": 1,
+        "episode": 90,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-55ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 55Ou Epeisodiou",
+        "season": 1,
+        "episode": 91,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-54ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 54Ou Epeisodiou",
+        "season": 1,
+        "episode": 92,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-53ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 53Ou Epeisodiou",
+        "season": 1,
+        "episode": 93,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-52ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 52Ou Epeisodiou",
+        "season": 1,
+        "episode": 94,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-51ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 51Ou Epeisodiou",
+        "season": 1,
+        "episode": 95,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-50ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 50Ou Epeisodiou",
+        "season": 1,
+        "episode": 96,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-49ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 49Ou Epeisodiou",
+        "season": 1,
+        "episode": 97,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-48ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 48Ou Epeisodiou",
+        "season": 1,
+        "episode": 98,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-47ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 47Ou Epeisodiou",
+        "season": 1,
+        "episode": 99,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-46ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 46Ou Epeisodiou",
+        "season": 1,
+        "episode": 100,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-45ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 45Ou Epeisodiou",
+        "season": 1,
+        "episode": 101,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-44ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 44Ou Epeisodiou",
+        "season": 1,
+        "episode": 102,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-43ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 43Ou Epeisodiou",
+        "season": 1,
+        "episode": 103,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-42ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 42Ou Epeisodiou",
+        "season": 1,
+        "episode": 104,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-41ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 41Ou Epeisodiou",
+        "season": 1,
+        "episode": 105,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-40ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 40Ou Epeisodiou",
+        "season": 1,
+        "episode": 106,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-39ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 39Ou Epeisodiou",
+        "season": 1,
+        "episode": 107,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-38ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 38Ou Epeisodiou",
+        "season": 1,
+        "episode": 108,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-37ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 37Ou Epeisodiou",
+        "season": 1,
+        "episode": 109,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:41aa8960:sta-sunora-perilipsi-36ou-epeisodiou",
+        "title": "Sta Sunora Perilipsi 36Ou Epeisodiou",
+        "season": 1,
+        "episode": 110,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+      }
+    ]
+  }
+}
