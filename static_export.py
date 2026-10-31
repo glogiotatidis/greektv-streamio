@@ -182,4 +182,5 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--full", action="store_true", help="Re-fetch every stream")
     args = parser.parse_args()
-    main(full=args.full)
+    full = args.full or os.environ.get("GREEKTV_FULL", "").lower() in ("1", "true", "yes")
+    main(full=full)
