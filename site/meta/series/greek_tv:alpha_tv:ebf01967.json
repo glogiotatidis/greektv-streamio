@@ -5,10 +5,58 @@
     "name": "Σειρά: Σασμός | AlphaTV",
     "videos": [
       {
-        "id": "greek_tv:alpha_tv:ebf01967:latest",
-        "title": "Σειρά: Σασμός | AlphaTV",
+        "id": "greek_tv:alpha_tv:ebf01967:277555-s3-epeisodio-152",
+        "title": "277555 s3 epeisodio 152",
         "season": 1,
         "episode": 1
+      },
+      {
+        "id": "greek_tv:alpha_tv:ebf01967:277531-s3-epeisodio-151",
+        "title": "277531 s3 epeisodio 151",
+        "season": 1,
+        "episode": 2
+      },
+      {
+        "id": "greek_tv:alpha_tv:ebf01967:277183-s3-epeisodio-150",
+        "title": "277183 s3 epeisodio 150",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "id": "greek_tv:alpha_tv:ebf01967:277108-s3-epeisodio-149",
+        "title": "277108 s3 epeisodio 149",
+        "season": 1,
+        "episode": 4
+      },
+      {
+        "id": "greek_tv:alpha_tv:ebf01967:276651-s3-epeisodio-148",
+        "title": "276651 s3 epeisodio 148",
+        "season": 1,
+        "episode": 5
+      },
+      {
+        "id": "greek_tv:alpha_tv:ebf01967:276550-s3-epeisodio-147",
+        "title": "276550 s3 epeisodio 147",
+        "season": 1,
+        "episode": 6
+      },
+      {
+        "id": "greek_tv:alpha_tv:ebf01967:276473-s3-epeisodio-146",
+        "title": "276473 s3 epeisodio 146",
+        "season": 1,
+        "episode": 7
+      },
+      {
+        "id": "greek_tv:alpha_tv:ebf01967:276311-s3-epeisodio-145",
+        "title": "276311 s3 epeisodio 145",
+        "season": 1,
+        "episode": 8
+      },
+      {
+        "id": "greek_tv:alpha_tv:ebf01967:276082-s3-epeisodio-144",
+        "title": "276082 s3 epeisodio 144",
+        "season": 1,
+        "episode": 9
       }
     ]
   }

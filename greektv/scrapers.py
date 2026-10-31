@@ -40,13 +40,25 @@ def skai_stream(episode_url):
     return f"https://videostream.skai.gr/skaivod/_definst_/mp4:skai/{media_file}/chunklist.m3u8"
 
 def skai_show(show_url):
-    # show_url may be an episode URL; keep as one episode
     html = fetch(show_url)
     title = "Skai Show"
     m = re.search(r'<title>(.*?)</title>', html, re.S)
     if m:
         title = m.group(1).strip()
-    return {"station":"Skai","title":title,"episodes":[{"id":"latest","title":title,"url":show_url}]}
+    sidm = re.search(r'show_id["\']?\s*[:=]\s*["\']?(\d+)', html)
+    eps = []
+    seen = set()
+    if sidm:
+        eid = sidm.group(1)
+        ajax_html = fetch(f"https://www.skai.gr/tv/ajaxshowsepisode/{eid}/0")
+        for m in re.finditer(r'href="(/tv/episode/[^"]+)"', ajax_html):
+            full = "https://www.skai.gr" + m.group(1)
+            if full not in seen:
+                seen.add(full)
+                eps.append({"id": m.group(1).strip('/').split('/')[-1], "title": m.group(1).strip('/').split('/')[-1].replace('-', ' '), "url": full})
+    if not eps:
+        eps = [{"id": "latest", "title": title, "url": show_url}]
+    return {"station": "Skai", "title": title, "episodes": eps}
 
 def star_stream(episode_url):
     html = fetch(episode_url)
@@ -74,7 +86,7 @@ def star_show(show_url):
                 eps.append({"id":href.strip('/').split('/')[-1],"title":href.strip('/').split('/')[-1].replace('-',' '),"url":full})
     if not eps:
         eps=[{"id":"latest","title":title,"url":show_url}]
-    return {"station":"Star Channel","title":title,"episodes":eps[:20]}
+    return {"station":"Star Channel","title":title,"episodes":eps}
 
 def alpha_stream(episode_url):
     html = fetch(episode_url)
@@ -91,14 +103,14 @@ def alpha_show(show_url, fallback_url=None):
         title = m.group(1).strip()
     eps=[]
     seen=set()
-    for m in re.finditer(r'href="(/series/[^"]+/episode/[^"]+)"', html):
-        full="https://www.alphatv.gr"+m.group(1)
+    for m in re.finditer(r'href="(https://www\.alphatv\.gr/series/[^"]+/episode/[^"]+)"', html):
+        full=m.group(1)
         if full not in seen:
             seen.add(full)
             eps.append({"id":m.group(1).strip('/').split('/')[-1],"title":m.group(1).strip('/').split('/')[-1].replace('-',' '),"url":full})
     if not eps:
         eps=[{"id":"latest","title":title,"url":fallback_url or show_url}]
-    return {"station":"Alpha TV","title":title,"episodes":eps[:20]}
+    return {"station":"Alpha TV","title":title,"episodes":eps}
 def ert_stream(series_url, episode_index=0):
     # use ertflix API
     html = fetch(series_url)
@@ -152,7 +164,7 @@ def ert_show(series_url):
     eps=[]
     for season in details.get("EpisodeGroups", []) or []:
         episodes = season.get("Episodes") or season.get("episodes") or []
-        for ep in episodes[:20]:
+        for ep in episodes:
             eps.append({"id":ep.get("Codename") or ep.get("codename","ep"),"title":ep.get("Title") or ep.get("subtitle") or "Episode","url":series_url,"codename":ep.get("Codename") or ep.get("codename")})
     if not eps:
         eps=[{"id":"latest","title":title,"url":series_url}]
