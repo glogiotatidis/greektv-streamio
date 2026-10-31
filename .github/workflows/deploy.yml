@@ -22,7 +22,7 @@ jobs:
       - id: set
         run: |
           if [ "${{ github.event_name }}" = "schedule" ]; then
-            echo 'stations=["mega_tv","skai","star_channel","ant1"]' >> "$GITHUB_OUTPUT"
+            echo 'stations=["mega_tv","skai","star_channel","ert","ant1"]' >> "$GITHUB_OUTPUT"
           elif [ -z "${{ github.event.inputs.stations }}" ]; then
             echo 'stations=["mega_tv","skai","star_channel","alpha_tv","ert","ant1"]' >> "$GITHUB_OUTPUT"
           else
