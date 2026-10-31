@@ -75,7 +75,7 @@ def _poster(html, title):
     if poster:
         return poster
     match = re.search(
-        r'(https://antenna-ott\.brightcove\.services/static/uploads/[^"\']+)', html
+        r'(https://www\.antenna\.gr/imgHandler/1920/[^"\']+)', html
     )
     if match:
         return match.group(1)
