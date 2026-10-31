@@ -60,7 +60,6 @@ jobs:
           GREEKTV_STREAM_WORKERS: "2"
       - run: test -s site/manifest.json
       - run: cd site && zip -r ../site.zip .
-      - run: if [ -d .cache ]; then zip -r site.zip .cache; fi
       - uses: actions/upload-artifact@v4
         with:
           name: site-${{ matrix.station }}
