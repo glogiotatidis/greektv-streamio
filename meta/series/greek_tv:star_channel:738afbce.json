@@ -12,6 +12,13 @@
         "season": 1,
         "episode": 1,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/doug_unplugs-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:738afbce:bots-for-dinner-its-the-bot-that-counts",
+        "title": "Bots For Dinner Its The Bot That Counts",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/doug_unplugs-1920x1080.jpg"
       }
     ]
   }

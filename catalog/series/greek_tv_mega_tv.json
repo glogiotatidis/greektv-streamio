@@ -1,10 +1,10 @@
 {
   "metas": [
     {
-      "id": "greek_tv:mega_tv:b1d9fcd8",
+      "id": "greek_tv:mega_tv:db76fffc",
       "type": "series",
-      "name": "Πάμε μια Βόλτα;",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/Image_pame_mia_volta_960X600.jpg"
+      "name": "Αλ Τσαντίρι Νιουζ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
     },
     {
       "id": "greek_tv:mega_tv:5e6158e2",
@@ -13,28 +13,28 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2025/09/Image_para5_960X600_3.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:f8ebfab5",
-      "type": "series",
-      "name": "Στον Δρόμο για το 5άρι",
-      "poster": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:ada42966",
-      "type": "series",
-      "name": "Markos by Night",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/03/MARKOS-BY-NIGHT_Image_960x600.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:538e4c9e",
       "type": "series",
       "name": "Mega Ζην",
       "poster": "https://www.megatv.com/wp-content/uploads/2019/06/megaZin-1.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:db76fffc",
+      "id": "greek_tv:mega_tv:f8ebfab5",
       "type": "series",
-      "name": "Αλ Τσαντίρι Νιουζ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
+      "name": "Στον Δρόμο για το 5άρι",
+      "poster": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:b1d9fcd8",
+      "type": "series",
+      "name": "Πάμε μια Βόλτα;",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/Image_pame_mia_volta_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:ada42966",
+      "type": "series",
+      "name": "Markos by Night",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/03/MARKOS-BY-NIGHT_Image_960x600.jpg"
     },
     {
       "id": "greek_tv:mega_tv:d15612a7",
@@ -55,16 +55,16 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Ntanta_ths_geitonias_960X600-1.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:e99ec70f",
-      "type": "series",
-      "name": "Κάμπινγκ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_Camping_960X600-c.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:1d3cff09",
       "type": "series",
       "name": "Δυο Μαύρα Πουκάμισα",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:e99ec70f",
+      "type": "series",
+      "name": "Κάμπινγκ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_Camping_960X600-c.jpg"
     },
     {
       "id": "greek_tv:mega_tv:6e0150ed",
