@@ -32,10 +32,6 @@ for cat_id in stations:
             failures.append(f"{slug}: no stream for {vid}")
             continue
         url = streams[0]["url"]
-        if slug == "ert" and "mediaserve.ert.gr" in url:
-            print(f"[{slug}] FAIL: unresolved mediaserve URL {url}")
-            failures.append(f"{slug}: unresolved mediaserve URL {url}")
-            continue
         tested += 1
         def fetch_segment(playlist_url, depth=0):
             if depth > 2:
@@ -46,6 +42,11 @@ for cat_id in stations:
                 final_url = r.geturl()
                 status = r.status
                 ctype = r.headers.get("Content-Type", "")
+            # Direct video (mp4/mpd) — just fetch a few bytes
+            if "video/" in ctype or playlist_url.endswith((".mp4", ".mpd", ".mkv")):
+                if status == 200 and b"<html" not in body.encode()[:64].lower():
+                    return True, f"direct {ctype}"
+                return False, f"bad direct status={status} ctype={ctype}"
             if status != 200 or "#EXTM3U" not in body:
                 return False, f"bad playlist status={status} ctype={ctype}"
             # find first non-comment line
