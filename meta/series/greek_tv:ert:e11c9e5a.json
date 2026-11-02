@@ -7,73 +7,87 @@
     "background": "https://files2.app.ertflix.gr/2026/festivals/14o-cff/14o-chania-film-festival-hbbtv-bg.jpg",
     "videos": [
       {
-        "id": "greek_tv:ert:e11c9e5a:14o-phestibal-kinematographou-khanion-10",
-        "title": "Μέρα 10η",
+        "id": "greek_tv:ert:e11c9e5a:14o-phestibal-kinematographou-khanion-13",
+        "title": "Μέρα 12η",
         "season": 1,
         "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/festivals/14o-cff/02-11-cff14-day-11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e11c9e5a:14o-phestibal-kinematographou-khanion-11",
+        "title": "Μέρα 11η",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/01-11-cff14-day-10mp4-2026-11-01-11h50m06s791.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e11c9e5a:14o-phestibal-kinematographou-khanion-12",
+        "title": "Μέρα 10η",
+        "season": 1,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/31-10-cff14-day-09mp4-2026-10-31-13h46m40s643.jpg"
       },
       {
         "id": "greek_tv:ert:e11c9e5a:14o-phestibal-kinematographou-khanion-9",
         "title": "Μέρα 9η",
         "season": 1,
-        "episode": 2,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/30-10-cff14-day-08.jpg"
       },
       {
         "id": "greek_tv:ert:e11c9e5a:14o-phestibal-kinematographou-khanion-8",
         "title": "Μέρα 8η",
         "season": 1,
-        "episode": 3,
+        "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/2026/festivals/14o-cff/29-10-cff14-day-07.jpg"
       },
       {
         "id": "greek_tv:ert:e11c9e5a:14o-phestibal-kinematographou-khanion-7",
         "title": "Μέρα 7η",
         "season": 1,
-        "episode": 4,
+        "episode": 6,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/27-10-cff14-day-06mp4-2026-10-28-10h11m04s983.jpg"
       },
       {
         "id": "greek_tv:ert:e11c9e5a:14o-phestibal-kinematographou-khanion-6",
         "title": "Μέρα 6η",
         "season": 1,
-        "episode": 5,
+        "episode": 7,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/27-10-cff14-day-05-4mbpsmp4-2026-10-28-10h06m17s095.jpg"
       },
       {
         "id": "greek_tv:ert:e11c9e5a:14o-phestibal-kinematographou-khanion-5",
         "title": "Μέρα 5η",
         "season": 1,
-        "episode": 6,
+        "episode": 8,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/26-10-cff14-day-04mp4-2026-10-26-08h09m34s772.jpg"
       },
       {
         "id": "greek_tv:ert:e11c9e5a:14o-phestibal-kinematographou-khanion-4",
         "title": "Μέρα 4η",
         "season": 1,
-        "episode": 7,
+        "episode": 9,
         "thumbnail": "https://files2.app.ertflix.gr/2026/festivals/14o-cff/23-10-cff14-day-03.jpg"
       },
       {
         "id": "greek_tv:ert:e11c9e5a:14o-phestibal-kinematographou-khanion-3",
         "title": "Μέρα 3η",
         "season": 1,
-        "episode": 8,
+        "episode": 10,
         "thumbnail": "https://files2.app.ertflix.gr/2026/festivals/14o-cff/23-10-cff14-day-02.jpg"
       },
       {
         "id": "greek_tv:ert:e11c9e5a:14o-phestibal-kinematographou-khanion-1",
         "title": "Μέρα 2η",
         "season": 1,
-        "episode": 9,
+        "episode": 11,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/23-10-cff14-day-01-4mbpsmp4-2026-10-23-15h28m30s480.jpg"
       },
       {
         "id": "greek_tv:ert:e11c9e5a:14o-phestibal-kinematographou-khanion-2",
         "title": "Μέρα 1η",
         "season": 1,
-        "episode": 10,
+        "episode": 12,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/cff14-day-00-4mbpsmp4-2026-10-23-15h25m43s750.jpg"
       }
     ]

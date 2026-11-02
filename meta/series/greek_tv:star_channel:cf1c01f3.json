@@ -89,27 +89,6 @@
         "season": 1,
         "episode": 12,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:cf1c01f3:farm",
-        "title": "Farm",
-        "season": 1,
-        "episode": 13,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:cf1c01f3:museum",
-        "title": "Museum",
-        "season": 1,
-        "episode": 14,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:cf1c01f3:aircraft",
-        "title": "Aircraft",
-        "season": 1,
-        "episode": 15,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
       }
     ]
   }

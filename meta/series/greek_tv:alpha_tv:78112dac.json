@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:78112dac",
+    "type": "series",
+    "name": "Χορεύοντας στη Σιωπή",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:78112dac:272493-xorevontas-sti-siopi-epeisodio-1",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:272481-xorevontas-sti-siopi-epeisodio-2",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:272469-xorevontas-sti-siopi-epeisodio-3",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:272459-xorevontas-sti-siopi-epeisodio-4",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:272449-xorevontas-sti-siopi-epeisodio-5",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:272441-xorevontas-sti-siopi-epeisodio-6",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:272431-xorevontas-sti-siopi-epeisodio-7",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281482-xorevontas-sti-siopi-epeisodio-8",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281476-xorevontas-sti-siopi-epeisodio-9",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281470-xorevontas-sti-siopi-epeisodio-10",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281465-xorevontas-sti-siopi-epeisodio-11",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281460-xorevontas-sti-siopi-epeisodio-12",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281266-xorevontas-sti-siopi-epeisodio-13",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281248-xorevontas-sti-siopi-epeisodio-14",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281233-xorevontas-sti-siopi-epeisodio-15",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281218-xorevontas-sti-siopi-epeisodio-16",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281204-xorevontas-sti-siopi-epeisodio-17",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281187-xorevontas-sti-siopi-epeisodio-18",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281175-xorevontas-sti-siopi-epeisodio-19",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281160-xorevontas-sti-siopi-epeisodio-20",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281139-xorevontas-sti-siopi-epeisodio-21",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 21",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281124-xorevontas-sti-siopi-epeisodio-22",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 22",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281109-xorevontas-sti-siopi-epeisodio-23",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 23",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:78112dac:281094-xorevontas-sti-siopi-epeisodio-24",
+        "title": "Χορεύοντας στη Σιωπή – Επεισόδιο 24",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      }
+    ]
+  }
+}

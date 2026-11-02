@@ -1,0 +1,557 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:f5fba049",
+    "type": "series",
+    "name": "10η Εντολή",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:279027-s1-e1-ena-lepto-argotera",
+        "title": "S1 Ε1 Ένα λεπτό αργότερα",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:279018-s1-e3-apli-oikogeneiaki-istoria",
+        "title": "S1 Ε3 Απλή οικογενειακή ιστορία",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:279009-s1-e4-xoris-epistrofi",
+        "title": "S1 Ε4 Χωρίς επιστροφή",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:279003-s1-e5-angelika-prosopa",
+        "title": "S1 Ε5 Αγγελικά πρόσωπα",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278994-s1-e6-to-proxenio",
+        "title": "S1 Ε6 Το προξενιό",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278985-s1-e7-se-vathia-nera",
+        "title": "S1 Ε7 Σε βαθιά νερά",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278975-s1-e8-se-vathia-nera-v-meros",
+        "title": "S1 Ε8 Σε βαθιά νερά- Β’ μέρος",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278966-s1-e9-i-simfonia-tou-aimatos",
+        "title": "S1 Ε9 Η συμφωνία του αίματος",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278957-s1-e10-kleistes-portes",
+        "title": "S1 Ε10 Κλειστές πόρτες",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278948-s1-e11-noikokiremenes-douleies",
+        "title": "S1 Ε11 Νοικοκυρεμένες δουλειές",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278936-s1-e12-mania",
+        "title": "S1 Ε12 Μανία",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278930-s1-e13-to-oros-tou-kronou",
+        "title": "S1 Ε13 Το όρος του Κρόνου",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278921-s1-e14-o-eftixismenos-gamos-tis-kaitis",
+        "title": "S1 Ε14 Ο ευτυχισμένος γάμος της Καίτης",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278911-s1-e15-klironomia",
+        "title": "S1 Ε15 Κληρονομιά",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278902-s1-e16-se-steno-oikogeneiako-kiklo",
+        "title": "S1 Ε16 Σε στενό οικογενειακό κύκλο",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278893-s1-e17-i-apagogi",
+        "title": "S1 Ε17 Η απαγωγή",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278878-s1-e18-se-argi-kinisi",
+        "title": "S1 Ε18 Σε αργή κίνηση",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278871-s1-e19-meta-thanaton",
+        "title": "S1 Ε19 Μετά θάνατον…",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278855-s1-e20-cherchez-la-femme",
+        "title": "S1 Ε20 Cherchez la femme",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278843-s1-e21-o-toixos",
+        "title": "S1 Ε21 Ο τοίχος",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278831-s1-e22-epikindina-paixnidia",
+        "title": "S1 Ε22 Επικίνδυνα παιχνίδια",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278818-s2-e1-epi-mataio",
+        "title": "S2 Ε1 …επί ματαίω",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278810-s2-e2-asfaleia-zois",
+        "title": "S2 Ε2 Ασφάλεια ζωής",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278798-s2-e3-skoteini-thalassa",
+        "title": "S2 Ε3 Σκοτεινή θάλασσα",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278782-s2-e4-eisvoli",
+        "title": "S2 Ε4 Εισβολή",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278770-s2-e5-mesotoixia",
+        "title": "S2 Ε5 Μεσοτοιχία",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278762-s2-e6-atixima",
+        "title": "S2 Ε6 Ατύχημα",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278754-s2-e7-prostatevomena-meli",
+        "title": "S2 Ε7 Προστατευόμενα μέλη",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278738-s2-e8-methi",
+        "title": "S2 Ε8 Μέθη",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278722-s2-e9-oikogeneiaki-giorti",
+        "title": "S2 Ε9 Οικογενειακή γιορτή",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278713-s2-e10-singeneia-a-vathmou",
+        "title": "S2 Ε10 Συγγένεια Α’ βαθμού",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278705-s3-e1-xxsmall",
+        "title": "S3 Ε1 XXSmall",
+        "season": 3,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278693-s3-e2-kataramenoi",
+        "title": "S3 Ε2 Καταραμένοι",
+        "season": 3,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278680-s3-e3-pagomeno-vlemma",
+        "title": "S3 Ε3 Παγωμένο βλέμμα",
+        "season": 3,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278652-s3-e4-emmoni",
+        "title": "S3 Ε4 Εμμονή",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278644-s3-e5-oraia-koimomeni",
+        "title": "S3 Ε5 Ωραία κοιμωμένη",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278632-s3-e6-ta-genethlia",
+        "title": "S3 Ε6 Τα γενέθλια",
+        "season": 3,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278616-s3-e7-epi-xrimasi",
+        "title": "S3 Ε7 Επί χρήμασι",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278564-s3-e8-sapounopera",
+        "title": "S3 Ε8 Σαπουνόπερα",
+        "season": 3,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278550-s3-e9-psithiroi",
+        "title": "S3 Ε9 Ψίθυροι",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278604-s3-e10-i-metalipsi",
+        "title": "S3 Ε10 Η μετάληψη",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278592-s3-e13-mana",
+        "title": "S3 Ε13 Μάνα",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272392-s3-ep-17-barouti",
+        "title": "Σ3 Επ.17 Μπαρούτη",
+        "season": 3,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278580-s3-e26-18oc",
+        "title": "S3 Ε26 -18oC",
+        "season": 3,
+        "episode": 26,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:278568-s3-e27-krimmeni-alitheia",
+        "title": "S3 Ε27 Κρυμμένη αλήθεια",
+        "season": 3,
+        "episode": 27,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272661-10i-entoli-s-4-ep-1-siopi",
+        "title": "10η Εντολή Σ.4 – Επ.1 Σιωπή",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272666-sneak-preview-ep-1",
+        "title": "Sneak Preview – Επ. 1",
+        "season": 4,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272625-10i-entoli-s-4-ep-2-thirio",
+        "title": "10η Εντολή Σ.4 – Επ.2 Θηρίο",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272629-sneak-preview-ep-2",
+        "title": "Sneak Preview – Επ. 2",
+        "season": 4,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272592-10i-entoli-s-4-ep-3-tria",
+        "title": "10η Εντολή Σ.4 Επ.3 Τρία",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272596-sneak-preview-ep-3",
+        "title": "Sneak Preview – Επ. 3",
+        "season": 4,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272560-10i-entoli-s-4-ep-4-to-doro",
+        "title": "10η Εντολή Σ.4 Επ.4 Το Δώρο",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272568-sneak-preview-ep-4",
+        "title": "Sneak Preview – Επ. 4",
+        "season": 4,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272534-10i-entoli-s-4-ep-5-face",
+        "title": "10η Εντολή Σ.4 Επ.5 Face",
+        "season": 4,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272544-sneak-preview-ep-5",
+        "title": "Sneak Preview – Επ. 5",
+        "season": 4,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272510-10i-entoli-s-4-ep-6-asfixia",
+        "title": "10η Εντολή Σ.4 Επ.6 Ασφυξία",
+        "season": 4,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272519-sneak-preview-ep-6",
+        "title": "Sneak Preview – Επ. 6",
+        "season": 4,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272492-10i-entoli-s-4-ep-7-penthos",
+        "title": "10η Εντολή Σ.4 Επ.7 Πένθος",
+        "season": 4,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272501-sneak-preview-ep-7",
+        "title": "Sneak Preview – Επ. 7",
+        "season": 4,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272475-10i-entoli-s-4-ep-8-katharsi",
+        "title": "10η Εντολή Σ.4 Επ.8 Κάθαρση",
+        "season": 4,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272484-sneak-preview-ep-8",
+        "title": "Sneak Preview – Επ. 8",
+        "season": 4,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272464-10i-entoli-s-4-ep-9-thimos",
+        "title": "10η Εντολή Σ.4 Επ.9 Θυμός",
+        "season": 4,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272466-sneak-preview-ep-9",
+        "title": "Sneak Preview – Επ. 9",
+        "season": 4,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272448-10i-entoli-s-4-ep-10-xorafi",
+        "title": "10η Εντολή Σ.4 Επ.10 Χωράφι",
+        "season": 4,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272454-sneak-preview-ep-10",
+        "title": "Sneak Preview – Επ. 10",
+        "season": 4,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272432-10i-entoli-s-4-ep-11-skilia",
+        "title": "10η Εντολή Σ.4 Επ.11 Σκυλιά",
+        "season": 4,
+        "episode": 21,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272438-sneak-preview-ep-11",
+        "title": "Sneak Preview – Επ. 11",
+        "season": 4,
+        "episode": 22,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272423-10i-entoli-s-4-ep-12-kalinixta",
+        "title": "10η Εντολή Σ.4 Επ.12 Καληνύχτα",
+        "season": 4,
+        "episode": 23,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272417-10i-entoli-s-4-ep-13-fotia",
+        "title": "10η Εντολή Σ.4 Επ.13 Φωτιά",
+        "season": 4,
+        "episode": 24,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272426-sneak-preview-ep-13",
+        "title": "Sneak Preview – Επ. 13",
+        "season": 4,
+        "episode": 25,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272409-10i-entoli-s-4-ep-14-kokkino",
+        "title": "10η Εντολή Σ.4 Επ.14 Κόκκινο",
+        "season": 4,
+        "episode": 26,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272412-sneak-preview-ep-14",
+        "title": "Sneak Preview – Επ. 14",
+        "season": 4,
+        "episode": 27,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272403-10i-entoli-s-4-ep-15-ekdikisi",
+        "title": "10η Εντολή Σ.4 Επ.15 Εκδίκηση",
+        "season": 4,
+        "episode": 28,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272406-sneak-preview-ep-15",
+        "title": "Sneak Preview – Επ. 15",
+        "season": 4,
+        "episode": 29,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272400-10i-entoli-s-4-ep-16-alert",
+        "title": "10η Εντολή Σ.4 Επ.16 Αlert",
+        "season": 4,
+        "episode": 30,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:277628-s4-ep-17-barouti",
+        "title": "Σ4 Επ.17 Μπαρούτη",
+        "season": 4,
+        "episode": 31,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:290832-sezon-5",
+        "title": "ΣΕΖΟΝ 5",
+        "season": 4,
+        "episode": 32,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:f5fba049:272393-sneak-preview-ep-17",
+        "title": "Sneak Preview – Επ. 17",
+        "season": 5,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      }
+    ]
+  }
+}

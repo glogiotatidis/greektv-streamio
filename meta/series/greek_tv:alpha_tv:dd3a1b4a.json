@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:dd3a1b4a",
+    "type": "series",
+    "name": "Ο Σκαραβαίος",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:dd3a1b4a:285672-s1-epeisodio-1",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:dd3a1b4a:282500-s1-epeisodio-2",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:dd3a1b4a:283169-s1-epeisodio-3",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:dd3a1b4a:286178-s1-epeisodio-4",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:dd3a1b4a:286612-s1-epeisodio-5",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:dd3a1b4a:287215-s1-epeisodio-6",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:dd3a1b4a:288142-s1-epeisodio-7",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:dd3a1b4a:293245-s1-epeisodio-8",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:dd3a1b4a:289287-s1-epeisodio-9",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:dd3a1b4a:285907-s1-epeisodio-10",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:dd3a1b4a:286429-s1-epeisodio-11",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:dd3a1b4a:287559-s1-epeisodio-12",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:dd3a1b4a:288041-s1-epeisodio-13",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:dd3a1b4a:273924-s1-epeisodio-14",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      }
+    ]
+  }
+}

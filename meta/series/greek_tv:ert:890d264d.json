@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:890d264d",
+    "type": "series",
+    "name": "Χάντμπολ Α1 Γυναικών 2026-27",
+    "poster": "https://files2.app.ertflix.gr/files/sports/handball-a1-gynaikon-2026-27/chantmpol-a1-gynaikon-2026-2027-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/sports/handball-a1-gynaikon-2026-27/chantmpol-a1-gynaikon-2026-2027-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:890d264d:khantmpol-a1-gunaikon-2026-1",
+        "title": "ΟΦΝ Ιωνίας - ΑΕΚ | 5η Αγωνιστική | 02.11.26",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/handball-a1-gynaikon-2026-27/20261102-handball-a1-gynaikon-ofni-aek.jpg"
+      }
+    ]
+  }
+}

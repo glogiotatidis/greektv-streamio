@@ -1,0 +1,529 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:bd5bf275",
+    "type": "series",
+    "name": "Πρωταγωνιστές",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:278202-28-10-21",
+        "title": "28/10/21",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:280317-25-11-21",
+        "title": "25/11/21",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:281374-23-12-21",
+        "title": "23/12/21",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:275428-27-01-22",
+        "title": "27/01/22",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:278145-10-03-22",
+        "title": "10/03/22",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:281995-31-03-22",
+        "title": "31/03/22",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:283250-28-04-22",
+        "title": "28/04/22",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:283908-26-05-22",
+        "title": "26/05/22",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:282351-06-10-22",
+        "title": "06/10/22",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:273329-03-11-22",
+        "title": "03/11/22",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:275984-01-12-22",
+        "title": "01/12/22",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:279245-19-01-23",
+        "title": "19/01/23",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:292203-25-01-23",
+        "title": "25/01/23",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:281228-26-02-23",
+        "title": "26/02/23",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:273762-12-03-23",
+        "title": "12/03/23",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:283734-12-03-23",
+        "title": "12/03/23",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:276636-10-04-23",
+        "title": "10/04/23",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:276744-11-04-23",
+        "title": "11/04/23",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:291697-15-05-23",
+        "title": "15/05/23",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:289689-04-06-23",
+        "title": "04/06/23",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:285355-09-07-23",
+        "title": "09/07/23",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:290793-05-10-23",
+        "title": "05/10/23",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:283016-19-10-23",
+        "title": "19/10/23",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:290547-23-11-23",
+        "title": "23/11/23",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:291011-07-12-23",
+        "title": "07/12/23",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:282415-08-02-24",
+        "title": "08/02/24",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:286553-29-02-24",
+        "title": "29/02/24",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:289090-04-04-24",
+        "title": "04/04/24",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:286191-18-04-24",
+        "title": "18/04/24",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:286964-29-04-24",
+        "title": "29/04/24",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:287012-30-04-24",
+        "title": "30/04/24",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:273560-23-05-24",
+        "title": "23/05/24",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:275464-13-06-24",
+        "title": "13/06/24",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:276701-27-06-24",
+        "title": "27/06/24",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:289824-09-10-24",
+        "title": "09/10/24",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:286606-06-11-24",
+        "title": "06/11/24",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:288365-04-12-24",
+        "title": "04/12/24",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:288880-18-12-24",
+        "title": "18/12/24",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:285808-22-01-25",
+        "title": "22/01/25",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:286376-05-02-25",
+        "title": "05/02/25",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:287344-05-03-25",
+        "title": "05/03/25",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:288264-02-04-25",
+        "title": "02/04/25",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:282677-07-05-25",
+        "title": "07/05/25",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:289077-21-05-25",
+        "title": "21/05/25",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:289698-11-06-25",
+        "title": "11/06/25",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:285939-02-07-25",
+        "title": "02/07/25",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:401742-02-10-25",
+        "title": "02/10/25",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:414002-06-11-25",
+        "title": "06/11/25",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:415722-04-12-25",
+        "title": "04/12/25",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:416635-18-12-25",
+        "title": "18/12/25",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:417854-22-01-26",
+        "title": "22/01/26",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:698262-22-01-26",
+        "title": "22-01-26",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:441179-12-02-26",
+        "title": "12/02/26",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:698269-12-02-26",
+        "title": "12-02-26",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:656032-05-03-26",
+        "title": "05/03/26",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:698277-05-03-26",
+        "title": "05-03-26",
+        "season": 1,
+        "episode": 56,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:656230-22-03-26",
+        "title": "22/03/26",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:698281-22-03-26",
+        "title": "22-03-26",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:700586-17-05-26",
+        "title": "17/05/26",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:717938-28-06-26",
+        "title": "28/06/26",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:282890-pasxa-sto-perivoli-tis-panagias-epeisodio-1o",
+        "title": "Πάσχα στο Περιβόλι της Παναγιάς | Επεισόδιο 1ο",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:282934-pasxa-sto-perivoli-tis-panagias-epeisodio-2o",
+        "title": "Πάσχα στο Περιβόλι της Παναγιάς | Επεισόδιο 2ο",
+        "season": 1,
+        "episode": 62,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:284604-best-of",
+        "title": "Best of…",
+        "season": 1,
+        "episode": 63,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:288599-moni-panagias-ipsenis-rodos",
+        "title": "Μονή Παναγίας Υψενής, Ρόδος",
+        "season": 1,
+        "episode": 64,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:288605-moni-panagias-zermpitsas-sparti-taigetos",
+        "title": "Μονή Παναγίας Ζερμπίτσας, Σπάρτη (Ταϋγετος)",
+        "season": 1,
+        "episode": 65,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:288608-moni-agiou-dionisiou-tou-en-olimpo-olimpos",
+        "title": "Μονή Αγίου Διονυσίου του εν Ολύμπω, Όλυμπος",
+        "season": 1,
+        "episode": 66,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:293162-xronia-polla-kirie-savvopoule",
+        "title": "Χρόνια πολλά κύριε Σαββόπουλε",
+        "season": 1,
+        "episode": 67,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:684767-veroia-iera-moni-agias-kiriakis-loutrou",
+        "title": "Βέροια – Ιερά Μονή Αγίας Κυριακής Λουτρού",
+        "season": 1,
+        "episode": 68,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:685203-serres-iera-moni-profiti-ilia",
+        "title": "Σέρρες – Ιερά Μονή Προφήτη Ηλία",
+        "season": 1,
+        "episode": 69,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:694479-03-05-26-2",
+        "title": "03/05/26",
+        "season": 1,
+        "episode": 70,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:698288-veroia-iera-moni-agias-kiriakis-loutrou-2",
+        "title": "Βέροια – Ιερά Μονή Αγίας Κυριακής Λουτρού",
+        "season": 1,
+        "episode": 71,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:698292-serres-iera-moni-profiti-ilia-2",
+        "title": "Σέρρες – Ιερά Μονή Προφήτη Ηλία",
+        "season": 1,
+        "episode": 72,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:709278-4-06-26",
+        "title": "4/06/26",
+        "season": 1,
+        "episode": 73,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:bd5bf275:720977-05-07-26-3",
+        "title": "05/07/26",
+        "season": 1,
+        "episode": 74,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      }
+    ]
+  }
+}

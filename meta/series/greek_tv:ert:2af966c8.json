@@ -54,6 +54,13 @@
         "season": 1,
         "episode": 7,
         "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048830-tvland-ep07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2af966c8:tv-land-8",
+        "title": "Final Girl",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048831-tvland-ep08.jpg"
       }
     ]
   }

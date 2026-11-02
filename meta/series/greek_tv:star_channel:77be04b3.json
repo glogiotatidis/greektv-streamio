@@ -49,17 +49,31 @@
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
       },
       {
+        "id": "greek_tv:star_channel:77be04b3:bake",
+        "title": "Bake",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:77be04b3:hide-and-seek",
+        "title": "Hide And Seek",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
+      },
+      {
         "id": "greek_tv:star_channel:77be04b3:car-park",
         "title": "Car Park",
         "season": 1,
-        "episode": 7,
+        "episode": 9,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:77be04b3:frog",
         "title": "Frog",
         "season": 1,
-        "episode": 8,
+        "episode": 10,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
       }
     ]

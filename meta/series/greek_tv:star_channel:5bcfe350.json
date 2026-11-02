@@ -70,24 +70,45 @@
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       },
       {
+        "id": "greek_tv:star_channel:5bcfe350:paint-mix-fix",
+        "title": "Paint Mix Fix",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
+      },
+      {
+        "id": "greek_tv:star_channel:5bcfe350:wait-your-turn-lulu",
+        "title": "Wait Your Turn Lulu",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
+      },
+      {
+        "id": "greek_tv:star_channel:5bcfe350:winner",
+        "title": "Winner",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
+      },
+      {
         "id": "greek_tv:star_channel:5bcfe350:eat-your-greens",
         "title": "Eat Your Greens",
         "season": 1,
-        "episode": 10,
+        "episode": 13,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:5bcfe350:my-hero",
         "title": "My Hero",
         "season": 1,
-        "episode": 11,
+        "episode": 14,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:5bcfe350:bubbles-bouncy-blob",
         "title": "Bubbles Bouncy Blob",
         "season": 1,
-        "episode": 12,
+        "episode": 15,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       }
     ]

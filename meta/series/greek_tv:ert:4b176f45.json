@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:4b176f45",
+    "type": "series",
+    "name": "Δεύτερη Πατρίδα",
+    "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/defteri-patrida/deyteripatrida-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/elllinika-docs/defteri-patrida/deyteripatrida-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:4b176f45:deutere-patrida-2",
+        "title": "Η Ζημιά του Σπασμένου Καθρέπτη",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/defteri-patrida/75193-defteri-patrida-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b176f45:deutere-patrida-4",
+        "title": "Μητριά Πατρίδα",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/defteri-patrida/75196-defteri-patrida-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b176f45:deutere-patrida-1",
+        "title": "Έλληνες και Αμερικάνοι",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/defteri-patrida/92687-defteri-patrida-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b176f45:deutere-patrida-5",
+        "title": "Ο Γιώργος από τη Χαϊδελβέργη",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/defteri-patrida/92688-defteri-patrida-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4b176f45:deutere-patrida-3",
+        "title": "Ήρθαμε Εδώ",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/defteri-patrida/92689-defteri-patrida-ep05.jpg"
+      }
+    ]
+  }
+}

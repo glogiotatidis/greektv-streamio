@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:fb3a659f",
+    "type": "series",
+    "name": "Τρομεροί Γονείς",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:fb3a659f:441139-s1-epeisodio-27",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 27",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:fb3a659f:441184-s1-epeisodio-29",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 29",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:fb3a659f:441185-s1-epeisodio-30",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 30",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:fb3a659f:441227-s1-epeisodio-31",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 31",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:fb3a659f:441228-s1-epeisodio-32",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 32",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:fb3a659f:441269-s1-epeisodio-33",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 33",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:fb3a659f:441270-s1-epeisodio-34",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 34",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:fb3a659f:656046-s1-epeisodio-35",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 35",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:fb3a659f:656048-s1-epeisodio-36",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 36",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:fb3a659f:656136-s1-epeisodio-37",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 37",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:fb3a659f:656138-s1-epeisodio-38",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 38",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:fb3a659f:656226-s1-epeisodio-39",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 39",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:fb3a659f:656228-s1-epeisodio-40",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 40",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
+      }
+    ]
+  }
+}

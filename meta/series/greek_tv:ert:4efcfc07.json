@@ -285,6 +285,13 @@
         "season": 3,
         "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps058445-0005-oti-axizei-s03-ep03-leros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-42",
+        "title": "Λέρος, η Χαρά της Προσφοράς",
+        "season": 3,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps058445-0004-oti-axizei-s03-ep04-leros-b.jpeg"
       }
     ]
   }

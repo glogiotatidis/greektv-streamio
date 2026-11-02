@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:1f47ae39",
+    "type": "series",
+    "name": "Καλά να Πάθεις",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:1f47ae39:280595-kala-na-patheis-epeisodio-1",
+        "title": "Καλά να Πάθεις – Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1f47ae39:280574-kala-na-patheis-epeisodio-2",
+        "title": "Καλά να Πάθεις – Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1f47ae39:280565-kala-na-patheis-epeisodio-3",
+        "title": "Καλά να Πάθεις – Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1f47ae39:280550-kala-na-patheis-epeisodio-4",
+        "title": "Καλά να Πάθεις – Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1f47ae39:280535-kala-na-patheis-epeisodio-5",
+        "title": "Καλά να Πάθεις – Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1f47ae39:280520-kala-na-patheis-epeisodio-6",
+        "title": "Καλά να Πάθεις – Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1f47ae39:280508-kala-na-patheis-epeisodio-7",
+        "title": "Καλά να Πάθεις – Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1f47ae39:280494-kala-na-patheis-epeisodio-8",
+        "title": "Καλά να Πάθεις – Επεισόδιο 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1f47ae39:280479-kala-na-patheis-epeisodio-9",
+        "title": "Καλά να Πάθεις – Επεισόδιο 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1f47ae39:280464-kala-na-patheis-epeisodio-10",
+        "title": "Καλά να Πάθεις – Επεισόδιο 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1f47ae39:280449-kala-na-patheis-epeisodio-11",
+        "title": "Καλά να Πάθεις – Επεισόδιο 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1f47ae39:280428-kala-na-patheis-epeisodio-12",
+        "title": "Καλά να Πάθεις – Επεισόδιο 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
+      }
+    ]
+  }
+}

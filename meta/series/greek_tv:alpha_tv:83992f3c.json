@@ -1,0 +1,676 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:83992f3c",
+    "type": "series",
+    "name": "Αυτή η νύχτα μένει",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:282640-s1-epeisodio-1",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:282711-s1-epeisodio-2",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:283057-s1-epeisodio-3",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:283144-s1-epeisodio-4",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:283479-s1-epeisodio-5",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:283521-s1-epeisodio-6",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:272985-s1-epeisodio-7",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:273142-s1-epeisodio-8",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:273226-s1-epeisodio-9",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:273678-s1-epeisodio-10",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:273799-s1-epeisodio-11",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:273907-s1-epeisodio-12",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:274316-s1-epeisodio-13",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:274435-s1-epeisodio-14",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:274585-s1-epeisodio-15",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:275009-s1-epeisodio-16",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:275104-s1-epeisodio-17",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:275212-s1-epeisodio-18",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:275652-s1-epeisodio-19",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:275742-s1-epeisodio-20",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:275826-s1-epeisodio-21",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 21",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:276343-s1-epeisodio-22",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 22",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:276459-s1-epeisodio-23",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 23",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:276556-s1-epeisodio-24",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 24",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:277060-s1-epeisodio-25",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 25",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:277208-s1-epeisodio-26",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 26",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:277330-s1-epeisodio-27",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 27",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:277837-s1-epeisodio-28",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 28",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:277923-s1-epeisodio-29",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 29",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:278018-s1-epeisodio-30",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 30",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:279266-s1-epeisodio-31",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 31",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:279287-s1-epeisodio-32",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 32",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:279612-s1-epeisodio-33",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 33",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:279721-s1-epeisodio-34-35",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 34 & 35",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:279989-s1-epeisodio-36",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 36",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:280058-s1-epeisodio-37-38",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 37 & 38",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:280336-s1-epeisodio-39",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 39",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:280415-s1-epeisodio-40-41",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 40 & 41",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:280698-s1-epeisodio-42",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 42",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:280802-s1-epeisodio-43-44",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 43 & 44",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:281092-s1-epeisodio-45",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 45",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:281203-s1-epeisodio-46-47",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 46 & 47",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:281442-s1-epeisodio-48",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 48",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:283598-s1-epeisodio-49-50",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 49 & 50",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:283682-s1-epeisodio-51",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 51",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:273042-s1-epeisodio-52-53",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 52 & 53",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:273126-s1-epeisodio-54",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 54",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:273255-s1-epeisodio-55-56",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 55 & 56",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:275278-s1-epeisodio-57",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 57",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:275463-s1-epeisodio-58-59",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 58 & 59",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:276074-s1-epeisodio-60",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 60",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:276204-s1-epeisodio-61-62",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 61 & 62",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:276318-s1-epeisodio-63",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 63",
+        "season": 1,
+        "episode": 63,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:277099-s1-epeisodio-64-65",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 64 & 65",
+        "season": 1,
+        "episode": 64,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:277203-s1-epeisodio-66",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 66",
+        "season": 1,
+        "episode": 66,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:277818-s1-epeisodio-67-68",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 67 & 68",
+        "season": 1,
+        "episode": 67,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:277877-s1-epeisodio-69",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 69",
+        "season": 1,
+        "episode": 69,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:278292-s1-epeisodio-70-71",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 70 & 71",
+        "season": 1,
+        "episode": 70,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:278405-s1-epeisodio-72",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 72",
+        "season": 1,
+        "episode": 72,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:290831-s1-epeisodio-73-74",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 73 & 74",
+        "season": 1,
+        "episode": 73,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:291193-s1-epeisodio-75",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 75",
+        "season": 1,
+        "episode": 75,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:291766-s1-epeisodio-76-77",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 76 & 77",
+        "season": 1,
+        "episode": 76,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:291963-s1-epeisodio-78",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 78",
+        "season": 1,
+        "episode": 78,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:292115-s1-epeisodio-79",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 79",
+        "season": 1,
+        "episode": 79,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:290849-s1-epeisodio-80",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 80",
+        "season": 1,
+        "episode": 80,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:290881-s1-epeisodio-81",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 81",
+        "season": 1,
+        "episode": 81,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:290945-s1-epeisodio-82",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 82",
+        "season": 1,
+        "episode": 82,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:291057-s1-epeisodio-83",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 83",
+        "season": 1,
+        "episode": 83,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:291520-s1-epeisodio-84",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 84",
+        "season": 1,
+        "episode": 84,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:291695-s1-epeisodio-85",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 85",
+        "season": 1,
+        "episode": 85,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:289519-s1-epeisodio-86",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 86",
+        "season": 1,
+        "episode": 86,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:289654-s1-epeisodio-87",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 87",
+        "season": 1,
+        "episode": 87,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:291949-s1-epeisodio-88",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 88",
+        "season": 1,
+        "episode": 88,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:292085-s1-epeisodio-89",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 89",
+        "season": 1,
+        "episode": 89,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:292218-s1-epeisodio-90",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 90",
+        "season": 1,
+        "episode": 90,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:292321-s1-epeisodio-91",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 91",
+        "season": 1,
+        "episode": 91,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:292458-s1-epeisodio-92",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 92",
+        "season": 1,
+        "episode": 92,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:292965-s1-epeisodio-93",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 93",
+        "season": 1,
+        "episode": 93,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:290886-s1-epeisodio-94",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 94",
+        "season": 1,
+        "episode": 94,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:290950-s1-epeisodio-95",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 95",
+        "season": 1,
+        "episode": 95,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:291355-s1-epeisodio-96",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 96",
+        "season": 1,
+        "episode": 96,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:291454-s1-epeisodio-97",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 97",
+        "season": 1,
+        "episode": 97,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:291649-s1-epeisodio-98",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 98",
+        "season": 1,
+        "episode": 98,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:291762-s1-epeisodio-99",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 99",
+        "season": 1,
+        "episode": 99,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:291973-s1-epeisodio-100",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 100",
+        "season": 1,
+        "episode": 100,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:292045-s1-epeisodio-101",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 101",
+        "season": 1,
+        "episode": 101,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:292144-s1-epeisodio-102",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 102",
+        "season": 1,
+        "episode": 102,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:292237-s1-epeisodio-103",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 103",
+        "season": 1,
+        "episode": 103,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:292429-s1-epeisodio-104",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 104",
+        "season": 1,
+        "episode": 104,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:292609-s1-epeisodio-105",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 105",
+        "season": 1,
+        "episode": 105,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:292672-s1-epeisodio-106",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 106",
+        "season": 1,
+        "episode": 106,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:285306-s1-epeisodio-107",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 107",
+        "season": 1,
+        "episode": 107,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:285320-s1-epeisodio-108",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 108",
+        "season": 1,
+        "episode": 108,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:285337-s1-epeisodio-109",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 109",
+        "season": 1,
+        "episode": 109,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:83992f3c:285361-s1-epeisodio-110",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 110",
+        "season": 1,
+        "episode": 110,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+      }
+    ]
+  }
+}

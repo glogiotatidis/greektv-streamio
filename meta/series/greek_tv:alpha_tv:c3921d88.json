@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:c3921d88",
+    "type": "series",
+    "name": "Υπέροχα Πλάσματα",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277651-iperoxa-plasmata-epeisodio-1",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277621-iperoxa-plasmata-epeisodio-2",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277603-iperoxa-plasmata-epeisodio-3",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277572-iperoxa-plasmata-epeisodio-4",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277552-iperoxa-plasmata-epeisodio-5",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277521-iperoxa-plasmata-epeisodio-6",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277491-iperoxa-plasmata-epeisodio-7",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277461-iperoxa-plasmata-epeisodio-8",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277430-iperoxa-plasmata-epeisodio-9",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277400-iperoxa-plasmata-epeisodio-10",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277357-iperoxa-plasmata-epeisodio-11",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277326-iperoxa-plasmata-epeisodio-12",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277296-iperoxa-plasmata-epeisodio-13",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277266-iperoxa-plasmata-epeisodio-14",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277224-iperoxa-plasmata-epeisodio-15",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277192-iperoxa-plasmata-epeisodio-16",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277174-iperoxa-plasmata-epeisodio-17",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277156-iperoxa-plasmata-epeisodio-18",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277124-iperoxa-plasmata-epeisodio-19",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277081-iperoxa-plasmata-epeisodio-20",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277039-iperoxa-plasmata-epeisodio-21",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 21",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:277009-iperoxa-plasmata-epeisodio-22",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 22",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:276980-iperoxa-plasmata-epeisodio-23",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 23",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:276949-iperoxa-plasmata-epeisodio-24",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 24",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:276919-iperoxa-plasmata-epeisodio-25",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 25",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:276887-iperoxa-plasmata-epeisodio-26",
+        "title": "Υπέροχα πλάσματα Επεισόδιο 26",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:c3921d88:290891-sezon-1",
+        "title": "ΣΕΖΟΝ 1",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+      }
+    ]
+  }
+}

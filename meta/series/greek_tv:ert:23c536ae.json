@@ -19,6 +19,13 @@
         "season": 1,
         "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-a1-gynaikwn/20261025-odysseas-moshatou-ofh-hls-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:23c536ae:podosphairo-gunaikon-a-ethnike-2026-5",
+        "title": "Κηφισιά ΑΕ - ΑΕΚ | 9η Αγωνιστική | 01.11.26",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-a1-gynaikwn/20261101-kifisia-aek.jpg"
       }
     ]
   }

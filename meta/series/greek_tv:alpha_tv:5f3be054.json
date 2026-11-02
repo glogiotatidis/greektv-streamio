@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:5f3be054",
+    "type": "series",
+    "name": "Κόκκινος Κύκλος",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277646-kokkinos-kiklos-ep-1",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277664-kokkinos-kiklos-ep-2",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277675-kokkinos-kiklos-ep-3",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277701-kokkinos-kiklos-ep-4",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277711-kokkinos-kiklos-ep-5",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277727-kokkinos-kiklos-ep-6",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277742-kokkinos-kiklos-ep-7",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277754-kokkinos-kiklos-ep-8",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277763-kokkinos-kiklos-ep-9",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277783-kokkinos-kiklos-ep-10",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277794-kokkinos-kiklos-ep-11",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277814-kokkinos-kiklos-ep-12",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277824-kokkinos-kiklos-ep-13",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277839-kokkinos-kiklos-ep-14",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277854-kokkinos-kiklos-ep-15",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277874-kokkinos-kiklos-ep-16",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277899-kokkinos-kiklos-ep-18",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277914-kokkinos-kiklos-ep-19",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277929-kokkinos-kiklos-ep-20",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277945-kokkinos-kiklos-ep-21",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.21",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277962-kokkinos-kiklos-ep-22",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.22",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277981-kokkinos-kiklos-ep-23",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.23",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:277991-kokkinos-kiklos-ep-24",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.24",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:5f3be054:278006-kokkinos-kiklos-ep-25",
+        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.25",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
+      }
+    ]
+  }
+}

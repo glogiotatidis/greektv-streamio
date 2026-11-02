@@ -34,6 +34,11 @@
     },
     {
       "type": "series",
+      "id": "greek_tv_alpha_tv",
+      "name": "Greek TV — Alpha TV"
+    },
+    {
+      "type": "series",
       "id": "greek_tv_ert",
       "name": "Greek TV — ERT"
     },

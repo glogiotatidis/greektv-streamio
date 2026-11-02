@@ -7,22 +7,22 @@
     "background": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png",
     "videos": [
       {
-        "id": "greek_tv:mega_tv:233653fe:ucl-mpagern-monaxou-arsenal",
-        "title": "UCL: Μπάγερν Μονάχου – Άρσεναλ -",
+        "id": "greek_tv:mega_tv:233653fe:ucl-mpagern-monaxou-arsenal-post-game",
+        "title": "UCL: Μπάγερν Μονάχου – Άρσεναλ | Post Game -",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png"
       },
       {
-        "id": "greek_tv:mega_tv:233653fe:ucl-mpagern-monaxou-arsenal-pre-game",
-        "title": "UCL: Μπάγερν Μονάχου – Άρσεναλ | Pre Game -",
+        "id": "greek_tv:mega_tv:233653fe:ucl-mpagern-monaxou-arsenal",
+        "title": "UCL: Μπάγερν Μονάχου – Άρσεναλ -",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png"
       },
       {
-        "id": "greek_tv:mega_tv:233653fe:ucl-saxtar-aek",
-        "title": "UCL: Σαχτάρ – ΑΕΚ -",
+        "id": "greek_tv:mega_tv:233653fe:ucl-mpagern-monaxou-arsenal-pre-game",
+        "title": "UCL: Μπάγερν Μονάχου – Άρσεναλ | Pre Game -",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png"
@@ -35,8 +35,8 @@
         "thumbnail": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png"
       },
       {
-        "id": "greek_tv:mega_tv:233653fe:ucl-mpagern-monaxou-arsenal-post-game",
-        "title": "UCL: Μπάγερν Μονάχου – Άρσεναλ | Post Game -",
+        "id": "greek_tv:mega_tv:233653fe:ucl-saxtar-aek",
+        "title": "UCL: Σαχτάρ – ΑΕΚ -",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png"

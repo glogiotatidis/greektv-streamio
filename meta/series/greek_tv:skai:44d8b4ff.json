@@ -50,9 +50,16 @@
       },
       {
         "id": "greek_tv:skai:44d8b4ff:2026-10-31-21",
-        "title": "The Voice of Greece powered by Telekom 31/10/2026",
+        "title": "Επεισόδιο 7",
         "season": 1,
-        "episode": 31,
+        "episode": 7,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/voice/2026_2027/voice_new_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:44d8b4ff:2026-11-01-21",
+        "title": "Επεισόδιο 8",
+        "season": 1,
+        "episode": 8,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/voice/2026_2027/voice_new_landscape.jpg"
       }
     ]

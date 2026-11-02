@@ -61,20 +61,6 @@
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
-      },
-      {
-        "id": "greek_tv:star_channel:f46058ae:the-dance-off",
-        "title": "The Dance Off",
-        "season": 1,
-        "episode": 9,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
-      },
-      {
-        "id": "greek_tv:star_channel:f46058ae:golfalami",
-        "title": "Golfalami",
-        "season": 1,
-        "episode": 10,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
       }
     ]
   }

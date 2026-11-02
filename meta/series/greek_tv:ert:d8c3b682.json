@@ -7,38 +7,45 @@
     "background": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/news-room-new-photo/newsroom-siadimas-hbbtv-bg-new.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:d8c3b682:news-room-1174",
+        "title": "Δευτέρα 02 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/20261102-newsroom.jpg"
+      },
+      {
         "id": "greek_tv:ert:d8c3b682:news-room-1173",
         "title": "Παρασκευή 30 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/20261030-newsroom.jpg"
       },
       {
         "id": "greek_tv:ert:d8c3b682:news-room-1172",
         "title": "Πέμπτη 29 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/20261029-newsroom.jpg"
       },
       {
         "id": "greek_tv:ert:d8c3b682:news-room-1171",
         "title": "Τετάρτη 28 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 3,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/20261028-newsroom.jpg"
       },
       {
         "id": "greek_tv:ert:d8c3b682:news-room-1170",
         "title": "Τρίτη 27 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 4,
+        "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/20261027-newsroom.jpg"
       },
       {
         "id": "greek_tv:ert:d8c3b682:news-room-1169",
         "title": "Δευτέρα 26 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 5,
+        "episode": 6,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/20261026-newsroom.jpg"
       }
     ]

@@ -355,6 +355,13 @@
         "season": 5,
         "episode": 7,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/stigmiotupo-othones-2026-10-20-101426.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bcd782d7:agria-ellada-44",
+        "title": "Σάμος",
+        "season": 5,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/stigmiotupo-othones-2026-10-31-155221.jpg"
       }
     ]
   }

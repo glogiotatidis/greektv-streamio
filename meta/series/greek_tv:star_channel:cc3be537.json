@@ -7,6 +7,13 @@
     "background": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png",
     "videos": [
       {
+        "id": "greek_tv:star_channel:cc3be537:gntm-7-apokleistiko-apospasma-apo-to-simerino-epeisodio-211",
+        "title": "Επεισόδιο 211",
+        "season": 1,
+        "episode": 211,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"
+      },
+      {
         "id": "greek_tv:star_channel:cc3be537:gntm-7-apokleistiko-apospasma-apo-to-simerino-epeisodio-299",
         "title": "Επεισόδιο 299",
         "season": 1,

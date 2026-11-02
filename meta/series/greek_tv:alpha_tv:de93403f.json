@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:de93403f",
+    "type": "series",
+    "name": "Για την Καρδιά ενός Αγγέλου",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:de93403f:281073-gia-tin-kardia-enos-angelou-s1-epeisodio-1",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:281058-gia-tin-kardia-enos-angelou-s1-epeisodio-2",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:281043-gia-tin-kardia-enos-angelou-s1-epeisodio-3",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:281028-gia-tin-kardia-enos-angelou-s1-epeisodio-4",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:281008-gia-tin-kardia-enos-angelou-s1-epeisodio-5",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280994-gia-tin-kardia-enos-angelou-s1-epeisodio-6",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280976-gia-tin-kardia-enos-angelou-s1-epeisodio-7",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280964-gia-tin-kardia-enos-angelou-s1-epeisodio-8",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280943-gia-tin-kardia-enos-angelou-s1-epeisodio-9",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280928-gia-tin-kardia-enos-angelou-s1-epeisodio-10",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280913-gia-tin-kardia-enos-angelou-s1-epeisodio-11",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280898-gia-tin-kardia-enos-angelou-s1-epeisodio-12",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280883-gia-tin-kardia-enos-angelou-s1-epeisodio-13",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280868-gia-tin-kardia-enos-angelou-s1-epeisodio-14",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280847-gia-tin-kardia-enos-angelou-s1-epeisodio-15",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280839-gia-tin-kardia-enos-angelou-s1-epeisodio-16",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280825-gia-tin-kardia-enos-angelou-s1-epeisodio-17",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280810-gia-tin-kardia-enos-angelou-s1-epeisodio-18",
+        "title": "Για την Καρδιά ενός Αγγέλου S1 – Επεισόδιο 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280789-gia-tin-kardia-enos-angelou-s2-epeisodio-1",
+        "title": "Για την Καρδιά ενός Αγγέλου S2 – Επεισόδιο 1",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280780-gia-tin-kardia-enos-angelou-s2-epeisodio-2",
+        "title": "Για την Καρδιά ενός Αγγέλου S2 – Επεισόδιο 2",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280759-gia-tin-kardia-enos-angelou-s2-epeisodio-3",
+        "title": "Για την Καρδιά ενός Αγγέλου S2 – Επεισόδιο 3",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280744-gia-tin-kardia-enos-angelou-s2-epeisodio-4",
+        "title": "Για την Καρδιά ενός Αγγέλου S2 – Επεισόδιο 4",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280723-gia-tin-kardia-enos-angelou-s2-epeisodio-5",
+        "title": "Για την Καρδιά ενός Αγγέλου S2 – Επεισόδιο 5",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280708-gia-tin-kardia-enos-angelou-s2-epeisodio-6",
+        "title": "Για την Καρδιά ενός Αγγέλου S2 – Επεισόδιο 6",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280688-gia-tin-kardia-enos-angelou-s2-epeisodio-7",
+        "title": "Για την Καρδιά ενός Αγγέλου S2 – Επεισόδιο 7",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280673-gia-tin-kardia-enos-angelou-s2-epeisodio-8",
+        "title": "Για την Καρδιά ενός Αγγέλου S2 – Επεισόδιο 8",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280661-gia-tin-kardia-enos-angelou-s2-epeisodio-9",
+        "title": "Για την Καρδιά ενός Αγγέλου S2 – Επεισόδιο 9",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280646-gia-tin-kardia-enos-angelou-s2-epeisodio-10",
+        "title": "Για την Καρδιά ενός Αγγέλου S2 – Επεισόδιο 10",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280628-gia-tin-kardia-enos-angelou-s2-epeisodio-11",
+        "title": "Για την Καρδιά ενός Αγγέλου S2 – Επεισόδιο 11",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de93403f:280610-gia-tin-kardia-enos-angelou-s2-epeisodio-12",
+        "title": "Για την Καρδιά ενός Αγγέλου S2 – Επεισόδιο 12",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
+      }
+    ]
+  }
+}

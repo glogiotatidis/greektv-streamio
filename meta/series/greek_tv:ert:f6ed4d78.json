@@ -99,10 +99,24 @@
       },
       {
         "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-26",
-        "title": "Νίκη Βόλου - Καρδίτσα | 9η Αγωνιστική | 31.10.26",
+        "title": "Νίκη Βόλου - Αναγέννηση Καρδίτσας | 9η Αγωνιστική | 31.10.26",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/superlague2-highlights/20261031-nikh-bolou-karditsa.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-28",
+        "title": "ΑΕΛ Novibet - Ολυμπιακός Β' | 9η Αγωνιστική | 01.11.26",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262727-ael-olympiakos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-29",
+        "title": "Πανιώνιος InDigital - Πανσερραϊκός | 9η Αγωνιστική | 01.11.26",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262728-panionios-panseraikos.jpg"
       }
     ]
   }

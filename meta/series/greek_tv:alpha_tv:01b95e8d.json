@@ -1,0 +1,1208 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:01b95e8d",
+    "type": "series",
+    "name": "Αυτοψία",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:276486-13-06-19",
+        "title": "13/06/19",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:291275-10-10-19",
+        "title": "10/10/19",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:292340-17-10-19",
+        "title": "17/10/19",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:290540-07-11-19",
+        "title": "07/11/19",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:282426-21-11-19",
+        "title": "21/11/19",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:289261-05-12-19",
+        "title": "05/12/19",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:292028-19-12-19",
+        "title": "19/12/19",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:293132-30-01-20",
+        "title": "30/01/20",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277545-21-10-21",
+        "title": "21/10/21",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:278794-04-11-21",
+        "title": "04/11/21",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:279464-11-11-21",
+        "title": "11/11/21",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:279818-18-11-21",
+        "title": "18/11/21",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:280790-02-12-21",
+        "title": "02/12/21",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:281198-09-12-21",
+        "title": "09/12/21",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:273926-13-01-22",
+        "title": "13/01/22",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:274816-20-01-22",
+        "title": "20/01/22",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:276073-03-02-22",
+        "title": "03/02/22",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:276818-10-02-22",
+        "title": "10/02/22",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:278820-03-03-22",
+        "title": "03/03/22",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:281751-17-03-22",
+        "title": "17/03/22",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:281888-24-03-22",
+        "title": "24/03/22",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:282093-07-04-22",
+        "title": "07/04/22",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:282519-14-04-22",
+        "title": "14/04/22",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:283565-05-05-22",
+        "title": "05/05/22",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:283597-12-05-22",
+        "title": "12/05/22",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:283785-19-05-22",
+        "title": "19/05/22",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:284021-02-06-22",
+        "title": "02/06/22",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:284213-09-06-22",
+        "title": "09/06/22",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:284324-16-06-22",
+        "title": "16/06/22",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:284450-23-06-22",
+        "title": "23/06/22",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:283272-20-10-22",
+        "title": "20/10/22",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:272698-27-10-22",
+        "title": "27/10/22",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:274010-10-11-22",
+        "title": "10/11/22",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:274752-17-11-22",
+        "title": "17/11/22",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:275329-24-11-22",
+        "title": "24/11/22",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:276666-08-12-22",
+        "title": "08/12/22",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277462-15-12-22",
+        "title": "15/12/22",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:278138-22-12-22",
+        "title": "22/12/22",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:279330-22-01-23",
+        "title": "22/01/23",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:282416-12-10-23",
+        "title": "12/10/23",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:291386-26-10-23",
+        "title": "26/10/23",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:290004-09-11-23",
+        "title": "09/11/23",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:285818-30-11-23",
+        "title": "30/11/23",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:291997-14-12-23",
+        "title": "14/12/23",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:292802-21-12-23",
+        "title": "21/12/23",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:285591-11-04-24",
+        "title": "11/04/24",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:286713-25-04-24",
+        "title": "25/04/24",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:287789-16-05-24",
+        "title": "16/05/24",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:274887-06-06-24",
+        "title": "06/06/24",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277200-04-07-24",
+        "title": "04/07/24",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:282348-02-10-24",
+        "title": "02/10/24",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:290080-16-10-24",
+        "title": "16/10/24",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:286211-30-10-24",
+        "title": "30/10/24",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:287929-27-11-24",
+        "title": "27/11/24",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:288691-11-12-24",
+        "title": "11/12/24",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:288913-22-12-24",
+        "title": "22/12/24",
+        "season": 1,
+        "episode": 56,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:286635-12-02-25",
+        "title": "12/02/25",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:287127-26-02-25",
+        "title": "26/02/25",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:287589-12-03-25",
+        "title": "12/03/25",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:288038-26-03-25",
+        "title": "26/03/25",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:288481-09-04-25",
+        "title": "09/04/25",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:282394-30-04-25",
+        "title": "30/04/25",
+        "season": 1,
+        "episode": 62,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:289238-28-05-25",
+        "title": "28/05/25",
+        "season": 1,
+        "episode": 63,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:286123-09-07-25",
+        "title": "09/07/25",
+        "season": 1,
+        "episode": 64,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:401779-09-10-25",
+        "title": "09/10/25",
+        "season": 1,
+        "episode": 65,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:401810-16-10-25",
+        "title": "16/10/25",
+        "season": 1,
+        "episode": 66,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:401869-23-10-25",
+        "title": "23/10/25",
+        "season": 1,
+        "episode": 67,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:401908-30-10-25",
+        "title": "30/10/25",
+        "season": 1,
+        "episode": 68,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:414441-13-11-25",
+        "title": "13/11/25",
+        "season": 1,
+        "episode": 69,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:415256-27-11-25",
+        "title": "27/11/25",
+        "season": 1,
+        "episode": 70,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:416184-11-12-25",
+        "title": "11/12/25",
+        "season": 1,
+        "episode": 71,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:418171-29-01-26",
+        "title": "29/01/26",
+        "season": 1,
+        "episode": 72,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:698210-29-01-26",
+        "title": "29-01-26",
+        "season": 1,
+        "episode": 73,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:441133-05-02-26",
+        "title": "05/02/26",
+        "season": 1,
+        "episode": 74,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:698222-05-02-26",
+        "title": "05-02-26",
+        "season": 1,
+        "episode": 75,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:441223-19-02-26",
+        "title": "19/02/26",
+        "season": 1,
+        "episode": 76,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:698225-19-02-26",
+        "title": "19-02-26",
+        "season": 1,
+        "episode": 77,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:441264-26-02-26",
+        "title": "26/02/26",
+        "season": 1,
+        "episode": 78,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:698231-26-02-26",
+        "title": "26-02-26",
+        "season": 1,
+        "episode": 79,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:656120-12-03-26",
+        "title": "12/03/26",
+        "season": 1,
+        "episode": 80,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:698234-12-03-26",
+        "title": "12-03-26",
+        "season": 1,
+        "episode": 81,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:656350-29-03-26",
+        "title": "29/03/26",
+        "season": 1,
+        "episode": 82,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:698237-29-03-26",
+        "title": "29-03-26",
+        "season": 1,
+        "episode": 83,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:684057-05-04-26",
+        "title": "05/04/26",
+        "season": 1,
+        "episode": 84,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:698241-05-04-26",
+        "title": "05-04-26",
+        "season": 1,
+        "episode": 85,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:691267-26-04-26",
+        "title": "26/04/26",
+        "season": 1,
+        "episode": 86,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:697663-10-05-26",
+        "title": "10/05/26",
+        "season": 1,
+        "episode": 87,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:703621-24-05-26",
+        "title": "24/05/26",
+        "season": 1,
+        "episode": 88,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:765411-14-10-26",
+        "title": "14/10/26",
+        "season": 1,
+        "episode": 89,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:774715-28-10-26",
+        "title": "28/10/26",
+        "season": 1,
+        "episode": 90,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:272822-o-vangelis-marinakis-stin-aftopsia",
+        "title": "Ο Βαγγέλης Μαρινάκης στην «Αυτοψία»",
+        "season": 1,
+        "episode": 91,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:274268-o-stefanos-tsitsipas-stin-aftopsia",
+        "title": "Ο Στέφανος Τσιτσιπάς στην «Αυτοψία»",
+        "season": 1,
+        "episode": 92,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:276069-o-ilias-psinakis-stin-aftopsia",
+        "title": "Ο Ηλίας Ψινάκης στην «Αυτοψία»",
+        "season": 1,
+        "episode": 93,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:276953-sto-eleos-tou-oxlou",
+        "title": "Στο έλεος του όχλου",
+        "season": 1,
+        "episode": 94,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:276972-sinentefxi-nikou-pappa",
+        "title": "Συνέντευξη Νίκου Παππά",
+        "season": 1,
+        "episode": 95,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:276975-o-efialtis-mesa-sto-spiti-mas",
+        "title": "Ο εφιάλτης μέσα στο σπίτι μας",
+        "season": 1,
+        "episode": 96,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:276990-prototipes-idees-polos-elxis-touriston",
+        "title": "Πρωτότυπες ιδέες – πόλος έλξης τουριστών",
+        "season": 1,
+        "episode": 97,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:276993-o-sigxronos-polemos-ton-kataskopon",
+        "title": "Ο σύγχρονος πόλεμος των κατασκόπων",
+        "season": 1,
+        "episode": 98,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277012-i-aftopsia-sta-ellinotourkika-sinora",
+        "title": "Η Αυτοψία στα Ελληνοτουρκικά σύνορα",
+        "season": 1,
+        "episode": 99,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277030-ellinotourkikes-sxeseis",
+        "title": "Ελληνοτουρκικές σχέσεις",
+        "season": 1,
+        "episode": 100,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277043-nikos-kotzias",
+        "title": "Νίκος Κοτζιάς",
+        "season": 1,
+        "episode": 101,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277067-sta-adita-tou-kosmou-tis-nixtas",
+        "title": "Στα άδυτα του κόσμου της νύχτας",
+        "season": 1,
+        "episode": 102,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277110-pos-piasame-tin-17-noemvri",
+        "title": "«Πώς πιάσαμε την “17 Νοέμβρη”»",
+        "season": 1,
+        "episode": 103,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277122-mina-arnaouti",
+        "title": "Μίνα Αρναούτη",
+        "season": 1,
+        "episode": 104,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277146-gianis-varoufakis",
+        "title": "Γιάνης Βαρουφάκης",
+        "season": 1,
+        "episode": 105,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277169-filakismenoi-se-lathos-soma",
+        "title": "Φυλακισμένοι σε λάθος σώμα",
+        "season": 1,
+        "episode": 106,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277187-sinentefxi-potamos-aki-tsoxatzopoulou",
+        "title": "Συνέντευξη-ποταμός Άκη Τσοχατζόπουλου",
+        "season": 1,
+        "episode": 107,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277210-stous-naous-tou-tzogou",
+        "title": "Στους ναούς του τζόγου",
+        "season": 1,
+        "episode": 108,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277229-vasilis-leventis",
+        "title": "Βασίλης Λεβέντης",
+        "season": 1,
+        "episode": 109,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277253-sta-adita-tou-pentagonou",
+        "title": "Στα άδυτα του Πενταγώνου…",
+        "season": 1,
+        "episode": 110,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277277-sinentefxi-evangelou-venizelou",
+        "title": "Συνέντευξη Ευάγγελου Βενιζέλου",
+        "season": 1,
+        "episode": 111,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277295-ellines-sta-pio-apithana-simeia-tou-planiti",
+        "title": "Έλληνες στα πιο απίθανα σημεία του πλανήτη",
+        "season": 1,
+        "episode": 112,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277319-sinentefxi-vikis-stamati",
+        "title": "Συνέντευξη Βίκυς Σταμάτη",
+        "season": 1,
+        "episode": 113,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277337-sinentefxi-ip-prostasias-tou-politi-n-toska",
+        "title": "Συνέντευξη Υπ. Προστασίας του Πολίτη Ν. Τόσκα",
+        "season": 1,
+        "episode": 114,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277355-sto-avato-tis-monis-esfigmenou",
+        "title": "Στο άβατο της Μονής Εσφιγμένου",
+        "season": 1,
+        "episode": 115,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277367-therapeftes-nompelistes-prigkipes-kai-sotires",
+        "title": "Θεραπευτές, νομπελίστες, πρίγκιπες και σωτήρες…",
+        "season": 1,
+        "episode": 116,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277385-pleistiriasmoi",
+        "title": "Πλειστηριασμοί",
+        "season": 1,
+        "episode": 117,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277408-pagkosmia-imera-spanion-pathiseon",
+        "title": "Παγκόσμια Ημέρα Σπάνιων Παθήσεων",
+        "season": 1,
+        "episode": 118,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277438-palevontas-me-tous-ethismous",
+        "title": "Παλεύοντας με τους εθισμούς",
+        "season": 1,
+        "episode": 119,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277463-ipothesi-panteli-pantelidi",
+        "title": "Υπόθεση Παντελή Παντελίδη",
+        "season": 1,
+        "episode": 120,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277486-sinentefxi-a-sorra",
+        "title": "Συνέντευξη Α. Σώρρα",
+        "season": 1,
+        "episode": 121,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277505-anthropoi-pou-filakistikan-adika",
+        "title": "Άνθρωποι που φυλακίστηκαν άδικα",
+        "season": 1,
+        "episode": 122,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277517-ierosolima-apokatastasi-tou-panagiou-tafou",
+        "title": "Ιεροσόλυμα – Αποκατάσταση του Πανάγιου Τάφου",
+        "season": 1,
+        "episode": 123,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277541-oi-protoi-ton-proton-20-xronia-meta",
+        "title": "Οι πρώτοι των πρώτων 20 χρόνια μετά",
+        "season": 1,
+        "episode": 124,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277564-giorgos-papakonstantinou",
+        "title": "Γιώργος Παπακωνσταντίνου",
+        "season": 1,
+        "episode": 125,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277582-esoterikoi-metanastes-tou-kalokairiou",
+        "title": "Εσωτερικοί μετανάστες του καλοκαιριού",
+        "season": 1,
+        "episode": 126,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277596-i-maxi-tis-silouetas",
+        "title": "Η μάχη της σιλουέτας",
+        "season": 1,
+        "episode": 127,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277614-giannis-mouzalas-gia-prosfigiko",
+        "title": "Γιάννης Μουζάλας για προσφυγικό",
+        "season": 1,
+        "episode": 128,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277638-ta-dramata-tis-asfaltou",
+        "title": "Τα δράματα της ασφάλτου",
+        "season": 1,
+        "episode": 129,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277662-stis-faveles-tis-athinas",
+        "title": "Στις…φαβέλες της Αθήνας",
+        "season": 1,
+        "episode": 130,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277672-to-kinima-ton-vegan-stin-ellada",
+        "title": "Το κίνημα των vegan στην Ελλάδα",
+        "season": 1,
+        "episode": 131,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277683-treis-istories-paranomias",
+        "title": "Τρεις Ιστορίες Παρανομίας",
+        "season": 1,
+        "episode": 132,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277698-simfono-simviosis",
+        "title": "Σύμφωνο Συμβίωσης",
+        "season": 1,
+        "episode": 133,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277712-politikoi-exangelies-kai-psemata",
+        "title": "Πολιτικοί, Εξαγγελίες και Ψέματα",
+        "season": 1,
+        "episode": 134,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277731-tzixantistes",
+        "title": "Τζιχαντιστές",
+        "season": 1,
+        "episode": 135,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277756-anilikes-miteres",
+        "title": "Ανήλικες μητέρες",
+        "season": 1,
+        "episode": 136,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277771-exorixi-petrelaiou",
+        "title": "Εξόρυξη πετρελαίου",
+        "season": 1,
+        "episode": 137,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277786-aftopsia-i-tragodia-tou-norman-atlantic",
+        "title": "Αυτοψία – Η τραγωδία του NORMAN ATLANTIC",
+        "season": 1,
+        "episode": 138,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277801-aftopsia-pos-xefige-i-kipros-apo-mnimonia-kai-krisi",
+        "title": "Αυτοψία – Πώς ξέφυγε η Κύπρος από Μνημόνια και Κρίση;",
+        "season": 1,
+        "episode": 139,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277820-aftopsia-ta-leipsana-ta-thavmata-oi-antidraseis",
+        "title": "Αυτοψία – Τα λείψανα, τα θαύματα, οι αντιδράσεις…",
+        "season": 1,
+        "episode": 140,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277840-aftopsia-xrisothires",
+        "title": "Αυτοψία – Χρυσοθήρες",
+        "season": 1,
+        "episode": 141,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277855-aftopsia-i-eikona-tou-ellinikou-tourismou",
+        "title": "Αυτοψία – Η εικόνα του ελληνικού τουρισμού",
+        "season": 1,
+        "episode": 142,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277875-aftopsia-bullying",
+        "title": "Αυτοψία – Bullying",
+        "season": 1,
+        "episode": 143,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277895-aftopsia-apo-ta-kentra-kratisis-sta-astika-kentra",
+        "title": "Αυτοψία – Από τα Κέντρα Κράτησης στα αστικά κέντρα",
+        "season": 1,
+        "episode": 144,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277906-aftopsia-vraxiolia-parakolouthisis",
+        "title": "Αυτοψία – Βραχιόλια παρακολούθησης",
+        "season": 1,
+        "episode": 145,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277930-aftopsia-spatales-tou-ellinikou-dimosiou",
+        "title": "Αυτοψία – Σπατάλες του ελληνικού δημοσίου",
+        "season": 1,
+        "episode": 146,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277949-aftopsia-eurogroup",
+        "title": "Αυτοψία – Eurogroup",
+        "season": 1,
+        "episode": 147,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:277972-aftopsia-to-paraskinio-ton-sinantiseon-tsipra",
+        "title": "Αυτοψία – Το παρασκήνιο των συναντήσεων Τσίπρα",
+        "season": 1,
+        "episode": 148,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:278895-o-xristoforos-papakaliatis-stin-aftopsia",
+        "title": "Ο Χριστόφορος Παπακαλιάτης στην «Αυτοψία»",
+        "season": 1,
+        "episode": 149,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:279938-eirini-melissaropoulou-apo-ton-efialti-tou-xongk-kongk-sti-litrosi",
+        "title": "Ειρήνη Μελισσαροπούλου: Από τον εφιάλτη του Χονγκ Κονγκ στη λύτρωση",
+        "season": 1,
+        "episode": 150,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:282955-i-agnosti-maxi-tou-aigaiou",
+        "title": "Η άγνωστη μάχη του Αιγαίου",
+        "season": 1,
+        "episode": 151,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:283070-15-2-24",
+        "title": "15/2/24",
+        "season": 1,
+        "episode": 152,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:283265-o-antonis-sroiter-kanei-aftopsia-sto-mati-11-10-2018",
+        "title": "Ο Αντώνης Σρόιτερ κάνει αυτοψία στο Μάτι | 11/10/2018",
+        "season": 1,
+        "episode": 153,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:283550-apostolos-gkletsos",
+        "title": "Απόστολος Γκλέτσος",
+        "season": 1,
+        "episode": 154,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:283675-mia-diaforetiki-sinentefxi-tis-efis-axtsioglou-25-10-2018",
+        "title": "Μία διαφορετική συνέντευξη της Έφης Αχτσιόγλου | 25/10/2018",
+        "season": 1,
+        "episode": 155,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:284066-sinentefxi-renas-dourou-08-11-2018",
+        "title": "Συνέντευξη Ρένας Δούρου | 08/11/2018",
+        "season": 1,
+        "episode": 156,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:284442-h-mastiga-ton-fake-news-22-11-2018",
+        "title": "H μάστιγα των Fake News | 22/11/2018",
+        "season": 1,
+        "episode": 157,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:285080-sinentefxi-kosta-bakogianni-20-12-2018",
+        "title": "Συνέντευξη Κώστα Μπακογιάννη | 20/12/2018",
+        "season": 1,
+        "episode": 158,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:286321-o-pavlos-polakis-apanta-me-ton-diko-tou-tropo-stis-erotiseis-tou-antoni-sroiter",
+        "title": "Ο Παύλος Πολάκης απαντά με τον δικό του τρόπο στις ερωτήσεις του Αντώνη Σρόιτερ",
+        "season": 1,
+        "episode": 159,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:286438-maria-eleni-likourezou-kai-giorgos-kampanos-apo-ton-efialti-ton-narkotikon-stin-kathari-zoi",
+        "title": "Μαρία Ελένη Λυκουρέζου και Γιώργος Καμπανός: Από τον εφιάλτη των ναρκωτικών στην «καθαρή ζωή»",
+        "season": 1,
+        "episode": 160,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:286759-o-asthenis-miden-tou-koronaiou-stin-ellada-apokaliptei",
+        "title": "Ο «Ασθενής μηδέν» του κορωναϊού στην Ελλάδα αποκαλύπτει",
+        "season": 1,
+        "episode": 161,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:287071-07-3-24",
+        "title": "07/3/24",
+        "season": 1,
+        "episode": 162,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:287357-2-500-xronia-apo-ti-navmaxia-tis-salaminas-kai-ti-maxi-ton-thermopilon-meros-v",
+        "title": "2.500 χρόνια από τη Ναυμαχία της Σαλαμίνας και τη Μάχη των Θερμοπυλών | Μέρος Β’",
+        "season": 1,
+        "episode": 163,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:289223-kalokairi-2020-pou-tha-pame-diakopes",
+        "title": "Καλοκαίρι 2020 – Πού θα πάμε διακοπές",
+        "season": 1,
+        "episode": 164,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:291320-18-1-24",
+        "title": "18/1/24",
+        "season": 1,
+        "episode": 165,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:291629-alitheies-kai-psemata-gia-tis-epidimies-tis-sigxronis-epoxis",
+        "title": "Αλήθειες και ψέματα για τις επιδημίες της σύγχρονης εποχής",
+        "season": 1,
+        "episode": 166,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:292866-28-3-24",
+        "title": "28/3/24",
+        "season": 1,
+        "episode": 167,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:292888-nikos-xardalias",
+        "title": "Νίκος Χαρδαλιάς",
+        "season": 1,
+        "episode": 168,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:698197-26-04-26-5",
+        "title": "26-04-26",
+        "season": 1,
+        "episode": 169,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:712541-14-06-26-2",
+        "title": "14/06/26",
+        "season": 1,
+        "episode": 170,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:01b95e8d:715455-21-06-26-4",
+        "title": "21/06/26",
+        "season": 1,
+        "episode": 171,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      }
+    ]
+  }
+}

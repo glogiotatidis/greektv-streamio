@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:03d2c488",
+    "type": "series",
+    "name": "Κόκκινο Νυφικό",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:03d2c488:271203-s1-epeisodio-1",
+        "title": "Σ1 – Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:03d2c488:271198-s1-epeisodio-2",
+        "title": "Σ1 – Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:03d2c488:271195-s1-epeisodio-3",
+        "title": "Σ1 – Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:03d2c488:271192-s1-epeisodio-4",
+        "title": "Σ1 – Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:03d2c488:271189-s1-epeisodio-5",
+        "title": "Σ1 – Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:03d2c488:271186-s1-epeisodio-6",
+        "title": "Σ1 – Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:03d2c488:271183-s1-epeisodio-7",
+        "title": "Σ1 – Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:03d2c488:271178-s1-epeisodio-8",
+        "title": "Σ1 – Επεισόδιο 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:03d2c488:271175-s1-epeisodio-9",
+        "title": "Σ1 – Επεισόδιο 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:03d2c488:271172-s1-epeisodio-10",
+        "title": "Σ1 – Επεισόδιο 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:03d2c488:290900-sezon-1",
+        "title": "ΣΕΖΟΝ 1",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
+      }
+    ]
+  }
+}

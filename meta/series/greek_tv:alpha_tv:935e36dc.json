@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:935e36dc",
+    "type": "series",
+    "name": "Οι Ιστορίες του Αστυνόμου Μπέκα",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:281811-oi-istories-tou-astinomou-beka-s1-epeisodio-1",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279461-oi-istories-tou-astinomou-beka-s1-epeisodio-2",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279449-oi-istories-tou-astinomou-beka-s1-epeisodio-3",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279443-oi-istories-tou-astinomou-beka-s1-epeisodio-4",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279434-oi-istories-tou-astinomou-beka-s1-epeisodio-5",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279422-oi-istories-tou-astinomou-beka-s1-epeisodio-6",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279413-oi-istories-tou-astinomou-beka-s1-epeisodio-7",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279407-oi-istories-tou-astinomou-beka-s1-epeisodio-8",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279395-oi-istories-tou-astinomou-beka-s1-epeisodio-9",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279389-oi-istories-tou-astinomou-beka-s1-epeisodio-10",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279376-oi-istories-tou-astinomou-beka-s1-epeisodio-11",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279367-oi-istories-tou-astinomou-beka-s1-epeisodio-12",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279361-oi-istories-tou-astinomou-beka-s1-epeisodio-13",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279352-oi-istories-tou-astinomou-beka-s1-epeisodio-14",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279337-oi-istories-tou-astinomou-beka-s1-epeisodio-15",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279325-oi-istories-tou-astinomou-beka-s1-epeisodio-16",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279319-oi-istories-tou-astinomou-beka-s1-epeisodio-17",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279310-oi-istories-tou-astinomou-beka-s1-epeisodio-18",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279301-oi-istories-tou-astinomou-beka-s1-epeisodio-19",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279295-oi-istories-tou-astinomou-beka-s1-epeisodio-20",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279283-oi-istories-tou-astinomou-beka-s1-epeisodio-21",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 21",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279276-oi-istories-tou-astinomou-beka-s1-epeisodio-22",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 22",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279267-oi-istories-tou-astinomou-beka-s1-epeisodio-23",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 23",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279258-oi-istories-tou-astinomou-beka-s1-epeisodio-24",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 24",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279249-oi-istories-tou-astinomou-beka-s1-epeisodio-25",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 25",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279237-oi-istories-tou-astinomou-beka-s1-epeisodio-26",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 26",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279231-oi-istories-tou-astinomou-beka-s1-epeisodio-27",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 27",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279219-oi-istories-tou-astinomou-beka-s1-epeisodio-28",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S1 – Επεισόδιο 28",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:290845-sezon-1",
+        "title": "ΣΕΖΟΝ 1",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279213-oi-istories-tou-astinomou-beka-s2-epeisodio-1",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 1",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279194-oi-istories-tou-astinomou-beka-s2-epeisodio-2",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 2",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279181-oi-istories-tou-astinomou-beka-s2-epeisodio-3",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 3",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279172-oi-istories-tou-astinomou-beka-s2-epeisodio-4",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 4",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279166-oi-istories-tou-astinomou-beka-s2-epeisodio-5",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 5",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279157-oi-istories-tou-astinomou-beka-s2-epeisodio-6",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 6",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279145-oi-istories-tou-astinomou-beka-s2-epeisodio-7",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 7",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279136-oi-istories-tou-astinomou-beka-s2-epeisodio-8",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 8",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279127-oi-istories-tou-astinomou-beka-s2-epeisodio-9",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 9",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279117-oi-istories-tou-astinomou-beka-s2-epeisodio-10",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 10",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279108-oi-istories-tou-astinomou-beka-s2-epeisodio-11",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 11",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279099-oi-istories-tou-astinomou-beka-s2-epeisodio-12",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 12",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279090-oi-istories-tou-astinomou-beka-s2-epeisodio-13",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 13",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279081-oi-istories-tou-astinomou-beka-s2-epeisodio-14",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 14",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279075-oi-istories-tou-astinomou-beka-s2-epeisodio-15",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 15",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279066-oi-istories-tou-astinomou-beka-s2-epeisodio-16",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 16",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279054-oi-istories-tou-astinomou-beka-s2-epeisodio-17",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 17",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279045-oi-istories-tou-astinomou-beka-s2-epeisodio-18",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 18",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279036-oi-istories-tou-astinomou-beka-s2-epeisodio-19",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 19",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:935e36dc:279204-oi-istories-tou-astinomou-beka-s2-epeisodio-20",
+        "title": "Οι Ιστορίες του Αστυνόμου Μπέκα S2 – Επεισόδιο 20",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+      }
+    ]
+  }
+}

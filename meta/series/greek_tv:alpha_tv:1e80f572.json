@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:1e80f572",
+    "type": "series",
+    "name": "Μου το Κρατάς Μανιάτικο",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279291-mou-to-kratas-maniatiko-epeisodio-1",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279277-mou-to-kratas-maniatiko-epeisodio-2",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279262-mou-to-kratas-maniatiko-epeisodio-3",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279247-mou-to-kratas-maniatiko-epeisodio-4",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279232-mou-to-kratas-maniatiko-epeisodio-5",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279217-mou-to-kratas-maniatiko-epeisodio-6",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279202-mou-to-kratas-maniatiko-epeisodio-7",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279189-mou-to-kratas-maniatiko-epeisodio-8",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279174-mou-to-kratas-maniatiko-epeisodio-9",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279159-mou-to-kratas-maniatiko-epeisodio-10",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279144-mou-to-kratas-maniatiko-epeisodio-11",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279129-mou-to-kratas-maniatiko-epeisodio-12",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279115-mou-to-kratas-maniatiko-epeisodio-13",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279100-mou-to-kratas-maniatiko-epeisodio-14",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279085-mou-to-kratas-maniatiko-epeisodio-15",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279070-mou-to-kratas-maniatiko-epeisodio-18",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279055-mou-to-kratas-maniatiko-epeisodio-19",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279040-mou-to-kratas-maniatiko-epeisodio-20",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:1e80f572:279025-mou-to-kratas-maniatiko-epeisodio-21",
+        "title": "Μου το Κρατάς Μανιάτικο – Επεισόδιο 21",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+      }
+    ]
+  }
+}

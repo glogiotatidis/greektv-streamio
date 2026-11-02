@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "greek_tv:alpha_tv:16aaec68",
+    "type": "series",
+    "name": "Να Με Λες Μαμά",
+    "poster": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-na-me-les-mama-cover-horizontal.jpg",
+    "background": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-na-me-les-mama-cover-horizontal.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:alpha_tv:16aaec68:401700-s1-epeisodio-1",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-na-me-les-mama-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:16aaec68:401706-s1-epeisodio-2",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-na-me-les-mama-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:16aaec68:401733-s1-epeisodio-3",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-na-me-les-mama-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:16aaec68:401734-s1-epeisodio-4",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-na-me-les-mama-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:16aaec68:401808-s1-epeisodio-5",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-na-me-les-mama-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:16aaec68:401809-s1-epeisodio-6",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-na-me-les-mama-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:16aaec68:401854-s1-epeisodio-7",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-na-me-les-mama-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:16aaec68:401855-s1-epeisodio-8",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-na-me-les-mama-cover-horizontal.jpg"
+      }
+    ]
+  }
+}

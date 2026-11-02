@@ -89,27 +89,6 @@
         "season": 1,
         "episode": 12,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/pocoyo-1920x1080.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:d344ae8e:tennis-for-everyone",
-        "title": "Tennis For Everyone",
-        "season": 1,
-        "episode": 13,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/pocoyo-1920x1080.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:d344ae8e:playtime",
-        "title": "Playtime",
-        "season": 1,
-        "episode": 14,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/pocoyo-1920x1080.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:d344ae8e:travel-with-pato",
-        "title": "Travel With Pato",
-        "season": 1,
-        "episode": 15,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/pocoyo-1920x1080.jpg"
       }
     ]
   }

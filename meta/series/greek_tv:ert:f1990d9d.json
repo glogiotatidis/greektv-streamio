@@ -593,6 +593,13 @@
         "season": 6,
         "episode": 24,
         "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/keraia-oi-astoi-enos-kapote.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-87",
+        "title": "Πύργος Τήνου - Η Ψυχή και το Πρόσωπο του Μαρμάρου",
+        "season": 7,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/s07/ps058452-0001-keraia-s07.jpg"
       }
     ]
   }
