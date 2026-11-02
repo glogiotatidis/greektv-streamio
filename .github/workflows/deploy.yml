@@ -74,6 +74,11 @@ jobs:
         with:
           name: site-${{ matrix.station }}
           path: site.zip
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cache-${{ matrix.station }}
+          path: .cache/shows.json
+          if-no-files-found: ignore
 
   merge:
     needs: [build, prepare]
@@ -89,14 +94,32 @@ jobs:
         with:
           pattern: site-*
           path: /tmp/artifacts
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: cache-*
+          path: /tmp/caches
+          if-no-files-matched: ignore
       - run: |
           mkdir -p site
           for z in /tmp/artifacts/site-*/site.zip; do unzip -o "$z" -d site; done
+      - run: |
+          mkdir -p .cache
+          python - <<'PY'
+          import json, glob
+          merged = {}
+          for path in glob.glob('/tmp/caches/cache-*/shows.json'):
+              try:
+                  with open(path, encoding='utf-8') as handle:
+                      merged.update(json.load(handle))
+              except (OSError, ValueError):
+                  pass
+          with open('.cache/shows.json', 'w', encoding='utf-8') as handle:
+              json.dump(merged, handle, ensure_ascii=False)
+          print('merged', len(merged), 'cached shows')
+          PY
       - run: python static_export.py
         env:
           GREEKTV_STATIONS: ${{ join(fromJson(needs.prepare.outputs.stations), ',') }}
-          GREEKTV_FULL: ${{ github.event.inputs.full }}
-          GREEKTV_FULL_STATIONS: ${{ github.event.inputs.full_stations }}
       - run: test -s site/manifest.json
       - uses: peaceiris/actions-gh-pages@v4
         with:
