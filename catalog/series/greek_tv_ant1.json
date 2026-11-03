@@ -73,12 +73,6 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
     },
     {
-      "id": "greek_tv:ant1:a9b22b95",
-      "type": "series",
-      "name": "THE ROADSHOW",
-      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_The_Roadshow_3_1920x780_a3024e7003.jpg"
-    },
-    {
       "id": "greek_tv:ant1:f81c6aae",
       "type": "series",
       "name": "MOMENTS",
@@ -125,6 +119,12 @@
       "type": "series",
       "name": "BRAVE NEW GREECE",
       "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_BRAVE_NEW_GREECE_fc0f52f075.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:a9b22b95",
+      "type": "series",
+      "name": "THE ROADSHOW",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_The_Roadshow_3_1920x780_a3024e7003.jpg"
     },
     {
       "id": "greek_tv:ant1:82eb81c2",

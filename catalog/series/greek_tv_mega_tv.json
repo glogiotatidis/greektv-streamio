@@ -13,18 +13,6 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_xamogela_960X600-b.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:d15612a7",
-      "type": "series",
-      "name": "The Chase",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_theChase_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:db76fffc",
-      "type": "series",
-      "name": "Αλ Τσαντίρι Νιουζ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:6e0150ed",
       "type": "series",
       "name": "Φως Στο Τούνελ",
@@ -53,6 +41,18 @@
       "type": "series",
       "name": "Στον Δρόμο για το 5άρι",
       "poster": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:d15612a7",
+      "type": "series",
+      "name": "The Chase",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_theChase_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:db76fffc",
+      "type": "series",
+      "name": "Αλ Τσαντίρι Νιουζ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
     },
     {
       "id": "greek_tv:mega_tv:45d0ffeb",
