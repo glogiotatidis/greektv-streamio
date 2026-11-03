@@ -145,16 +145,16 @@
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/doug_unplugs-1920x1080.jpg"
     },
     {
-      "id": "greek_tv:star_channel:5ebc346e",
-      "type": "series",
-      "name": "ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ",
-      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/%CE%B5%CE%BD%CE%B7%CE%BC%CE%B5%CF%81%CF%89%CF%83%CE%B7_2025-26/parousiastes/1920x1080_zaxarea.jpg"
-    },
-    {
       "id": "greek_tv:star_channel:ee50d207",
       "type": "series",
       "name": "NINJA EXPRESS",
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:5bcfe350",
+      "type": "series",
+      "name": "MINIBODS",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
     },
     {
       "id": "greek_tv:star_channel:2beb8cd4",
@@ -169,16 +169,22 @@
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ki___hi-1920x1080.jpg"
     },
     {
-      "id": "greek_tv:star_channel:ccd0a80c",
+      "id": "greek_tv:star_channel:50c6da9f",
       "type": "series",
-      "name": "STAR ΚΑΙΡΟΣ",
-      "poster": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarKairos_1920x1004.jpg"
+      "name": "THE WEASY FAMILY",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
     },
     {
       "id": "greek_tv:star_channel:77be04b3",
       "type": "series",
       "name": "BING",
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:3bce9aa6",
+      "type": "series",
+      "name": "ODDBODS",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/oddbods-1920x1080.jpg"
     },
     {
       "id": "greek_tv:star_channel:cf1c01f3",
@@ -193,10 +199,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/1/jpg/files/Masa_and_the_Bear_1920x1004.jpg"
     },
     {
-      "id": "greek_tv:star_channel:5bcfe350",
+      "id": "greek_tv:star_channel:5ebc346e",
       "type": "series",
-      "name": "MINIBODS",
-      "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
+      "name": "ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/%CE%B5%CE%BD%CE%B7%CE%BC%CE%B5%CF%81%CF%89%CF%83%CE%B7_2025-26/parousiastes/1920x1080_zaxarea.jpg"
     },
     {
       "id": "greek_tv:star_channel:923c28e6",
@@ -217,16 +223,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Tragomallou_1920x1004_2021-22.jpg"
     },
     {
-      "id": "greek_tv:star_channel:50c6da9f",
+      "id": "greek_tv:star_channel:ccd0a80c",
       "type": "series",
-      "name": "THE WEASY FAMILY",
-      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
-    },
-    {
-      "id": "greek_tv:star_channel:3bce9aa6",
-      "type": "series",
-      "name": "ODDBODS",
-      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/oddbods-1920x1080.jpg"
+      "name": "STAR ΚΑΙΡΟΣ",
+      "poster": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarKairos_1920x1004.jpg"
     }
   ]
 }

@@ -81,21 +81,14 @@
         "title": "Επεισόδιο 15",
         "season": 1,
         "episode": 15,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/weekend_live/2026_2027/weekwnd_live_landscape.jpg"
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/weekend_live/2026_2027/weekend_15.jpg"
       },
       {
         "id": "greek_tv:skai:25e6ca35:2026-11-01-14",
         "title": "Επεισόδιο 16",
         "season": 1,
         "episode": 16,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/weekend_live/2026_2027/weekwnd_live_landscape.jpg"
-      },
-      {
-        "id": "greek_tv:skai:25e6ca35:2026-09-19-14",
-        "title": "Weekend Live 19/09/2026",
-        "season": 1,
-        "episode": 19,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/weekend_live/2026_2027/weekend_4.jpg"
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/weekend_live/2026_2027/weekend_16.jpg"
       }
     ]
   }

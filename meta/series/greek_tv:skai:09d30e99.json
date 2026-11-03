@@ -89,6 +89,20 @@
         "season": 1,
         "episode": 29,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/antonios__kleopatra/2026_2027/antonios_29.jpg"
+      },
+      {
+        "id": "greek_tv:skai:09d30e99:2026-11-02-18",
+        "title": "Αντώνιος & Κλεοπάτρα | Επεισόδιο 30 02/11/2026",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/antonios__kleopatra/2026_2027/antonios_30.jpg"
+      },
+      {
+        "id": "greek_tv:skai:09d30e99:2026-11-03-18",
+        "title": "Αντώνιος & Κλεοπάτρα | Επεισόδιο 31 03/11/2026",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/antonios__kleopatra/2026_2027/antonios_kleopatra_landscape.jpg"
       }
     ]
   }

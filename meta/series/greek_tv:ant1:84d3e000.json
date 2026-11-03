@@ -14,13 +14,6 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       },
       {
-        "id": "greek_tv:ant1:84d3e000:mirooslpsy7bba2pi67qqhbj",
-        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 201 – 3η ΣΕΖΟΝ",
-        "season": 3,
-        "episode": 201,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
-      },
-      {
         "id": "greek_tv:ant1:84d3e000:if3j6xqgyu1f9aztmteabo4c",
         "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 202 – 3η ΣΕΖΟΝ",
         "season": 3,
@@ -35,10 +28,17 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       },
       {
-        "id": "greek_tv:ant1:84d3e000:r5uc4iqi0ug5bi2wh5087w77",
-        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - SPECIAL EDITION – 4η ΣΕΖΟΝ – ΕΠΕΙΣΟΔΙΟ 14",
-        "season": 4,
-        "episode": 14,
+        "id": "greek_tv:ant1:84d3e000:bz6yozwtsccd2c34gt03f3na",
+        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 204 – 3η ΣΕΖΟΝ",
+        "season": 3,
+        "episode": 204,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:84d3e000:g5xnq874822b86m7fygeen7f",
+        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 205 – 3η ΣΕΖΟΝ",
+        "season": 3,
+        "episode": 205,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       }
     ]

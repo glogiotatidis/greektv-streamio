@@ -7,13 +7,6 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Krino_and_Agathi_1920x780_Full_Cast_V2_8ddf3e6d3b.jpg",
     "videos": [
       {
-        "id": "greek_tv:ant1:a6015cac:k204bzxfivwilr1thisyi2ct",
-        "title": "ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ - ΕΠΕΙΣΟΔΙΟ 13",
-        "season": 1,
-        "episode": 13,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Krino_and_Agathi_1920x780_Full_Cast_V2_8ddf3e6d3b.jpg"
-      },
-      {
         "id": "greek_tv:ant1:a6015cac:ya4ushzk8mhjrg65p4m11n34",
         "title": "ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ - ΕΠΕΙΣΟΔΙΟ 14",
         "season": 1,
@@ -35,17 +28,24 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Krino_and_Agathi_1920x780_Full_Cast_V2_8ddf3e6d3b.jpg"
       },
       {
-        "id": "greek_tv:ant1:a6015cac:yigx7lil26r4fwg0l6eahwxu",
-        "title": "ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ - SNEAK PREVIEW - ΕΠΕΙΣΟΔΙΟ 17",
+        "id": "greek_tv:ant1:a6015cac:q8gw5dd4fyd9s4ojde16ooby",
+        "title": "ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ - ΕΠΕΙΣΟΔΙΟ 17",
         "season": 1,
         "episode": 17,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Krino_and_Agathi_1920x780_Full_Cast_V2_8ddf3e6d3b.jpg"
       },
       {
-        "id": "greek_tv:ant1:a6015cac:bymv2hudcftwr0ndmuq9i2bm",
-        "title": "Κρίνο και Αγκάθι - Δευτέρα έως Τετάρτη στις 21:00",
+        "id": "greek_tv:ant1:a6015cac:kxmo49914cb4rnlyqsjide0p",
+        "title": "ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ - SNEAK PREVIEW - ΕΠΕΙΣΟΔΙΟ 18",
         "season": 1,
         "episode": 18,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Krino_and_Agathi_1920x780_Full_Cast_V2_8ddf3e6d3b.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:a6015cac:r1mipl054vr2thgsvpysdo85",
+        "title": "Κρίνο και Αγκάθι - Τρίτη στις 21:00",
+        "season": 1,
+        "episode": 19,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Krino_and_Agathi_1920x780_Full_Cast_V2_8ddf3e6d3b.jpg"
       }
     ]

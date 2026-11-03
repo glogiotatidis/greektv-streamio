@@ -7,13 +7,6 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png",
     "videos": [
       {
-        "id": "greek_tv:ant1:6b71e430:dqip4j11d24ideos817t5al2",
-        "title": "ΝΤΕΡΤΙ – ΕΠΕΙΣΟΔΙΟ 15",
-        "season": 1,
-        "episode": 15,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
-      },
-      {
         "id": "greek_tv:ant1:6b71e430:p5mdi29kmsz18ewjunxcz6kn",
         "title": "ΝΤΕΡΤΙ – ΕΠΕΙΣΟΔΙΟ 16",
         "season": 1,
@@ -35,17 +28,24 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       },
       {
-        "id": "greek_tv:ant1:6b71e430:s2sc7gwnnvhb0sxr3qmpdh79",
-        "title": "ΝΤΕΡΤΙ – SNEAK PREVIEW – ΕΠΕΙΣΟΔΙΟ 19",
+        "id": "greek_tv:ant1:6b71e430:i97wu4pc04cbxta4vabbkj8y",
+        "title": "ΝΤΕΡΤΙ – ΕΠΕΙΣΟΔΙΟ 19",
         "season": 1,
         "episode": 19,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       },
       {
-        "id": "greek_tv:ant1:6b71e430:liwd0l71dtwdw7lku4s3kyns",
-        "title": "Ντέρτι - Δευτέρα έως Τετάρτη στις 22:30",
+        "id": "greek_tv:ant1:6b71e430:xngip631lwbtujemt523t930",
+        "title": "ΝΤΕΡΤΙ – SNEAK PREVIEW – ΕΠΕΙΣΟΔΙΟ 20",
         "season": 1,
         "episode": 20,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
+      },
+      {
+        "id": "greek_tv:ant1:6b71e430:f49aore5088yid7nl9nykr3g",
+        "title": "Ντέρτι - Τρίτη στις 22:30",
+        "season": 1,
+        "episode": 21,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       }
     ]

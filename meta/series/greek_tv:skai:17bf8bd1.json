@@ -21,10 +21,17 @@
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/all_in/2026_2027/all_in_2.jpg"
       },
       {
+        "id": "greek_tv:skai:17bf8bd1:2026-11-02-23",
+        "title": "All In 02/11/2026",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/all_in/2026_2027/all_in_4.jpg"
+      },
+      {
         "id": "greek_tv:skai:17bf8bd1:2026-10-26-23",
         "title": "Επεισόδιο 3",
         "season": 1,
-        "episode": 3,
+        "episode": 4,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/all_in/2026_2027/all_in_3.jpg"
       }
     ]

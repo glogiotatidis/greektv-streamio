@@ -33,13 +33,6 @@
         "season": 1,
         "episode": 4,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/1_percent_club/semifinal/1_percent_club-1920x1080-semifinal.png"
-      },
-      {
-        "id": "greek_tv:star_channel:4922bd32:2102026-1-club-premiera",
-        "title": "2102026 1 Club Premiera",
-        "season": 1,
-        "episode": 5,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/1_percent_club/semifinal/1_percent_club-1920x1080-semifinal.png"
       }
     ]
   }

@@ -7,10 +7,17 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/kalimera_landscape.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:5ddd967f:2026-10-31-05",
-        "title": "Επεισόδιο 19",
+        "id": "greek_tv:skai:5ddd967f:2026-11-01-05",
+        "title": "Επεισόδιο 20",
         "season": 1,
-        "episode": 19,
+        "episode": 20,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/kalimera_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:5ddd967f:2026-10-31-05",
+        "title": "31/10/2026",
+        "season": 1,
+        "episode": 31,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/kalimera_landscape.jpg"
       }
     ]

@@ -1,16 +1,16 @@
 {
   "metas": [
     {
-      "id": "greek_tv:alpha_tv:2851e75f",
-      "type": "series",
-      "name": "Οι Κόρες της Αρετής",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-i-kores-tis-aretis-cover-horizontal.jpg"
-    },
-    {
       "id": "greek_tv:alpha_tv:250e653f",
       "type": "series",
       "name": "Μια Γυναίκα",
       "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-mia-gineka-cover-horizontal-1.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:2851e75f",
+      "type": "series",
+      "name": "Οι Κόρες της Αρετής",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-i-kores-tis-aretis-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:7d15f92d",
@@ -47,12 +47,6 @@
       "type": "series",
       "name": "10η Εντολή",
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:935e36dc",
-      "type": "series",
-      "name": "Οι Ιστορίες του Αστυνόμου Μπέκα",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:8d208c3a",
@@ -163,6 +157,12 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
     },
     {
+      "id": "greek_tv:alpha_tv:935e36dc",
+      "type": "series",
+      "name": "Οι Ιστορίες του Αστυνόμου Μπέκα",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+    },
+    {
       "id": "greek_tv:alpha_tv:f53e36c9",
       "type": "series",
       "name": "Σαν Οικογένεια",
@@ -217,16 +217,16 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-asteras-raxoulas-cover-horizontal.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:ca251a0f",
-      "type": "series",
-      "name": "Καλύτερα δε γίνεται!",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-kalitera-de-ginete-2026-2027-cover-horizontal-6.jpg"
-    },
-    {
       "id": "greek_tv:alpha_tv:1e80f572",
       "type": "series",
       "name": "Μου το Κρατάς Μανιάτικο",
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:03d2c488",
+      "type": "series",
+      "name": "Κόκκινο Νυφικό",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:d0c0bb74",
@@ -265,16 +265,16 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
     },
     {
+      "id": "greek_tv:alpha_tv:ca251a0f",
+      "type": "series",
+      "name": "Καλύτερα δε γίνεται!",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-kalitera-de-ginete-2026-2027-cover-horizontal-6.jpg"
+    },
+    {
       "id": "greek_tv:alpha_tv:e9aca907",
       "type": "series",
       "name": "Wipe Out USA",
       "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-shows-wipe-out-usa-cover-horizontal.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:03d2c488",
-      "type": "series",
-      "name": "Κόκκινο Νυφικό",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:01b95e8d",

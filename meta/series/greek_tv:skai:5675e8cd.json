@@ -8,9 +8,9 @@
     "videos": [
       {
         "id": "greek_tv:skai:5675e8cd:2026-10-06-20",
-        "title": "Επεισόδιο 16",
+        "title": "06/10/2026",
         "season": 1,
-        "episode": 16,
+        "episode": 6,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/eco_green_landscape.jpg"
       },
       {
@@ -88,6 +88,13 @@
         "title": "Επεισόδιο 27",
         "season": 1,
         "episode": 27,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/eco_green_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:5675e8cd:2026-11-03-20",
+        "title": "Επεισόδιο 28",
+        "season": 1,
+        "episode": 28,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/eco_green_landscape.jpg"
       },
       {

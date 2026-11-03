@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:61ad0f6e",
+    "type": "series",
+    "name": "Το Τελευταίο Νησί",
+    "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/to-teleutaio-nisi/toteleytaionisi-ertflix-img-cc.jpg",
+    "background": "https://files2.app.ertflix.gr/files/ellinikes-seires/to-teleutaio-nisi/toteleytaionisi-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:61ad0f6e:to-teleutaio-nesi-2",
+        "title": "Η Επέτειος",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/to-teleutaio-nisi/ps049821-to-teleutaio-nisi-i-epeteios-ep01.jpg"
+      }
+    ]
+  }
+}

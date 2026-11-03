@@ -82,27 +82,6 @@
         "season": 1,
         "episode": 11,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:50c6da9f:mission-bubbles",
-        "title": "Mission Bubbles",
-        "season": 1,
-        "episode": 12,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:50c6da9f:mission-obstacle-course",
-        "title": "Mission Obstacle Course",
-        "season": 1,
-        "episode": 13,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:50c6da9f:mission-skateboard",
-        "title": "Mission Skateboard",
-        "season": 1,
-        "episode": 14,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       }
     ]
   }

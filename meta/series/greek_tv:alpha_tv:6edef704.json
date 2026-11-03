@@ -21,367 +21,115 @@
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
-        "id": "greek_tv:alpha_tv:6edef704:275241-poios-me-parakolouthei",
-        "title": "Ποιος με παρακολουθεί",
-        "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:275253-i-agnosti-arravoniastikia",
-        "title": "Η άγνωστη αρραβωνιαστικιά",
-        "season": 1,
-        "episode": 4,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:275573-mistiriodeis-nixterinoi-peripatoi",
-        "title": "Μυστηριώδεις νυχτερινοί περίπατοι",
-        "season": 1,
-        "episode": 5,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:275664-to-klemmeno-xali",
-        "title": "Το κλεμμένο χαλί",
-        "season": 1,
-        "episode": 6,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:275844-sillipsi-sta-sinora",
-        "title": "Σύλληψη στα σύνορα",
-        "season": 1,
-        "episode": 7,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:275856-o-drapetis",
-        "title": "Ο δραπέτης",
-        "season": 1,
-        "episode": 8,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:275893-ti-krivei-o-kainourgios-mou-sintrofos",
-        "title": "Τι κρύβει ο καινούργιος μου σύντροφος",
-        "season": 1,
-        "episode": 9,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:275991-i-foititria",
-        "title": "Η φοιτήτρια",
-        "season": 1,
-        "episode": 10,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:276355-en-vrasmo",
-        "title": "Εν βρασμώ",
-        "season": 1,
-        "episode": 11,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:276497-o-antras-tou-spitiou",
-        "title": "Ο άντρας του σπιτιού",
-        "season": 1,
-        "episode": 12,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:276574-mia-paraxeni-katangelia",
-        "title": "Μια παράξενη καταγγελία",
-        "season": 1,
-        "episode": 13,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:276769-epikindini-apistia",
-        "title": "Επικίνδυνη απιστία",
-        "season": 1,
-        "episode": 14,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:276942-i-moiraia-petra",
-        "title": "Η μοιραία πέτρα",
-        "season": 1,
-        "episode": 15,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:277107-plasto-pistopoiitiko-gennisis",
-        "title": "Πλαστό πιστοποιητικό γέννησης",
-        "season": 1,
-        "episode": 16,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:277264-o-erastis-tis-miteras-mou",
-        "title": "Ο εραστής της μητέρας μου",
-        "season": 1,
-        "episode": 17,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:277371-simadia-kakopoiisis",
-        "title": "Σημάδια κακοποίησης",
-        "season": 1,
-        "episode": 18,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:277421-exafanismeni-geitonissa",
-        "title": "Εξαφανισμένη γειτόνισσα",
-        "season": 1,
-        "episode": 19,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:277551-i-apagogi-tis-koris-mou",
-        "title": "Η απαγωγή της κόρης μου",
-        "season": 1,
-        "episode": 20,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:277757-gnostos-agnostos-drastis",
-        "title": "Γνωστός άγνωστος δράστης",
-        "season": 1,
-        "episode": 21,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:277893-filakismenos-erotas",
-        "title": "Φυλακισμένος έρωτας",
-        "season": 1,
-        "episode": 22,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:277933-iiothesia-se-kindino",
-        "title": "Υιοθεσία σε κίνδυνο",
-        "season": 1,
-        "episode": 23,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:278069-anieri-simfonia",
-        "title": "Ανίερη συμφωνία",
-        "season": 1,
-        "episode": 24,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:278348-mas-piran-to-paidi",
-        "title": "Μας πήραν το παιδί",
-        "season": 1,
-        "episode": 25,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:278364-i-krifi-zoi-tou-antra-mou",
-        "title": "Η κρυφή ζωή του άντρα μου",
-        "season": 1,
-        "episode": 26,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:278548-ta-xrimata-tou-giou-mou",
-        "title": "Τα χρήματα του γιου μου",
-        "season": 1,
-        "episode": 27,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:278825-i-epistrofi-tou-asotou-patera",
-        "title": "Η επιστροφή του ασώτου πατέρα",
-        "season": 1,
-        "episode": 28,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:278838-adikes-katigories",
-        "title": "Άδικες κατηγορίες",
-        "season": 1,
-        "episode": 29,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:278846-oi-goneis-tis-theloun-na-mas-xorisoun",
-        "title": "Οι γονείς της θέλουν να μας χωρίσουν",
-        "season": 1,
-        "episode": 30,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:279062-xano-to-paidi-mou",
-        "title": "Χάνω το παιδί μου",
-        "season": 1,
-        "episode": 31,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:279065-paidi-agnostou-dna",
-        "title": "Παιδί αγνώστου dna",
-        "season": 1,
-        "episode": 32,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:279071-o-protos-erotas-tis-koris-mou",
-        "title": "Ο πρώτος έρωτας της κόρης μου",
-        "season": 1,
-        "episode": 33,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:279077-i-zoi-xoris-ti-mitera-mou",
-        "title": "Η ζωή χωρίς τη μητέρα μου",
-        "season": 1,
-        "episode": 34,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:279215-dio-meres-apon",
-        "title": "Δύο μέρες απών",
-        "season": 1,
-        "episode": 35,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:279339-oti-dineis-pairneis",
-        "title": "Ό,τι δίνεις, παίρνεις",
-        "season": 1,
-        "episode": 36,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:279466-paravatikos-gios",
-        "title": "Παραβατικός γιος",
-        "season": 1,
-        "episode": 37,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:6edef704:279637-enas-enoxlitikos-geitonas",
-        "title": "Ενας ενοχλητικός γείτονας",
-        "season": 1,
-        "episode": 38,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
-      },
-      {
         "id": "greek_tv:alpha_tv:6edef704:279652-o-piestikos-proin",
         "title": "Ο πιεστικός πρώην",
         "season": 1,
-        "episode": 39,
+        "episode": 3,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:279781-afrikanos-sizigos",
         "title": "Αφρικανός σύζυγος",
         "season": 1,
-        "episode": 40,
+        "episode": 4,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:279841-pateras-16-xronia-meta",
         "title": "Πατέρας 16 χρόνια μετά",
         "season": 1,
-        "episode": 41,
+        "episode": 5,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:280007-kataxrisi-exousias",
         "title": "Κατάχρηση εξουσίας",
         "season": 1,
-        "episode": 42,
+        "episode": 6,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:280046-ta-psemata-tis-aderfis-mou",
         "title": "Τα ψέματα της αδερφής μου",
         "season": 1,
-        "episode": 43,
+        "episode": 7,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:280160-i-xafniki-allagi-tou-sizigou-mou",
         "title": "Η ξαφνική αλλαγή του συζύγου μου",
         "season": 1,
-        "episode": 44,
+        "episode": 8,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:280246-i-mistiriodis-sintrofos-tou-patera-mou",
         "title": "Η μυστηριώδης σύντροφος του πατέρα μου",
         "season": 1,
-        "episode": 45,
+        "episode": 9,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:280349-to-parapono-tis-koris",
         "title": "Το παράπονο της κόρης",
         "season": 1,
-        "episode": 46,
+        "episode": 10,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:280468-methismeni-omologia",
         "title": "Μεθυσμένη ομολογία",
         "season": 1,
-        "episode": 47,
+        "episode": 11,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:280471-to-troxaio",
         "title": "Το τροχαίο",
         "season": 1,
-        "episode": 48,
+        "episode": 12,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:280689-sintrofos-me-dipli-taftotita",
         "title": "Σύντροφος με διπλή ταυτότητα",
         "season": 1,
-        "episode": 49,
+        "episode": 13,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:280779-tesseris-meres-agonias",
         "title": "Τέσσερις μέρες αγωνίας",
         "season": 1,
-        "episode": 50,
+        "episode": 14,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:280842-i-enoxi-tou-kathigiti",
         "title": "Η ενοχή του καθηγητή",
         "season": 1,
-        "episode": 51,
+        "episode": 15,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:280962-to-fantasma-tou-proin-sizigou",
         "title": "Το φάντασμα του πρώην συζύγου",
         "season": 1,
-        "episode": 52,
+        "episode": 16,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:281014-aftoptis-martiras",
         "title": "Αυτόπτης μάρτυρας",
         "season": 1,
-        "episode": 53,
+        "episode": 17,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:6edef704:281152-to-kinigi-tis-alitheias",
         "title": "Το κυνήγι της αλήθειας",
         "season": 1,
-        "episode": 54,
+        "episode": 18,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
       },
       {

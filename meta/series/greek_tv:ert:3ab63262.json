@@ -7,39 +7,39 @@
     "background": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/off-the-record-hbbtv-bg.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:3ab63262:off-the-record-294",
+        "title": "Δευτέρα 02 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/20261102-off-the-record.jpg"
+      },
+      {
         "id": "greek_tv:ert:3ab63262:off-the-record-293",
         "title": "Παρασκευή 30 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/20261030-off-the-record.jpg"
       },
       {
         "id": "greek_tv:ert:3ab63262:off-the-record-292",
         "title": "Πέμπτη 29 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/20261029-off-the-record.jpg"
       },
       {
         "id": "greek_tv:ert:3ab63262:off-the-record-291",
         "title": "Τετάρτη 28 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 3,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/20261028-off-the-record-n.jpg"
       },
       {
         "id": "greek_tv:ert:3ab63262:off-the-record-290",
         "title": "Τρίτη 27 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 4,
-        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/20261028-off-the-record.jpg"
-      },
-      {
-        "id": "greek_tv:ert:3ab63262:off-the-record-289",
-        "title": "Δευτέρα 26 Οκτωβρίου 2026",
-        "season": 1,
         "episode": 5,
-        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/20261026-off-the-record.jpg"
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/20261028-off-the-record.jpg"
       }
     ]
   }

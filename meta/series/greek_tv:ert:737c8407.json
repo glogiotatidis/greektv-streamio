@@ -7,46 +7,53 @@
     "background": "https://files2.app.ertflix.gr/2026/shows/perimetros-26-27/perimetros-hbbtv-bg-2026-2027.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:737c8407:perimetros-1545",
+        "title": "Τρίτη 03 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261103-perimetros.jpg"
+      },
+      {
+        "id": "greek_tv:ert:737c8407:perimetros-1544",
+        "title": "Δευτέρα 02 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261102-perimetros.jpg"
+      },
+      {
         "id": "greek_tv:ert:737c8407:perimetros-1543",
         "title": "Κυριακή 01 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 1,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/greece-1080-hd-2026-11-01-13h56m32s581.jpg"
       },
       {
         "id": "greek_tv:ert:737c8407:perimetros-1542",
         "title": "Σάββατο 31 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 2,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261031-pwer.jpg"
       },
       {
         "id": "greek_tv:ert:737c8407:perimetros-1541",
         "title": "Παρασκευή 30 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 3,
+        "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261030-perimetros.jpg"
       },
       {
         "id": "greek_tv:ert:737c8407:perimetros-1540",
         "title": "Πέμπτη 29 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 4,
+        "episode": 6,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261029-perimetros.jpg"
       },
       {
         "id": "greek_tv:ert:737c8407:perimetros-1539",
         "title": "Τρίτη 27 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 5,
+        "episode": 7,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261027-perimetros-n.jpg"
-      },
-      {
-        "id": "greek_tv:ert:737c8407:perimetros-1538",
-        "title": "Δευτέρα 26 Οκτωβρίου 2026",
-        "season": 1,
-        "episode": 6,
-        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261026-peri.jpg"
       }
     ]
   }
