@@ -223,16 +223,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/zoi_sou_oli/2025_2026/logos/i_zwi_sou_oli_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:1df2e99d",
-      "type": "series",
-      "name": "The Presidents",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/presidents/presidents_landscape.jpg"
-    },
-    {
       "id": "greek_tv:skai:8b16f2d3",
       "type": "series",
       "name": "Σκοτεινή Δεκαετία 1964-1974",
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg"
+    },
+    {
+      "id": "greek_tv:skai:bb0dd0d2",
+      "type": "series",
+      "name": "Κύπρος: 50 Χρόνια μετά την Εισβολή του Αττίλα",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/new_kypros1.jpg"
     },
     {
       "id": "greek_tv:skai:7f261c6c",
@@ -241,10 +241,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/new_katastrofes_land.jpg"
     },
     {
-      "id": "greek_tv:skai:65fabb86",
+      "id": "greek_tv:skai:8ff8641b",
       "type": "series",
-      "name": "Ειδήσεις Ι Μεσημβρινό Δελτίο",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
+      "name": "Μικρά Ασία",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mikrasia.jpg"
     },
     {
       "id": "greek_tv:skai:5742ed47",
@@ -265,10 +265,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mellon_stemmatos_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:bb0dd0d2",
+      "id": "greek_tv:skai:1df2e99d",
       "type": "series",
-      "name": "Κύπρος: 50 Χρόνια μετά την Εισβολή του Αττίλα",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/new_kypros1.jpg"
+      "name": "The Presidents",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/presidents/presidents_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:bb308465",
@@ -283,16 +283,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/flitzani_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:cddaf72d",
+      "id": "greek_tv:skai:f793384c",
       "type": "series",
-      "name": "Δελτίο στη Νοηματική",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
+      "name": "Ρεπορτάζ στις 10",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/reportaz10_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:8ff8641b",
+      "id": "greek_tv:skai:25e6ca35",
       "type": "series",
-      "name": "Μικρά Ασία",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mikrasia.jpg"
+      "name": "Weekend Live",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/weekend_live/2026_2027/weekwnd_live_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:2b316d82",
@@ -337,22 +337,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/kalimera_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:f793384c",
-      "type": "series",
-      "name": "Ρεπορτάζ στις 10",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/reportaz10_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:25e6ca35",
-      "type": "series",
-      "name": "Weekend Live",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/weekend_live/2026_2027/weekwnd_live_landscape.jpg"
-    },
-    {
       "id": "greek_tv:skai:619b4323",
       "type": "series",
       "name": "Ζω Καλά",
       "poster": "https://media.skaitv.gr/images/1280/0/files/zo_kala/2026_2027/zw_kala_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:cddaf72d",
+      "type": "series",
+      "name": "Δελτίο στη Νοηματική",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:5675e8cd",
@@ -367,10 +361,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2025_2026/extra_ekpompes/european_commission_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:303e1052",
+      "id": "greek_tv:skai:e985bf45",
       "type": "series",
-      "name": "Δράσεις από το Ίδρυμα Vodafone",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2025_2026/vodafone.jpg"
+      "name": "STOIXIMAN GBL 2026-27 TV ONLY",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/gbl/stoiximan_gpl_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:582e1281",
@@ -403,10 +397,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/super_league/superleaque_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:e985bf45",
+      "id": "greek_tv:skai:303e1052",
       "type": "series",
-      "name": "STOIXIMAN GBL 2026-27 TV ONLY",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/gbl/stoiximan_gpl_landscape.jpg"
+      "name": "Δράσεις από το Ίδρυμα Vodafone",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2025_2026/vodafone.jpg"
+    },
+    {
+      "id": "greek_tv:skai:e3a2013f",
+      "type": "series",
+      "name": "SUPERBET ΚΥΠΕΛΛΟ ΕΛΛΑΔΑΣ TV ONLY",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/kypello_elladas/generic_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:5d4daf14",
@@ -451,10 +451,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/panathinaikos/filikos_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:e3a2013f",
+      "id": "greek_tv:skai:65fabb86",
       "type": "series",
-      "name": "SUPERBET ΚΥΠΕΛΛΟ ΕΛΛΑΔΑΣ TV ONLY",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/kypello_elladas/generic_landscape.jpg"
+      "name": "Ειδήσεις Ι Μεσημβρινό Δελτίο",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
     }
   ]
 }
