@@ -91,6 +91,12 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/stin_agkalia_tou_fani/2026_2027/fanis_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:e35b780e",
+      "type": "series",
+      "name": "Happy Traveller",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/happy_traveller/2026_2027/happy_traveller_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:6448dbc8",
       "type": "series",
       "name": "Kitchen Lab",
@@ -125,12 +131,6 @@
       "type": "series",
       "name": "Γειτονιές στο Πιάτο",
       "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/geitones_sto_piato_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:e35b780e",
-      "type": "series",
-      "name": "Happy Traveller",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/happy_traveller/2026_2027/happy_traveller_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:19a35167",
@@ -223,10 +223,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/zoi_sou_oli/2025_2026/logos/i_zwi_sou_oli_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:1df2e99d",
+      "id": "greek_tv:skai:8b16f2d3",
       "type": "series",
-      "name": "The Presidents",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/presidents/presidents_landscape.jpg"
+      "name": "Σκοτεινή Δεκαετία 1964-1974",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg"
     },
     {
       "id": "greek_tv:skai:bb0dd0d2",
@@ -265,16 +265,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mellon_stemmatos_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:1df2e99d",
+      "type": "series",
+      "name": "The Presidents",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/presidents/presidents_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:bb308465",
       "type": "series",
       "name": "Israel and the Palestinians: The Road to 7th October",
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/israel/israel_palestinians_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:8b16f2d3",
-      "type": "series",
-      "name": "Σκοτεινή Δεκαετία 1964-1974",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg"
     },
     {
       "id": "greek_tv:skai:279bb5b0",

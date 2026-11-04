@@ -259,6 +259,12 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/stin_agkalia_tou_fani/2026_2027/fanis_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:e35b780e",
+      "type": "series",
+      "name": "Happy Traveller",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/happy_traveller/2026_2027/happy_traveller_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:6448dbc8",
       "type": "series",
       "name": "Kitchen Lab",
@@ -293,12 +299,6 @@
       "type": "series",
       "name": "Γειτονιές στο Πιάτο",
       "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/geitones_sto_piato_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:e35b780e",
-      "type": "series",
-      "name": "Happy Traveller",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/happy_traveller/2026_2027/happy_traveller_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:19a35167",
@@ -391,10 +391,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/zoi_sou_oli/2025_2026/logos/i_zwi_sou_oli_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:1df2e99d",
+      "id": "greek_tv:skai:8b16f2d3",
       "type": "series",
-      "name": "The Presidents",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/presidents/presidents_landscape.jpg"
+      "name": "Σκοτεινή Δεκαετία 1964-1974",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg"
     },
     {
       "id": "greek_tv:skai:bb0dd0d2",
@@ -433,16 +433,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mellon_stemmatos_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:1df2e99d",
+      "type": "series",
+      "name": "The Presidents",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/presidents/presidents_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:bb308465",
       "type": "series",
       "name": "Israel and the Palestinians: The Road to 7th October",
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/israel/israel_palestinians_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:8b16f2d3",
-      "type": "series",
-      "name": "Σκοτεινή Δεκαετία 1964-1974",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg"
     },
     {
       "id": "greek_tv:skai:279bb5b0",
@@ -1399,10 +1399,10 @@
       "poster": "https://files2.app.ertflix.gr/files/sports/handball-premiere-2026-27/handball-premier-1-2026-27-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:77e856dc",
+      "id": "greek_tv:ert:fb2dca86",
       "type": "series",
-      "name": "4 Εποχές Ελλάδα",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/4-epoxes-ellada-ertflix-img.jpg"
+      "name": "Λίστα Γάμου",
+      "poster": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/lista-gamou-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:0b61e926",
@@ -1453,16 +1453,16 @@
       "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/athina-thessaloniki/athina-thessaloniki-ertflix-img.jpg"
     },
     {
+      "id": "greek_tv:ert:77e856dc",
+      "type": "series",
+      "name": "4 Εποχές Ελλάδα",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/4-epoxes-ellada/4-epoxes-ellada-ertflix-img.jpg"
+    },
+    {
       "id": "greek_tv:ert:845b20ab",
       "type": "series",
       "name": "Project Περιφέρεια",
       "poster": "https://files2.app.ertflix.gr/2026/shows/project-district/project-perifereia-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:fb2dca86",
-      "type": "series",
-      "name": "Λίστα Γάμου",
-      "poster": "https://files2.app.ertflix.gr/files/ert-thimatai/lista-gamou/lista-gamou-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:df75fc0b",
@@ -1825,10 +1825,10 @@
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/fasma/2026-2027/fasma-kv-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:ec7196be",
+      "id": "greek_tv:ert:31b3c5d1",
       "type": "series",
-      "name": "Οι Έλληνες του Κόσμου",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/oi-ellines-tou-kosmou/oi-ellines-tou-kosmou-ertflix-img.jpg"
+      "name": "Η Λέσχη του Βιβλίου",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/e-leskhe-tou-bibliou/lesxivivliou-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:084da574",
@@ -1867,22 +1867,16 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/se-mia-nea-patrida-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:6f376bc5",
+      "id": "greek_tv:ert:ec7196be",
       "type": "series",
-      "name": "45 Μάστοροι 60 Μαθητάδες",
-      "poster": "https://files2.app.ertflix.gr/2023/ert3/ellinika-doc/45mastoroi-60mathitades/new-graphics-24/45-ertflix-img.jpg"
+      "name": "Οι Έλληνες του Κόσμου",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/oi-ellines-tou-kosmou/oi-ellines-tou-kosmou-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:a3e0c5be",
       "type": "series",
       "name": "Πρόσωπα",
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-vasilopoulos-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:31b3c5d1",
-      "type": "series",
-      "name": "Η Λέσχη του Βιβλίου",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/e-leskhe-tou-bibliou/lesxivivliou-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:fe994819",
@@ -1919,6 +1913,12 @@
       "type": "series",
       "name": "Μαρτυρίες",
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/martyries-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:6f376bc5",
+      "type": "series",
+      "name": "45 Μάστοροι 60 Μαθητάδες",
+      "poster": "https://files2.app.ertflix.gr/2023/ert3/ellinika-doc/45mastoroi-60mathitades/new-graphics-24/45-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:7f6a3322",
@@ -2107,10 +2107,10 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-ellinondromena-640x360.jpg"
     },
     {
-      "id": "greek_tv:ert:b923680d",
+      "id": "greek_tv:ert:3015be56",
       "type": "series",
-      "name": "Ες Αύριον τα Σπουδαία",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-es-aurion-ta-spoudaia-500x750.jpg"
+      "name": "Κλεινόν Άστυ - Ιστορίες της Πόλης",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-kleinonasty-500x750.jpg"
     },
     {
       "id": "greek_tv:ert:3c47e164",
@@ -2161,16 +2161,16 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/enaapotomoxipnima-photo.jpg"
     },
     {
-      "id": "greek_tv:ert:3015be56",
-      "type": "series",
-      "name": "Κλεινόν Άστυ - Ιστορίες της Πόλης",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-kleinonasty-500x750.jpg"
-    },
-    {
       "id": "greek_tv:ert:1c433b6c",
       "type": "series",
       "name": "Από Πέτρα και Χρόνο",
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-apo-petra-kai-xrono-500x750.jpg"
+    },
+    {
+      "id": "greek_tv:ert:b923680d",
+      "type": "series",
+      "name": "Ες Αύριον τα Σπουδαία",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-es-aurion-ta-spoudaia-500x750.jpg"
     },
     {
       "id": "greek_tv:ert:3ba9c1a2",
