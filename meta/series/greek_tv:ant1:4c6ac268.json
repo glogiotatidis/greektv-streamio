@@ -7,78 +7,78 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:4c6ac268:um2tqltfxo9xugerzayzc5i8",
+        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 04/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
+      },
+      {
         "id": "greek_tv:ant1:4c6ac268:k9vlawcekvuqoi9vzycxe4eo",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 03/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
         "id": "greek_tv:ant1:4c6ac268:zdupnv2gk8yj18sopfatreds",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 02/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
         "id": "greek_tv:ant1:4c6ac268:d992cep28n03bk7ytta4kjr9",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 30/10/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:4c6ac268:gyj6xnpl6t95sp2hhzxnxsc4",
-        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 29/10/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:vni5q8qs7vo1ogdyvmnf86cc",
-        "title": "Αποκλειστική συνέντευξη του Γκας Μπιλιράκη στον Νικόλα Βαφειάδη - Καλημέρα Ελλάδα - 03/11/2026 Η επόμενη μέρα της κάλπης - Οι πόλεμοι, οι ενδιάμεσες εκλογές, η παγκόσμια κρίση.",
+        "id": "greek_tv:ant1:4c6ac268:iwcxp0r67oksg7emybdpbit4",
+        "title": "Ο Άλκμαν Γρανίτσας, εκπρ. Δημοκρατικών και ο Τζόναθαν Κωνσταντίνου, εκπρ. Ρεπουμπλικανών στο Καλημέρα Ελλάδα - 04/11/226 ΗΠΑ: Εκλογικά κέρδη των Δημοκρατικών - Υψηλή συμμετοχή και ανοιχτή μάχη για το Κογκρέσο.",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:b38c1i2xvkjz6wjb6t8j9yrg",
-        "title": "Οι κρίσιμες ενδιάμεσες εκλογές στις ΗΠΑ - Καλημέρα Ελλάδα - 03/11/2026 Ο ANT1 στα στρατηγεία των αποφάσεων.",
+        "id": "greek_tv:ant1:4c6ac268:dn4api3vm6jpjj2taf9em0bw",
+        "title": "Έξι Έλληνες ομογενείς έχουν εκλεγεί στις ενδιάμεσες αμερικανικές εκλογές - Καλημέρα Ελλάδα - 04/11/2026 Έξι Έλληνες ομογενείς έχουν εκλεγεί μέχρι στιγμής στις ενδιάμεσες αμερικανικές εκλογές.",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:dtk8x8ddy18wuubvzm9s2zum",
-        "title": "Η Agneta σαρώνει τη χώρα με δεύτερο 24ωρο σφοδρής κακοκαιρίας - Καλημέρα Ελλάδα - 03/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:lbl4itv4cd3n1e91la8a09z9",
+        "title": "Οι Δ. Καιρίδης, Δ. Απόκης και Κ. Υφαντής μιλούν στο Καλημέρα Ελλάδα - 04/11/2026 \"Βαρύ\" το μήνυμα των ψηφοφόρων για τον Τραμπ",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:o6pc9g583vguhmw35r85l605",
-        "title": "Τι προβλέπει το στρατιωτικό Τουρκολιβυκό μνημόνιο - Καλημέρα Ελλάδα - 03/11/2026 Ο Γκας Μπιλιράκης μιλά για όλα στο Καλημέρα Ελλάδα.",
+        "id": "greek_tv:ant1:4c6ac268:gtxhqhccz44toryylcvpx06d",
+        "title": "Τι σημαίνει για την Ελλάδα το αποτέλεσμα των ενδιάμεσων εκλογών στις ΗΠΑ - Καλημέρα Ελλάδα - 04/11/2026",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:rnwjr9ozmnms88mh79sp72zv",
-        "title": "Εκλογές ΗΠΑ: Η τελευταία ομιλία Τραμπ και οι δημοσκοπήσεις - Καλημέρα Ελλάδα - 03/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:ynikmbppkj678ty1vdyd62w6",
+        "title": "ΗΠΑ: Δημοκρατική αντεπίθεση στις ενδιάμεσες εκλογές - Καλημέρα Ελλάδα - 04/11/2026 Η ακρίβεια και το Ιράν δοκιμάζουν τον Τραμπ.",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:jj9rsx61c540vt6grgdlztpp",
-        "title": "Άνδρας πυροβολύσε έξω από μαγαζί στον Κορυδαλλό - Καλημέρα Ελλάδα - 03/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:t2tdmg1elvj04lq8pianfqot",
+        "title": "Ενδιάμεσες εκλογές ΗΠΑ: Ανατροπές υπέρ των Δημοκρατικών - Καλημέρα Ελλάδα - 04/11/2026 Ενδιάμεσες εκλογές ΗΠΑ: Ανατροπές υπέρ των Δημοκρατικών και ισχυρό μήνυμα δυσαρέσκειας προς τον...",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:a3a6oba5j55drbfhovfdorg4",
-        "title": "Ο υπουργός Δικαιοσύνης, Γιώργος Φλωρίδης, στο Καλημέρα Ελλάδα - 03/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:umn9fgf9bykmq7p8ey5i2t7u",
+        "title": "Ο Υπουργός Εξωτερικών, Γιώργος Γεραπετρίτης, στο Καλημέρα Ελλάδα - 04/11/2026",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"

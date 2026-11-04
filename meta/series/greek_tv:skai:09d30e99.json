@@ -102,6 +102,13 @@
         "title": "Αντώνιος & Κλεοπάτρα | Επεισόδιο 31 03/11/2026",
         "season": 1,
         "episode": 31,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/antonios__kleopatra/2026_2027/antonios_31.jpg"
+      },
+      {
+        "id": "greek_tv:skai:09d30e99:2026-11-04-18",
+        "title": "Αντώνιος & Κλεοπάτρα | Επεισόδιο 32 04/11/2026",
+        "season": 1,
+        "episode": 32,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/antonios__kleopatra/2026_2027/antonios_kleopatra_landscape.jpg"
       }
     ]

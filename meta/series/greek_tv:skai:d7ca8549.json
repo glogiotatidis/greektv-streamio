@@ -7,27 +7,6 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:d7ca8549:2026-10-16-15",
-        "title": "Studio στις 3 16/10/2026",
-        "season": 1,
-        "episode": 3,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_35.jpg"
-      },
-      {
-        "id": "greek_tv:skai:d7ca8549:2026-10-15-15",
-        "title": "Studio στις 3 15/10/2026",
-        "season": 1,
-        "episode": 4,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_34.jpg"
-      },
-      {
-        "id": "greek_tv:skai:d7ca8549:2026-10-19-15",
-        "title": "Επεισόδιο 36",
-        "season": 1,
-        "episode": 36,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_36.jpg"
-      },
-      {
         "id": "greek_tv:skai:d7ca8549:2026-10-20-15",
         "title": "Επεισόδιο 37",
         "season": 1,
@@ -102,6 +81,13 @@
         "title": "Επεισόδιο 47",
         "season": 1,
         "episode": 47,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_47.jpg"
+      },
+      {
+        "id": "greek_tv:skai:d7ca8549:2026-11-04-15",
+        "title": "Επεισόδιο 48",
+        "season": 1,
+        "episode": 48,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg"
       }
     ]

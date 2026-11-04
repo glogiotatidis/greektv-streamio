@@ -68,13 +68,6 @@
         "season": 1,
         "episode": 9,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/lingo/final/lingo-1920x1080-final-with_logo.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:d347ead7:3102026-lingo-premiera",
-        "title": "3102026 Lingo Premiera",
-        "season": 1,
-        "episode": 10,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/lingo/final/lingo-1920x1080-final-with_logo.jpg"
       }
     ]
   }

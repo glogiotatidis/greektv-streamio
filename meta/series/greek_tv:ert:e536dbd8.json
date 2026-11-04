@@ -7,46 +7,46 @@
     "background": "https://files2.app.ertflix.gr/2026/news24/mera-me-xroma/2026-2027-gfx/meramexrwma-hbbtv-bg.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:e536dbd8:mera-me-khroma-841",
+        "title": "Τετάρτη 04 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261104-mera.jpg"
+      },
+      {
         "id": "greek_tv:ert:e536dbd8:mera-me-khroma-840",
         "title": "Τρίτη 03 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/mera-me-xroma/20261103-mera.jpg"
       },
       {
         "id": "greek_tv:ert:e536dbd8:mera-me-khroma-839",
         "title": "Δευτέρα 02 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/mera-me-xroma/20261102-mera.jpg"
       },
       {
         "id": "greek_tv:ert:e536dbd8:mera-me-khroma-838",
         "title": "Παρασκευή 30 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 3,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/mera-me-xroma/20261030-mera.jpg"
       },
       {
         "id": "greek_tv:ert:e536dbd8:mera-me-khroma-837",
         "title": "Πέμπτη 29 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 4,
+        "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/mera-me-xroma/20261029-mera.jpg"
       },
       {
         "id": "greek_tv:ert:e536dbd8:mera-me-khroma-836",
         "title": "Τετάρτη 28 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 5,
-        "thumbnail": "https://files2.app.ertflix.gr/2026/images/greece-1080-hd-2026-10-28-11h38m18s235.jpg"
-      },
-      {
-        "id": "greek_tv:ert:e536dbd8:mera-me-khroma-835",
-        "title": "Τρίτη 27 Οκτωβρίου 2026",
-        "season": 1,
         "episode": 6,
-        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/mera-me-xroma/20261027-mera.jpg"
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/greece-1080-hd-2026-10-28-11h38m18s235.jpg"
       }
     ]
   }

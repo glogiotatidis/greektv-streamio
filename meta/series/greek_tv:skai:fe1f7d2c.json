@@ -7,13 +7,6 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/ellinikes_seires/ble_ores/ble_wres_landscape1.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:fe1f7d2c:2026-10-15-21",
-        "title": "Επεισόδιο 30",
-        "season": 1,
-        "episode": 30,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/ble_ores/ble_30.jpg"
-      },
-      {
         "id": "greek_tv:skai:fe1f7d2c:2026-10-16-21",
         "title": "Επεισόδιο 31",
         "season": 1,
@@ -89,6 +82,13 @@
         "season": 1,
         "episode": 41,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/ble_ores/ble_41.jpg"
+      },
+      {
+        "id": "greek_tv:skai:fe1f7d2c:2026-11-03-21",
+        "title": "Επεισόδιο 42",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/ble_ores/ble_42.jpg"
       }
     ]
   }

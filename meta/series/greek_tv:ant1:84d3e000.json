@@ -14,13 +14,6 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       },
       {
-        "id": "greek_tv:ant1:84d3e000:if3j6xqgyu1f9aztmteabo4c",
-        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 202 – 3η ΣΕΖΟΝ",
-        "season": 3,
-        "episode": 202,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
-      },
-      {
         "id": "greek_tv:ant1:84d3e000:uy0nak120jjcrmr729pxs39h",
         "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 203 – 3η ΣΕΖΟΝ",
         "season": 3,
@@ -39,6 +32,13 @@
         "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 205 – 3η ΣΕΖΟΝ",
         "season": 3,
         "episode": 205,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:84d3e000:e7fxej95h9acj3ash14bj5bc",
+        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 206 – 3η ΣΕΖΟΝ",
+        "season": 3,
+        "episode": 206,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       }
     ]

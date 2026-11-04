@@ -7,31 +7,38 @@
     "background": "https://files2.app.ertflix.gr/files/sports/soccer-sallas-2026-27/futsalsuperleague26-27-hbbtv-bg.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:b6a3ed60:podosphairo-salas-a-ethnike-2026-6",
+        "title": "Α.Σ.Ε. Δούκα - Α.Ε.Λ. | 6η Αγωνιστική | 03.11.26",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-salas/20261103-doukas-ael-hls.jpg"
+      },
+      {
         "id": "greek_tv:ert:b6a3ed60:podosphairo-salas-a-ethnike-2026-5",
         "title": "Α.Ο. Αθλητικού Οργανισμού Δήμου Κορυδαλλού - Πύργος Futsal | 5η Αγωνιστική | 27.10.26",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-salas/20261027-podosfairo-sallas-koridallos-pyrgos.jpg"
       },
       {
         "id": "greek_tv:ert:b6a3ed60:podosphairo-salas-a-ethnike-2026-4",
         "title": "Παναθηναϊκός Α.Ο. - ΠΑΟΚ PayspotLabraki | 4η Αγωνιστική | 20.10.26",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-salas/20261020-panathinaikos-paok-hls.jpg"
       },
       {
         "id": "greek_tv:ert:b6a3ed60:podosphairo-salas-a-ethnike-2026-3",
         "title": "Α.Σ.Ε. Δούκα - Παναθηναϊκός Α.Ο. | 3η Αγωνιστική | 06.10.26",
         "season": 1,
-        "episode": 3,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/futsal-sl-2025-2026/20261006-doukas-pao-hls.jpg"
       },
       {
         "id": "greek_tv:ert:b6a3ed60:podosphairo-salas-a-ethnike-2026-1",
         "title": "Α.Ο. Αθλητικού Οργανισμού Δήμου Κορυδαλλού - Ερμής Ζωγράφου | 1η Αγωνιστική | 22.09.26",
         "season": 1,
-        "episode": 4,
+        "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-salas/20260923-podosfairo-salas-koridallos-zografou.jpg"
       }
     ]

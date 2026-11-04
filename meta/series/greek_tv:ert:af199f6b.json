@@ -250,6 +250,41 @@
         "season": 1,
         "episode": 35,
         "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mousika-toposima/mousika-toposima-ep35-mnhmeio-pontion-pefkon-evrou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:af199f6b:mousika-toposema-36",
+        "title": "Γαλλικός Σταθμός Αλεξανδρούπολη",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mousika-toposima/mousika-toposima-ep36-gallikos-stathmos-alexandroupolh-4mbpsmp4-2026-11-04-10h30m19s331.jpg"
+      },
+      {
+        "id": "greek_tv:ert:af199f6b:mousika-toposema-37",
+        "title": "Κιβωτός Γρεβενών",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mousika-toposima/mousika-toposima-ep37-kivotos-grevenon-4mbpsmp4-2026-11-04-10h31m12s098.jpg"
+      },
+      {
+        "id": "greek_tv:ert:af199f6b:mousika-toposema-38",
+        "title": "Ποταμός Βενέτικος",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mousika-toposima/mousika-toposima-ep38-venetikos-4mbpsmp4-2026-11-04-10h31m28s812.jpg"
+      },
+      {
+        "id": "greek_tv:ert:af199f6b:mousika-toposema-39",
+        "title": "Εθνολογικό Μουσείο Θράκης",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mousika-toposima/mousika-toposima-ep39-ethnologiko-mouseio-thrakis-4mbpsmp4-2026-11-04-10h33m14s072.jpg"
+      },
+      {
+        "id": "greek_tv:ert:af199f6b:mousika-toposema-40",
+        "title": "Βιωματικό Μουσείο Προσφύγων Νεοκαισάρειας",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mousika-toposima/mousika-toposima-ep40-biomatiko-mouseio-prosfygon-neokaisareias-4mbpsmp4-2026-11-04-10h33m37s712.jpg"
       }
     ]
   }

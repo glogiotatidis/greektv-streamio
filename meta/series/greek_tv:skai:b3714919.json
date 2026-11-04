@@ -7,13 +7,6 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:b3714919:2026-10-16-18",
-        "title": "Επεισόδιο 20",
-        "season": 1,
-        "episode": 20,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg"
-      },
-      {
         "id": "greek_tv:skai:b3714919:2026-10-19-18",
         "title": "Επεισόδιο 21",
         "season": 1,
@@ -88,6 +81,13 @@
         "title": "Επεισόδιο 31",
         "season": 1,
         "episode": 31,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-11-04-18",
+        "title": "Επεισόδιο 32",
+        "season": 1,
+        "episode": 32,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg"
       }
     ]

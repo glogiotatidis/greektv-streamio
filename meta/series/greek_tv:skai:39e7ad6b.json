@@ -75,6 +75,13 @@
         "season": 1,
         "episode": 10,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2024_2025/diki_land.jpg"
+      },
+      {
+        "id": "greek_tv:skai:39e7ad6b:2026-11-03-01",
+        "title": "Επεισόδιο 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2024_2025/diki_land.jpg"
       }
     ]
   }

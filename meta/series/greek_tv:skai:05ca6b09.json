@@ -19,6 +19,13 @@
         "season": 1,
         "episode": 53,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/simera_landscape_1.jpg"
+      },
+      {
+        "id": "greek_tv:skai:05ca6b09:2026-11-04-06",
+        "title": "Επεισόδιο 54",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/simera_landscape_1.jpg"
       }
     ]
   }

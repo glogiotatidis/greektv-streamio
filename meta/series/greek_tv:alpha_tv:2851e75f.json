@@ -131,6 +131,20 @@
         "season": 1,
         "episode": 18,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-i-kores-tis-aretis-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:2851e75f:777646-s1-epeisodio-19",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-i-kores-tis-aretis-cover-horizontal.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:2851e75f:777649-s1-epeisodio-20",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-i-kores-tis-aretis-cover-horizontal.jpg"
       }
     ]
   }

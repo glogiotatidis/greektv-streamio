@@ -61,12 +61,6 @@
       "poster": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/elite-league-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:61453531",
-      "type": "series",
-      "name": "Πολιτική Κουζίνα",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/politiki-kouzina/politiki-kouzina-2026-27-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:890d264d",
       "type": "series",
       "name": "Χάντμπολ Α1 Γυναικών 2026-27",
@@ -193,16 +187,16 @@
       "poster": "https://files2.app.ertflix.gr/2026/shows/synora-26-27/sta-synora-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:34597924",
+      "id": "greek_tv:ert:b4d43cbd",
       "type": "series",
-      "name": "Τοκ - Τοκ",
-      "poster": "https://files2.app.ertflix.gr/files/paidika/tok-tok/tok-tok-ertflix-img.jpg"
+      "name": "Forcé",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/force-2026-27-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:b78206b9",
+      "id": "greek_tv:ert:b6a3ed60",
       "type": "series",
-      "name": "Ένας κι Ένας",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/enas-ki-enas/2026-2027/2026-2027-enas-ki-enas-ertflix-img.jpg"
+      "name": "Ποδόσφαιρο Σάλας | Α' Εθνική 2026-27",
+      "poster": "https://files2.app.ertflix.gr/files/sports/soccer-sallas-2026-27/futsalsuperleague26-27-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:c745e384",
@@ -229,22 +223,22 @@
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/sto-kentro-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:b4d43cbd",
-      "type": "series",
-      "name": "Forcé",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/force-2026-27-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:b6a3ed60",
-      "type": "series",
-      "name": "Ποδόσφαιρο Σάλας | Α' Εθνική 2026-27",
-      "poster": "https://files2.app.ertflix.gr/files/sports/soccer-sallas-2026-27/futsalsuperleague26-27-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:a37db29d",
       "type": "series",
       "name": "Ευθέως",
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/eythews-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:b78206b9",
+      "type": "series",
+      "name": "Ένας κι Ένας",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/enas-ki-enas/2026-2027/2026-2027-enas-ki-enas-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:34597924",
+      "type": "series",
+      "name": "Τοκ - Τοκ",
+      "poster": "https://files2.app.ertflix.gr/files/paidika/tok-tok/tok-tok-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:55d2768c",
@@ -529,10 +523,10 @@
       "poster": "https://files2.app.ertflix.gr/2024/series/start/start-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:1aa6c7a0",
+      "id": "greek_tv:ert:5e2e9592",
       "type": "series",
-      "name": "Αληθινή Ζωή",
-      "poster": "https://files2.app.ertflix.gr/2024/series/true-life/alhthinh-zoh-ertflix-img.jpg"
+      "name": "Δίγαμμα",
+      "poster": "https://files2.app.ertflix.gr/2025/series/digamma/digamma-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:2f2a2416",
@@ -583,10 +577,10 @@
       "poster": "https://files2.app.ertflix.gr/2024/series/wild-greece-new/agria-ellada-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:5e2e9592",
+      "id": "greek_tv:ert:1aa6c7a0",
       "type": "series",
-      "name": "Δίγαμμα",
-      "poster": "https://files2.app.ertflix.gr/2025/series/digamma/digamma-ertflix-img.jpg"
+      "name": "Αληθινή Ζωή",
+      "poster": "https://files2.app.ertflix.gr/2024/series/true-life/alhthinh-zoh-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:12c8536c",

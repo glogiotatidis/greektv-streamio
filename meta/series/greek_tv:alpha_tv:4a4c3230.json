@@ -7,6 +7,818 @@
     "background": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg",
     "videos": [
       {
+        "id": "greek_tv:alpha_tv:4a4c3230:290048-s1-epeisodio-1",
+        "title": "Σ1 – Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:290045-s1-epeisodio-2",
+        "title": "Σ1 – Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:286128-s1-epeisodio-3",
+        "title": "Σ1 – Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:286112-s1-epeisodio-4",
+        "title": "Σ1 – Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:286097-s1-epeisodio-5",
+        "title": "Σ1 – Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:286082-s1-epeisodio-6",
+        "title": "Σ1 – Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:286061-s1-epeisodio-7",
+        "title": "Σ1 – Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:286046-s1-epeisodio-8",
+        "title": "Σ1 – Επεισόδιο 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:286031-s1-epeisodio-9",
+        "title": "Σ1 – Επεισόδιο 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:286016-s1-epeisodio-10",
+        "title": "Σ1 – Επεισόδιο 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285999-s1-epeisodio-11",
+        "title": "Σ1 – Επεισόδιο 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285985-s1-epeisodio-12",
+        "title": "Σ1 – Επεισόδιο 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285970-s1-epeisodio-13",
+        "title": "Σ1 – Επεισόδιο 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285955-s1-epeisodio-14",
+        "title": "Σ1 – Επεισόδιο 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285934-s1-epeisodio-15",
+        "title": "Σ1 – Επεισόδιο 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285919-s1-epeisodio-16",
+        "title": "Σ1 – Επεισόδιο 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285898-s1-epeisodio-17",
+        "title": "Σ1 – Επεισόδιο 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285883-s1-epeisodio-18",
+        "title": "Σ1 – Επεισόδιο 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285865-s1-epeisodio-19",
+        "title": "Σ1 – Επεισόδιο 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285855-s1-epeisodio-20",
+        "title": "Σ1 – Επεισόδιο 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285834-s1-epeisodio-21",
+        "title": "Σ1 – Επεισόδιο 21",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285816-s1-epeisodio-22",
+        "title": "Σ1 – Επεισόδιο 22",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285798-s1-epeisodio-23",
+        "title": "Σ1 – Επεισόδιο 23",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285780-s1-epeisodio-24",
+        "title": "Σ1 – Επεισόδιο 24",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:285763-s1-epeisodio-25",
+        "title": "Σ1 – Επεισόδιο 25",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:290035-s1-epeisodio-26",
+        "title": "Σ1 – Επεισόδιο 26",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:290026-s1-epeisodio-27",
+        "title": "Σ1 – Επεισόδιο 27",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:290014-s1-epeisodio-28",
+        "title": "Σ1 – Επεισόδιο 28",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:290005-s1-epeisodio-29",
+        "title": "Σ1 – Επεισόδιο 29",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289996-s1-epeisodio-30",
+        "title": "Σ1 – Επεισόδιο 30",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289984-s1-epeisodio-31",
+        "title": "Σ1 – Επεισόδιο 31",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289975-s1-epeisodio-32",
+        "title": "Σ1 – Επεισόδιο 32",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289966-s1-epeisodio-33",
+        "title": "Σ1 – Επεισόδιο 33",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289957-s1-epeisodio-34",
+        "title": "Σ1 – Επεισόδιο 34",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289948-s1-epeisodio-35",
+        "title": "Σ1 – Επεισόδιο 35",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289939-s1-epeisodio-36",
+        "title": "Σ1 – Επεισόδιο 36",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289930-s1-epeisodio-37",
+        "title": "Σ1 – Επεισόδιο 37",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289918-s1-epeisodio-38",
+        "title": "Σ1 – Επεισόδιο 38",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289909-s1-epeisodio-39",
+        "title": "Σ1 – Επεισόδιο 39",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289896-s1-epeisodio-40",
+        "title": "Σ1 – Επεισόδιο 40",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289884-s1-epeisodio-41",
+        "title": "Σ1 – Επεισόδιο 41",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289874-s1-epeisodio-42",
+        "title": "Σ1 – Επεισόδιο 42",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289865-s1-epeisodio-43",
+        "title": "Σ1 – Επεισόδιο 43",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289853-s1-epeisodio-44",
+        "title": "Σ1 – Επεισόδιο 44",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289844-s1-epeisodio-45",
+        "title": "Σ1 – Επεισόδιο 45",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289835-s1-epeisodio-46",
+        "title": "Σ1 – Επεισόδιο 46",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289829-s1-epeisodio-47",
+        "title": "Σ1 – Επεισόδιο 47",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289820-s1-epeisodio-48",
+        "title": "Σ1 – Επεισόδιο 48",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289811-s1-epeisodio-49",
+        "title": "Σ1 – Επεισόδιο 49",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289802-s1-epeisodio-50",
+        "title": "Σ1 – Επεισόδιο 50",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289793-s1-epeisodio-51",
+        "title": "Σ1 – Επεισόδιο 51",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289784-s1-epeisodio-52",
+        "title": "Σ1 – Επεισόδιο 52",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289775-s1-epeisodio-53",
+        "title": "Σ1 – Επεισόδιο 53",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289766-s1-epeisodio-54",
+        "title": "Σ1 – Επεισόδιο 54",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289757-s1-epeisodio-55",
+        "title": "Σ1 – Επεισόδιο 55",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289748-s1-epeisodio-56",
+        "title": "Σ1 – Επεισόδιο 56",
+        "season": 1,
+        "episode": 56,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289736-s1-epeisodio-57",
+        "title": "Σ1 – Επεισόδιο 57",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289724-s1-epeisodio-58",
+        "title": "Σ1 – Επεισόδιο 58",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289714-s1-epeisodio-59",
+        "title": "Σ1 – Επεισόδιο 59",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289703-s1-epeisodio-60",
+        "title": "Σ1 – Επεισόδιο 60",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289646-s1-epeisodio-61",
+        "title": "Σ1 – Επεισόδιο 61",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289631-s1-epeisodio-62",
+        "title": "Σ1 – Επεισόδιο 62",
+        "season": 1,
+        "episode": 62,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289615-s1-epeisodio-63",
+        "title": "Σ1 – Επεισόδιο 63",
+        "season": 1,
+        "episode": 63,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289597-s1-epeisodio-64",
+        "title": "Σ1 – Επεισόδιο 64",
+        "season": 1,
+        "episode": 64,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289573-s1-epeisodio-65",
+        "title": "Σ1 – Επεισόδιο 65",
+        "season": 1,
+        "episode": 65,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289561-s1-epeisodio-66",
+        "title": "Σ1 – Επεισόδιο 66",
+        "season": 1,
+        "episode": 66,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289543-s1-epeisodio-67",
+        "title": "Σ1 – Επεισόδιο 67",
+        "season": 1,
+        "episode": 67,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289526-s1-epeisodio-68",
+        "title": "Σ1 – Επεισόδιο 68",
+        "season": 1,
+        "episode": 68,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289508-s1-epeisodio-69",
+        "title": "Σ1 – Επεισόδιο 69",
+        "season": 1,
+        "episode": 69,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289491-s1-epeisodio-70",
+        "title": "Σ1 – Επεισόδιο 70",
+        "season": 1,
+        "episode": 70,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289466-s1-epeisodio-71",
+        "title": "Σ1 – Επεισόδιο 71",
+        "season": 1,
+        "episode": 71,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289449-s1-epeisodio-72",
+        "title": "Σ1 – Επεισόδιο 72",
+        "season": 1,
+        "episode": 72,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289433-s1-epeisodio-73",
+        "title": "Σ1 – Επεισόδιο 73",
+        "season": 1,
+        "episode": 73,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289413-s1-epeisodio-74",
+        "title": "Σ1 – Επεισόδιο 74",
+        "season": 1,
+        "episode": 74,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289398-s1-epeisodio-75",
+        "title": "Σ1 – Επεισόδιο 75",
+        "season": 1,
+        "episode": 75,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289383-s1-epeisodio-76",
+        "title": "Σ1 – Επεισόδιο 76",
+        "season": 1,
+        "episode": 76,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289368-s1-epeisodio-77",
+        "title": "Σ1 – Επεισόδιο 77",
+        "season": 1,
+        "episode": 77,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289358-s1-epeisodio-78",
+        "title": "Σ1 – Επεισόδιο 78",
+        "season": 1,
+        "episode": 78,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289343-s1-epeisodio-79",
+        "title": "Σ1 – Επεισόδιο 79",
+        "season": 1,
+        "episode": 79,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289328-s1-epeisodio-80",
+        "title": "Σ1 – Επεισόδιο 80",
+        "season": 1,
+        "episode": 80,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289313-s1-epeisodio-81",
+        "title": "Σ1 – Επεισόδιο 81",
+        "season": 1,
+        "episode": 81,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289299-s1-epeisodio-82",
+        "title": "Σ1 – Επεισόδιο 82",
+        "season": 1,
+        "episode": 82,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289290-s1-epeisodio-83",
+        "title": "Σ1 – Επεισόδιο 83",
+        "season": 1,
+        "episode": 83,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289274-s1-epeisodio-84",
+        "title": "Σ1 – Επεισόδιο 84",
+        "season": 1,
+        "episode": 84,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289262-s1-epeisodio-85",
+        "title": "Σ1 – Επεισόδιο 85",
+        "season": 1,
+        "episode": 85,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289250-s1-epeisodio-86",
+        "title": "Σ1 – Επεισόδιο 86",
+        "season": 1,
+        "episode": 86,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289234-s1-epeisodio-87",
+        "title": "Σ1 – Επεισόδιο 87",
+        "season": 1,
+        "episode": 87,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289222-s1-epeisodio-88",
+        "title": "Σ1 – Επεισόδιο 88",
+        "season": 1,
+        "episode": 88,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289210-s1-epeisodio-89",
+        "title": "Σ1- Επεισόδιο 89",
+        "season": 1,
+        "episode": 89,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289197-s1-epeisodio-90",
+        "title": "Σ1 – Επεισόδιο 90",
+        "season": 1,
+        "episode": 90,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289185-s1-epeisodio-91",
+        "title": "Σ1 – Επεισόδιο 91",
+        "season": 1,
+        "episode": 91,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289175-s1-epeisodio-92",
+        "title": "Σ1 – Επεισόδιο 92",
+        "season": 1,
+        "episode": 92,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289161-s1-epeisodio-93",
+        "title": "Σ1 – Επεισόδιο 93",
+        "season": 1,
+        "episode": 93,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289152-s1-epeisodio-94",
+        "title": "Σ1 – Επεισόδιο 94",
+        "season": 1,
+        "episode": 94,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289143-s1-epeisodio-95",
+        "title": "Σ1 – Επεισόδιο 95",
+        "season": 1,
+        "episode": 95,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289131-s1-epeisodio-96",
+        "title": "Σ1 – Επεισόδιο 96",
+        "season": 1,
+        "episode": 96,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289122-s1-epeisodio-97",
+        "title": "Σ1 – Επεισόδιο 97",
+        "season": 1,
+        "episode": 97,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289113-s1-epeisodio-98",
+        "title": "Σ1 – Επεισόδιο 98",
+        "season": 1,
+        "episode": 98,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289104-s1-epeisodio-99",
+        "title": "Σ1- Επεισόδιο 99",
+        "season": 1,
+        "episode": 99,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289093-s1-epeisodio-100",
+        "title": "Σ1- Επεισόδιο 100",
+        "season": 1,
+        "episode": 100,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289086-s1-epeisodio-101",
+        "title": "Σ1 – Επεισόδιο 101",
+        "season": 1,
+        "episode": 101,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289079-s1-epeisodio-102",
+        "title": "Σ1- Επεισόδιο 102",
+        "season": 1,
+        "episode": 102,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289073-s1-epeisodio-103",
+        "title": "Σ1 – Επεισόδιο 103",
+        "season": 1,
+        "episode": 103,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289067-s1-epeisodio-104",
+        "title": "Σ1 – Επεισόδιο 104",
+        "season": 1,
+        "episode": 104,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289061-s1-epeisodio-105",
+        "title": "Σ1 – Επεισόδιο 105",
+        "season": 1,
+        "episode": 105,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289055-s1-epeisodio-106",
+        "title": "Σ1 – Επεισόδιο 106",
+        "season": 1,
+        "episode": 106,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289049-s1-epeisodio-107",
+        "title": "Σ1 – Επεισόδιο 107",
+        "season": 1,
+        "episode": 107,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289043-s1-epeisodio-108",
+        "title": "Σ1 – Επεισόδιο 108",
+        "season": 1,
+        "episode": 108,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289037-s1-epeisodio-109",
+        "title": "Σ1 – Επεισόδιο 109",
+        "season": 1,
+        "episode": 109,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:289031-s1-epeisodio-110",
+        "title": "Σ1 – Επεισόδιο 110",
+        "season": 1,
+        "episode": 110,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:291385-s1-epeisodio-111",
+        "title": "Σ1 – Επεισόδιο 111",
+        "season": 1,
+        "episode": 111,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:291364-s1-epeisodio-112",
+        "title": "Σ1 – Επεισόδιο 112",
+        "season": 1,
+        "episode": 112,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:291343-s1-epeisodio-113",
+        "title": "Σ1 – Επεισόδιο 113",
+        "season": 1,
+        "episode": 113,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:291323-s1-epeisodio-114",
+        "title": "Σ1 – Επεισόδιο 114",
+        "season": 1,
+        "episode": 114,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:291295-s1-epeisodio-115",
+        "title": "Σ1 – Επεισόδιο 115",
+        "season": 1,
+        "episode": 115,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:4a4c3230:291274-s1-epeisodio-116",
+        "title": "Σ1 – Επεισόδιο 116",
+        "season": 1,
+        "episode": 116,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
+      },
+      {
         "id": "greek_tv:alpha_tv:4a4c3230:291253-s1-epeisodio-117",
         "title": "Σ1 – Επεισόδιο 117",
         "season": 1,
@@ -511,1053 +1323,38 @@
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
       },
       {
-        "id": "greek_tv:alpha_tv:4a4c3230:288485-s2-epeisodio-1",
-        "title": "Σ2 – Επεισόδιο 1",
-        "season": 2,
-        "episode": 1,
+        "id": "greek_tv:alpha_tv:4a4c3230:289656-ela-sti-thesi-mou-i-tiletainia-5",
+        "title": "Έλα στη Θέση μου: Η τηλεταινία 5",
+        "season": 1,
+        "episode": 189,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
       },
       {
-        "id": "greek_tv:alpha_tv:4a4c3230:288475-s2-epeisodio-2",
-        "title": "Σ2 – Επεισόδιο 2",
-        "season": 2,
-        "episode": 2,
+        "id": "greek_tv:alpha_tv:4a4c3230:289666-ela-sti-thesi-mou-i-tiletainia-4",
+        "title": "Έλα στη Θέση μου: Η τηλεταινία 4",
+        "season": 1,
+        "episode": 190,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
       },
       {
-        "id": "greek_tv:alpha_tv:4a4c3230:288466-s2-epeisodio-3",
-        "title": "Σ2 – Επεισόδιο 3",
-        "season": 2,
-        "episode": 3,
+        "id": "greek_tv:alpha_tv:4a4c3230:289674-ela-sti-thesi-mou-i-tiletainia-3",
+        "title": "Έλα στη Θέση μου: Η τηλεταινία 3",
+        "season": 1,
+        "episode": 191,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
       },
       {
-        "id": "greek_tv:alpha_tv:4a4c3230:288456-s2-epeisodio-4",
-        "title": "Σ2 – Επεισόδιο 4",
-        "season": 2,
-        "episode": 4,
+        "id": "greek_tv:alpha_tv:4a4c3230:289682-ela-sti-thesi-mou-i-tiletainia-2",
+        "title": "Έλα στη Θέση μου: Η τηλεταινία 2",
+        "season": 1,
+        "episode": 192,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
       },
       {
-        "id": "greek_tv:alpha_tv:4a4c3230:288447-s2-epeisodio-5",
-        "title": "Σ2 – Επεισόδιο 5",
-        "season": 2,
-        "episode": 5,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288434-s2-epeisodio-6",
-        "title": "Σ2 – Επεισόδιο 6",
-        "season": 2,
-        "episode": 6,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288426-s2-epeisodio-7",
-        "title": "Σ2 – Επεισόδιο 7",
-        "season": 2,
-        "episode": 7,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288418-s2-epeisodio-8",
-        "title": "Σ2 – Επεισόδιο 8",
-        "season": 2,
-        "episode": 8,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288402-s2-epeisodio-9",
-        "title": "Σ2 – Επεισόδιο 9",
-        "season": 2,
-        "episode": 9,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288389-s2-epeisodio-10",
-        "title": "Σ2 – Επεισόδιο 10",
-        "season": 2,
-        "episode": 10,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288372-s2-epeisodio-11",
-        "title": "Σ2 – Επεισόδιο 11",
-        "season": 2,
-        "episode": 11,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288363-s2-epeisodio-12",
-        "title": "Σ2 – Επεισόδιο 12",
-        "season": 2,
-        "episode": 12,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288351-s2-epeisodio-13",
-        "title": "Σ2 – Επεισόδιο 13",
-        "season": 2,
-        "episode": 13,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288339-s2-epeisodio-14",
-        "title": "Σ2 – Επεισόδιο 14",
-        "season": 2,
-        "episode": 14,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288326-s2-epeisodio-15",
-        "title": "Σ2 – Επεισόδιο 15",
-        "season": 2,
-        "episode": 15,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288314-s2-epeisodio-16",
-        "title": "Σ2 – Επεισόδιο 16",
-        "season": 2,
-        "episode": 16,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288301-s2-epeisodio-17",
-        "title": "Σ2 – Επεισόδιο 17",
-        "season": 2,
-        "episode": 17,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288284-s2-epeisodio-18",
-        "title": "Σ2 – Επεισόδιο 18",
-        "season": 2,
-        "episode": 18,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288272-s2-epeisodio-19",
-        "title": "Σ2 – Επεισόδιο 19",
-        "season": 2,
-        "episode": 19,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288260-s2-epeisodio-20",
-        "title": "Σ2 – Επεισόδιο 20",
-        "season": 2,
-        "episode": 20,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288246-s2-epeisodio-21",
-        "title": "Σ2 – Επεισόδιο 21",
-        "season": 2,
-        "episode": 21,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288234-s2-epeisodio-22",
-        "title": "Σ2 – Επεισόδιο 22",
-        "season": 2,
-        "episode": 22,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288222-s2-epeisodio-23",
-        "title": "Σ2 – Επεισόδιο 23",
-        "season": 2,
-        "episode": 23,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288209-s2-epeisodio-24",
-        "title": "Σ2 – Επεισόδιο 24",
-        "season": 2,
-        "episode": 24,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288193-s2-epeisodio-25",
-        "title": "Σ2 – Επεισόδιο 25",
-        "season": 2,
-        "episode": 25,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288180-s2-epeisodio-26",
-        "title": "Σ2 – Επεισόδιο 26",
-        "season": 2,
-        "episode": 26,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288167-s2-epeisodio-27",
-        "title": "Σ2 – Επεισόδιο 27",
-        "season": 2,
-        "episode": 27,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288150-s2-epeisodio-28",
-        "title": "Σ2 – Επεισόδιο 28",
-        "season": 2,
-        "episode": 28,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288137-s2-epeisodio-29",
-        "title": "Σ2 – Επεισόδιο 29",
-        "season": 2,
-        "episode": 29,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288125-s2-epeisodio-30",
-        "title": "Σ2 – Επεισόδιο 30",
-        "season": 2,
-        "episode": 30,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288108-s2-epeisodio-31",
-        "title": "Σ2 – Επεισόδιο 31",
-        "season": 2,
-        "episode": 31,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288096-s2-epeisodio-32",
-        "title": "Σ2 – Επεισόδιο 32",
-        "season": 2,
-        "episode": 32,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288083-s2-epeisodio-33",
-        "title": "Σ2 – Επεισόδιο 33",
-        "season": 2,
-        "episode": 33,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288071-s2-epeisodio-34",
-        "title": "Σ2 – Επεισόδιο 34",
-        "season": 2,
-        "episode": 34,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288055-s2-epeisodio-35",
-        "title": "Σ2 – Επεισόδιο 35",
-        "season": 2,
-        "episode": 35,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288042-s2-epeisodio-36",
-        "title": "Σ2 – Επεισόδιο 36",
-        "season": 2,
-        "episode": 36,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288024-s2-epeisodio-37",
-        "title": "Σ2 – Επεισόδιο 37",
-        "season": 2,
-        "episode": 37,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:288011-s2-epeisodio-38",
-        "title": "Σ2 – Επεισόδιο 38",
-        "season": 2,
-        "episode": 38,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287994-s2-epeisodio-39",
-        "title": "Σ2 – Επεισόδιο 39",
-        "season": 2,
-        "episode": 39,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287982-s2-epeisodio-40",
-        "title": "Σ2 – Επεισόδιο 40",
-        "season": 2,
-        "episode": 40,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287970-s2-epeisodio-41",
-        "title": "Σ2 – Επεισόδιο 41",
-        "season": 2,
-        "episode": 41,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287953-s2-epeisodio-42",
-        "title": "Σ2 – Επεισόδιο 42",
-        "season": 2,
-        "episode": 42,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287939-s2-epeisodio-43",
-        "title": "Σ2 – Επεισόδιο 43",
-        "season": 2,
-        "episode": 43,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287926-s2-epeisodio-44",
-        "title": "Σ2 – Επεισόδιο 44",
-        "season": 2,
-        "episode": 44,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287914-s2-epeisodio-45",
-        "title": "Σ2 – Επεισόδιο 45",
-        "season": 2,
-        "episode": 45,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287901-s2-epeisodio-46",
-        "title": "Σ2 – Επεισόδιο 46",
-        "season": 2,
-        "episode": 46,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287889-s2-epeisodio-47",
-        "title": "Σ2 – Επεισόδιο 47",
-        "season": 2,
-        "episode": 47,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287876-s2-epeisodio-48",
-        "title": "Σ2 – Επεισόδιο 48",
-        "season": 2,
-        "episode": 48,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287860-s2-epeisodio-49",
-        "title": "Σ2 – Επεισόδιο 49",
-        "season": 2,
-        "episode": 49,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287845-s2-epeisodio-50",
-        "title": "Σ2 – Επεισόδιο 50",
-        "season": 2,
-        "episode": 50,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287833-s2-epeisodio-51",
-        "title": "Σ2 – Επεισόδιο 51",
-        "season": 2,
-        "episode": 51,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287820-s2-epeisodio-52",
-        "title": "Σ2 – Επεισόδιο 52",
-        "season": 2,
-        "episode": 52,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287808-s2-epeisodio-53",
-        "title": "Σ2 – Επεισόδιο 53",
-        "season": 2,
-        "episode": 53,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287796-s2-epeisodio-54",
-        "title": "Σ2 – Επεισόδιο 54",
-        "season": 2,
-        "episode": 54,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287779-s2-epeisodio-55",
-        "title": "Σ2 – Επεισόδιο 55",
-        "season": 2,
-        "episode": 55,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287767-s2-epeisodio-56",
-        "title": "Σ2 – Επεισόδιο 56",
-        "season": 2,
-        "episode": 56,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287748-s2-epeisodio-57",
-        "title": "Σ2 – Επεισόδιο 57",
-        "season": 2,
-        "episode": 57,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287736-s2-epeisodio-58",
-        "title": "Σ2 – Επεισόδιο 58",
-        "season": 2,
-        "episode": 58,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287723-s2-epeisodio-59",
-        "title": "Σ2 – Επεισόδιο 59",
-        "season": 2,
-        "episode": 59,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287711-s2-epeisodio-60",
-        "title": "Σ2 – Επεισόδιο 60",
-        "season": 2,
-        "episode": 60,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287698-s2-epeisodio-61",
-        "title": "Σ2 – Επεισόδιο 61",
-        "season": 2,
-        "episode": 61,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287686-s2-epeisodio-62",
-        "title": "Σ2 – Επεισόδιο 62",
-        "season": 2,
-        "episode": 62,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287674-s2-epeisodio-63",
-        "title": "Σ2 – Επεισόδιο 63",
-        "season": 2,
-        "episode": 63,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287660-s2-epeisodio-64",
-        "title": "Σ2 – Επεισόδιο 64",
-        "season": 2,
-        "episode": 64,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287647-s2-epeisodio-65",
-        "title": "Σ2 – Επεισόδιο 65",
-        "season": 2,
-        "episode": 65,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287634-s2-epeisodio-66",
-        "title": "Σ2 – Επεισόδιο 66",
-        "season": 2,
-        "episode": 66,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287622-s2-epeisodio-67",
-        "title": "Σ2 – Επεισόδιο 67",
-        "season": 2,
-        "episode": 67,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287609-s2-epeisodio-68",
-        "title": "Σ2 – Επεισόδιο 68",
-        "season": 2,
-        "episode": 68,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287593-s2-epeisodio-69",
-        "title": "Σ2 – Επεισόδιο 69",
-        "season": 2,
-        "episode": 69,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287582-s2-epeisodio-70",
-        "title": "Σ2 – Επεισόδιο 70",
-        "season": 2,
-        "episode": 70,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287570-s2-epeisodio-71",
-        "title": "Σ2 – Επεισόδιο 71",
-        "season": 2,
-        "episode": 71,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287557-s2-epeisodio-72",
-        "title": "Σ2 – Επεισόδιο 72",
-        "season": 2,
-        "episode": 72,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287545-s2-epeisodio-73",
-        "title": "Σ2 – Επεισόδιο 73",
-        "season": 2,
-        "episode": 73,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287533-s2-epeisodio-74",
-        "title": "Σ2 – Επεισόδιο 74",
-        "season": 2,
-        "episode": 74,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287518-s2-epeisodio-75",
-        "title": "Σ2 – Επεισόδιο 75",
-        "season": 2,
-        "episode": 75,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287506-s2-epeisodio-76",
-        "title": "Σ2 – Επεισόδιο 76",
-        "season": 2,
-        "episode": 76,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287489-s2-epeisodio-77",
-        "title": "Σ2 – Επεισόδιο 77",
-        "season": 2,
-        "episode": 77,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287477-s2-epeisodio-78",
-        "title": "Σ2 – Επεισόδιο 78",
-        "season": 2,
-        "episode": 78,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287464-s2-epeisodio-79",
-        "title": "Σ2 – Επεισόδιο 79",
-        "season": 2,
-        "episode": 79,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287447-s2-epeisodio-80",
-        "title": "Σ2 – Επεισόδιο 80",
-        "season": 2,
-        "episode": 80,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287433-s2-epeisodio-81",
-        "title": "Σ2 – Επεισόδιο 81",
-        "season": 2,
-        "episode": 81,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287421-s2-epeisodio-82",
-        "title": "Σ2 – Επεισόδιο 82",
-        "season": 2,
-        "episode": 82,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287408-s2-epeisodio-83",
-        "title": "Σ2 – Επεισόδιο 83",
-        "season": 2,
-        "episode": 83,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287396-s2-epeisodio-84",
-        "title": "Σ2 – Επεισόδιο 84",
-        "season": 2,
-        "episode": 84,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287379-s2-epeisodio-85",
-        "title": "Σ2 – Επεισόδιο 85",
-        "season": 2,
-        "episode": 85,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287367-s2-epeisodio-86",
-        "title": "Σ2 – Επεισόδιο 86",
-        "season": 2,
-        "episode": 86,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287349-s2-epeisodio-87",
-        "title": "Σ2 – Επεισόδιο 87",
-        "season": 2,
-        "episode": 87,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287336-s2-epeisodio-88",
-        "title": "Σ2 – Επεισόδιο 88",
-        "season": 2,
-        "episode": 88,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287320-s2-epeisodio-89",
-        "title": "Σ2 – Επεισόδιο 89",
-        "season": 2,
-        "episode": 89,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287307-s2-epeisodio-90",
-        "title": "Σ2 – Επεισόδιο 90",
-        "season": 2,
-        "episode": 90,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287294-s2-epeisodio-91",
-        "title": "Σ2 – Επεισόδιο 91",
-        "season": 2,
-        "episode": 91,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287280-s2-epeisodio-92",
-        "title": "Σ2 – Επεισόδιο 92",
-        "season": 2,
-        "episode": 92,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287268-s2-epeisodio-93",
-        "title": "Σ2 – Επεισόδιο 93",
-        "season": 2,
-        "episode": 93,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287256-s2-epeisodio-94",
-        "title": "Σ2 – Επεισόδιο 94",
-        "season": 2,
-        "episode": 94,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287243-s2-epeisodio-95",
-        "title": "Σ2 – Επεισόδιο 95",
-        "season": 2,
-        "episode": 95,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287231-s2-epeisodio-96",
-        "title": "Σ2 – Επεισόδιο 96",
-        "season": 2,
-        "episode": 96,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287217-s2-epeisodio-97",
-        "title": "Σ2 – Επεισόδιο 97",
-        "season": 2,
-        "episode": 97,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287204-s2-epeisodio-98",
-        "title": "Σ2 – Επεισόδιο 98",
-        "season": 2,
-        "episode": 98,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287191-s2-epeisodio-99",
-        "title": "Σ2 – Επεισόδιο 99",
-        "season": 2,
-        "episode": 99,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287179-s2-epeisodio-100",
-        "title": "Σ2 – Επεισόδιο 100",
-        "season": 2,
-        "episode": 100,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287167-s2-epeisodio-101",
-        "title": "Σ2 – Επεισόδιο 101",
-        "season": 2,
-        "episode": 101,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287149-s2-epeisodio-102",
-        "title": "Σ2 – Επεισόδιο 102",
-        "season": 2,
-        "episode": 102,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287136-s2-epeisodio-103",
-        "title": "Σ2 – Επεισόδιο 103",
-        "season": 2,
-        "episode": 103,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287123-s2-epeisodio-104",
-        "title": "Σ2 – Επεισόδιο 104",
-        "season": 2,
-        "episode": 104,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287107-s2-epeisodio-105",
-        "title": "Σ2 – Επεισόδιο 105",
-        "season": 2,
-        "episode": 105,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287093-s2-epeisodio-106",
-        "title": "Σ2 – Επεισόδιο 106",
-        "season": 2,
-        "episode": 106,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287080-s2-epeisodio-107",
-        "title": "Σ2 – Επεισόδιο 107",
-        "season": 2,
-        "episode": 107,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287063-s2-epeisodio-108",
-        "title": "Σ2 – Επεισόδιο 108",
-        "season": 2,
-        "episode": 108,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287051-s2-epeisodio-109",
-        "title": "Σ2 – Επεισόδιο 109",
-        "season": 2,
-        "episode": 109,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287034-s2-epeisodio-110",
-        "title": "Σ2 – Επεισόδιο 110",
-        "season": 2,
-        "episode": 110,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287021-s2-epeisodio-111",
-        "title": "Σ2 – Επεισόδιο 111",
-        "season": 2,
-        "episode": 111,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:287009-s2-epeisodio-112",
-        "title": "Σ2 – Επεισόδιο 112",
-        "season": 2,
-        "episode": 112,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286995-s2-epeisodio-113",
-        "title": "Σ2 – Επεισόδιο 113",
-        "season": 2,
-        "episode": 113,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286983-s2-epeisodio-114",
-        "title": "Σ2 – Επεισόδιο 114",
-        "season": 2,
-        "episode": 114,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286971-s2-epeisodio-115",
-        "title": "Σ2 – Επεισόδιο 115",
-        "season": 2,
-        "episode": 115,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286954-s2-epeisodio-116",
-        "title": "Σ2 – Επεισόδιο 116",
-        "season": 2,
-        "episode": 116,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286941-s2-epeisodio-117",
-        "title": "Σ2 – Επεισόδιο 117",
-        "season": 2,
-        "episode": 117,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286928-s2-epeisodio-118",
-        "title": "Σ2 – Επεισόδιο 118",
-        "season": 2,
-        "episode": 118,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286911-s2-epeisodio-119",
-        "title": "Σ2 – Επεισόδιο 119",
-        "season": 2,
-        "episode": 119,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286899-s2-epeisodio-120",
-        "title": "Σ2 – Επεισόδιο 120",
-        "season": 2,
-        "episode": 120,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286883-s2-epeisodio-121",
-        "title": "Σ2 – Επεισόδιο 121",
-        "season": 2,
-        "episode": 121,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286869-s2-epeisodio-122",
-        "title": "Σ2 – Επεισόδιο 122",
-        "season": 2,
-        "episode": 122,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286856-s2-epeisodio-123",
-        "title": "Σ2 – Επεισόδιο 123",
-        "season": 2,
-        "episode": 123,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286844-s2-epeisodio-124",
-        "title": "Σ2 – Επεισόδιο 124",
-        "season": 2,
-        "episode": 124,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286836-s2-epeisodio-125",
-        "title": "Σ2 – Επεισόδιο 125",
-        "season": 2,
-        "episode": 125,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286819-s2-epeisodio-126",
-        "title": "Σ2 – Επεισόδιο 126",
-        "season": 2,
-        "episode": 126,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286807-s2-epeisodio-127",
-        "title": "Σ2 – Επεισόδιο 127",
-        "season": 2,
-        "episode": 127,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286795-s2-epeisodio-128",
-        "title": "Σ2 – Επεισόδιο 128",
-        "season": 2,
-        "episode": 128,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286780-s2-epeisodio-129",
-        "title": "Σ2 – Επεισόδιο 129",
-        "season": 2,
-        "episode": 129,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286764-s2-epeisodio-130",
-        "title": "Σ2 – Επεισόδιο 130",
-        "season": 2,
-        "episode": 130,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286752-s2-epeisodio-131",
-        "title": "Σ2 – Επεισόδιο 131",
-        "season": 2,
-        "episode": 131,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286740-s2-epeisodio-132",
-        "title": "Σ2 – Επεισόδιο 132",
-        "season": 2,
-        "episode": 132,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286727-s2-epeisodio-133",
-        "title": "Σ2 – Επεισόδιο 133",
-        "season": 2,
-        "episode": 133,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286631-s2-epeisodio-134",
-        "title": "Σ2 – Επεισόδιο 134",
-        "season": 2,
-        "episode": 134,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286619-s2-epeisodio-135",
-        "title": "Σ2 – Επεισόδιο 135",
-        "season": 2,
-        "episode": 135,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286715-s2-epeisodio-136",
-        "title": "Σ2 – Επεισόδιο 136",
-        "season": 2,
-        "episode": 136,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286701-s2-epeisodio-137",
-        "title": "Σ2 – Επεισόδιο 137",
-        "season": 2,
-        "episode": 137,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286684-s2-epeisodio-138",
-        "title": "Σ2 – Επεισόδιο 138",
-        "season": 2,
-        "episode": 138,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286672-s2-epeisodio-139",
-        "title": "Σ2 – Επεισόδιο 139",
-        "season": 2,
-        "episode": 139,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286660-s2-epeisodio-140",
-        "title": "Σ2 – Επεισόδιο 140",
-        "season": 2,
-        "episode": 140,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:286644-s2-epeisodio-141",
-        "title": "Σ2 – Επεισόδιο 141",
-        "season": 2,
-        "episode": 141,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:281358-s2-epeisodio-142",
-        "title": "Σ2 – Επεισόδιο 142",
-        "season": 2,
-        "episode": 142,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272383-s2-epeisodio-143",
-        "title": "Σ2 – Επεισόδιο 143",
-        "season": 2,
-        "episode": 143,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272378-s2-epeisodio-144",
-        "title": "Σ2 – Επεισόδιο 144",
-        "season": 2,
-        "episode": 144,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272373-s2-epeisodio-145",
-        "title": "Σ2 – Επεισόδιο 145",
-        "season": 2,
-        "episode": 145,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272368-s2-epeisodio-146",
-        "title": "Σ2 – Επεισόδιο 146",
-        "season": 2,
-        "episode": 146,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272363-s2-epeisodio-147",
-        "title": "Σ2 – Επεισόδιο 147",
-        "season": 2,
-        "episode": 147,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272358-s2-epeisodio-148",
-        "title": "Σ2 – Επεισόδιο 148",
-        "season": 2,
-        "episode": 148,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272353-s2-epeisodio-149",
-        "title": "Σ2 – Επεισόδιο 149",
-        "season": 2,
-        "episode": 149,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272348-s2-epeisodio-150",
-        "title": "Σ2 – Επεισόδιο 150",
-        "season": 2,
-        "episode": 150,
+        "id": "greek_tv:alpha_tv:4a4c3230:289686-ela-sti-thesi-mou-i-tiletainia-1",
+        "title": "Έλα στη Θέση μου: Η τηλεταινία 1",
+        "season": 1,
+        "episode": 193,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
       },
       {
@@ -1810,811 +1607,6 @@
         "title": "Σ2 – Επεισόδιο 186",
         "season": 2,
         "episode": 186,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:278850-s3-epeisodio-1",
-        "title": "Σ3 – Επεισόδιο 1",
-        "season": 3,
-        "episode": 1,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:281542-s3-epeisodio-2",
-        "title": "Σ3 – Επεισόδιο 2",
-        "season": 3,
-        "episode": 2,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282116-s3-epeisodio-3",
-        "title": "Σ3 – Επεισόδιο 3",
-        "season": 3,
-        "episode": 3,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282145-s3-epeisodio-4",
-        "title": "Σ3 – Επεισόδιο 4",
-        "season": 3,
-        "episode": 4,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282202-s3-epeisodio-5",
-        "title": "Σ3 – Επεισόδιο 5",
-        "season": 3,
-        "episode": 5,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282222-s3-epeisodio-6",
-        "title": "Σ3 – Επεισόδιο 6",
-        "season": 3,
-        "episode": 6,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282239-s3-epeisodio-7",
-        "title": "Σ3 – Επεισόδιο 7",
-        "season": 3,
-        "episode": 7,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282509-s3-epeisodio-8",
-        "title": "Σ3 – Επεισόδιο 8",
-        "season": 3,
-        "episode": 8,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282684-s3-epeisodio-9",
-        "title": "Σ3 – Επεισόδιο 9",
-        "season": 3,
-        "episode": 9,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282759-s3-epeisodio-10",
-        "title": "Σ3 – Επεισόδιο 10",
-        "season": 3,
-        "episode": 10,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282894-s3-epeisodio-11",
-        "title": "Σ3 – Επεισόδιο 11",
-        "season": 3,
-        "episode": 11,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282982-s3-epeisodio-12",
-        "title": "Σ3 – Επεισόδιο 12",
-        "season": 3,
-        "episode": 12,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282998-s3-epeisodio-13",
-        "title": "Σ3 – Επεισόδιο 13",
-        "season": 3,
-        "episode": 13,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283199-s3-epeisodio-14",
-        "title": "Σ3 – Επεισόδιο 14",
-        "season": 3,
-        "episode": 14,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283282-s3-epeisodio-15",
-        "title": "Σ3 – Επεισόδιο 15",
-        "season": 3,
-        "episode": 15,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283373-s3-epeisodio-16",
-        "title": "Σ3 – Επεισόδιο 16",
-        "season": 3,
-        "episode": 16,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283475-s3-epeisodio-17",
-        "title": "Σ3 – Επεισόδιο 17",
-        "season": 3,
-        "episode": 17,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283543-s3-epeisodio-18",
-        "title": "Σ3 – Επεισόδιο 18",
-        "season": 3,
-        "episode": 18,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272636-s3-epeisodio-19",
-        "title": "Σ3 – Επεισόδιο 19",
-        "season": 3,
-        "episode": 19,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272662-s3-epeisodio-20",
-        "title": "Σ3 – Επεισόδιο 20",
-        "season": 3,
-        "episode": 20,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272910-s3-epeisodio-21",
-        "title": "Σ3 – Επεισόδιο 21",
-        "season": 3,
-        "episode": 21,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272878-s3-epeisodio-22",
-        "title": "Σ3 – Επεισόδιο 22",
-        "season": 3,
-        "episode": 22,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283627-s3-epeisodio-23",
-        "title": "Σ3 – Επεισόδιο 23",
-        "season": 3,
-        "episode": 23,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283633-s3-epeisodio-24",
-        "title": "Σ3 – Επεισόδιο 24",
-        "season": 3,
-        "episode": 24,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283759-s3-epeisodio-25",
-        "title": "Σ3 – Επεισόδιο 25",
-        "season": 3,
-        "episode": 25,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283804-s3-epeisodio-26",
-        "title": "Σ3 – Επεισόδιο 26",
-        "season": 3,
-        "episode": 26,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283826-s3-epeisodio-27",
-        "title": "Σ3 – Επεισόδιο 27",
-        "season": 3,
-        "episode": 27,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283831-s3-epeisodio-28",
-        "title": "Σ3 – Επεισόδιο 28",
-        "season": 3,
-        "episode": 28,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283900-s3-epeisodio-29",
-        "title": "Σ3 – Επεισόδιο 29",
-        "season": 3,
-        "episode": 29,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283910-s3-epeisodio-30",
-        "title": "Σ3 – Επεισόδιο 30",
-        "season": 3,
-        "episode": 30,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283965-s3-epeisodio-31",
-        "title": "Σ3 – Επεισόδιο 31",
-        "season": 3,
-        "episode": 31,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284003-s3-epeisodio-32",
-        "title": "Σ3 – Επεισόδιο 32",
-        "season": 3,
-        "episode": 32,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284011-s3-epeisodio-33",
-        "title": "Σ3 – Επεισόδιο 33",
-        "season": 3,
-        "episode": 33,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284036-s3-epeisodio-34",
-        "title": "Σ3 – Επεισόδιο 34",
-        "season": 3,
-        "episode": 34,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284096-s3-epeisodio-35",
-        "title": "Σ3 – Επεισόδιο 35",
-        "season": 3,
-        "episode": 35,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284101-s3-epeisodio-36",
-        "title": "Σ3 – Επεισόδιο 36",
-        "season": 3,
-        "episode": 36,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284161-s3-epeisodio-37",
-        "title": "Σ3 – Επεισόδιο 37",
-        "season": 3,
-        "episode": 37,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284169-s3-epeisodio-38",
-        "title": "Σ3 – Επεισόδιο 38",
-        "season": 3,
-        "episode": 38,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284228-s3-epeisodio-39",
-        "title": "Σ3 – Επεισόδιο 39",
-        "season": 3,
-        "episode": 39,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284260-s3-epeisodio-40",
-        "title": "Σ3 – Επεισόδιο 40",
-        "season": 3,
-        "episode": 40,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284322-s3-epeisodio-41",
-        "title": "Σ3 – Επεισόδιο 41",
-        "season": 3,
-        "episode": 41,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284337-s3-epeisodio-42",
-        "title": "Σ3 – Επεισόδιο 42",
-        "season": 3,
-        "episode": 42,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284343-s3-epeisodio-43",
-        "title": "Σ3 – Επεισόδιο 43",
-        "season": 3,
-        "episode": 43,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284381-s3-epeisodio-44",
-        "title": "Σ3 – Επεισόδιο 44",
-        "season": 3,
-        "episode": 44,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284447-s3-epeisodio-45",
-        "title": "Σ3 – Επεισόδιο 45",
-        "season": 3,
-        "episode": 45,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284489-s3-epeisodio-46",
-        "title": "Σ3 – Επεισόδιο 46",
-        "season": 3,
-        "episode": 46,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284494-s3-epeisodio-47",
-        "title": "Σ3 – Επεισόδιο 47",
-        "season": 3,
-        "episode": 47,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284526-s3-epeisodio-48",
-        "title": "Σ3 – Επεισόδιο 48",
-        "season": 3,
-        "episode": 48,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284563-s3-epeisodio-49",
-        "title": "Σ3 – Επεισόδιο 49",
-        "season": 3,
-        "episode": 49,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284600-s3-epeisodio-50",
-        "title": "Σ3 – Επεισόδιο 50",
-        "season": 3,
-        "episode": 50,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284638-s3-epeisodio-51",
-        "title": "Σ3 – Επεισόδιο 51",
-        "season": 3,
-        "episode": 51,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284669-s3-epeisodio-52",
-        "title": "Σ3 – Επεισόδιο 52",
-        "season": 3,
-        "episode": 52,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284694-s3-epeisodio-53",
-        "title": "Σ3 – Επεισόδιο 53",
-        "season": 3,
-        "episode": 53,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284717-s3-epeisodio-54",
-        "title": "Σ3 – Επεισόδιο 54",
-        "season": 3,
-        "episode": 54,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284737-s3-epeisodio-55",
-        "title": "Σ3 – Επεισόδιο 55",
-        "season": 3,
-        "episode": 55,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284799-s3-epeisodio-56",
-        "title": "Σ3 – Επεισόδιο 56",
-        "season": 3,
-        "episode": 56,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284824-s3-epeisodio-57",
-        "title": "Σ3 – Επεισόδιο 57",
-        "season": 3,
-        "episode": 57,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284829-s3-epeisodio-58",
-        "title": "Σ3 – Επεισόδιο 58",
-        "season": 3,
-        "episode": 58,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284866-s3-epeisodio-59",
-        "title": "Σ3 – Επεισόδιο 59",
-        "season": 3,
-        "episode": 59,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284926-s3-epeisodio-60",
-        "title": "Σ3 – Επεισόδιο 60",
-        "season": 3,
-        "episode": 60,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284937-s3-epeisodio-61",
-        "title": "Σ3 – Επεισόδιο 61",
-        "season": 3,
-        "episode": 61,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284978-s3-epeisodio-62",
-        "title": "Σ3 – Επεισόδιο 62",
-        "season": 3,
-        "episode": 62,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:284983-s3-epeisodio-63",
-        "title": "Σ3 – Επεισόδιο 63",
-        "season": 3,
-        "episode": 63,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:285011-s3-epeisodio-64",
-        "title": "Σ3 – Επεισόδιο 64",
-        "season": 3,
-        "episode": 64,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:285086-s3-epeisodio-65",
-        "title": "Σ3 – Επεισόδιο 65",
-        "season": 3,
-        "episode": 65,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:285195-s3-epeisodio-66",
-        "title": "Σ3 – Επεισόδιο 66",
-        "season": 3,
-        "episode": 66,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:285205-s3-epeisodio-67",
-        "title": "Σ3 – Επεισόδιο 67",
-        "season": 3,
-        "episode": 67,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:285215-s3-epeisodio-68",
-        "title": "Σ3 – Επεισόδιο 68",
-        "season": 3,
-        "episode": 68,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:285220-s3-epeisodio-69",
-        "title": "Σ3 – Επεισόδιο 69",
-        "season": 3,
-        "episode": 69,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:285227-s3-epeisodio-70",
-        "title": "Σ3 – Επεισόδιο 70",
-        "season": 3,
-        "episode": 70,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:285285-s3-epeisodio-71",
-        "title": "Σ3 – Επεισόδιο 71",
-        "season": 3,
-        "episode": 71,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282165-s3-epeisodio-72",
-        "title": "Σ3 – Επεισόδιο 72",
-        "season": 3,
-        "episode": 72,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282195-s3-epeisodio-73",
-        "title": "Σ3 – Επεισόδιο 73",
-        "season": 3,
-        "episode": 73,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282207-s3-epeisodio-74",
-        "title": "Σ3 – Επεισόδιο 74",
-        "season": 3,
-        "episode": 74,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282339-s3-epeisodio-75",
-        "title": "Σ3 – Επεισόδιο 75",
-        "season": 3,
-        "episode": 75,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282613-s3-epeisodio-76",
-        "title": "Σ3 – Επεισόδιο 76",
-        "season": 3,
-        "episode": 76,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282843-s3-epeisodio-77",
-        "title": "Σ3 – Επεισόδιο 77",
-        "season": 3,
-        "episode": 77,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283021-s3-epeisodio-78",
-        "title": "Σ3 – Επεισόδιο 78",
-        "season": 3,
-        "episode": 78,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:282940-s3-epeisodio-79",
-        "title": "Σ3 – Επεισόδιο 79",
-        "season": 3,
-        "episode": 79,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283061-s3-epeisodio-80",
-        "title": "Σ3 – Επεισόδιο 80",
-        "season": 3,
-        "episode": 80,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283248-s3-epeisodio-81",
-        "title": "Σ3 – Επεισόδιο 81",
-        "season": 3,
-        "episode": 81,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283304-s3-epeisodio-82",
-        "title": "Σ3 – Επεισόδιο 82",
-        "season": 3,
-        "episode": 82,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283468-s3-epeisodio-83",
-        "title": "Σ3 – Επεισόδιο 83",
-        "season": 3,
-        "episode": 83,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:283528-s3-epeisodio-84",
-        "title": "Σ3 – Επεισόδιο 84",
-        "season": 3,
-        "episode": 84,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272670-s3-epeisodio-85",
-        "title": "Σ3 – Επεισόδιο 85",
-        "season": 3,
-        "episode": 85,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272830-s3-epeisodio-86",
-        "title": "Σ3 – Επεισόδιο 86",
-        "season": 3,
-        "episode": 86,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:272992-s3-epeisodio-87",
-        "title": "Σ3 – Επεισόδιο 87",
-        "season": 3,
-        "episode": 87,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:273184-s3-epeisodio-88",
-        "title": "Σ3 – Επεισόδιο 88",
-        "season": 3,
-        "episode": 88,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:273205-s3-epeisodio-89",
-        "title": "Σ3 – Επεισόδιο 89",
-        "season": 3,
-        "episode": 89,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:273547-s3-epeisodio-90",
-        "title": "Σ3 – Επεισόδιο 90",
-        "season": 3,
-        "episode": 90,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:273815-s3-epeisodio-91",
-        "title": "Σ3 – Επεισόδιο 91",
-        "season": 3,
-        "episode": 91,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:273980-s3-epeisodio-92",
-        "title": "Σ3 – Επεισόδιο 92",
-        "season": 3,
-        "episode": 92,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:274113-s3-epeisodio-93",
-        "title": "Σ3 – Επεισόδιο 93",
-        "season": 3,
-        "episode": 93,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:274250-s3-epeisodio-94",
-        "title": "Σ3 – Επεισόδιο 94",
-        "season": 3,
-        "episode": 94,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:274399-s3-epeisodio-95",
-        "title": "Σ3 – Επεισόδιο 95",
-        "season": 3,
-        "episode": 95,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:274669-s3-epeisodio-96",
-        "title": "Σ3 – Επεισόδιο 96",
-        "season": 3,
-        "episode": 96,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:274805-s3-epeisodio-97",
-        "title": "Σ3 – Επεισόδιο 97",
-        "season": 3,
-        "episode": 97,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:275014-s3-epeisodio-98",
-        "title": "Σ3 – Επεισόδιο 98",
-        "season": 3,
-        "episode": 98,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:275133-s3-epeisodio-99",
-        "title": "Σ3 – Επεισόδιο 99",
-        "season": 3,
-        "episode": 99,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:275283-s3-epeisodio-100",
-        "title": "Σ3 – Επεισόδιο 100",
-        "season": 3,
-        "episode": 100,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:275591-s3-epeisodio-101",
-        "title": "Σ3 – Επεισόδιο 101",
-        "season": 3,
-        "episode": 101,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:275646-s3-epeisodio-102",
-        "title": "Σ3 – Επεισόδιο 102",
-        "season": 3,
-        "episode": 102,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:275753-s3-epeisodio-103",
-        "title": "Σ3 – Επεισόδιο 103",
-        "season": 3,
-        "episode": 103,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:275874-s3-epeisodio-104",
-        "title": "Σ3 – Επεισόδιο 104",
-        "season": 3,
-        "episode": 104,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:275898-s3-epeisodio-105",
-        "title": "Σ3 – Επεισόδιο 105",
-        "season": 3,
-        "episode": 105,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:276331-s3-epeisodio-106",
-        "title": "Σ3 – Επεισόδιο 106",
-        "season": 3,
-        "episode": 106,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:276361-s3-epeisodio-107",
-        "title": "Σ3 – Επεισόδιο 107",
-        "season": 3,
-        "episode": 107,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:276385-s3-epeisodio-108",
-        "title": "Σ3 – Επεισόδιο 108",
-        "season": 3,
-        "episode": 108,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:276853-s3-epeisodio-109",
-        "title": "Σ3 – Επεισόδιο 109",
-        "season": 3,
-        "episode": 109,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:276954-s3-epeisodio-110",
-        "title": "Σ3 – Επεισόδιο 110",
-        "season": 3,
-        "episode": 110,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:276977-s3-epeisodio-111",
-        "title": "Σ3 – Επεισόδιο 111",
-        "season": 3,
-        "episode": 111,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:277101-s3-epeisodio-112",
-        "title": "Σ3 – Επεισόδιο 112",
-        "season": 3,
-        "episode": 112,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:277433-s3-epeisodio-113",
-        "title": "Σ3 – Επεισόδιο 113",
-        "season": 3,
-        "episode": 113,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:277546-s3-epeisodio-114",
-        "title": "Σ3 – Επεισόδιο 114",
-        "season": 3,
-        "episode": 114,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:277723-s3-epeisodio-115",
-        "title": "Σ3 – Επεισόδιο 115",
-        "season": 3,
-        "episode": 115,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
       },
       {
@@ -3119,13 +2111,6 @@
         "title": "Σ3 – Επεισόδιο 187",
         "season": 3,
         "episode": 187,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4a4c3230:290866-sezon-3",
-        "title": "ΣΕΖΟΝ 3",
-        "season": 3,
-        "episode": 188,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
       },
       {

@@ -159,6 +159,13 @@
         "season": 1,
         "episode": 22,
         "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/koutsoupies/ps058511-0022.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8de9addd:koutsoupies-23",
+        "title": "Κουτσουπιές",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/koutsoupies/ps058511-0023.jpg"
       }
     ]
   }
