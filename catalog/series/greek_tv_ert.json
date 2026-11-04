@@ -1,34 +1,16 @@
 {
   "metas": [
     {
-      "id": "greek_tv:ert:61453531",
-      "type": "series",
-      "name": "Πολιτική Κουζίνα",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/politiki-kouzina/politiki-kouzina-2026-27-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:8de9addd",
       "type": "series",
       "name": "Κουτσουπιές",
       "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/koutsoupies/cc/koutsoupies-cc-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:890d264d",
-      "type": "series",
-      "name": "Χάντμπολ Α1 Γυναικών 2026-27",
-      "poster": "https://files2.app.ertflix.gr/files/sports/handball-a1-gynaikon-2026-27/chantmpol-a1-gynaikon-2026-2027-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:fe84da86",
       "type": "series",
       "name": "ΠΟΠ Μαγειρική",
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/pop-mageiriki-2025-2026/pop-mageirikh-lagos-2025-26-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:f0b3dec9",
-      "type": "series",
-      "name": "Live Now",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/live-now/live-now-new/live-now-logo-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:737c8407",
@@ -49,12 +31,6 @@
       "poster": "https://files2.app.ertflix.gr/2026/news24/mera-me-xroma/2026-2027-gfx/meramexrwma-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:d8c3b682",
-      "type": "series",
-      "name": "News Room",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/news-room-new-photo/newsroom-siadimas-ertflix-img-new.jpg"
-    },
-    {
       "id": "greek_tv:ert:663b2d6f",
       "type": "series",
       "name": "Νωρίς - Νωρίς",
@@ -65,6 +41,48 @@
       "type": "series",
       "name": "Συνδέσεις",
       "poster": "https://files2.app.ertflix.gr/syndesies-new/syndeseis2526-ertflix-img-new.jpg"
+    },
+    {
+      "id": "greek_tv:ert:3ab63262",
+      "type": "series",
+      "name": "Off the Record",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/off-the-record-ertflix-poster.jpg"
+    },
+    {
+      "id": "greek_tv:ert:3b128a1a",
+      "type": "series",
+      "name": "Μετά τις Ειδήσεις",
+      "poster": "https://files2.app.ertflix.gr/2026/news24/meta-tis-eideseis/meta-tis-eidhseis-horizontalposter.jpg"
+    },
+    {
+      "id": "greek_tv:ert:42e26a37",
+      "type": "series",
+      "name": "Μπάσκετ | Elite League 2026-27",
+      "poster": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/elite-league-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:61453531",
+      "type": "series",
+      "name": "Πολιτική Κουζίνα",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/politiki-kouzina/politiki-kouzina-2026-27-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:890d264d",
+      "type": "series",
+      "name": "Χάντμπολ Α1 Γυναικών 2026-27",
+      "poster": "https://files2.app.ertflix.gr/files/sports/handball-a1-gynaikon-2026-27/chantmpol-a1-gynaikon-2026-2027-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:f0b3dec9",
+      "type": "series",
+      "name": "Live Now",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/live-now/live-now-new/live-now-logo-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:d8c3b682",
+      "type": "series",
+      "name": "News Room",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/news-room-new-photo/newsroom-siadimas-ertflix-img-new.jpg"
     },
     {
       "id": "greek_tv:ert:4b176f45",
@@ -181,12 +199,6 @@
       "poster": "https://files2.app.ertflix.gr/files/paidika/tok-tok/tok-tok-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:3ab63262",
-      "type": "series",
-      "name": "Off the Record",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/off-the-record-ertflix-poster.jpg"
-    },
-    {
       "id": "greek_tv:ert:b78206b9",
       "type": "series",
       "name": "Ένας κι Ένας",
@@ -197,18 +209,6 @@
       "type": "series",
       "name": "Volley League Γυναικών 2026-2027",
       "poster": "https://files2.app.ertflix.gr/files/sports/volleyleague-women-26-27/volley-league-gynaikon-2026-2027-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:3b128a1a",
-      "type": "series",
-      "name": "Μετά τις Ειδήσεις",
-      "poster": "https://files2.app.ertflix.gr/2026/news24/meta-tis-eideseis/meta-tis-eidhseis-horizontalposter.jpg"
-    },
-    {
-      "id": "greek_tv:ert:42e26a37",
-      "type": "series",
-      "name": "Μπάσκετ | Elite League 2026-27",
-      "poster": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/elite-league-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:ae484152",
@@ -529,10 +529,10 @@
       "poster": "https://files2.app.ertflix.gr/2024/series/start/start-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:5e2e9592",
+      "id": "greek_tv:ert:1aa6c7a0",
       "type": "series",
-      "name": "Δίγαμμα",
-      "poster": "https://files2.app.ertflix.gr/2025/series/digamma/digamma-ertflix-img.jpg"
+      "name": "Αληθινή Ζωή",
+      "poster": "https://files2.app.ertflix.gr/2024/series/true-life/alhthinh-zoh-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:2f2a2416",
@@ -583,10 +583,10 @@
       "poster": "https://files2.app.ertflix.gr/2024/series/wild-greece-new/agria-ellada-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:1aa6c7a0",
+      "id": "greek_tv:ert:5e2e9592",
       "type": "series",
-      "name": "Αληθινή Ζωή",
-      "poster": "https://files2.app.ertflix.gr/2024/series/true-life/alhthinh-zoh-ertflix-img.jpg"
+      "name": "Δίγαμμα",
+      "poster": "https://files2.app.ertflix.gr/2025/series/digamma/digamma-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:12c8536c",
@@ -679,10 +679,10 @@
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/fasma/2026-2027/fasma-kv-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:31b3c5d1",
+      "id": "greek_tv:ert:ec7196be",
       "type": "series",
-      "name": "Η Λέσχη του Βιβλίου",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/e-leskhe-tou-bibliou/lesxivivliou-ertflix-img.jpg"
+      "name": "Οι Έλληνες του Κόσμου",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/oi-ellines-tou-kosmou/oi-ellines-tou-kosmou-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:084da574",
@@ -721,16 +721,22 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/se-mia-nea-patrida/se-mia-nea-patrida-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:ec7196be",
+      "id": "greek_tv:ert:6f376bc5",
       "type": "series",
-      "name": "Οι Έλληνες του Κόσμου",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/oi-ellines-tou-kosmou/oi-ellines-tou-kosmou-ertflix-img.jpg"
+      "name": "45 Μάστοροι 60 Μαθητάδες",
+      "poster": "https://files2.app.ertflix.gr/2023/ert3/ellinika-doc/45mastoroi-60mathitades/new-graphics-24/45-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:a3e0c5be",
       "type": "series",
       "name": "Πρόσωπα",
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/prosopa/prosopa-vasilopoulos-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:31b3c5d1",
+      "type": "series",
+      "name": "Η Λέσχη του Βιβλίου",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/e-leskhe-tou-bibliou/lesxivivliou-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:fe994819",
@@ -767,12 +773,6 @@
       "type": "series",
       "name": "Μαρτυρίες",
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/martyries-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:6f376bc5",
-      "type": "series",
-      "name": "45 Μάστοροι 60 Μαθητάδες",
-      "poster": "https://files2.app.ertflix.gr/2023/ert3/ellinika-doc/45mastoroi-60mathitades/new-graphics-24/45-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:7f6a3322",
@@ -961,10 +961,10 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-ellinondromena-640x360.jpg"
     },
     {
-      "id": "greek_tv:ert:3015be56",
+      "id": "greek_tv:ert:b923680d",
       "type": "series",
-      "name": "Κλεινόν Άστυ - Ιστορίες της Πόλης",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-kleinonasty-500x750.jpg"
+      "name": "Ες Αύριον τα Σπουδαία",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-es-aurion-ta-spoudaia-500x750.jpg"
     },
     {
       "id": "greek_tv:ert:3c47e164",
@@ -1015,16 +1015,16 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/enaapotomoxipnima-photo.jpg"
     },
     {
+      "id": "greek_tv:ert:3015be56",
+      "type": "series",
+      "name": "Κλεινόν Άστυ - Ιστορίες της Πόλης",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-kleinonasty-500x750.jpg"
+    },
+    {
       "id": "greek_tv:ert:1c433b6c",
       "type": "series",
       "name": "Από Πέτρα και Χρόνο",
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-apo-petra-kai-xrono-500x750.jpg"
-    },
-    {
-      "id": "greek_tv:ert:b923680d",
-      "type": "series",
-      "name": "Ες Αύριον τα Σπουδαία",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-es-aurion-ta-spoudaia-500x750.jpg"
     },
     {
       "id": "greek_tv:ert:3ba9c1a2",
