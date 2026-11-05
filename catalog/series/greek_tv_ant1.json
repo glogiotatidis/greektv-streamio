@@ -79,18 +79,6 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_The_Roadshow_3_1920x780_a3024e7003.jpg"
     },
     {
-      "id": "greek_tv:ant1:f81c6aae",
-      "type": "series",
-      "name": "MOMENTS",
-      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Antenna_gr_Moments_1920x780_51da673a54.jpg"
-    },
-    {
-      "id": "greek_tv:ant1:02d9b2dd",
-      "type": "series",
-      "name": "ROUK ZOUK",
-      "poster": "https://www.antenna.gr/imgHandler/1920/64facc74-1633-4fdc-a547-e80ca477527d.jpg"
-    },
-    {
       "id": "greek_tv:ant1:059b1645",
       "type": "series",
       "name": "ΕΝΩΠΙΟΣ ΕΝΩΠΙΩ",
@@ -109,16 +97,28 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
     },
     {
+      "id": "greek_tv:ant1:ae69d93a",
+      "type": "series",
+      "name": "ΥΓΕΙΑ ΠΑΝΩ ΑΠ’ ΟΛΑ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Ygeia_Panp_Ap_Ola_1920x780_8d6243d4aa.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:f81c6aae",
+      "type": "series",
+      "name": "MOMENTS",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Antenna_gr_Moments_1920x780_51da673a54.jpg"
+    },
+    {
       "id": "greek_tv:ant1:797e177b",
       "type": "series",
       "name": "YOUR FACE SOUNDS FAMILIAR",
       "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_YFSF_PRESENTER_3c838a07cb.jpg"
     },
     {
-      "id": "greek_tv:ant1:ae69d93a",
+      "id": "greek_tv:ant1:02d9b2dd",
       "type": "series",
-      "name": "ΥΓΕΙΑ ΠΑΝΩ ΑΠ’ ΟΛΑ",
-      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Ygeia_Panp_Ap_Ola_1920x780_8d6243d4aa.jpg"
+      "name": "ROUK ZOUK",
+      "poster": "https://www.antenna.gr/imgHandler/1920/64facc74-1633-4fdc-a547-e80ca477527d.jpg"
     },
     {
       "id": "greek_tv:ant1:78c38c13",

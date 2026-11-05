@@ -7,32 +7,32 @@
     "background": "https://files2.app.ertflix.gr/2024/series/wild-greece-new/agria-ellada-hbbtv-bg.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:bcd782d7:agria-ellada-29",
+        "title": "Φαράγγι Βίκου - Ποταμός Βοϊδομάτης",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-10h52m36s720.png"
+      },
+      {
+        "id": "greek_tv:ert:bcd782d7:agria-ellada-28",
+        "title": "Δαδιά",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-10h53m47s795.png"
+      },
+      {
         "id": "greek_tv:ert:bcd782d7:agria-ellada-26",
         "title": "Οίτη",
         "season": 1,
-        "episode": 2,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-10h53m19s400.png"
       },
       {
         "id": "greek_tv:ert:bcd782d7:agria-ellada-27",
         "title": "Τριχωνίδα",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-10h53m34s372.png"
-      },
-      {
-        "id": "greek_tv:ert:bcd782d7:agria-ellada-28",
-        "title": "Δαδιά",
-        "season": 1,
-        "episode": 4,
-        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-10h53m47s795.png"
-      },
-      {
-        "id": "greek_tv:ert:bcd782d7:agria-ellada-29",
-        "title": "Φαράγγι Βίκου - Ποταμός Βοϊδομάτης",
-        "season": 1,
         "episode": 5,
-        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-10h52m36s720.png"
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-10h53m34s372.png"
       },
       {
         "id": "greek_tv:ert:bcd782d7:agria-ellada-30",
@@ -42,11 +42,11 @@
         "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-12h21m38s495.png"
       },
       {
-        "id": "greek_tv:ert:bcd782d7:agria-ellada-31",
-        "title": "Χαράδρα Αώου – Νταβάλιστα",
+        "id": "greek_tv:ert:bcd782d7:agria-ellada-35",
+        "title": "Νέστος",
         "season": 1,
         "episode": 7,
-        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-10h52m17s611.png"
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-12h35m05s551.png"
       },
       {
         "id": "greek_tv:ert:bcd782d7:agria-ellada-33",
@@ -56,39 +56,39 @@
         "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-12h34m38s437.png"
       },
       {
-        "id": "greek_tv:ert:bcd782d7:agria-ellada-32",
-        "title": "Κερκίνη",
-        "season": 1,
-        "episode": 9,
-        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-12h33m54s082.png"
-      },
-      {
         "id": "greek_tv:ert:bcd782d7:agria-ellada-34",
         "title": "Όλυμπος",
         "season": 1,
-        "episode": 10,
+        "episode": 9,
         "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-12h34m52s943.png"
-      },
-      {
-        "id": "greek_tv:ert:bcd782d7:agria-ellada-35",
-        "title": "Νέστος",
-        "season": 1,
-        "episode": 11,
-        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-12h35m05s551.png"
-      },
-      {
-        "id": "greek_tv:ert:bcd782d7:agria-ellada-36",
-        "title": "Κορώνεια - Βόλβη",
-        "season": 1,
-        "episode": 12,
-        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-12h35m13s206.png"
       },
       {
         "id": "greek_tv:ert:bcd782d7:agria-ellada-37",
         "title": "Αξιός",
         "season": 1,
-        "episode": 13,
+        "episode": 10,
         "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-12h35m24s502.png"
+      },
+      {
+        "id": "greek_tv:ert:bcd782d7:agria-ellada-31",
+        "title": "Χαράδρα Αώου – Νταβάλιστα",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-10h52m17s611.png"
+      },
+      {
+        "id": "greek_tv:ert:bcd782d7:agria-ellada-32",
+        "title": "Κερκίνη",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-12h33m54s082.png"
+      },
+      {
+        "id": "greek_tv:ert:bcd782d7:agria-ellada-36",
+        "title": "Κορώνεια - Βόλβη",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/wunderland/vlcsnap-2025-10-07-12h35m13s206.png"
       },
       {
         "id": "greek_tv:ert:bcd782d7:agria-ellada-metsovo-i-salamandra-tis-fotias",

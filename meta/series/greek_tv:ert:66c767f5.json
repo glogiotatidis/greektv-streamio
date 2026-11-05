@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:66c767f5",
+    "type": "series",
+    "name": "67ο Φεστιβάλ Κινηματογράφου Θεσσαλονίκης",
+    "poster": "https://files2.app.ertflix.gr/2026/festivals/67o-phestibal-kinematographou-thessalonikes/67o-festival-kinima-thess-horizontalposter.jpg",
+    "background": "https://files2.app.ertflix.gr/2026/festivals/67o-phestibal-kinematographou-thessalonikes/67o-festival-kinima-thess-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:66c767f5:67o-phestibal-kinematographou-thessalonikes-1",
+        "title": "Μέρα 1η",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261105-tiff-day1.jpg"
+      }
+    ]
+  }
+}

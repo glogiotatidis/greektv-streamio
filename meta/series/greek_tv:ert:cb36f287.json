@@ -21,11 +21,11 @@
         "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/ta-ellenika-niata-polemoun-to-nazismo.jpg"
       },
       {
-        "id": "greek_tv:ert:cb36f287:marturies-2",
-        "title": "Ιωάννης Γεωργάκης - Μνήμες Του ’40",
+        "id": "greek_tv:ert:cb36f287:marturies-4",
+        "title": "Η Απελευθέρωση Της Θεσσαλονίκης",
         "season": 1,
         "episode": 3,
-        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/ioannes-georgakes-mnemes-tou-40.jpg"
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/e-apeleutherose-tes-thessalonikes.jpg"
       },
       {
         "id": "greek_tv:ert:cb36f287:marturies-3",
@@ -35,11 +35,11 @@
         "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/e-kedeia-tou-palama.jpg"
       },
       {
-        "id": "greek_tv:ert:cb36f287:marturies-4",
-        "title": "Η Απελευθέρωση Της Θεσσαλονίκης",
+        "id": "greek_tv:ert:cb36f287:marturies-2",
+        "title": "Ιωάννης Γεωργάκης - Μνήμες Του ’40",
         "season": 1,
         "episode": 5,
-        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/e-apeleutherose-tes-thessalonikes.jpg"
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/martyries/ioannes-georgakes-mnemes-tou-40.jpg"
       }
     ]
   }

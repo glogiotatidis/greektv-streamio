@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "greek_tv:ert:66c767f5",
+      "type": "series",
+      "name": "67ο Φεστιβάλ Κινηματογράφου Θεσσαλονίκης",
+      "poster": "https://files2.app.ertflix.gr/2026/festivals/67o-phestibal-kinematographou-thessalonikes/67o-festival-kinima-thess-horizontalposter.jpg"
+    },
+    {
       "id": "greek_tv:ert:8de9addd",
       "type": "series",
       "name": "Κουτσουπιές",
@@ -79,10 +85,10 @@
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/live-now/live-now-new/live-now-logo-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:d8c3b682",
+      "id": "greek_tv:ert:a32816d1",
       "type": "series",
-      "name": "News Room",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/news-room-new-photo/newsroom-siadimas-ertflix-img-new.jpg"
+      "name": "Live Now ΣΚ",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/live-now-sk/live-now-sabbatokyriako-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:4b176f45",
@@ -121,16 +127,16 @@
       "poster": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/superbet-league-2-2026-2027-flat-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:a32816d1",
-      "type": "series",
-      "name": "Live Now ΣΚ",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/live-now-sk/live-now-sabbatokyriako-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:23c536ae",
       "type": "series",
       "name": "Ποδόσφαιρο Γυναικών | Α' Εθνική 2026-27",
       "poster": "https://files2.app.ertflix.gr/files/sports/podosfairo-a1-gynaikwn/womensfootballleague26-27-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:d8c3b682",
+      "type": "series",
+      "name": "News Room",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/news-room-new-photo/newsroom-siadimas-ertflix-img-new.jpg"
     },
     {
       "id": "greek_tv:ert:98d742ed",
@@ -175,16 +181,16 @@
       "poster": "https://files2.app.ertflix.gr/2026/shows/osa-phernei-e-mneme/osaferneihmnimi-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:c746c86f",
-      "type": "series",
-      "name": "Cool Crips on Tour",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/cool-crips-on-tour/cc/cool-crips-on-tour-cc-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:a8057a76",
       "type": "series",
       "name": "(AD, CC) Cool Crips on Tour",
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/cool-crips-on-tour/ad-cc/cool-crips-on-tour-ad-cc-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:c746c86f",
+      "type": "series",
+      "name": "Cool Crips on Tour",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/cool-crips-on-tour/cc/cool-crips-on-tour-cc-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:39538063",
@@ -337,10 +343,10 @@
       "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/apo-hlio-se-hlio/apo-hlio-se-hlio-ertflix-img-cc.jpg"
     },
     {
-      "id": "greek_tv:ert:8300898f",
+      "id": "greek_tv:ert:4e13db68",
       "type": "series",
-      "name": "mindZet",
-      "poster": "https://files2.app.ertflix.gr/2026/shows/mindzet/2026-2027-gfx/mindzet-ertflix-img.jpg"
+      "name": "Το Σκοτεινό Τρυγόνι",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/to-skoteino-trigoni/to-skotino-trigoni-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:82a92b18",
@@ -379,16 +385,16 @@
       "poster": "https://files2.app.ertflix.gr/2026/documentaries/come-on-balkans/ainte-balkania-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:4e13db68",
-      "type": "series",
-      "name": "Το Σκοτεινό Τρυγόνι",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/to-skoteino-trigoni/to-skotino-trigoni-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:e88efbe6",
       "type": "series",
       "name": "Έφηβοι Χωρίς Φίλτρα",
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/efivoi-xoris-filtra/efivoichorisfiltra-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:8300898f",
+      "type": "series",
+      "name": "mindZet",
+      "poster": "https://files2.app.ertflix.gr/2026/shows/mindzet/2026-2027-gfx/mindzet-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:57890c5e",

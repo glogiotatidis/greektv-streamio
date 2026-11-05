@@ -7,18 +7,18 @@
     "background": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-hbbtv-bg-new.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:a27343c7:one-way-ticket-5",
+        "title": "Λυών",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-lyon.jpg"
+      },
+      {
         "id": "greek_tv:ert:a27343c7:one-way-ticket-1",
         "title": "Βερολίνο",
         "season": 1,
-        "episode": 1,
-        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-berlin.jpg"
-      },
-      {
-        "id": "greek_tv:ert:a27343c7:one-way-ticket-2",
-        "title": "Κοπεγχάγη",
-        "season": 1,
         "episode": 2,
-        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-copenchagen.jpg"
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-berlin.jpg"
       },
       {
         "id": "greek_tv:ert:a27343c7:one-way-ticket-3",
@@ -28,18 +28,18 @@
         "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-barcelona.jpg"
       },
       {
+        "id": "greek_tv:ert:a27343c7:one-way-ticket-2",
+        "title": "Κοπεγχάγη",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-copenchagen.jpg"
+      },
+      {
         "id": "greek_tv:ert:a27343c7:one-way-ticket-4",
         "title": "Λωζάνη",
         "season": 1,
-        "episode": 4,
-        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-lozani.jpg"
-      },
-      {
-        "id": "greek_tv:ert:a27343c7:one-way-ticket-5",
-        "title": "Λυών",
-        "season": 1,
         "episode": 5,
-        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-lyon.jpg"
+        "thumbnail": "https://files2.app.ertflix.gr/files/elllinika-docs/one-way-ticket/one-way-ticket-lozani.jpg"
       },
       {
         "id": "greek_tv:ert:a27343c7:one-way-ticket-6",

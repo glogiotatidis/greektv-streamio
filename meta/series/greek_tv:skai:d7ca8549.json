@@ -7,13 +7,6 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:d7ca8549:2026-10-20-15",
-        "title": "Επεισόδιο 37",
-        "season": 1,
-        "episode": 37,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_37.jpg"
-      },
-      {
         "id": "greek_tv:skai:d7ca8549:2026-10-21-15",
         "title": "Επεισόδιο 38",
         "season": 1,
@@ -88,6 +81,13 @@
         "title": "Επεισόδιο 48",
         "season": 1,
         "episode": 48,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_48.jpg"
+      },
+      {
+        "id": "greek_tv:skai:d7ca8549:2026-11-05-15",
+        "title": "Επεισόδιο 49",
+        "season": 1,
+        "episode": 49,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg"
       }
     ]
