@@ -19,12 +19,6 @@
       "poster": "https://files2.app.ertflix.gr/2026/shows/perimetros-26-27/perimetros-ertflix-img-2026-2027.jpg"
     },
     {
-      "id": "greek_tv:ert:e11c9e5a",
-      "type": "series",
-      "name": "14ο Φεστιβάλ Κινηματογράφου Χανίων",
-      "poster": "https://files2.app.ertflix.gr/2026/festivals/14o-cff/14o-chania-film-festival-horizontalposter.jpg"
-    },
-    {
       "id": "greek_tv:ert:e536dbd8",
       "type": "series",
       "name": "Μέρα με Χρώμα",
@@ -43,16 +37,28 @@
       "poster": "https://files2.app.ertflix.gr/syndesies-new/syndeseis2526-ertflix-img-new.jpg"
     },
     {
-      "id": "greek_tv:ert:3ab63262",
-      "type": "series",
-      "name": "Off the Record",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/off-the-record-ertflix-poster.jpg"
-    },
-    {
       "id": "greek_tv:ert:3b128a1a",
       "type": "series",
       "name": "Μετά τις Ειδήσεις",
       "poster": "https://files2.app.ertflix.gr/2026/news24/meta-tis-eideseis/meta-tis-eidhseis-horizontalposter.jpg"
+    },
+    {
+      "id": "greek_tv:ert:b6a3ed60",
+      "type": "series",
+      "name": "Ποδόσφαιρο Σάλας | Α' Εθνική 2026-27",
+      "poster": "https://files2.app.ertflix.gr/files/sports/soccer-sallas-2026-27/futsalsuperleague26-27-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:e11c9e5a",
+      "type": "series",
+      "name": "14ο Φεστιβάλ Κινηματογράφου Χανίων",
+      "poster": "https://files2.app.ertflix.gr/2026/festivals/14o-cff/14o-chania-film-festival-horizontalposter.jpg"
+    },
+    {
+      "id": "greek_tv:ert:3ab63262",
+      "type": "series",
+      "name": "Off the Record",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/off-the-record-ertflix-poster.jpg"
     },
     {
       "id": "greek_tv:ert:42e26a37",
@@ -187,16 +193,16 @@
       "poster": "https://files2.app.ertflix.gr/2026/shows/synora-26-27/sta-synora-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:b4d43cbd",
+      "id": "greek_tv:ert:34597924",
       "type": "series",
-      "name": "Forcé",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/force-2026-27-ertflix-img.jpg"
+      "name": "Τοκ - Τοκ",
+      "poster": "https://files2.app.ertflix.gr/files/paidika/tok-tok/tok-tok-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:b6a3ed60",
+      "id": "greek_tv:ert:b78206b9",
       "type": "series",
-      "name": "Ποδόσφαιρο Σάλας | Α' Εθνική 2026-27",
-      "poster": "https://files2.app.ertflix.gr/files/sports/soccer-sallas-2026-27/futsalsuperleague26-27-ertflix-img.jpg"
+      "name": "Ένας κι Ένας",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/enas-ki-enas/2026-2027/2026-2027-enas-ki-enas-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:c745e384",
@@ -223,22 +229,16 @@
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/sto-kentro-ertflix-img.jpg"
     },
     {
+      "id": "greek_tv:ert:b4d43cbd",
+      "type": "series",
+      "name": "Forcé",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/force-2026-27-ertflix-img.jpg"
+    },
+    {
       "id": "greek_tv:ert:a37db29d",
       "type": "series",
       "name": "Ευθέως",
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/eythews-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:b78206b9",
-      "type": "series",
-      "name": "Ένας κι Ένας",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/enas-ki-enas/2026-2027/2026-2027-enas-ki-enas-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:34597924",
-      "type": "series",
-      "name": "Τοκ - Τοκ",
-      "poster": "https://files2.app.ertflix.gr/files/paidika/tok-tok/tok-tok-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:55d2768c",
