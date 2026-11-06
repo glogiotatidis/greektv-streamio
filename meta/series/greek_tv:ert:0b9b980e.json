@@ -425,6 +425,41 @@
         "season": 1,
         "episode": 60,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/istorima-ep60.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-103",
+        "title": "Ο Πρώτος Κατακτητής του Ολύμπου",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds022732-0001-istorima-s02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-104",
+        "title": "Ο Τελευταίος Βοσκός του Ολύμπου",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds022732-0002-istorima-s02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-105",
+        "title": "Ο Θρυλικός Λήσταρχος του Ολύμπου",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds022732-0003-istorima-s02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-106",
+        "title": "Όμηρος του Λήσταρχου Γιαγκούλα",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds022732-0004-istorima-s02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-107",
+        "title": "Το “Στοιχειωμένο” Χωριό",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds022732-0005-istorima-s02.jpg"
       }
     ]
   }

@@ -7,87 +7,94 @@
     "background": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:106cd1b4:dvpf2ddjocqmstc89ejcj6q2",
+        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 06/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
         "id": "greek_tv:ant1:106cd1b4:ga260vhplktlm43sg4cjddfe",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 05/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:k470l8mnpvkahp4z7ma0qn03",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 04/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:kgaeh844dmlwqhzjtmhz1c7r",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 03/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:k4q05s1bi0ggbg953hkhe084",
-        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 02/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:uzo2nffrtuh0v0j2g0h199s7",
-        "title": "Η προφυλακισμένη γιατρός έκανε ινουσφαίρεση στην κόρη της και σε ένα 15χρονο κορίτσι",
+        "id": "greek_tv:ant1:106cd1b4:yqkxs7mzla3epn6o53cigyvy",
+        "title": "Για πρώτη φορά η μαρτυρία της αναισθησιολόγου του ιατρείου της Καρνέαδου",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:wtf6ue87oftgmy2xmd1sih69",
-        "title": "Ερωτήματα για τις επικοινωνίες κρατικών λειτουργών της Ρόδου στην υπόθεση του κυκλώματος του \"Μr. Χωριάτικο\" Η προϊσταμένη Γραφείου Τύπου Περιφέρειας Δωδεκανήσου, Ρένα Παυλάκη, μιλάει στις Αποκαλύψεις.",
+        "id": "greek_tv:ant1:106cd1b4:amjhipxqpjq7x18hhvp7vgsw",
+        "title": "Η μητέρα της Ειρήνης Μουρτζούκου στις Αποκαλύψεις",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:qwd915xz3tkr7s98toczpxzl",
-        "title": "Υπόθεση ατροπίνης: Με κοκτέιλ τριών ουσιών προσπάθησε να δηλητηριάσει τον γιατρό η πρώην του Η δικηγόρος του στρατιωτικού γιατρού, Αναστασία Κερχανατζίδου, μιλάει στις Αποκαλύψεις.",
+        "id": "greek_tv:ant1:106cd1b4:rmq11o6oi5lqzdpv80afa2rd",
+        "title": "Ο Όθωνας Παπαδόπουλος, δικηγόρος Γ. Μουρτζούκου, μιλάει στις Αποκαλύψεις Οθ. Παπαδόπουλος: \"Ήταν αναμενόμενη η κίνηση για να δηλώσουμε παράσταση προς υποστήριξη της...",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:f2cv3rhca2glzsatlmjsb0oh",
-        "title": "ΜΚΟ: Ο δικηγόρος του αδελφού του Κ. Φιρινίδη, Αθ. Ελευθεριάδης, μιλάει στις Αποκαλύψεις",
+        "id": "greek_tv:ant1:106cd1b4:zxbpcqwvt4ujq8drvb8rzpsp",
+        "title": "Ο δικηγόρος της Ε. Μουρτζούκου, Ν. Αλεξανδρής, μιλάει τις Αποκαλύψεις Ν. Αλεξανδρής: \"Η Ειρήνη θα πρέπει να δικαστεί μόνο για όσα έχει κάνει\".",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:rcmyrhgczlwzrripy01wd9eh",
-        "title": "ΜΚΟ: Ο 37χρονος δήλωσε ότι δύο ημέρες πριν συλληφθεί έπεσε θύμα ξυλοδαρμού Μαυρισμένο μάτι, κάταγμα στη μύτη και χτύπημα στο σαγόνι.",
+        "id": "greek_tv:ant1:106cd1b4:zvjvw25fltk0789akl3mhsjs",
+        "title": "Εκρηκτικό το κλίμα στην έναρξη της δίκης της Ε. Μουρτζούκου",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:wcezv66ga3iehixxsffgwnz6",
-        "title": "ΜΚΟ: Προκάλεσαν εσκεμμένα την απενεργοποίηση του τραπεζικού λογαριασμού μητέρας παιδιού με καρκίνο Ο Αλέξιος Αθανασόπουλος, δικηγόρος οικογένειας, μιλάει στις Αποκαλύψεις",
+        "id": "greek_tv:ant1:106cd1b4:hdlxe53sw2fri3832lhv4nqd",
+        "title": "Η Ελ. Τσότσου, δικηγόρος Ε. Μουρτζούκου, μιλάει στις Αποκαλύψεις Ελ. Τσότσου: \"Η ένταση με την Ειρήνη ξεκίνησε όταν δηλώθηκε παράσταση κατηγορίας από την πλευρά του...",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:wu4259l8y16xw3p0enp3o8i3",
-        "title": "Προφυλακίστηκε ο 37χρονος για την αμαρτωλή ΜΚΟ Δήλωσε μετανιωμένος, συντετριμμένος και εξαρτημένος από τον τζόγο.",
+        "id": "greek_tv:ant1:106cd1b4:tza0w3msjf99xg8yhmxjnw4n",
+        "title": "Διεκόπη η δίκη της Ε. Μουρτζούκου Η Βασιλική Ντζελβέ, δικηγόρος Κατερίνας Ροδίτη, μιλάει στις Αποκαλύψεις",
         "season": 1,
         "episode": 11,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:106cd1b4:jejqro3xuoakbusywc36scf1",
+        "title": "Ιατρείο Καρνεάδου: Η μαρτυρία της αναισθησιολόγου Η πρόταση για συνεργασία, το ταξίδι στη Γερμανία και η εκπαίδευση για το χειρισμό του μηχανήματος",
+        "season": 1,
+        "episode": 12,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:c6aewf4q6gzaxq64euikkpxm",
         "title": "Αποκαλύψεις - Καθημερινά στις 14:00",
         "season": 1,
-        "episode": 12,
+        "episode": 13,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       }
     ]

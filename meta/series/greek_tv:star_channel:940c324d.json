@@ -7,57 +7,57 @@
     "background": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png",
     "videos": [
       {
-        "id": "greek_tv:star_channel:940c324d:22102026-trohos-tis-tuhis",
-        "title": "22/10/2026",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"
-      },
-      {
         "id": "greek_tv:star_channel:940c324d:23102026-trohos-tis-tuhis",
         "title": "23/10/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 1,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:940c324d:26102026-trohos-tis-tuhis",
         "title": "26/10/2026",
         "season": 1,
-        "episode": 3,
+        "episode": 2,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:940c324d:27102026-trohos-tis-tuhis",
         "title": "27/10/2026",
         "season": 1,
-        "episode": 4,
+        "episode": 3,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:940c324d:29102026-trohos-tis-tuhis",
         "title": "29/10/2026",
         "season": 1,
-        "episode": 5,
+        "episode": 4,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:940c324d:30102026-trohos-tis-tuhis",
         "title": "30/10/2026",
         "season": 1,
-        "episode": 6,
+        "episode": 5,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:940c324d:02112026-trohos-tis-tuhis",
         "title": "02/11/2026",
         "season": 1,
-        "episode": 7,
+        "episode": 6,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:940c324d:03112026-trohos-tis-tuhis",
         "title": "03/11/2026",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"
+      },
+      {
+        "id": "greek_tv:star_channel:940c324d:6112026-trohos-tis-tuhis",
+        "title": "6112026 Trohos Tis Tuhis",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"

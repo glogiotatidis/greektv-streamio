@@ -7,16 +7,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/ellinikes_seires/ble_ores/ble_wres_landscape1.jpg"
     },
     {
+      "id": "greek_tv:skai:0bf68800",
+      "type": "series",
+      "name": "Στοργή",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/storgi_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:09d30e99",
       "type": "series",
       "name": "Αντώνιος & Κλεοπάτρα",
       "poster": "https://media.skaitv.gr/images/1280/0/files/ellinikes_seires/antonios__kleopatra/2026_2027/antonios_kleopatra_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:4a16248c",
-      "type": "series",
-      "name": "Τότε και Τώρα",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/tote_vs_tora/2026_2027/tote_kai_twra_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:7bb6ae88",
@@ -25,10 +25,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/pantheoir-landscape-new.jpg"
     },
     {
-      "id": "greek_tv:skai:0bf68800",
+      "id": "greek_tv:skai:e6514508",
       "type": "series",
-      "name": "Στοργή",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/storgi_landscape.jpg"
+      "name": "Γλυκάνισος",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/glykanisos_landscape_1.jpg"
     },
     {
       "id": "greek_tv:skai:6a3be0cd",
@@ -37,22 +37,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/agria_gi_landscape_1.jpg"
     },
     {
-      "id": "greek_tv:skai:e6514508",
-      "type": "series",
-      "name": "Γλυκάνισος",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/glykanisos_landscape_1.jpg"
-    },
-    {
       "id": "greek_tv:skai:66705314",
       "type": "series",
       "name": "Bahar - Καινούργια Αρχή",
       "poster": "https://media.skaitv.gr/images/1280/0/files/bahar/logos/bl_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:53191723",
-      "type": "series",
-      "name": "8 Λέξεις",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/1920x1080_8lexeis-b_1.jpg"
     },
     {
       "id": "greek_tv:skai:44d8b4ff",
@@ -61,16 +49,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/voice/2026_2027/voice_new_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:d7ca8549",
-      "type": "series",
-      "name": "Studio στις 3",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg"
-    },
-    {
       "id": "greek_tv:skai:b3714919",
       "type": "series",
       "name": "Διαχωρίζω τη Θέση Μου",
       "poster": "https://media.skaitv.gr/images/1280/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:4a16248c",
+      "type": "series",
+      "name": "Τότε και Τώρα",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/tote_vs_tora/2026_2027/tote_kai_twra_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:17bf8bd1",
@@ -79,10 +67,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/all_in/2026_2027/all_in_landscape1.jpg"
     },
     {
-      "id": "greek_tv:skai:5b34d49a",
+      "id": "greek_tv:skai:d7ca8549",
       "type": "series",
-      "name": "Dragons’ Den",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/dragons_den/2026_2027/dd_landscape.jpg"
+      "name": "Studio στις 3",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg"
     },
     {
       "id": "greek_tv:skai:7fcc3c0c",
@@ -91,16 +79,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/stin_agkalia_tou_fani/2026_2027/fanis_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:e35b780e",
+      "id": "greek_tv:skai:53191723",
       "type": "series",
-      "name": "Happy Traveller",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/happy_traveller/2026_2027/happy_traveller_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:6448dbc8",
-      "type": "series",
-      "name": "Kitchen Lab",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/kitchen_lab/2026_2027/kithen_lab_landscape.jpg"
+      "name": "8 Λέξεις",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/1920x1080_8lexeis-b_1.jpg"
     },
     {
       "id": "greek_tv:skai:04d929c3",
@@ -109,10 +91,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/voice/2025_2026/logos/voice_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:d00746fb",
+      "id": "greek_tv:skai:404a758a",
       "type": "series",
-      "name": "Pet Stories",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/pet_stories/logos/pet_landscapejpg.jpg"
+      "name": "Αντώνης Βαρδής: Με Μια Αγκαλιά Τραγούδια",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/psichagogia/2024_2025/vardis_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:1b429fbc",
@@ -121,34 +103,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/psichagogia/2025_2026/poios_eisai_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:404a758a",
-      "type": "series",
-      "name": "Αντώνης Βαρδής: Με Μια Αγκαλιά Τραγούδια",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/psichagogia/2024_2025/vardis_landscape.jpg"
-    },
-    {
       "id": "greek_tv:skai:ab42ce26",
       "type": "series",
       "name": "Γειτονιές στο Πιάτο",
       "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/geitones_sto_piato_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:441c8422",
-      "type": "series",
-      "name": "MOVIETIME",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/tainies/sxedio_apodrasis_2_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:19a35167",
-      "type": "series",
-      "name": "Μέλλον Ένα με Ακουστική Περιγραφή (AD)",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_ad_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:ec495706",
-      "type": "series",
-      "name": "Μέλλον Ένα",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:d72ef6cd",
@@ -157,16 +115,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/media_tv-editors/2022-fotos/202203/bbq_stories_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:8fa5503b",
+      "id": "greek_tv:skai:6448dbc8",
       "type": "series",
-      "name": "Συνταγές Ψυχής",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/psixouli_landscape.jpg"
+      "name": "Kitchen Lab",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/kitchen_lab/2026_2027/kithen_lab_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:b2f9c4d9",
+      "id": "greek_tv:skai:ec495706",
       "type": "series",
-      "name": "Ώρα για Φαγητό με την Αργυρώ",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
+      "name": "Μέλλον Ένα",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:2cee31b6",
@@ -175,10 +133,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/protagonistes/2026_2027/prwtagwnistes1_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:d1def1ef",
+      "id": "greek_tv:skai:5b34d49a",
       "type": "series",
-      "name": "Prime Time",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/prime_time/2026_2027/prime_time_s3_landscape.jpg"
+      "name": "Dragons’ Den",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/dragons_den/2026_2027/dd_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:161b6c19",
@@ -187,10 +145,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/protagonistes_mikrou_mikous/theodwrakis_movie1_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:3a0e23be",
+      "id": "greek_tv:skai:441c8422",
       "type": "series",
-      "name": "Με Λένε Γιώργο",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mazw_landscape.jpg"
+      "name": "MOVIETIME",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/tainies/filakas_aggelos_epese_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:383e7fb3",
@@ -199,16 +157,28 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/xiliosto/sto_xiliosto_new_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:8fa5503b",
+      "type": "series",
+      "name": "Συνταγές Ψυχής",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/psixouli_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:bedc1e66",
       "type": "series",
       "name": "Φάκελος 17Ν",
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/fakelos_17n/fakelos_17n_landscale.jpg"
     },
     {
-      "id": "greek_tv:skai:f26d1a38",
+      "id": "greek_tv:skai:3a0e23be",
       "type": "series",
-      "name": "Takis.",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/takis_landscape.jpg"
+      "name": "Με Λένε Γιώργο",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mazw_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:b2f9c4d9",
+      "type": "series",
+      "name": "Ώρα για Φαγητό με την Αργυρώ",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
     },
     {
       "id": "greek_tv:skai:fa309bea",
@@ -223,22 +193,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/savvopoulos/savvopoulos1_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:a2c818b8",
-      "type": "series",
-      "name": "Η Ζωή σου Όλη",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/zoi_sou_oli/2025_2026/logos/i_zwi_sou_oli_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:8b16f2d3",
-      "type": "series",
-      "name": "Σκοτεινή Δεκαετία 1964-1974",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg"
-    },
-    {
       "id": "greek_tv:skai:bb0dd0d2",
       "type": "series",
       "name": "Κύπρος: 50 Χρόνια μετά την Εισβολή του Αττίλα",
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/new_kypros1.jpg"
+    },
+    {
+      "id": "greek_tv:skai:8ff8641b",
+      "type": "series",
+      "name": "Μικρά Ασία",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mikrasia.jpg"
     },
     {
       "id": "greek_tv:skai:7f261c6c",
@@ -247,10 +211,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/new_katastrofes_land.jpg"
     },
     {
-      "id": "greek_tv:skai:8ff8641b",
+      "id": "greek_tv:skai:8b16f2d3",
       "type": "series",
-      "name": "Μικρά Ασία",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mikrasia.jpg"
+      "name": "Σκοτεινή Δεκαετία 1964-1974",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg"
     },
     {
       "id": "greek_tv:skai:5742ed47",
@@ -271,10 +235,28 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mellon_stemmatos_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:a2c818b8",
+      "type": "series",
+      "name": "Η Ζωή σου Όλη",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/zoi_sou_oli/2025_2026/logos/i_zwi_sou_oli_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:1df2e99d",
       "type": "series",
       "name": "The Presidents",
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/presidents/presidents_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:19a35167",
+      "type": "series",
+      "name": "Μέλλον Ένα με Ακουστική Περιγραφή (AD)",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_ad_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:d00746fb",
+      "type": "series",
+      "name": "Pet Stories",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/pet_stories/logos/pet_landscapejpg.jpg"
     },
     {
       "id": "greek_tv:skai:bb308465",
@@ -283,28 +265,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/israel/israel_palestinians_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:279bb5b0",
-      "type": "series",
-      "name": "Ειδήσεις Ι Βραδινό Δελτίο",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/flitzani_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:65fabb86",
-      "type": "series",
-      "name": "Ειδήσεις Ι Μεσημβρινό Δελτίο",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
-    },
-    {
       "id": "greek_tv:skai:cddaf72d",
       "type": "series",
       "name": "Δελτίο στη Νοηματική",
       "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:2b316d82",
+      "id": "greek_tv:skai:65fabb86",
       "type": "series",
-      "name": "ΣΚΑΪ Καιρός",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/kairos_new_landscape.jpg"
+      "name": "Ειδήσεις Ι Μεσημβρινό Δελτίο",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/iwannidis_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:f2a3f820",
@@ -319,16 +289,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
     },
     {
-      "id": "greek_tv:skai:e8d3cfe5",
+      "id": "greek_tv:skai:f26d1a38",
       "type": "series",
-      "name": "Αταίριαστοι",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg"
-    },
-    {
-      "id": "greek_tv:skai:05ca6b09",
-      "type": "series",
-      "name": "Σήμερα",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/simera_landscape_1.jpg"
+      "name": "Takis.",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/takis_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:86962bb8",
@@ -337,22 +301,22 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:b368edc1",
-      "type": "series",
-      "name": "Όπου Υπάρχει Ελλάδα",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/opou_yparxei_ellada/2024_2025/logos/ellada_new_landscape.jpg"
-    },
-    {
       "id": "greek_tv:skai:25e6ca35",
       "type": "series",
       "name": "Weekend Live",
       "poster": "https://media.skaitv.gr/images/1280/0/files/weekend_live/2026_2027/weekwnd_live_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:619b4323",
+      "id": "greek_tv:skai:05ca6b09",
       "type": "series",
-      "name": "Ζω Καλά",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/zo_kala/2026_2027/zw_kala_landscape.jpg"
+      "name": "Σήμερα",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/simera_landscape_1.jpg"
+    },
+    {
+      "id": "greek_tv:skai:e8d3cfe5",
+      "type": "series",
+      "name": "Αταίριαστοι",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg"
     },
     {
       "id": "greek_tv:skai:5675e8cd",
@@ -361,28 +325,28 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/eco_green_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:5a3e5d5a",
-      "type": "series",
-      "name": "Η Ευρωπαϊκή Στήριξη στην Ελλάδα",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2025_2026/extra_ekpompes/european_commission_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:303e1052",
-      "type": "series",
-      "name": "Δράσεις από το Ίδρυμα Vodafone",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2025_2026/vodafone.jpg"
-    },
-    {
       "id": "greek_tv:skai:582e1281",
       "type": "series",
       "name": "ALZHEIMER ΜΙΛΑΜΕ ΑΝΟΙΧΤΑ",
       "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/enimerwsi/24-7_1080x1080_alzheimer2_1280x720.jpg"
     },
     {
-      "id": "greek_tv:skai:91f3bebb",
+      "id": "greek_tv:skai:2b316d82",
       "type": "series",
-      "name": "Συμβουλές Ενέργειας από το ΔΕΗ My Energy Coach",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/emporiko/dei_land1.jpg"
+      "name": "ΣΚΑΪ Καιρός",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/kairos_new_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:5a3e5d5a",
+      "type": "series",
+      "name": "Η Ευρωπαϊκή Στήριξη στην Ελλάδα",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2025_2026/extra_ekpompes/european_commission_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:d1def1ef",
+      "type": "series",
+      "name": "Prime Time",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/prime_time/2026_2027/prime_time_s3_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:34b4b592",
@@ -391,10 +355,34 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/ektakti_epikairotita.jpg"
     },
     {
+      "id": "greek_tv:skai:b368edc1",
+      "type": "series",
+      "name": "Όπου Υπάρχει Ελλάδα",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/opou_yparxei_ellada/2024_2025/logos/ellada_new_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:619b4323",
+      "type": "series",
+      "name": "Ζω Καλά",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/zo_kala/2026_2027/zw_kala_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:6f06ceee",
       "type": "series",
       "name": "Η Αμερική Ψηφίζει",
       "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/ameriki_psifizei_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:279bb5b0",
+      "type": "series",
+      "name": "Ειδήσεις Ι Βραδινό Δελτίο",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/flitzani_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:91f3bebb",
+      "type": "series",
+      "name": "Συμβουλές Ενέργειας από το ΔΕΗ My Energy Coach",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/emporiko/dei_land1.jpg"
     },
     {
       "id": "greek_tv:skai:36874385",
@@ -409,6 +397,18 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/gbl/stoiximan_gpl_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:5a6ffe9e",
+      "type": "series",
+      "name": "8ο ΤΟΥΡΝΟΥΑ ΜΠΑΣΚΕΤ ΠΑΥΛΟΣ ΓΙΑΝΝΑΚΟΠΟΥΛΟΣ 2026",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/giannakopoulos/giannakopoulos_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:39e7ad6b",
+      "type": "series",
+      "name": "Η Δίκη στον ΣΚΑΪ",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2024_2025/diki_land.jpg"
+    },
+    {
       "id": "greek_tv:skai:e3a2013f",
       "type": "series",
       "name": "SUPERBET ΚΥΠΕΛΛΟ ΕΛΛΑΔΑΣ TV ONLY",
@@ -421,22 +421,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/monobala/monobala_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:39e7ad6b",
-      "type": "series",
-      "name": "Η Δίκη στον ΣΚΑΪ",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2024_2025/diki_land.jpg"
-    },
-    {
       "id": "greek_tv:skai:7005b395",
       "type": "series",
       "name": "STOIXIMAN SUPER CUP BASKET 2026",
       "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/super_cup_basket/super_cup_landscape_1.jpg"
-    },
-    {
-      "id": "greek_tv:skai:5a6ffe9e",
-      "type": "series",
-      "name": "8ο ΤΟΥΡΝΟΥΑ ΜΠΑΣΚΕΤ ΠΑΥΛΟΣ ΓΙΑΝΝΑΚΟΠΟΥΛΟΣ 2026",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/giannakopoulos/giannakopoulos_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:cc71d4e8",
@@ -455,6 +443,18 @@
       "type": "series",
       "name": "Τα Φιλικά Προετοιμασίας του Παναθηναϊκού",
       "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/panathinaikos/filikos_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:e35b780e",
+      "type": "series",
+      "name": "Happy Traveller",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/happy_traveller/2026_2027/happy_traveller_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:303e1052",
+      "type": "series",
+      "name": "Δράσεις από το Ίδρυμα Vodafone",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2025_2026/vodafone.jpg"
     }
   ]
 }

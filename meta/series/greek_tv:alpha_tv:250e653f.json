@@ -75,6 +75,13 @@
         "season": 1,
         "episode": 10,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-mia-gineka-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:250e653f:778793-s1-epeisodio-11-3",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-mia-gineka-cover-horizontal-1.jpg"
       }
     ]
   }

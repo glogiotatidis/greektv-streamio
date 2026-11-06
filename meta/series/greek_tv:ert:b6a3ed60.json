@@ -28,17 +28,10 @@
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-salas/20261020-panathinaikos-paok-hls.jpg"
       },
       {
-        "id": "greek_tv:ert:b6a3ed60:podosphairo-salas-a-ethnike-2026-3",
-        "title": "Α.Σ.Ε. Δούκα - Παναθηναϊκός Α.Ο. | 3η Αγωνιστική | 06.10.26",
-        "season": 1,
-        "episode": 4,
-        "thumbnail": "https://files2.app.ertflix.gr/files/sports/futsal-sl-2025-2026/20261006-doukas-pao-hls.jpg"
-      },
-      {
         "id": "greek_tv:ert:b6a3ed60:podosphairo-salas-a-ethnike-2026-1",
         "title": "Α.Ο. Αθλητικού Οργανισμού Δήμου Κορυδαλλού - Ερμής Ζωγράφου | 1η Αγωνιστική | 22.09.26",
         "season": 1,
-        "episode": 5,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-salas/20260923-podosfairo-salas-koridallos-zografou.jpg"
       }
     ]

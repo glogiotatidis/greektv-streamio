@@ -383,6 +383,13 @@
         "season": 4,
         "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-s04-ep02-haouas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-53",
+        "title": "Σωτήρης Σόρογκας",
+        "season": 4,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-trailer-sorogasmxf-2026-11-03-09h49m25s165.jpg"
       }
     ]
   }

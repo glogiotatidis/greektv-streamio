@@ -19,6 +19,13 @@
         "season": 1,
         "episode": 2,
         "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Ntanta_ths_geitonias_960X600-1.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:bf96e796:epeisodio-3-125",
+        "title": "Επεισόδιο 3 -",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Ntanta_ths_geitonias_960X600-1.jpg"
       }
     ]
   }

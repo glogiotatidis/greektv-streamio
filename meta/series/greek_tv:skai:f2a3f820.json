@@ -7,6 +7,13 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/athlitika_sb_landscape.jpg",
     "videos": [
       {
+        "id": "greek_tv:skai:f2a3f820:2026-11-06-20",
+        "title": "ΣΚΑΪ Αθλητικά by SUPERBET 06/11/2026",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/athlitika_sb_landscape.jpg"
+      },
+      {
         "id": "greek_tv:skai:f2a3f820:2026-11-03-20",
         "title": "Επεισόδιο 64",
         "season": 1,

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "greek_tv:ant1:da74c78c",
+    "type": "series",
+    "name": "SUPER BALL SHOW",
+    "poster": "https://www.antenna.gr/imgHandler/1920/Site_GFX_HEADER_c02b9d3ae4.jpg",
+    "background": "https://www.antenna.gr/imgHandler/1920/Site_GFX_HEADER_c02b9d3ae4.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ant1:da74c78c:y0hslhjgvmln9unytqtft1vu",
+        "title": "Super Ball Show – Πρεμιέρα Παρασκευή στις 00:45",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Site_GFX_HEADER_c02b9d3ae4.jpg"
+      }
+    ]
+  }
+}
