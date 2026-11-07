@@ -1129,10 +1129,10 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-shows-wipe-out-usa-cover-horizontal.jpg"
     },
     {
-      "id": "greek_tv:ert:663b2d6f",
+      "id": "greek_tv:alpha_tv:01b95e8d",
       "type": "series",
-      "name": "Νωρίς - Νωρίς",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/2026-2027-noris-noris-ertflix-img.jpg"
+      "name": "Αυτοψία",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
     },
     {
       "id": "greek_tv:alpha_tv:3a5c2a90",
@@ -1171,10 +1171,10 @@
       "poster": "https://files2.app.ertflix.gr/2026/news24/mera-me-xroma/2026-2027-gfx/meramexrwma-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:01b95e8d",
+      "id": "greek_tv:ert:663b2d6f",
       "type": "series",
-      "name": "Αυτοψία",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+      "name": "Νωρίς - Νωρίς",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/2026-2027-noris-noris-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:932eca03",
@@ -1357,10 +1357,10 @@
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/enas-ki-enas/2026-2027/2026-2027-enas-ki-enas-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:c745e384",
+      "id": "greek_tv:ert:36ba2715",
       "type": "series",
-      "name": "Volley League Γυναικών 2026-2027",
-      "poster": "https://files2.app.ertflix.gr/files/sports/volleyleague-women-26-27/volley-league-gynaikon-2026-2027-ertflix-img.jpg"
+      "name": "Άμυνα Ζώνης",
+      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/amyna-zonis/amyna-zonis-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:94aa7a3b",
@@ -1411,16 +1411,16 @@
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/praim/praim-2026-27-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:36ba2715",
-      "type": "series",
-      "name": "Άμυνα Ζώνης",
-      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/amyna-zonis/amyna-zonis-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:6a2ddf74",
       "type": "series",
       "name": "Σκιές στο Περιστύλιο",
       "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/skies-sto-peristylio-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:c745e384",
+      "type": "series",
+      "name": "Volley League Γυναικών 2026-2027",
+      "poster": "https://files2.app.ertflix.gr/files/sports/volleyleague-women-26-27/volley-league-gynaikon-2026-2027-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:03b62698",

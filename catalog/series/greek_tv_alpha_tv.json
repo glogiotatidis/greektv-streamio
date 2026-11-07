@@ -277,6 +277,12 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-shows-wipe-out-usa-cover-horizontal.jpg"
     },
     {
+      "id": "greek_tv:alpha_tv:01b95e8d",
+      "type": "series",
+      "name": "Αυτοψία",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+    },
+    {
       "id": "greek_tv:alpha_tv:3a5c2a90",
       "type": "series",
       "name": "Σαββατοκύριακο με τον Μάνεση",
@@ -287,12 +293,6 @@
       "type": "series",
       "name": "Πρωταγωνιστές",
       "poster": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:01b95e8d",
-      "type": "series",
-      "name": "Αυτοψία",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
     }
   ]
 }
