@@ -7,45 +7,24 @@
     "background": "https://www.star.gr/tv/images/640x360/1/jpg/files/Masa_and_the_Bear_1920x1004.jpg",
     "videos": [
       {
-        "id": "greek_tv:star_channel:d7d6af2c:mirror-mirror-on-the-wall",
-        "title": "24/10/2026",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/Masa_and_the_Bear_1920x1004.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:d7d6af2c:above-the-sky",
-        "title": "24/10/2026",
-        "season": 1,
-        "episode": 2,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/Masa_and_the_Bear_1920x1004.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:d7d6af2c:progress-to-the-limit",
-        "title": "24/10/2026",
-        "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/Masa_and_the_Bear_1920x1004.jpg"
-      },
-      {
         "id": "greek_tv:star_channel:d7d6af2c:as-you-please",
         "title": "31/10/2026",
         "season": 1,
-        "episode": 4,
+        "episode": 1,
         "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/Masa_and_the_Bear_1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:d7d6af2c:merry-go-round",
         "title": "31/10/2026",
         "season": 1,
-        "episode": 5,
+        "episode": 2,
         "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/Masa_and_the_Bear_1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:d7d6af2c:pretty-is-as-pretty-does",
         "title": "31/10/2026",
         "season": 1,
-        "episode": 6,
+        "episode": 3,
         "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/Masa_and_the_Bear_1920x1004.jpg"
       }
     ]

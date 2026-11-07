@@ -13,6 +13,24 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-i-kores-tis-aretis-cover-horizontal.jpg"
     },
     {
+      "id": "greek_tv:alpha_tv:7d15f92d",
+      "type": "series",
+      "name": "Το Σόι σου",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/03/alphaty-series-to-soi-sou-cover-horozontal-hp-3.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:35ed0a8d",
+      "type": "series",
+      "name": "Φόνοι στο Καμπαναριό",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-fonoi-sto-kabanario-2-cover-horizontal-3.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:3d7bffbc",
+      "type": "series",
+      "name": "Αγαπημένες Σειρές: Μπαμπά, Σ΄αγαπώ!",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/02/alphatv-series-mpampa-sagapw-cover-horizontal1.jpg"
+    },
+    {
       "id": "greek_tv:alpha_tv:ee0003ae",
       "type": "series",
       "name": "Οικογενειακές Ιστορίες",
@@ -259,12 +277,6 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-shows-wipe-out-usa-cover-horizontal.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:01b95e8d",
-      "type": "series",
-      "name": "Αυτοψία",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
-    },
-    {
       "id": "greek_tv:alpha_tv:3a5c2a90",
       "type": "series",
       "name": "Σαββατοκύριακο με τον Μάνεση",
@@ -277,22 +289,10 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:35ed0a8d",
+      "id": "greek_tv:alpha_tv:01b95e8d",
       "type": "series",
-      "name": "Φόνοι στο Καμπαναριό",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-fonoi-sto-kabanario-2-cover-horizontal-3.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:7d15f92d",
-      "type": "series",
-      "name": "Το Σόι σου",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/03/alphaty-series-to-soi-sou-cover-horozontal-hp-3.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:3d7bffbc",
-      "type": "series",
-      "name": "Αγαπημένες Σειρές: Μπαμπά, Σ΄αγαπώ!",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/02/alphatv-series-mpampa-sagapw-cover-horizontal1.jpg"
+      "name": "Αυτοψία",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
     }
   ]
 }

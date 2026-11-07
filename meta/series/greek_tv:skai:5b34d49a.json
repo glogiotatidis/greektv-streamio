@@ -26,6 +26,13 @@
         "season": 1,
         "episode": 3,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/dragons_den/2026_2027/dragons_3.jpg"
+      },
+      {
+        "id": "greek_tv:skai:5b34d49a:2026-11-06-22",
+        "title": "Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/dragons_den/2026_2027/dd_landscape.jpg"
       }
     ]
   }
