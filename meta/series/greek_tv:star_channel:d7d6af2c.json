@@ -26,6 +26,27 @@
         "season": 1,
         "episode": 3,
         "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/Masa_and_the_Bear_1920x1004.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:d7d6af2c:hello-kids",
+        "title": "Hello Kids",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/Masa_and_the_Bear_1920x1004.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:d7d6af2c:gone-with-the-wand",
+        "title": "Gone With The Wand",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/Masa_and_the_Bear_1920x1004.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:d7d6af2c:grand-prix",
+        "title": "Grand Prix",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/1/jpg/files/Masa_and_the_Bear_1920x1004.jpg"
       }
     ]
   }

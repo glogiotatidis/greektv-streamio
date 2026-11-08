@@ -54,6 +54,13 @@
         "season": 1,
         "episode": 7,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/osa-fernei-h-mnhmh-ep07-vivliothiki-frontistirioy-argyroylophs-pontoy.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cbc9441:osa-phernei-e-mneme-8",
+        "title": "Οδός Τριπόδων",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/2e-photo-odos-tripodon.jpg"
       }
     ]
   }

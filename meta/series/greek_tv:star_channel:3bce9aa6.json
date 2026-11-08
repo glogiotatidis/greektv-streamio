@@ -89,6 +89,27 @@
         "season": 1,
         "episode": 12,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/oddbods-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:3bce9aa6:the-really-odd-parents",
+        "title": "The Really Odd Parents",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/oddbods-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:3bce9aa6:phoning-it-in",
+        "title": "Phoning It In",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/oddbods-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:3bce9aa6:i-love-fuse",
+        "title": "I Love Fuse",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/oddbods-1920x1080.jpg"
       }
     ]
   }

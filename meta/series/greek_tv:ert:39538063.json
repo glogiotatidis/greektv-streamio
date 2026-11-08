@@ -33,6 +33,13 @@
         "season": 2,
         "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/synora/20261031-synora.jpg"
+      },
+      {
+        "id": "greek_tv:ert:39538063:sunora-143",
+        "title": "Η Eπικαιρότητα στις Xώρες των Βαλκανίων | 07.11.26",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/synora/ps058558-0007-01-synora-s02-ep07-new-4mbps.jpg"
       }
     ]
   }

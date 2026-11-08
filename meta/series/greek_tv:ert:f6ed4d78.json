@@ -96,6 +96,13 @@
         "season": 1,
         "episode": 13,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262728-panionios-panseraikos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-30",
+        "title": "Πανσερραϊκός - Απόλλων Καλαμαριάς | 10η Αγωνιστική | 07.11.26",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262729-panseraikos-apollon.jpg"
       }
     ]
   }

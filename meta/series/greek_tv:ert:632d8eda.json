@@ -47,6 +47,13 @@
         "season": 1,
         "episode": 6,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/hxostouvorra-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:632d8eda:ekhos-tou-borra-7",
+        "title": "Τα Χρόνια του Εμφυλίου",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/stigmiotupo-othones-2026-11-03-131431.jpg"
       }
     ]
   }

@@ -5460,18 +5460,18 @@
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/pop-mageiriki/pop-mageiriki-tarantou.jpg"
       },
       {
-        "id": "greek_tv:ert:fe84da86:pop-mageirike-35",
-        "title": "Παναγιώτης Ραφαηλίδης - Κρίταμο, Φάβα Αμοργού, Ροδάκινα Νάουσας",
-        "season": 3,
-        "episode": 694,
-        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/pop-mageiriki/pop-mageiriki-rafailidis.jpg"
-      },
-      {
         "id": "greek_tv:ert:fe84da86:pop-mageirike-34",
         "title": "Ευθύμης Ζησάκης - Σφέλα, Σκόρδα Βύσσας Έβρου & Ξηρά σύκα Κύμης",
         "season": 3,
-        "episode": 695,
+        "episode": 694,
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/pop-mageiriki/pop-mageiriki-zisakis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe84da86:pop-mageirike-35",
+        "title": "Παναγιώτης Ραφαηλίδης - Κρίταμο, Φάβα Αμοργού, Ροδάκινα Νάουσας",
+        "season": 3,
+        "episode": 695,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/pop-mageiriki/pop-mageiriki-rafailidis.jpg"
       },
       {
         "id": "greek_tv:ert:fe84da86:pop-mageirike-798",

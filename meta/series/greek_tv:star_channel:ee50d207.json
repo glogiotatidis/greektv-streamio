@@ -61,6 +61,20 @@
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:ee50d207:straight-from-the-horses-mouth",
+        "title": "Straight From The Horses Mouth",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:ee50d207:a-magic-wand",
+        "title": "A Magic Wand",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
       }
     ]
   }

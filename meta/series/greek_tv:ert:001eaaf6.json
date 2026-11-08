@@ -7,18 +7,18 @@
     "background": "https://files2.app.ertflix.gr/files/enimerosi/10-me-tono-2026-27/10metono-hbbtv-bg.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:001eaaf6:10-me-tono-114",
+        "title": "Σάββατο 07 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/10-me-tono/20261107-deka-me-tono.jpg"
+      },
+      {
         "id": "greek_tv:ert:001eaaf6:10-me-tono-113",
         "title": "Κυριακή 01 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 1,
-        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/10-me-tono/20261101-deka-me-tono.jpg"
-      },
-      {
-        "id": "greek_tv:ert:001eaaf6:10-me-tono-112",
-        "title": "Σάββατο 31 Οκτωβρίου 2026",
-        "season": 1,
         "episode": 2,
-        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/10-me-tono/20261031-deka-me-tono.jpg"
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/10-me-tono/20261101-deka-me-tono.jpg"
       }
     ]
   }

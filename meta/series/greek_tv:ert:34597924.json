@@ -474,6 +474,20 @@
         "season": 1,
         "episode": 67,
         "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0069-tok-tok-menw-asfalhs1.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-67",
+        "title": "Το Παλάτι με τις Πολλές Αυλές",
+        "season": 1,
+        "episode": 68,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/to-palati-me-tis-polles-aules.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-69",
+        "title": "Χάθηκα. Τι Κάνω Τώρα;",
+        "season": 1,
+        "episode": 69,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0074-tok-tok-xathika-ti-kanw-twra.jpg"
       }
     ]
   }

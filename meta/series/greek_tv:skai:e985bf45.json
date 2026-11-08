@@ -19,6 +19,13 @@
         "season": 1,
         "episode": 3,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/gbl/paok_aek_gbl_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:e985bf45:2026-11-07-17",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/gbl/paok_vikos_gbl_landscape.jpg"
       }
     ]
   }

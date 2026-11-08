@@ -7,18 +7,18 @@
     "background": "https://files2.app.ertflix.gr/files/mousiki/85-xronia-mikis-theodorakis/85-xronia-mikis-theodorakis-hbbtv-bg.jpg",
     "videos": [
       {
-        "id": "greek_tv:ert:2aaa9c26:85-khronia-mikes-theodorakes-sunaulia-ston-lukabetto-1",
-        "title": "Β' Μέρος",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://files2.app.ertflix.gr/concert-theodorakis/85-xronia-mikhs-theodorakhs-synavlia-ston-lykabhto-meros-b.jpg"
-      },
-      {
         "id": "greek_tv:ert:2aaa9c26:85-khronia-mikes-theodorakes-sunaulia-ston-lukabetto",
         "title": "Α' Μέρος",
         "season": 1,
-        "episode": 2,
+        "episode": 1,
         "thumbnail": "https://files2.app.ertflix.gr/concert-theodorakis/85-xronia-mikhs-theodorakhs-synavlia-ston-lykabhto-meros-a.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2aaa9c26:85-khronia-mikes-theodorakes-sunaulia-ston-lukabetto-1",
+        "title": "Β' Μέρος",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/concert-theodorakis/85-xronia-mikhs-theodorakhs-synavlia-ston-lykabhto-meros-b.jpg"
       }
     ]
   }

@@ -56,10 +56,17 @@
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/lingo/final/lingo-1920x1080-final-with_logo.jpg"
       },
       {
+        "id": "greek_tv:star_channel:d347ead7:7112026-lingo",
+        "title": "7112026 Lingo",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/lingo/final/lingo-1920x1080-final-with_logo.jpg"
+      },
+      {
         "id": "greek_tv:star_channel:d347ead7:1112026-lingo",
         "title": "1112026 Lingo",
         "season": 1,
-        "episode": 8,
+        "episode": 9,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/lingo/final/lingo-1920x1080-final-with_logo.jpg"
       }
     ]

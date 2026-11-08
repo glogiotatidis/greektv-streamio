@@ -68,6 +68,13 @@
         "season": 1,
         "episode": 9,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/kitchen_lab/2026_2027/kitchen_9.jpg"
+      },
+      {
+        "id": "greek_tv:skai:6448dbc8:2026-11-07-16",
+        "title": "Επεισόδιο 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/kitchen_lab/2026_2027/kitchen_11.jpg"
       }
     ]
   }

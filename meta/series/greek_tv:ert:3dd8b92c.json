@@ -7,25 +7,25 @@
     "background": "https://files2.app.ertflix.gr/files/enimerosi/savvatokyriako-apo-tis-pente-5/new-2026-27/savvatokuriako-26-27-hbbtv-bg.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:3dd8b92c:sabbatokuriako-apo-tis-435",
+        "title": "Σάββατο 07 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/savvatokyriako-apo-tis-pente-5/20261107-savvatokyriako-apo-tis-5.jpg"
+      },
+      {
         "id": "greek_tv:ert:3dd8b92c:sabbatokuriako-apo-tis-434",
         "title": "Κυριακή 01 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/savvatokyriako-apo-tis-pente-5/20261101-sk-apo-tis-5.jpg"
       },
       {
         "id": "greek_tv:ert:3dd8b92c:sabbatokuriako-apo-tis-433",
         "title": "Σάββατο 31 Οκτωβρίου 2026",
         "season": 1,
-        "episode": 2,
-        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/savvatokyriako-apo-tis-pente-5/20261031-s-k-apo-tis-5.jpg"
-      },
-      {
-        "id": "greek_tv:ert:3dd8b92c:sabbatokuriako-apo-tis-431",
-        "title": "Σάββατο 24 Οκτωβρίου 2026",
-        "season": 1,
         "episode": 3,
-        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/savvatokyriako-apo-tis-pente-5/20261024-savvatokyriako-apo-tis-6.jpg"
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/savvatokyriako-apo-tis-pente-5/20261031-s-k-apo-tis-5.jpg"
       }
     ]
   }
