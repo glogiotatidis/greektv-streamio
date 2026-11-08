@@ -55,10 +55,10 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_SUPER_HEROES_efabdfebd8.jpg"
     },
     {
-      "id": "greek_tv:ant1:96adda6b",
+      "id": "greek_tv:ant1:797e177b",
       "type": "series",
-      "name": "THE 2NIGHT SHOW",
-      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
+      "name": "YOUR FACE SOUNDS FAMILIAR",
+      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_YFSF_PRESENTER_3c838a07cb.jpg"
     },
     {
       "id": "greek_tv:ant1:106cd1b4",
@@ -67,10 +67,10 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
     },
     {
-      "id": "greek_tv:ant1:35800f78",
+      "id": "greek_tv:ant1:96adda6b",
       "type": "series",
-      "name": "ΚΑΤΙ ΨΗΝΕΤΑΙ",
-      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
+      "name": "THE 2NIGHT SHOW",
+      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
     },
     {
       "id": "greek_tv:ant1:a9b22b95",
@@ -109,16 +109,16 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Antenna_gr_Moments_1920x780_51da673a54.jpg"
     },
     {
-      "id": "greek_tv:ant1:797e177b",
-      "type": "series",
-      "name": "YOUR FACE SOUNDS FAMILIAR",
-      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_YFSF_PRESENTER_3c838a07cb.jpg"
-    },
-    {
       "id": "greek_tv:ant1:02d9b2dd",
       "type": "series",
       "name": "ROUK ZOUK",
       "poster": "https://www.antenna.gr/imgHandler/1920/64facc74-1633-4fdc-a547-e80ca477527d.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:35800f78",
+      "type": "series",
+      "name": "ΚΑΤΙ ΨΗΝΕΤΑΙ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
     },
     {
       "id": "greek_tv:ant1:da74c78c",

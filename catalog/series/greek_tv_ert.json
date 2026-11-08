@@ -523,10 +523,10 @@
       "poster": "https://files2.app.ertflix.gr/2024/series/start/start-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:5e2e9592",
+      "id": "greek_tv:ert:bcd782d7",
       "type": "series",
-      "name": "Δίγαμμα",
-      "poster": "https://files2.app.ertflix.gr/2025/series/digamma/digamma-ertflix-img.jpg"
+      "name": "Άγρια Ελλάδα",
+      "poster": "https://files2.app.ertflix.gr/2024/series/wild-greece-new/agria-ellada-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:2f2a2416",
@@ -571,10 +571,10 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/cern/cern-new/cern70-new-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:bcd782d7",
+      "id": "greek_tv:ert:5e2e9592",
       "type": "series",
-      "name": "Άγρια Ελλάδα",
-      "poster": "https://files2.app.ertflix.gr/2024/series/wild-greece-new/agria-ellada-ertflix-img.jpg"
+      "name": "Δίγαμμα",
+      "poster": "https://files2.app.ertflix.gr/2025/series/digamma/digamma-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:1aa6c7a0",
@@ -805,10 +805,10 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-klironomia/mia-klhronomia-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:3be01a29",
+      "id": "greek_tv:ert:9513e4ef",
       "type": "series",
-      "name": "Μουσικές Οικογένειες",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-ertflix-img.jpg"
+      "name": "Οι Θησαυροί του Πόντου",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/oi-thisauroi-tou-pontou/oi-thhsayroi-toy-pontoy-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:2a9d1b49",
@@ -853,16 +853,16 @@
       "poster": "https://files2.app.ertflix.gr/files/synentefxeis/van-life/van-life-ertflix-poster.jpg"
     },
     {
+      "id": "greek_tv:ert:3be01a29",
+      "type": "series",
+      "name": "Μουσικές Οικογένειες",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-ertflix-img.jpg"
+    },
+    {
       "id": "greek_tv:ert:300a4390",
       "type": "series",
       "name": "Όψον και Ψαλμός",
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-opson-psalmos-500x750.jpg"
-    },
-    {
-      "id": "greek_tv:ert:9513e4ef",
-      "type": "series",
-      "name": "Οι Θησαυροί του Πόντου",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/oi-thisauroi-tou-pontou/oi-thhsayroi-toy-pontoy-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:31edeb0e",

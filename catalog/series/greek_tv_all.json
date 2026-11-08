@@ -91,16 +91,22 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2024/09/2-48.png"
     },
     {
-      "id": "greek_tv:mega_tv:62cc04ae",
-      "type": "series",
-      "name": "Φιλοθέη: Η Αγία των Αθηνών",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/03/AGIA-FILOTHEH_Image_960X600.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:845da4c5",
       "type": "series",
       "name": "Mega Αθλητικά powered by Stoiximan",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:67259746",
+      "type": "series",
+      "name": "Από το Χθες στο Αύριο",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/09/Image_Apo_to_Xtes_sto_Avrio_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:62cc04ae",
+      "type": "series",
+      "name": "Φιλοθέη: Η Αγία των Αθηνών",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/03/AGIA-FILOTHEH_Image_960X600.jpg"
     },
     {
       "id": "greek_tv:mega_tv:1c68e2a3",
@@ -113,12 +119,6 @@
       "type": "series",
       "name": "ΣΟΦΙΑ ΒΕΜΠΟ, Η ΦΩΝΗ ΠΟΥ ΝΙΚΗΣΕ ΤΟΝ ΦΑΣΙΣΜΟ",
       "poster": "https://www.megatv.com/wp-content/uploads/2025/10/27-1024x576.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:67259746",
-      "type": "series",
-      "name": "Από το Χθες στο Αύριο",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/09/Image_Apo_to_Xtes_sto_Avrio_960X600.jpg"
     },
     {
       "id": "greek_tv:mega_tv:4664701c",
@@ -257,6 +257,12 @@
       "type": "series",
       "name": "Στην Αγκαλιά του Φάνη",
       "poster": "https://media.skaitv.gr/images/1280/0/files/stin_agkalia_tou_fani/2026_2027/fanis_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:e35b780e",
+      "type": "series",
+      "name": "Happy Traveller",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/happy_traveller/2026_2027/happy_traveller_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:6448dbc8",
@@ -793,16 +799,16 @@
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ki___hi-1920x1080.jpg"
     },
     {
-      "id": "greek_tv:star_channel:b526c6d4",
-      "type": "series",
-      "name": "ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ ΣΤΗ ΝΟΗΜΑΤΙΚΗ",
-      "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Tragomallou_1920x1004_2021-22.jpg"
-    },
-    {
       "id": "greek_tv:star_channel:50c6da9f",
       "type": "series",
       "name": "THE WEASY FAMILY",
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:77be04b3",
+      "type": "series",
+      "name": "BING",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
     },
     {
       "id": "greek_tv:star_channel:3bce9aa6",
@@ -841,10 +847,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
     },
     {
-      "id": "greek_tv:star_channel:77be04b3",
+      "id": "greek_tv:star_channel:b526c6d4",
       "type": "series",
-      "name": "BING",
-      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
+      "name": "ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ ΣΤΗ ΝΟΗΜΑΤΙΚΗ",
+      "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Tragomallou_1920x1004_2021-22.jpg"
     },
     {
       "id": "greek_tv:star_channel:ccd0a80c",
@@ -1669,10 +1675,10 @@
       "poster": "https://files2.app.ertflix.gr/2024/series/start/start-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:5e2e9592",
+      "id": "greek_tv:ert:bcd782d7",
       "type": "series",
-      "name": "Δίγαμμα",
-      "poster": "https://files2.app.ertflix.gr/2025/series/digamma/digamma-ertflix-img.jpg"
+      "name": "Άγρια Ελλάδα",
+      "poster": "https://files2.app.ertflix.gr/2024/series/wild-greece-new/agria-ellada-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:2f2a2416",
@@ -1717,10 +1723,10 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/cern/cern-new/cern70-new-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:bcd782d7",
+      "id": "greek_tv:ert:5e2e9592",
       "type": "series",
-      "name": "Άγρια Ελλάδα",
-      "poster": "https://files2.app.ertflix.gr/2024/series/wild-greece-new/agria-ellada-ertflix-img.jpg"
+      "name": "Δίγαμμα",
+      "poster": "https://files2.app.ertflix.gr/2025/series/digamma/digamma-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:1aa6c7a0",
@@ -1951,10 +1957,10 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-klironomia/mia-klhronomia-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:3be01a29",
+      "id": "greek_tv:ert:9513e4ef",
       "type": "series",
-      "name": "Μουσικές Οικογένειες",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-ertflix-img.jpg"
+      "name": "Οι Θησαυροί του Πόντου",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/oi-thisauroi-tou-pontou/oi-thhsayroi-toy-pontoy-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:2a9d1b49",
@@ -1999,16 +2005,16 @@
       "poster": "https://files2.app.ertflix.gr/files/synentefxeis/van-life/van-life-ertflix-poster.jpg"
     },
     {
+      "id": "greek_tv:ert:3be01a29",
+      "type": "series",
+      "name": "Μουσικές Οικογένειες",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-ertflix-img.jpg"
+    },
+    {
       "id": "greek_tv:ert:300a4390",
       "type": "series",
       "name": "Όψον και Ψαλμός",
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-opson-psalmos-500x750.jpg"
-    },
-    {
-      "id": "greek_tv:ert:9513e4ef",
-      "type": "series",
-      "name": "Οι Θησαυροί του Πόντου",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/oi-thisauroi-tou-pontou/oi-thhsayroi-toy-pontoy-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:31edeb0e",
@@ -2227,10 +2233,10 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_SUPER_HEROES_efabdfebd8.jpg"
     },
     {
-      "id": "greek_tv:ant1:96adda6b",
+      "id": "greek_tv:ant1:797e177b",
       "type": "series",
-      "name": "THE 2NIGHT SHOW",
-      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
+      "name": "YOUR FACE SOUNDS FAMILIAR",
+      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_YFSF_PRESENTER_3c838a07cb.jpg"
     },
     {
       "id": "greek_tv:ant1:106cd1b4",
@@ -2239,10 +2245,10 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
     },
     {
-      "id": "greek_tv:ant1:35800f78",
+      "id": "greek_tv:ant1:96adda6b",
       "type": "series",
-      "name": "ΚΑΤΙ ΨΗΝΕΤΑΙ",
-      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
+      "name": "THE 2NIGHT SHOW",
+      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
     },
     {
       "id": "greek_tv:ant1:a9b22b95",
@@ -2281,16 +2287,16 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Antenna_gr_Moments_1920x780_51da673a54.jpg"
     },
     {
-      "id": "greek_tv:ant1:797e177b",
-      "type": "series",
-      "name": "YOUR FACE SOUNDS FAMILIAR",
-      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_YFSF_PRESENTER_3c838a07cb.jpg"
-    },
-    {
       "id": "greek_tv:ant1:02d9b2dd",
       "type": "series",
       "name": "ROUK ZOUK",
       "poster": "https://www.antenna.gr/imgHandler/1920/64facc74-1633-4fdc-a547-e80ca477527d.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:35800f78",
+      "type": "series",
+      "name": "ΚΑΤΙ ΨΗΝΕΤΑΙ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
     },
     {
       "id": "greek_tv:ant1:da74c78c",
@@ -2309,12 +2315,6 @@
       "type": "series",
       "name": "BRAVE NEW GREECE",
       "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_BRAVE_NEW_GREECE_fc0f52f075.jpg"
-    },
-    {
-      "id": "greek_tv:skai:e35b780e",
-      "type": "series",
-      "name": "Happy Traveller",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/happy_traveller/2026_2027/happy_traveller_landscape.jpg"
     }
   ]
 }
