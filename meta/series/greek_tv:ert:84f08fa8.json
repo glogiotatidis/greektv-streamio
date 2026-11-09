@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:84f08fa8",
+    "type": "series",
+    "name": "(AD, CC) Θάλασσες μας Χώρισαν",
+    "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/ad-cc/thalassesmaschorisan-ad-cc-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/thalassesmaschorisan-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:84f08fa8:ad-cc-thalasses-mas-khorisan-1",
+        "title": "(AD, CC) Θάλασσες μας Χώρισαν",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/ps050142-thalasses-mas-xorisan-s01-ep01.jpg"
+      },
+      {
+        "id": "greek_tv:ert:84f08fa8:ad-cc-thalasses-mas-khorisan-2",
+        "title": "(AD, CC) Θάλασσες μας Χώρισαν",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/ps050143-thalasses-mas-xorisan-s01-ep02.jpg"
+      }
+    ]
+  }
+}
