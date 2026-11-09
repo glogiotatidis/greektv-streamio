@@ -593,6 +593,13 @@
         "season": 9,
         "episode": 37,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps055057-0014-auto-moto-s02-ep14.jpg"
+      },
+      {
+        "id": "greek_tv:ert:fe994819:auto-moto-58",
+        "title": "Auto Moto",
+        "season": 9,
+        "episode": 38,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/auto-moto-ert/ps055057-0015-auto-moto-s02-ep15.jpg"
       }
     ]
   }

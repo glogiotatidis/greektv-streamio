@@ -7,85 +7,85 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:f60aef3a:q128rscs448er537yh7ptbp4",
+        "title": "FOR YOU – 08/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
+      },
+      {
         "id": "greek_tv:ant1:f60aef3a:h118aq2ptbua13ssdxkxhfon",
         "title": "FOR YOU – 07/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
         "id": "greek_tv:ant1:f60aef3a:tlf1o215rx1noii2hmb5kzj4",
         "title": "FOR YOU – 01/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
         "id": "greek_tv:ant1:f60aef3a:wrzfewvujndbfez04c6vg1qu",
         "title": "FOR YOU – 31/10/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:f60aef3a:q6oiagm8fazzrcvffrd2ug2s",
-        "title": "FOR YOU - 25/10/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:uvm30t1npiepz5v6m3tfrd6x",
-        "title": "Ο Βαγγέλης Περρής μιλάει στο For You - 07/11/2026 Β. Περρής: \"Είναι μεγάλο σφάλμα ενός παρουσιαστή το να τσιτώνει με ότι γίνεται πίσω από τις κάμερες\"",
+        "id": "greek_tv:ant1:f60aef3a:s8fxj7aercpfg2i7ce433lt9",
+        "title": "Οργανισμός \"ANTENNA Είμαστε Ένα\": Χαμόγελα και όνειρα στη νέα παιδική χαρά των Παιδικών Χωριών SOS Θεσσαλονίκης - For You - 08/11/2026",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:nmgd7a1nivoebftimyjwymbq",
-        "title": "Ε. Καρακάση: \"Είναι πολύ ωραίο \"ταξίδι\" η υιοθεσία\" - For You - 07/11/2026 Η Ελένη Καρακάση μιλάει στο For You.",
+        "id": "greek_tv:ant1:f60aef3a:tsqpashorybha6p420w6s58w",
+        "title": "\"Κρίνο και Αγκάθι\": Από Δευτέρα έως Τετάρτη στις 21:00 στον ANT1 - For You - 08/11/2026 Αποκλειστικό απόσπασμα.",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:uqjr5nxyxij7ebg51rk2doxl",
-        "title": "Ο Άδωνις Γεωργιάδης στο For You - 07/11/2026 Ο υπουργός Υγείας για το νέο νομοσχέδιο που ψηφίστηκε για τους ψυχολόγους - Τι ισχύει για άδειες,...",
+        "id": "greek_tv:ant1:f60aef3a:cwurjz3amb9xzbdenwdixccq",
+        "title": "Γ. Χατζηνάσιος: \"Στις εμφανίσεις μας τραγουδάμε και το \"Με λένε Γιώργο\" για τον άτυχο Γ. Μαζωνάκη For You - 08/11/2026 Ο Γιώργος Χατζηνάσιος μιλάει στο For You.",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:wxsofv0yki6pxsl1tuklae33",
-        "title": "Γ. Μαρκετάκης: \"Μεγάλη η απώλεια του Γιώργου Μαζωνάκη\" - For You - 07/11/2026 Ο Γιώργος Μαρκετάκης μιλάει στο For You.",
+        "id": "greek_tv:ant1:f60aef3a:x32vq2njahipnq2p8rw6rjjl",
+        "title": "Ο Μάκης Χριστοδουλόπουλος στο For You - 08/11/2026 Μ. Χριστοδουλόπουλος: \"Την Άννα Βίσση τη γνώρισα όταν πήγα στο \"Με Αγάπη Άννα\" του ANT1\".",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:a8m63ss7jfcgi925nlm623nr",
-        "title": "Ο Γιώργος Πατούλης στο For You - 07/11/2026 Γ. Πατούλης: \"Η σύζυγός μου είναι πίσω από τα φώτα, δεν την ενδιαφέρει σε κάτι που κάνω εγώ να φανεί...",
+        "id": "greek_tv:ant1:f60aef3a:vq7bmglaxyk4u6wkotgsn85o",
+        "title": "Ν. Φιλίππου: \"Κόλλησα με τη σειρά \"Ντέρτι\", πολύ πριν αναφερθεί στο Eurobasket του '87\" - For You - 08/11/2026 Ο Νίκος Φιλίππου μιλάει στο For You.",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:q07t4h1a4y6e6z1p7isav3tg",
-        "title": "Ο Αποστόλης Μπαρμπαγιάννης στο For You - 07/11/2026 Α. Μπαρμπαγιάννης: \"Γίνονται πράγματα αδιανόητα που δεν μπορούμε να προβλέψουμε σε μία σατιρικη...",
+        "id": "greek_tv:ant1:f60aef3a:bwvpm3zkx79acs0p1myiy2h0",
+        "title": "Β. Πατουλίδου: \"Ο γιος μου έχει πατήσει στα πόδια του μετά την απώλεια του πατέρα του\" - For You - 08/11/2026 Η Βούλα Πατουλίδου μιλάει στο For You.",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:q20tbkclcc61dp4yhz0itw2m",
-        "title": "Ο Αντώνης Αντωνίου και η Νατάσα Ασίκη από το \"Ντέρτι\" στο For You - 07/11/2026 Αντώνης Αντωνίου και Νατάσα Ασίκη σε μια εφ' όλης της ύλης συνέντευξη στο For You.",
+        "id": "greek_tv:ant1:f60aef3a:h5s83cohyjih9ncdbgtr8icu",
+        "title": "Η Λένα Παπαληγούρα στο For You – 08/11/2026 Η Λένα Παπαληγούρα σε μια συνέντευξη εφ' όλης της ύλης στο For You.",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:vpizhqyy5kt3mif1hemf31jn",
-        "title": "Γκιουσλεμέδες με φέτα και ανθότυρο - For You - 07/11/2026 Ο chef Γιώργος Τσούλης ετοιμάζει γκιουσλεμέδες με φέτα και ανθότυρο.",
+        "id": "greek_tv:ant1:f60aef3a:c7a8ml6xj0tbvdw1idqnubuv",
+        "title": "Σάντουιτς με τραγανό κοτόπουλο χωρίς γλουτένη - For You - 08/11/2026 Ο chef Γιώργος Τσούλης ετοιμάζει σάντουιτς με τραγανό κοτόπουλο χωρίς γλουτένη.",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"

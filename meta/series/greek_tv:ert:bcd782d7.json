@@ -362,6 +362,13 @@
         "season": 5,
         "episode": 8,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/stigmiotupo-othones-2026-10-31-155221.jpg"
+      },
+      {
+        "id": "greek_tv:ert:bcd782d7:agria-ellada-45",
+        "title": "Γκιώνα",
+        "season": 5,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/ds022728-0009-01-agria-ellada-s05-ep09-gionamxf-2026-11-04-13h14m32s721.jpg"
       }
     ]
   }

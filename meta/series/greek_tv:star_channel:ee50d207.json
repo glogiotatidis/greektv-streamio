@@ -7,71 +7,71 @@
     "background": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg",
     "videos": [
       {
-        "id": "greek_tv:star_channel:ee50d207:awesome-cleaning-robot",
-        "title": "10/10/2026",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:ee50d207:soup",
-        "title": "10/10/2026",
-        "season": 1,
-        "episode": 2,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
-      },
-      {
         "id": "greek_tv:star_channel:ee50d207:ninja-cleaners",
         "title": "17/10/2026",
         "season": 1,
-        "episode": 3,
+        "episode": 1,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
       },
       {
         "id": "greek_tv:star_channel:ee50d207:a-carriage",
         "title": "17/10/2026",
         "season": 1,
-        "episode": 4,
+        "episode": 2,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
       },
       {
         "id": "greek_tv:star_channel:ee50d207:temple-of-wishes",
         "title": "24/10/2026",
         "season": 1,
-        "episode": 5,
+        "episode": 3,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
       },
       {
         "id": "greek_tv:star_channel:ee50d207:treasure-hunting",
         "title": "24/10/2026",
         "season": 1,
-        "episode": 6,
+        "episode": 4,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
       },
       {
         "id": "greek_tv:star_channel:ee50d207:mad-for-mariachi",
         "title": "31/10/2026",
         "season": 1,
-        "episode": 7,
+        "episode": 5,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
       },
       {
         "id": "greek_tv:star_channel:ee50d207:hats-off-to-the-ninjas",
         "title": "31/10/2026",
         "season": 1,
-        "episode": 8,
+        "episode": 6,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
       },
       {
         "id": "greek_tv:star_channel:ee50d207:straight-from-the-horses-mouth",
         "title": "Straight From The Horses Mouth",
         "season": 1,
-        "episode": 9,
+        "episode": 7,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
       },
       {
         "id": "greek_tv:star_channel:ee50d207:a-magic-wand",
         "title": "A Magic Wand",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:ee50d207:awesome-cleaning-robot",
+        "title": "Awesome Cleaning Robot",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:ee50d207:soup",
+        "title": "Soup",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"

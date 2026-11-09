@@ -33,6 +33,13 @@
         "season": 2,
         "episode": 5,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/ta_fantasmata/final/fantasmata-1920x1080-final.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:0ed4c8f3:ta-fadasmata-epeisodio-6-2os-kuklos",
+        "title": "Επεισόδιο 6",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/seires/ta_fantasmata/final/fantasmata-1920x1080-final.jpg"
       }
     ]
   }

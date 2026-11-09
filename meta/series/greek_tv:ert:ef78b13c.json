@@ -7,18 +7,18 @@
     "background": "https://files2.app.ertflix.gr/files/enimerosi/ertnews-update/new-logo-uddate-2025/ert-news-new-logo-2025-hbbtv-bg.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:ef78b13c:ertnews-update-1102",
+        "title": "Κυριακή 08 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/ertnews-update/20261108-ertnews-update.jpg"
+      },
+      {
         "id": "greek_tv:ert:ef78b13c:ertnews-update-1101",
         "title": "Σάββατο 07 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 1,
-        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/ertnews-update/20261107-ertnews-update.jpg"
-      },
-      {
-        "id": "greek_tv:ert:ef78b13c:ertnews-update-1099",
-        "title": "Κυριακή 01 Νοεμβρίου 2026",
-        "season": 1,
         "episode": 2,
-        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/ertnews-update/20261101-ertnews-update.jpg"
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/ertnews-update/20261107-ertnews-update.jpg"
       }
     ]
   }

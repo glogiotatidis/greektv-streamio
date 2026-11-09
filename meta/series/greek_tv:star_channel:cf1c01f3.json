@@ -7,108 +7,87 @@
     "background": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg",
     "videos": [
       {
-        "id": "greek_tv:star_channel:cf1c01f3:super-booba",
-        "title": "10/10/2026",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:cf1c01f3:remote-control",
-        "title": "10/10/2026",
-        "season": 1,
-        "episode": 2,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:cf1c01f3:ball",
-        "title": "10/10/2026",
-        "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
-      },
-      {
         "id": "greek_tv:star_channel:cf1c01f3:playtime",
         "title": "17/10/2026",
         "season": 1,
-        "episode": 4,
+        "episode": 1,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:cf1c01f3:christmas-tree",
         "title": "17/10/2026",
         "season": 1,
-        "episode": 5,
+        "episode": 2,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:cf1c01f3:hockey",
         "title": "17/10/2026",
         "season": 1,
-        "episode": 6,
+        "episode": 3,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:cf1c01f3:sandwiches",
         "title": "24/10/2026",
         "season": 1,
-        "episode": 7,
+        "episode": 4,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:cf1c01f3:ghost",
         "title": "24/10/2026",
         "season": 1,
-        "episode": 8,
+        "episode": 5,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:cf1c01f3:video-game",
         "title": "24/10/2026",
         "season": 1,
-        "episode": 9,
+        "episode": 6,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:cf1c01f3:bowling",
         "title": "31/10/2026",
         "season": 1,
-        "episode": 10,
+        "episode": 7,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:cf1c01f3:crazy-golf",
         "title": "31/10/2026",
         "season": 1,
-        "episode": 11,
+        "episode": 8,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:cf1c01f3:toy-store",
         "title": "31/10/2026",
         "season": 1,
-        "episode": 12,
+        "episode": 9,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:cf1c01f3:spaceship",
         "title": "Spaceship",
         "season": 1,
-        "episode": 13,
+        "episode": 10,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:cf1c01f3:gift-shop",
         "title": "Gift Shop",
         "season": 1,
-        "episode": 14,
+        "episode": 11,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:cf1c01f3:ballet",
         "title": "Ballet",
         "season": 1,
-        "episode": 15,
+        "episode": 12,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
       }
     ]

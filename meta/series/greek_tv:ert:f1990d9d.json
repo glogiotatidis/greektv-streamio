@@ -600,6 +600,13 @@
         "season": 7,
         "episode": 1,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/s07/ps058452-0001-keraia-s07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-88",
+        "title": "Εριέττα Μαυρουδή, η Κυρία Διαφήμιση | 08.11.26",
+        "season": 7,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/s07/ps058452-0002-keraia-s07.jpg"
       }
     ]
   }

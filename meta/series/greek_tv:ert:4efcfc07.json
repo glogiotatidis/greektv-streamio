@@ -292,6 +292,13 @@
         "season": 3,
         "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps058445-0004-oti-axizei-s03-ep04-leros-b.jpeg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-43",
+        "title": "Τέλενδος, Μια Ανάσα",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps058445-0009-oti-axizei-s03-ep05-telendos.jpg"
       }
     ]
   }

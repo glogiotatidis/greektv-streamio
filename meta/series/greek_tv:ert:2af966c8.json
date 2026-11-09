@@ -68,6 +68,13 @@
         "season": 1,
         "episode": 9,
         "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048832-tvland-ep09.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2af966c8:tv-land-10",
+        "title": "Kάτι Έγινε Ξαφνικά",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048833-tvland-ep10.jpg"
       }
     ]
   }

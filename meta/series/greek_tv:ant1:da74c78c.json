@@ -7,17 +7,24 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Site_GFX_HEADER_c02b9d3ae4.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:da74c78c:wty7h0cnt8a3t3o3y1hoxr0e",
+        "title": "SUPER BALL SHOW - 07/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Site_GFX_HEADER_c02b9d3ae4.jpg"
+      },
+      {
         "id": "greek_tv:ant1:da74c78c:e617kguzs55yzduvp18mt7wq",
         "title": "SUPER BALL SHOW - 06/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Site_GFX_HEADER_c02b9d3ae4.jpg"
       },
       {
         "id": "greek_tv:ant1:da74c78c:n8qtjnh8bsf874xg6m97haui",
         "title": "Super Ball Show - Παρασκευή στις 00:45 & Σάββατο στη 01:00",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Site_GFX_HEADER_c02b9d3ae4.jpg"
       }
     ]

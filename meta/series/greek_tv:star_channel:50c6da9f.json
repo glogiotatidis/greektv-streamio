@@ -63,24 +63,45 @@
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       },
       {
+        "id": "greek_tv:star_channel:50c6da9f:mission-mini",
+        "title": "Mission Mini",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:50c6da9f:mission-recipe",
+        "title": "Mission Recipe",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:50c6da9f:mission-basketball",
+        "title": "Mission Basketball",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
+      },
+      {
         "id": "greek_tv:star_channel:50c6da9f:mission-dance",
         "title": "Mission Dance",
         "season": 1,
-        "episode": 9,
+        "episode": 12,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:50c6da9f:mission-popcorn",
         "title": "Mission Popcorn",
         "season": 1,
-        "episode": 10,
+        "episode": 13,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:50c6da9f:mission-calm",
         "title": "Mission Calm",
         "season": 1,
-        "episode": 11,
+        "episode": 14,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       }
     ]

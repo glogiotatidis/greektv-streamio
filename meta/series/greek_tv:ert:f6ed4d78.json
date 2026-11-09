@@ -103,6 +103,20 @@
         "season": 1,
         "episode": 14,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262729-panseraikos-apollon.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-31",
+        "title": "Ολυμπιακός Β' - Ελλάς Σύρου | 10η Αγωνιστική | 08.11.26",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262730-olympiakos-ellas-syrou.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-32",
+        "title": "Athens Kallithea - Πανιώνιος InDigital | 10η Αγωνιστική | 08.11.26",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262731-kalithea-panionios.jpg"
       }
     ]
   }

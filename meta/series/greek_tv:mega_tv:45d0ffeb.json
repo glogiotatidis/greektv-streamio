@@ -12,6 +12,13 @@
         "season": 1,
         "episode": 1,
         "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Sygkroysi_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:45d0ffeb:epeisodio-2-124",
+        "title": "Επεισόδιο 2 -",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Sygkroysi_960X600.jpg"
       }
     ]
   }

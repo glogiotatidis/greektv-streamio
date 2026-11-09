@@ -7,18 +7,18 @@
     "background": "https://files2.app.ertflix.gr/files/enimerosi/live-now-sk/live-now-sabbatokyriako-hbbtv-bg.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:a32816d1:live-now-sk-17",
+        "title": "Κυριακή 08 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/live-now-sk/20261108-live-now-sk.jpg"
+      },
+      {
         "id": "greek_tv:ert:a32816d1:live-now-sk-16",
         "title": "Σάββατο 07 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 1,
-        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/live-now-sk/20261107-live-now-sk.jpg"
-      },
-      {
-        "id": "greek_tv:ert:a32816d1:live-now-sk-15",
-        "title": "Κυριακή 01 Νοεμβρίου 2026",
-        "season": 1,
         "episode": 2,
-        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/live-now-sk/20261101-live-now-sk.jpg"
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/live-now-sk/20261107-live-now-sk.jpg"
       }
     ]
   }

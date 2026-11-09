@@ -7,20 +7,6 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/monobala/monobala_landscape.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:5d4daf14:2026-09-13-23",
-        "title": "Επεισόδιο 6",
-        "season": 1,
-        "episode": 6,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/monobala/monobala_landscape.jpg"
-      },
-      {
-        "id": "greek_tv:skai:5d4daf14:2026-09-20-12",
-        "title": "Επεισόδιο 7",
-        "season": 1,
-        "episode": 7,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/monobala/monobala_landscape.jpg"
-      },
-      {
         "id": "greek_tv:skai:5d4daf14:2026-09-21-00",
         "title": "Επεισόδιο 8",
         "season": 1,
@@ -88,6 +74,20 @@
         "title": "Επεισόδιο 17",
         "season": 1,
         "episode": 17,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/monobala/monobala_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:5d4daf14:2026-11-08-11",
+        "title": "Επεισόδιο 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/monobala/monobala_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:5d4daf14:2026-11-09-00",
+        "title": "Επεισόδιο 19",
+        "season": 1,
+        "episode": 19,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/monobala/monobala_landscape.jpg"
       }
     ]
