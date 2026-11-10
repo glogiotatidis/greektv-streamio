@@ -217,10 +217,10 @@
       "poster": "https://files2.app.ertflix.gr/files/sports/soccer-sallas-2026-27/futsalsuperleague26-27-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:e11c9e5a",
+      "id": "greek_tv:ert:36ba2715",
       "type": "series",
-      "name": "14ο Φεστιβάλ Κινηματογράφου Χανίων",
-      "poster": "https://files2.app.ertflix.gr/2026/festivals/14o-cff/14o-chania-film-festival-horizontalposter.jpg"
+      "name": "Άμυνα Ζώνης",
+      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/amyna-zonis/amyna-zonis-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:4b176f45",
@@ -271,16 +271,16 @@
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/praim/praim-2026-27-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:36ba2715",
-      "type": "series",
-      "name": "Άμυνα Ζώνης",
-      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/amyna-zonis/amyna-zonis-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:6a2ddf74",
       "type": "series",
       "name": "Σκιές στο Περιστύλιο",
       "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/skies-sto-peristylio/skies-sto-peristylio-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:e11c9e5a",
+      "type": "series",
+      "name": "14ο Φεστιβάλ Κινηματογράφου Χανίων",
+      "poster": "https://files2.app.ertflix.gr/2026/festivals/14o-cff/14o-chania-film-festival-horizontalposter.jpg"
     },
     {
       "id": "greek_tv:ert:03b62698",
@@ -655,16 +655,16 @@
       "poster": "https://files2.app.ertflix.gr/files/mousiki/tamystikatismousikis/ta-mystika-ths-mousikhs-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:6df6af5c",
-      "type": "series",
-      "name": "Ακρίτες",
-      "poster": "https://files2.app.ertflix.gr/2023/ert3/akrites/akrites-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:84bd65a2",
       "type": "series",
       "name": "Μεσόγειος",
       "poster": "https://files2.app.ertflix.gr/files/mousiki/mesogeios/mediterranea-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:002c1bc7",
+      "type": "series",
+      "name": "Στους Δρόμους των Ελλήνων",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/stous-dromous-twn-ellhnwn/stous-dromous-twn-ellhnwn-tsoklh-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:be4be020",
@@ -703,16 +703,16 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/mnhmes-tania/oi-mnhmes-petrosan-mesa-ths-ertflix-img.jpg"
     },
     {
+      "id": "greek_tv:ert:6df6af5c",
+      "type": "series",
+      "name": "Ακρίτες",
+      "poster": "https://files2.app.ertflix.gr/2023/ert3/akrites/akrites-ertflix-img.jpg"
+    },
+    {
       "id": "greek_tv:ert:d8d84d3c",
       "type": "series",
       "name": "Νησιά στην Άκρη",
       "poster": "https://files2.app.ertflix.gr/2024/docs/nisia-stin-akri/se2/nisia-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:002c1bc7",
-      "type": "series",
-      "name": "Στους Δρόμους των Ελλήνων",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/stous-dromous-twn-ellhnwn/stous-dromous-twn-ellhnwn-tsoklh-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:f297eb99",
