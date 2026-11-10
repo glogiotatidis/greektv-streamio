@@ -8,9 +8,16 @@
     "videos": [
       {
         "id": "greek_tv:skai:05ca6b09:2026-11-06-06",
-        "title": "Επεισόδιο 56",
+        "title": "06/11/2026",
         "season": 1,
-        "episode": 56,
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/simera_landscape_1.jpg"
+      },
+      {
+        "id": "greek_tv:skai:05ca6b09:2026-11-09-06",
+        "title": "Επεισόδιο 57",
+        "season": 1,
+        "episode": 57,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/simera_landscape_1.jpg"
       }
     ]

@@ -61,6 +61,13 @@
         "season": 1,
         "episode": 8,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/ls029109-0008-20261026-eftheos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a37db29d:eutheos-9",
+        "title": "Δευτέρα 09 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/20261109-eytheos.jpg"
       }
     ]
   }

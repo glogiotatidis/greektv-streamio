@@ -14,13 +14,6 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
       },
       {
-        "id": "greek_tv:ant1:35800f78:reaiwn9jzdcvrzwup3tg57wl",
-        "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 27",
-        "season": 3,
-        "episode": 27,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
-      },
-      {
         "id": "greek_tv:ant1:35800f78:h77gp03n2tvhcce1iuenmslv",
         "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 28",
         "season": 3,
@@ -39,6 +32,13 @@
         "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 30",
         "season": 3,
         "episode": 30,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:35800f78:ge9sxt3gr7k7y6uvp8n20ehn",
+        "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 31",
+        "season": 3,
+        "episode": 31,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
       }
     ]

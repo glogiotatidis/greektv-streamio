@@ -7,85 +7,85 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:4c6ac268:njrd36ysm4fuwvdvfa41bysb",
+        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 09/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
+      },
+      {
         "id": "greek_tv:ant1:4c6ac268:vxitfrq5qemxr3y6lc4329c2",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 06/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
         "id": "greek_tv:ant1:4c6ac268:dily2snhpdgsr4ai81uo2kaj",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 05/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
         "id": "greek_tv:ant1:4c6ac268:um2tqltfxo9xugerzayzc5i8",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 04/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:4c6ac268:k9vlawcekvuqoi9vzycxe4eo",
-        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 03/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:ii3xtch5qd5wp8iuij4bn1w6",
-        "title": "Ο υφυπουργός Εξωτερικών, Τάσος Χατζηβασιλείου για τη ρηματική διακοίνωση - Καλημέρα Ελλάδα - 09/11/2026 Ραγδαίες εξελίξεις με το θέμα του καλωδίου.",
+        "id": "greek_tv:ant1:4c6ac268:y1w2lyuzpp7bi27sg0xo96ck",
+        "title": "Η Ντόρα Μπακογιάννη στο Καλημέρα Ελλάδα - 09/11/2026",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:aokv5d879kbrw5s0k4hidas4",
-        "title": "Ο διοικητής της ΑΑΔΕ, Γιώργος Πιτσιλής στο Καλημέρα Ελλάδα - 06/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:ii3xtch5qd5wp8iuij4bn1w6",
+        "title": "Ο υφυπουργός Εξωτερικών, Τάσος Χατζηβασιλείου για τη γαλλική ρηματική διακοίνωση - Καλημέρα Ελλάδα - 09/11/2026 Ραγδαίες εξελίξεις με το θέμα του καλωδίου.",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:x8ikbosw9glp88gtd63cgr7a",
-        "title": "Κόντρες στη βουλή κατά την ψήφιση του νομοσχεδίου για το ιδιωτικό χρέος - Καλημέρα Ελλάδα - 06/11/2026 Ο Στράτος Σιμόπουλος και ο Λευτέρης Καρχιμάκης στο Καλημέρα Ελλάδα.",
+        "id": "greek_tv:ant1:4c6ac268:yjyhpfzuumiztotnm0j001vx",
+        "title": "Ραγδαίες εξελίξεις μετά τη γαλλική ρηματική διακοίνωση για το καλώδιο - Καλημέρα Ελλάδα - 09/11/2026 Η Α. Σδούκου και η Μ. Αντωνοπούλου στο Καλημέρα Ελλάδα.",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:zkw0k68q1t9wf63mjdxevphn",
-        "title": "Άγιος Παντελέημωνας: Εντοπίσηκε σορός γυναίκας - Καλημέρα Ελλάδα - 09/11/2026 Εντοπίσηκε σορός γυναίκας μέσα σε βαλίτσα που αφέθηκε σε πεζοδρόμιο.",
+        "id": "greek_tv:ant1:4c6ac268:q13uhjdzg40k9qqevsjva7kk",
+        "title": "Νέα διαδρομή απάτης: Αν λάβετε mail από τον ΕΦΚΑ... προσοχή! - Καλημέρα Ελλάδα - 10/11/2026",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:z0e4ign36apdags01qi6j2va",
-        "title": "Τραμπ για Ιράν: \"Εξαιρετικά απίθανο να χτειαστούν νέες επιθέσεις\" - Καλημέρα Ελλάδα - 09/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:ud5mxtdrutqfrj9awcy8h7pm",
+        "title": "Άγιος Παντελέημονας: Σε 24χρονη ανήκει η σορός στη βαλίτσα - Καλημέρα Ελλάδα - 10/11/2026",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:oo3evskkk7vh3r5s7lth2vag",
-        "title": "Μακελειό στην Κρακοβία με 6 νεκρούς και 15 τραυματίες - Καλημέρα Ελλάδα - 09/11/2026 Ακροδεξιός ο δράστης.",
+        "id": "greek_tv:ant1:4c6ac268:tlo25fergzxykgkpq0qdgdii",
+        "title": "Αίτημα παραπομπής Χέγκσεθ σε δίκη- Καλημέρα Ελλάδα - 10/11/2026 Στήριξη από τον Ρούμπιο.",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:zr379d8kzzfslp46eg7oie0g",
-        "title": "Αίγυπτος: Σύγκρουση τρένων με επτά νεκρούς - Καλημέρα Ελλάδα - 09/11/2026 Σύγκρουση τρένων με επτά νεκρούς και πάνω από 110 τραυματίες.",
+        "id": "greek_tv:ant1:4c6ac268:bczoexcxkw3tjt59betxkvin",
+        "title": "Θεσσαλονίκη: Κύκλωμα \"μαμούθ\" με εταιρείες - φαντάσματα - Καλημέρα Ελλάδα - 10/11/2026 Τους έκαναν \"αχυρανθρώπους\" - Τους φόρτωσαν χρέη εκατομμυρίων.",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:wuhulnfi4jnm106jd81oj5iu",
-        "title": "Μαραθώνιος Αθήνα 2026: Κυκλοφοριακές ρυθμίσεις εως την Κυριακή - Καλημέρα Ελλάδα - 05/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:lrkbxk4n8caxr0r92zhn4dlu",
+        "title": "Σκάνδαλο κατασκοπείας: Ο CEO της NVIDIA ομολόγησε σχέση με Κινέζα πράκτορα - Καλημέρα Ελλάδα - 11/11/2026",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"

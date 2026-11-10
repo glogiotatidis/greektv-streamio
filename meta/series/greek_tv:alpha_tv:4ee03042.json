@@ -7,934 +7,507 @@
     "background": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg",
     "videos": [
       {
-        "id": "greek_tv:alpha_tv:4ee03042:276914-s1-epeisodio-12",
-        "title": "Σ1 – Επεισόδιο 1+2",
-        "season": 1,
-        "episode": 12,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:277002-s1-epeisodio-34",
-        "title": "Σ1 – Επεισόδιο 3+4",
-        "season": 1,
-        "episode": 34,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:288471-s1-epeisodio-45",
-        "title": "Σ1 – Επεισόδιο 45",
-        "season": 1,
-        "episode": 45,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:288479-s1-epeisodio-46",
-        "title": "Σ1 – Επεισόδιο 46",
-        "season": 1,
-        "episode": 46,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:288773-s1-epeisodio-47",
-        "title": "Σ1 – Επεισόδιο 47",
-        "season": 1,
-        "episode": 47,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:288779-s1-epeisodio-48",
-        "title": "Σ1 – Επεισόδιο 48",
-        "season": 1,
-        "episode": 48,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:288838-s1-epeisodio-49",
-        "title": "Σ1 – Επεισόδιο 49",
-        "season": 1,
-        "episode": 49,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:288840-s1-epeisodio-50",
-        "title": "Σ1 – Επεισόδιο 50",
-        "season": 1,
-        "episode": 50,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:288914-s1-epeisodio-51",
-        "title": "Σ1 – Επεισόδιο 51",
-        "season": 1,
-        "episode": 51,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:288916-s1-epeisodio-52",
-        "title": "Σ1 – Επεισόδιο 52",
-        "season": 1,
-        "episode": 52,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:273587-s1-epeisodio-53",
-        "title": "Σ1 – Επεισόδιο 53",
-        "season": 1,
-        "episode": 53,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:288959-s1-epeisodio-54",
-        "title": "Σ1 – Επεισόδιο 54",
-        "season": 1,
-        "episode": 54,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:270898-s1-epeisodio-55",
-        "title": "Σ1 – Επεισόδιο 55",
-        "season": 1,
-        "episode": 55,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:270901-s1-epeisodio-56",
-        "title": "Σ1 – Επεισόδιο 56",
-        "season": 1,
-        "episode": 56,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:277141-s1-epeisodio-56",
-        "title": "Σ1 – Επεισόδιο 5+6",
-        "season": 1,
-        "episode": 57,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:270930-s1-epeisodio-57",
-        "title": "Σ1 – Επεισόδιο 57",
-        "season": 1,
-        "episode": 58,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:270932-s1-epeisodio-58",
-        "title": "Σ1 – Επεισόδιο 58",
-        "season": 1,
-        "episode": 59,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271042-s1-epeisodio-59",
-        "title": "Σ1 – Επεισόδιο 59",
-        "season": 1,
-        "episode": 60,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271045-s1-epeisodio-60",
-        "title": "Σ1 – Επεισόδιο 60",
-        "season": 1,
-        "episode": 61,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271069-s1-epeisodio-61",
-        "title": "Σ1 – Επεισόδιο 61",
-        "season": 1,
-        "episode": 62,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271073-s1-epeisodio-62",
-        "title": "Σ1 – Επεισόδιο 62",
-        "season": 1,
-        "episode": 63,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271208-s1-epeisodio-63",
-        "title": "Σ1 – Επεισόδιο 63",
-        "season": 1,
-        "episode": 64,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271226-s1-epeisodio-64",
-        "title": "Σ1 – Επεισόδιο 64",
-        "season": 1,
-        "episode": 65,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271254-s1-epeisodio-65",
-        "title": "Σ1 – Επεισόδιο 65",
-        "season": 1,
-        "episode": 66,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271297-s1-epeisodio-66",
-        "title": "Σ1 – Επεισόδιο 66",
-        "season": 1,
-        "episode": 67,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271365-s1-epeisodio-67",
-        "title": "Σ1 – Επεισόδιο 67",
-        "season": 1,
-        "episode": 68,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271367-s1-epeisodio-68",
-        "title": "Σ1 – Επεισόδιο 68",
-        "season": 1,
-        "episode": 69,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271382-s1-epeisodio-69",
-        "title": "Σ1 – Επεισόδιο 69",
-        "season": 1,
-        "episode": 70,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271415-s1-epeisodio-70",
-        "title": "Σ1 – Επεισόδιο 70",
-        "season": 1,
-        "episode": 71,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271491-s1-epeisodio-71",
-        "title": "Σ1 – Επεισόδιο 71",
-        "season": 1,
-        "episode": 72,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271492-s1-epeisodio-72",
-        "title": "Σ1 – Επεισόδιο 72",
-        "season": 1,
-        "episode": 73,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271526-s1-epeisodio-73",
-        "title": "Σ1 – Επεισόδιο 73",
-        "season": 1,
-        "episode": 74,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271558-s1-epeisodio-74",
-        "title": "Σ1 – Επεισόδιο 74",
-        "season": 1,
-        "episode": 75,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271584-s1-epeisodio-75",
-        "title": "Σ1 – Επεισόδιο 75",
-        "season": 1,
-        "episode": 76,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271617-s1-epeisodio-76",
-        "title": "Σ1 – Επεισόδιο 76",
-        "season": 1,
-        "episode": 77,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271644-s1-epeisodio-77",
-        "title": "Σ1 – Επεισόδιο 77",
-        "season": 1,
-        "episode": 78,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271655-s1-epeisodio-78",
-        "title": "Σ1 – Επεισόδιο 78",
-        "season": 1,
-        "episode": 79,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:277525-s1-epeisodio-78",
-        "title": "Σ1 – Επεισόδιο 7+8",
-        "season": 1,
-        "episode": 80,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271718-s1-epeisodio-79",
-        "title": "Σ1 – Επεισόδιο 79",
-        "season": 1,
-        "episode": 81,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271722-s1-epeisodio-80",
-        "title": "Σ1 – Επεισόδιο 80",
-        "season": 1,
-        "episode": 82,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271760-s1-epeisodio-81",
-        "title": "Σ1 – Επεισόδιο 81",
-        "season": 1,
-        "episode": 83,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271764-s1-epeisodio-82",
-        "title": "Σ1 – Επεισόδιο 82",
-        "season": 1,
-        "episode": 84,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:271826-s1-epeisodio-83",
-        "title": "Σ1 – Επεισόδιο 83",
-        "season": 1,
-        "episode": 85,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
         "id": "greek_tv:alpha_tv:4ee03042:271844-s1-epeisodio-84",
         "title": "Σ1 – Επεισόδιο 84",
         "season": 1,
-        "episode": 86,
+        "episode": 84,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:271880-s1-epeisodio-85",
         "title": "Σ1 – Επεισόδιο 85",
         "season": 1,
-        "episode": 87,
+        "episode": 85,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:271909-s1-epeisodio-86",
         "title": "Σ1 – Επεισόδιο 86",
         "season": 1,
-        "episode": 88,
+        "episode": 86,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:271965-s1-epeisodio-87",
         "title": "Σ1 – Επεισόδιο 87",
         "season": 1,
-        "episode": 89,
+        "episode": 87,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:271973-s1-epeisodio-88",
         "title": "Σ1 – Επεισόδιο 88",
         "season": 1,
-        "episode": 90,
+        "episode": 88,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:272014-s1-epeisodio-89",
         "title": "Σ1 – Επεισόδιο 89",
         "season": 1,
-        "episode": 91,
+        "episode": 89,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:272074-s1-epeisodio-90",
         "title": "Σ1 – Επεισόδιο 90",
         "season": 1,
-        "episode": 92,
+        "episode": 90,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:272092-s1-epeisodio-91",
         "title": "Σ1 – Επεισόδιο 91",
         "season": 1,
-        "episode": 93,
+        "episode": 91,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:272101-s1-epeisodio-92",
         "title": "Σ1 – Επεισόδιο 92",
         "season": 1,
-        "episode": 94,
+        "episode": 92,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:272124-s1-epeisodio-93",
         "title": "Σ1 – Επεισόδιο 93",
         "season": 1,
-        "episode": 95,
+        "episode": 93,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:272396-s1-epeisodio-94",
         "title": "Σ1 – Επεισόδιο 94",
         "season": 1,
-        "episode": 96,
+        "episode": 94,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:272419-s1-epeisodio-95",
         "title": "Σ1 – Επεισόδιο 95",
         "season": 1,
-        "episode": 97,
+        "episode": 95,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:272462-s1-epeisodio-96",
         "title": "Σ1 – Επεισόδιο 96",
         "season": 1,
-        "episode": 98,
+        "episode": 96,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:272480-s1-epeisodio-97",
         "title": "Σ1 – Επεισόδιο 97",
         "season": 1,
-        "episode": 99,
+        "episode": 97,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:272793-s1-epeisodio-98",
         "title": "Σ1 – Επεισόδιο 98",
         "season": 1,
-        "episode": 100,
+        "episode": 98,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:272936-s1-epeisodio-99",
         "title": "Σ1 – Επεισόδιο 99",
         "season": 1,
-        "episode": 101,
+        "episode": 99,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:273150-s1-epeisodio-100",
         "title": "Σ1 – Επεισόδιο 100",
         "season": 1,
-        "episode": 102,
+        "episode": 100,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:273178-s1-epeisodio-101",
         "title": "Σ1 – Επεισόδιο 101",
         "season": 1,
-        "episode": 103,
+        "episode": 101,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:273598-s1-epeisodio-102",
         "title": "Σ1 – Επεισόδιο 102",
         "season": 1,
-        "episode": 104,
+        "episode": 102,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:273814-s1-epeisodio-103",
         "title": "Σ1 – Επεισόδιο 103",
         "season": 1,
-        "episode": 105,
+        "episode": 103,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:273958-s1-epeisodio-104",
         "title": "Σ1 – Επεισόδιο 104",
         "season": 1,
-        "episode": 106,
+        "episode": 104,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:274006-s1-epeisodio-105",
         "title": "Σ1 – Επεισόδιο 105",
         "season": 1,
-        "episode": 107,
+        "episode": 105,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:274388-s1-epeisodio-106",
         "title": "Σ1 – Επεισόδιο 106",
         "season": 1,
-        "episode": 108,
+        "episode": 106,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:274594-s1-epeisodio-107",
         "title": "Σ1 – Επεισόδιο 107",
         "season": 1,
-        "episode": 109,
+        "episode": 107,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:274642-s1-epeisodio-108",
         "title": "Σ1 – Επεισόδιο 108",
         "season": 1,
-        "episode": 110,
+        "episode": 108,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:274659-s1-epeisodio-109",
         "title": "Σ1 – Επεισόδιο 109",
         "season": 1,
-        "episode": 111,
+        "episode": 109,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:275119-s1-epeisodio-110",
         "title": "Σ1 – Επεισόδιο 110",
         "season": 1,
-        "episode": 112,
+        "episode": 110,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:275262-s1-epeisodio-111",
         "title": "Σ1 – Επεισόδιο 111",
         "season": 1,
-        "episode": 113,
+        "episode": 111,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:275426-s1-epeisodio-112",
         "title": "Σ1 – Επεισόδιο 112",
         "season": 1,
-        "episode": 114,
+        "episode": 112,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:275474-s1-epeisodio-113",
         "title": "Σ1 – Επεισόδιο 113",
         "season": 1,
-        "episode": 115,
+        "episode": 113,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:275955-s1-epeisodio-114",
         "title": "Σ1 – Επεισόδιο 114",
         "season": 1,
-        "episode": 116,
+        "episode": 114,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:276187-s1-epeisodio-115",
         "title": "Σ1 – Επεισόδιο 115",
         "season": 1,
-        "episode": 117,
+        "episode": 115,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:276261-s1-epeisodio-116",
         "title": "Σ1 – Επεισόδιο 116",
         "season": 1,
-        "episode": 118,
+        "episode": 116,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:276267-s1-epeisodio-117",
         "title": "Σ1 – Επεισόδιο 117",
         "season": 1,
-        "episode": 119,
+        "episode": 117,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:276722-s1-epeisodio-118",
         "title": "Σ1 – Επεισόδιο 118",
         "season": 1,
-        "episode": 120,
+        "episode": 118,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:276813-s1-epeisodio-119",
         "title": "Σ1 – Επεισόδιο 119",
         "season": 1,
-        "episode": 121,
+        "episode": 119,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:276981-s1-epeisodio-120",
         "title": "Σ1 – Επεισόδιο 120",
         "season": 1,
-        "episode": 122,
+        "episode": 120,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:277061-s1-epeisodio-121",
         "title": "Σ1 – Επεισόδιο 121",
         "season": 1,
-        "episode": 123,
+        "episode": 121,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:277644-s1-epeisodio-122",
         "title": "Σ1 – Επεισόδιο 122",
         "season": 1,
-        "episode": 124,
+        "episode": 122,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:277703-s1-epeisodio-123",
         "title": "Σ1 – Επεισόδιο 123",
         "season": 1,
-        "episode": 125,
+        "episode": 123,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:277860-s1-epeisodio-124",
         "title": "Σ1 – Επεισόδιο 124",
         "season": 1,
-        "episode": 126,
+        "episode": 124,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:278007-s1-epeisodio-125",
         "title": "Σ1 – Επεισόδιο 125",
         "season": 1,
-        "episode": 127,
+        "episode": 125,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:278149-s1-epeisodio-126",
         "title": "Σ1 – Επεισόδιο 126",
         "season": 1,
-        "episode": 128,
+        "episode": 126,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:278243-s1-epeisodio-127",
         "title": "Σ1 – Επεισόδιο 127",
         "season": 1,
-        "episode": 129,
+        "episode": 127,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:278508-s1-epeisodio-128",
         "title": "Σ1 – Επεισόδιο 128",
         "season": 1,
-        "episode": 130,
+        "episode": 128,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:278614-s1-epeisodio-129",
         "title": "Σ1 – Επεισόδιο 129",
         "season": 1,
-        "episode": 131,
+        "episode": 129,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:278688-s1-epeisodio-130",
         "title": "Σ1 – Επεισόδιο 130",
         "season": 1,
-        "episode": 132,
+        "episode": 130,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:278752-s1-epeisodio-131",
         "title": "Σ1 – Επεισόδιο 131",
         "season": 1,
-        "episode": 133,
+        "episode": 131,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:278952-s1-epeisodio-132",
         "title": "Σ1 – Επεισόδιο 132",
         "season": 1,
-        "episode": 134,
+        "episode": 132,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:279052-s1-epeisodio-133",
         "title": "Σ1 – Επεισόδιο 133",
         "season": 1,
-        "episode": 135,
+        "episode": 133,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:279132-s1-epeisodio-134",
         "title": "Σ1 – Επεισόδιο 134",
         "season": 1,
-        "episode": 136,
+        "episode": 134,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:279153-s1-epeisodio-135",
         "title": "Σ1 – Επεισόδιο 135",
         "season": 1,
-        "episode": 137,
+        "episode": 135,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:279356-s1-epeisodio-136",
         "title": "Σ1 – Επεισόδιο 136",
         "season": 1,
-        "episode": 138,
+        "episode": 136,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:279362-s1-epeisodio-137",
         "title": "Σ1 – Επεισόδιο 137",
         "season": 1,
-        "episode": 139,
+        "episode": 137,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:279471-s1-epeisodio-138",
         "title": "Σ1 – Επεισόδιο 138",
         "season": 1,
-        "episode": 140,
+        "episode": 138,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:279510-s1-epeisodio-139",
         "title": "Σ1 – Επεισόδιο 139",
         "season": 1,
-        "episode": 141,
+        "episode": 139,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:279734-s1-epeisodio-140",
         "title": "Σ1 – Επεισόδιο 140",
         "season": 1,
-        "episode": 142,
+        "episode": 140,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:279837-s1-epeisodio-141",
         "title": "Σ1 – Επεισόδιο 141",
         "season": 1,
-        "episode": 143,
+        "episode": 141,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:279876-s1-epeisodio-142",
         "title": "Σ1 – Επεισόδιο 142",
         "season": 1,
-        "episode": 144,
+        "episode": 142,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:279913-s1-epeisodio-143",
         "title": "Σ1 – Επεισόδιο 143",
         "season": 1,
-        "episode": 145,
+        "episode": 143,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:280068-s1-epeisodio-144",
         "title": "Σ1 – Επεισόδιο 144",
         "season": 1,
-        "episode": 146,
+        "episode": 144,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:280183-s1-epeisodio-145",
         "title": "Σ1 – Επεισόδιο 145",
         "season": 1,
-        "episode": 147,
+        "episode": 145,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:280189-s1-epeisodio-146",
         "title": "Σ1 – Επεισόδιο 146",
         "season": 1,
-        "episode": 148,
+        "episode": 146,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:280198-s1-epeisodio-147",
         "title": "Σ1 – Επεισόδιο 147",
         "season": 1,
-        "episode": 149,
+        "episode": 147,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:280410-s1-epeisodio-148",
         "title": "Σ1 – Επεισόδιο 148",
         "season": 1,
-        "episode": 150,
+        "episode": 148,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:280470-s1-epeisodio-149",
         "title": "Σ1 – Επεισόδιο 149",
         "season": 1,
-        "episode": 151,
+        "episode": 149,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:280592-s1-epeisodio-150",
         "title": "Σ1 – Επεισόδιο 150",
         "season": 1,
-        "episode": 152,
+        "episode": 150,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:280750-s1-epeisodio-151",
         "title": "Σ1 – Επεισόδιο 151",
         "season": 1,
-        "episode": 153,
+        "episode": 151,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:280922-s1-epeisodio-152",
         "title": "Σ1 – Επεισόδιο 152",
         "season": 1,
-        "episode": 154,
+        "episode": 152,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:280931-s1-epeisodio-153",
         "title": "Σ1 – Επεισόδιο 153",
         "season": 1,
-        "episode": 155,
+        "episode": 153,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:280937-s1-epeisodio-154",
         "title": "Σ1 – Επεισόδιο 154",
         "season": 1,
-        "episode": 156,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:288315-s1-epeisodio-910",
-        "title": "Σ1 – Επεισόδιο 9+10",
-        "season": 1,
-        "episode": 910,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:288534-s1-epeisodio-1112",
-        "title": "Σ1 – Επεισόδιο 11+12",
-        "season": 1,
-        "episode": 1112,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:288650-s1-epeisodio-1314",
-        "title": "Σ1 – Επεισόδιο 13+14",
-        "season": 1,
-        "episode": 1314,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:289494-s1-epeisodio-1516",
-        "title": "Σ1 – Επεισόδιο 15+16",
-        "season": 1,
-        "episode": 1516,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:289688-s1-epeisodio-1718",
-        "title": "Σ1 – Επεισόδιο 17+18",
-        "season": 1,
-        "episode": 1718,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:289961-s1-epeisodio-1920",
-        "title": "Σ1 – Επεισόδιο 19+20",
-        "season": 1,
-        "episode": 1920,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:290059-s1-epeisodio-2122",
-        "title": "Σ1 – Επεισόδιο 21+22",
-        "season": 1,
-        "episode": 2122,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:285761-s1-epeisodio-2324",
-        "title": "Σ1 – Επεισόδιο 23+24",
-        "season": 1,
-        "episode": 2324,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:285974-s1-epeisodio-2526",
-        "title": "Σ1 – Επεισόδιο 25+26",
-        "season": 1,
-        "episode": 2526,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:286277-s1-epeisodio-2728",
-        "title": "Σ1 – Επεισόδιο 27+28",
-        "season": 1,
-        "episode": 2728,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:286463-s1-epeisodio-2930",
-        "title": "Σ1 – Επεισόδιο 29+30",
-        "season": 1,
-        "episode": 2930,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:286810-s1-epeisodio-3132",
-        "title": "Σ1 – Επεισόδιο 31+32",
-        "season": 1,
-        "episode": 3132,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:286930-s1-epeisodio-3334",
-        "title": "Σ1 – Επεισόδιο 33+34",
-        "season": 1,
-        "episode": 3334,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:287230-s1-epeisodio-3536",
-        "title": "Σ1 – Επεισόδιο 35+36",
-        "season": 1,
-        "episode": 3536,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:287568-s1-epeisodio-3738",
-        "title": "Σ1 – Επεισόδιο 37+38",
-        "season": 1,
-        "episode": 3738,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:287895-s1-epeisodio-3940",
-        "title": "Σ1 – Επεισόδιο 39+40",
-        "season": 1,
-        "episode": 3940,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:287956-s1-epeisodio-4142",
-        "title": "Σ1 – Επεισόδιο 41+42",
-        "season": 1,
-        "episode": 4142,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:4ee03042:288357-s1-epeisodio-4344",
-        "title": "Σ1 – Επεισόδιο 43+44",
-        "season": 1,
-        "episode": 4344,
+        "episode": 154,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:4ee03042:280738-piso-apo-tis-kameres",
         "title": "Πίσω από τις κάμερες",
         "season": 1,
-        "episode": 4345,
+        "episode": 155,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2020/07/alphatv-series-aggeliki-cover-horizontal1.jpg"
       }
     ]

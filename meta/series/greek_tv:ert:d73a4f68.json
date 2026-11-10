@@ -266,18 +266,18 @@
         "thumbnail": "https://files2.app.ertflix.gr/2026/shows/diaspora-26-27/20261025-diaspora.jpg"
       },
       {
-        "id": "greek_tv:ert:d73a4f68:diaspora-106",
-        "title": "Διασπορά | 08.11.26",
-        "season": 2,
-        "episode": 6,
-        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/diaspora-26-27/20261108-diaspora.jpg"
-      },
-      {
         "id": "greek_tv:ert:d73a4f68:diaspora-105",
         "title": "Η Βιολέτα Ίκαρη και ο Μανόλης Ανδρουλιδάκης πανηΓΥΡΙΖΟΥΝ στον κόσμο της Ομογένειας | 01.11.26",
         "season": 2,
-        "episode": 7,
+        "episode": 6,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/greece-1080-hd-2026-11-01-16h11m59s071.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-106",
+        "title": "Αποτύπωμα Ελληνικής Ομογένειας | 08.11.26",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/diaspora-26-27/20261108-diaspora.jpg"
       }
     ]
   }

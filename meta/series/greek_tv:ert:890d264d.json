@@ -12,6 +12,13 @@
         "season": 1,
         "episode": 1,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/handball-a1-gynaikon-2026-27/20261102-handball-a1-gynaikon-ofni-aek.jpg"
+      },
+      {
+        "id": "greek_tv:ert:890d264d:khantmpol-a1-gunaikon-2026-2",
+        "title": "ΑΕΠ Πανόραμα - ΠΑΟΚ | 6η Αγωνιστική | 09.11.26",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/handball-a1-gynaikon-2026-27/vlcsnap-2026-11-09-22h12m32s774.jpg"
       }
     ]
   }

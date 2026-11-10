@@ -7,101 +7,80 @@
     "background": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg",
     "videos": [
       {
-        "id": "greek_tv:star_channel:50c6da9f:mission-thief",
-        "title": "11/10/2026",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:50c6da9f:mission-birthday-present",
-        "title": "11/10/2026",
-        "season": 1,
-        "episode": 2,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:50c6da9f:mission-sculpture",
-        "title": "11/10/2026",
-        "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
-      },
-      {
         "id": "greek_tv:star_channel:50c6da9f:mission-christmas",
         "title": "18/10/2026",
         "season": 1,
-        "episode": 4,
+        "episode": 1,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:50c6da9f:mission-pirates",
         "title": "18/10/2026",
         "season": 1,
-        "episode": 5,
+        "episode": 2,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:50c6da9f:mission-shield",
         "title": "18/10/2026",
         "season": 1,
-        "episode": 6,
+        "episode": 3,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:50c6da9f:mission-robot-20",
         "title": "25/10/2026",
         "season": 1,
-        "episode": 7,
+        "episode": 4,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:50c6da9f:mission-swimming-pool",
         "title": "25/10/2026",
         "season": 1,
-        "episode": 8,
+        "episode": 5,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:50c6da9f:mission-mini",
         "title": "Mission Mini",
         "season": 1,
-        "episode": 9,
+        "episode": 6,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:50c6da9f:mission-recipe",
         "title": "Mission Recipe",
         "season": 1,
-        "episode": 10,
+        "episode": 7,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:50c6da9f:mission-basketball",
         "title": "Mission Basketball",
         "season": 1,
-        "episode": 11,
+        "episode": 8,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:50c6da9f:mission-dance",
         "title": "Mission Dance",
         "season": 1,
-        "episode": 12,
+        "episode": 9,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:50c6da9f:mission-popcorn",
         "title": "Mission Popcorn",
         "season": 1,
-        "episode": 13,
+        "episode": 10,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:50c6da9f:mission-calm",
         "title": "Mission Calm",
         "season": 1,
-        "episode": 14,
+        "episode": 11,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
       }
     ]

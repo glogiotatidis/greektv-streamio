@@ -8,9 +8,9 @@
     "videos": [
       {
         "id": "greek_tv:skai:b3714919:2026-10-21-18",
-        "title": "Επεισόδιο 23",
+        "title": "Διαχωρίζω τη Θέση Μου 21/10/2026",
         "season": 1,
-        "episode": 23,
+        "episode": 21,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg"
       },
       {
@@ -88,6 +88,13 @@
         "title": "Επεισόδιο 34",
         "season": 1,
         "episode": 34,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-11-09-18",
+        "title": "Επεισόδιο 35",
+        "season": 1,
+        "episode": 35,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg"
       }
     ]

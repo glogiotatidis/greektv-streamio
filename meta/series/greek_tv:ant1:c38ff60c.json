@@ -12,6 +12,13 @@
         "season": 1,
         "episode": 1,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:c38ff60c:vl7jkg6y2f8go0cvcyhqjt0r",
+        "title": "Πρόσωπο με πρόσωπο - Πέμπτη στις 24:00",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
       }
     ]
   }

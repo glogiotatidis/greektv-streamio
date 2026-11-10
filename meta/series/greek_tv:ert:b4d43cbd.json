@@ -208,6 +208,13 @@
         "season": 2,
         "episode": 6,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/ls029110-0006-20261027-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-68",
+        "title": "Εκλογές στις ΗΠΑ | 03.11.26",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/ls029110-0007-20261103-force-n.jpg"
       }
     ]
   }

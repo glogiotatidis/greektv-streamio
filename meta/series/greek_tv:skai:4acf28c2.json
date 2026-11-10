@@ -7,24 +7,17 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:4acf28c2:2026-11-04-05",
-        "title": "Επεισόδιο 54",
-        "season": 1,
-        "episode": 54,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
-      },
-      {
-        "id": "greek_tv:skai:4acf28c2:2026-11-05-05",
-        "title": "Επεισόδιο 55",
-        "season": 1,
-        "episode": 55,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
-      },
-      {
         "id": "greek_tv:skai:4acf28c2:2026-11-06-05",
-        "title": "Επεισόδιο 56",
+        "title": "06/11/2026",
         "season": 1,
-        "episode": 56,
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
+      },
+      {
+        "id": "greek_tv:skai:4acf28c2:2026-11-09-05",
+        "title": "Επεισόδιο 57",
+        "season": 1,
+        "episode": 57,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
       }
     ]

@@ -61,20 +61,6 @@
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:ee50d207:awesome-cleaning-robot",
-        "title": "Awesome Cleaning Robot",
-        "season": 1,
-        "episode": 9,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:ee50d207:soup",
-        "title": "Soup",
-        "season": 1,
-        "episode": 10,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
       }
     ]
   }

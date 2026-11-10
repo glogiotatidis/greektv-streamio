@@ -7,17 +7,10 @@
     "background": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg",
     "videos": [
       {
-        "id": "greek_tv:ant1:84d3e000:fy08b2elc8zgpff6g1kg2gqi",
+        "id": "greek_tv:ant1:84d3e000:bxl3jsix90vf8zlt6b6okee2",
         "title": "Ποιος θέλει να γίνει εκατομμυριούχος; - Δευτέρα έως Κυριακή στις 20:00",
         "season": 1,
         "episode": 1,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:84d3e000:e7fxej95h9acj3ash14bj5bc",
-        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 206 – 3η ΣΕΖΟΝ",
-        "season": 3,
-        "episode": 206,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       },
       {
@@ -32,6 +25,13 @@
         "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 208 – 3η ΣΕΖΟΝ",
         "season": 3,
         "episode": 208,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:84d3e000:bt8qfx3zx1uugcb3eve6nwhk",
+        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 209 – 3η ΣΕΖΟΝ",
+        "season": 3,
+        "episode": 209,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       },
       {

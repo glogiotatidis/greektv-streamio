@@ -7,71 +7,71 @@
     "background": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg",
     "videos": [
       {
-        "id": "greek_tv:star_channel:77be04b3:musical-statues",
-        "title": "11/10/2026",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:77be04b3:shadow",
-        "title": "11/10/2026",
-        "season": 1,
-        "episode": 2,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
-      },
-      {
         "id": "greek_tv:star_channel:77be04b3:here-i-go",
         "title": "18/10/2026",
         "season": 1,
-        "episode": 3,
+        "episode": 1,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:77be04b3:voo-voo",
         "title": "18/10/2026",
         "season": 1,
-        "episode": 4,
+        "episode": 2,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:77be04b3:atchoo",
         "title": "25/10/2026",
         "season": 1,
-        "episode": 5,
+        "episode": 3,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:77be04b3:growing",
         "title": "25/10/2026",
         "season": 1,
-        "episode": 6,
+        "episode": 4,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:77be04b3:train",
         "title": "Train",
         "season": 1,
-        "episode": 7,
+        "episode": 5,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:77be04b3:bake",
         "title": "Bake",
         "season": 1,
-        "episode": 8,
+        "episode": 6,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:77be04b3:hide-and-seek",
         "title": "Hide And Seek",
         "season": 1,
-        "episode": 9,
+        "episode": 7,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:77be04b3:say-goodbye",
         "title": "Say Goodbye",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:77be04b3:musical-statues",
+        "title": "Musical Statues",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:77be04b3:shadow",
+        "title": "Shadow",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"

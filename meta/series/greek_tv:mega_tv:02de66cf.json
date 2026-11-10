@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "greek_tv:mega_tv:02de66cf",
+    "type": "series",
+    "name": "Maestro",
+    "poster": "https://www.megatv.com/wp-content/uploads/2022/08/Image_MAESTRO_960X600-1.jpg",
+    "background": "https://www.megatv.com/wp-content/uploads/2022/08/Image_MAESTRO_960X600-1.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:mega_tv:02de66cf:epeisodio-001-88",
+        "title": "Επεισόδιο 1 | Season I - 1ος Κύκλος",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/08/Image_MAESTRO_960X600-1.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:02de66cf:epeisodio-2-88",
+        "title": "Επεισόδιο 2 | Season I - 1ος Κύκλος",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/08/Image_MAESTRO_960X600-1.jpg"
+      }
+    ]
+  }
+}

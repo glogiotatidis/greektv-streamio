@@ -85,16 +85,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/dragons_den/2026_2027/dd_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:19a35167",
-      "type": "series",
-      "name": "Μέλλον Ένα με Ακουστική Περιγραφή (AD)",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_ad_landscape.jpg"
-    },
-    {
       "id": "greek_tv:skai:7fcc3c0c",
       "type": "series",
       "name": "Στην Αγκαλιά του Φάνη",
       "poster": "https://media.skaitv.gr/images/1280/0/files/stin_agkalia_tou_fani/2026_2027/fanis_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:e35b780e",
+      "type": "series",
+      "name": "Happy Traveller",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/happy_traveller/2026_2027/happy_traveller_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:6448dbc8",
@@ -133,16 +133,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/tainies/filakas_aggelos_epese_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:19a35167",
+      "type": "series",
+      "name": "Μέλλον Ένα με Ακουστική Περιγραφή (AD)",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_ad_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:ec495706",
       "type": "series",
       "name": "Μέλλον Ένα",
       "poster": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:e35b780e",
-      "type": "series",
-      "name": "Happy Traveller",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/happy_traveller/2026_2027/happy_traveller_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:ab42ce26",
@@ -286,13 +286,13 @@
       "id": "greek_tv:skai:279bb5b0",
       "type": "series",
       "name": "Ειδήσεις Ι Βραδινό Δελτίο",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/flitzani_landscape.jpg"
+      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/vidou_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:65fabb86",
       "type": "series",
       "name": "Ειδήσεις Ι Μεσημβρινό Δελτίο",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/iwannidis_landscape.jpg"
+      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:cddaf72d",
@@ -343,6 +343,12 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/kalimera_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:f793384c",
+      "type": "series",
+      "name": "Ρεπορτάζ στις 10",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/reportaz10_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:25e6ca35",
       "type": "series",
       "name": "Weekend Live",
@@ -391,10 +397,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/opou_yparxei_ellada/2024_2025/logos/ellada_new_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:cc71d4e8",
+      "id": "greek_tv:skai:34b4b592",
       "type": "series",
-      "name": "ΤΟΥΡΝΟΥΑ ΜΠΑΣΚΕΤ \"ΝΕΟΦΥΤΟΣ ΧΑΝΔΡΙΩΤΗΣ\" 2026-27",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/neofytos/chandriotis_landscape.jpg"
+      "name": "Έκτακτη Επικαιρότητα",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/ektakti_epikairotita.jpg"
     },
     {
       "id": "greek_tv:skai:36874385",
@@ -439,16 +445,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/giannakopoulos/giannakopoulos_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:cc71d4e8",
+      "type": "series",
+      "name": "ΤΟΥΡΝΟΥΑ ΜΠΑΣΚΕΤ \"ΝΕΟΦΥΤΟΣ ΧΑΝΔΡΙΩΤΗΣ\" 2026-27",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/neofytos/chandriotis_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:acbfbdb7",
       "type": "series",
       "name": "SUPERBET SUPER CUP ΕΛΛΑΔΑΣ | ΑΕΚ - ΟΦΗ | ΤΕΛΙΚΟΣ",
       "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/super_cup/superbet_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:34b4b592",
-      "type": "series",
-      "name": "Έκτακτη Επικαιρότητα",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/ektakti_epikairotita.jpg"
     },
     {
       "id": "greek_tv:skai:a31f349c",

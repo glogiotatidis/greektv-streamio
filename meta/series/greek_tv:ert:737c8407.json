@@ -7,46 +7,46 @@
     "background": "https://files2.app.ertflix.gr/2026/shows/perimetros-26-27/perimetros-hbbtv-bg-2026-2027.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:737c8407:perimetros-1550",
+        "title": "Δευτέρα 09 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261109-perimetros.jpg"
+      },
+      {
         "id": "greek_tv:ert:737c8407:perimetros-1549",
         "title": "Κυριακή 08 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261108-perimetros.jpg"
       },
       {
         "id": "greek_tv:ert:737c8407:perimetros-1548",
         "title": "Σάββατο 07 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261107-perimetros.jpg"
       },
       {
         "id": "greek_tv:ert:737c8407:perimetros-1547",
         "title": "Παρασκευή 06 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 3,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261106-perimetros.jpg"
       },
       {
         "id": "greek_tv:ert:737c8407:perimetros-1546",
         "title": "Τετάρτη 04 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 4,
+        "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261104-perimetros.jpg"
       },
       {
         "id": "greek_tv:ert:737c8407:perimetros-1545",
         "title": "Τρίτη 03 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 5,
-        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261103-perimetros.jpg"
-      },
-      {
-        "id": "greek_tv:ert:737c8407:perimetros-1544",
-        "title": "Δευτέρα 02 Νοεμβρίου 2026",
-        "season": 1,
         "episode": 6,
-        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261102-perimetros.jpg"
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261103-perimetros.jpg"
       }
     ]
   }

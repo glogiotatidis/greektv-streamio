@@ -79,6 +79,12 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_Camping_960X600-c.jpg"
     },
     {
+      "id": "greek_tv:mega_tv:02de66cf",
+      "type": "series",
+      "name": "Maestro",
+      "poster": "https://www.megatv.com/wp-content/uploads/2022/08/Image_MAESTRO_960X600-1.jpg"
+    },
+    {
       "id": "greek_tv:mega_tv:233653fe",
       "type": "series",
       "name": "UCL | Δείτε όλους τους αγώνες",
@@ -145,28 +151,28 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2025/11/ΟΣΙΟΣ-ΙΩΑΝΝΗΣ-Ο-ΡΩΣΟΣ_Image_960X600.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:e3015553",
-      "type": "series",
-      "name": "Αθήνα, Η Χαρά της Γης",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΑΘΗΝΑ-ΧΑΡΑ-ΤΗΣ-ΓΗΣ-2_Image_960X600.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:e944bf7f",
       "type": "series",
       "name": "Ιστορίες του Τόπου μας",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:5dbd021e",
-      "type": "series",
-      "name": "Πειραιάς, το Λιμάνι της Ψυχής μας",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:5bfd68cc",
       "type": "series",
       "name": "Ελλήνων Έργα",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:e3015553",
+      "type": "series",
+      "name": "Αθήνα, Η Χαρά της Γης",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΑΘΗΝΑ-ΧΑΡΑ-ΤΗΣ-ΓΗΣ-2_Image_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:5dbd021e",
+      "type": "series",
+      "name": "Πειραιάς, το Λιμάνι της Ψυχής μας",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
     }
   ]
 }

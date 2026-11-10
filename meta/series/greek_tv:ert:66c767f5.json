@@ -7,31 +7,38 @@
     "background": "https://files2.app.ertflix.gr/2026/festivals/67o-phestibal-kinematographou-thessalonikes/67o-festival-kinima-thess-hbbtv-bg.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:66c767f5:67o-phestibal-kinematographou-thessalonikes-5",
+        "title": "Μέρα 5η",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/festivals/67o-phestibal-kinematographou-thessalonikes/20261109-tiff-day5.jpg"
+      },
+      {
         "id": "greek_tv:ert:66c767f5:67o-phestibal-kinematographou-thessalonikes-4",
         "title": "Μέρα 4η",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/2026/festivals/67o-phestibal-kinematographou-thessalonikes/20261107-tiff-day4.jpg"
       },
       {
         "id": "greek_tv:ert:66c767f5:67o-phestibal-kinematographou-thessalonikes-3",
         "title": "Μέρα 3η",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/2026/festivals/67o-phestibal-kinematographou-thessalonikes/20261107-tiff-day3.jpg"
       },
       {
         "id": "greek_tv:ert:66c767f5:67o-phestibal-kinematographou-thessalonikes-2",
         "title": "Μέρα 2η",
         "season": 1,
-        "episode": 3,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261105-tiff-day2n.jpg"
       },
       {
         "id": "greek_tv:ert:66c767f5:67o-phestibal-kinematographou-thessalonikes-1",
         "title": "Μέρα 1η",
         "season": 1,
-        "episode": 4,
+        "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261105-tiff-day1.jpg"
       }
     ]

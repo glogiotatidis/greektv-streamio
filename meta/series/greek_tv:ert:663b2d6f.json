@@ -14,81 +14,74 @@
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/ls029102-0009-20260917-noris-noris.jpg"
       },
       {
-        "id": "greek_tv:ert:663b2d6f:noris-noris-242",
-        "title": "Τρίτη 20 Οκτωβρίου 2026",
-        "season": 2,
-        "episode": 2,
-        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/20261020-noris.jpg"
-      },
-      {
-        "id": "greek_tv:ert:663b2d6f:noris-noris-246",
-        "title": "Δευτέρα 26 Οκτωβρίου 2026",
-        "season": 2,
-        "episode": 3,
-        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/20261026-noris-noris.jpg"
-      },
-      {
         "id": "greek_tv:ert:663b2d6f:noris-noris-247",
         "title": "Τρίτη 27 Οκτωβρίου 2026",
         "season": 2,
-        "episode": 4,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/20261027-noris.jpg"
       },
       {
         "id": "greek_tv:ert:663b2d6f:noris-noris-248",
         "title": "Τετάρτη 28 Οκτωβρίου 2026",
         "season": 2,
-        "episode": 5,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/20261028-noris.jpg"
       },
       {
         "id": "greek_tv:ert:663b2d6f:noris-noris-249",
         "title": "Πέμπτη 29 Οκτωβρίου 2026",
         "season": 2,
-        "episode": 6,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/20261029-noris.jpg"
       },
       {
         "id": "greek_tv:ert:663b2d6f:noris-noris-250",
         "title": "Παρασκευή 30 Οκτωβρίου 2026",
         "season": 2,
-        "episode": 7,
+        "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/20261030-noris.jpg"
       },
       {
         "id": "greek_tv:ert:663b2d6f:noris-noris-251",
         "title": "Δευτέρα 02 Νοεμβρίου 2026",
         "season": 2,
-        "episode": 8,
+        "episode": 6,
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/ls029102-0041-20261102-noris-noris.jpg"
       },
       {
         "id": "greek_tv:ert:663b2d6f:noris-noris-252",
         "title": "Τρίτη 03 Νοεμβρίου 2026",
         "season": 2,
-        "episode": 9,
+        "episode": 7,
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/20261103-noris.jpg"
       },
       {
         "id": "greek_tv:ert:663b2d6f:noris-noris-253",
         "title": "Τετάρτη 04 Νοεμβρίου 2026",
         "season": 2,
-        "episode": 10,
+        "episode": 8,
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/20261104-noris.jpg"
       },
       {
         "id": "greek_tv:ert:663b2d6f:noris-noris-254",
         "title": "Πέμπτη 05 Νοεμβρίου 2026",
         "season": 2,
-        "episode": 11,
+        "episode": 9,
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/20261105-noris.jpg"
       },
       {
         "id": "greek_tv:ert:663b2d6f:noris-noris-255",
         "title": "Παρασκευή 06 Νοεμβρίου 2026",
         "season": 2,
-        "episode": 12,
+        "episode": 10,
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/20261106-noris.jpg"
+      },
+      {
+        "id": "greek_tv:ert:663b2d6f:noris-noris-256",
+        "title": "Δευτέρα 09 Νοεμβρίου 2026",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/20260911-noris.jpg"
       }
     ]
   }

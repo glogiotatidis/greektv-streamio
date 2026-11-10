@@ -8,9 +8,9 @@
     "videos": [
       {
         "id": "greek_tv:skai:d7ca8549:2026-10-22-15",
-        "title": "Επεισόδιο 39",
+        "title": "Studio στις 3 | Β' Κύκλος 22/10/2026",
         "season": 1,
-        "episode": 39,
+        "episode": 3,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_39.jpg"
       },
       {
@@ -88,6 +88,13 @@
         "title": "Επεισόδιο 50",
         "season": 1,
         "episode": 50,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg"
+      },
+      {
+        "id": "greek_tv:skai:d7ca8549:2026-11-09-15",
+        "title": "Επεισόδιο 51",
+        "season": 1,
+        "episode": 51,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg"
       }
     ]

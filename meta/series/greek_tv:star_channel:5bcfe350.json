@@ -7,108 +7,87 @@
     "background": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png",
     "videos": [
       {
-        "id": "greek_tv:star_channel:5bcfe350:too-shy-for-showtime",
-        "title": "11/10/2026",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
-      },
-      {
-        "id": "greek_tv:star_channel:5bcfe350:dont-worry-be-hoppy",
-        "title": "11/10/2026",
-        "season": 1,
-        "episode": 2,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
-      },
-      {
-        "id": "greek_tv:star_channel:5bcfe350:storytime",
-        "title": "11/10/2026",
-        "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
-      },
-      {
         "id": "greek_tv:star_channel:5bcfe350:teddy-bear-panic",
         "title": "18/10/2026",
         "season": 1,
-        "episode": 4,
+        "episode": 1,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:5bcfe350:frozen-ice-paradise",
         "title": "18/10/2026",
         "season": 1,
-        "episode": 5,
+        "episode": 2,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:5bcfe350:pop-goes-the-bubble",
         "title": "18/10/2026",
         "season": 1,
-        "episode": 6,
+        "episode": 3,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:5bcfe350:ice-cream-meltdown",
         "title": "25/10/2026",
         "season": 1,
-        "episode": 7,
+        "episode": 4,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:5bcfe350:reach-for-the-star",
         "title": "25/10/2026",
         "season": 1,
-        "episode": 8,
+        "episode": 5,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:5bcfe350:muddy-rescue",
         "title": "25/10/2026",
         "season": 1,
-        "episode": 9,
+        "episode": 6,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:5bcfe350:pumpkin-munch-mayhem",
         "title": "Pumpkin Munch Mayhem",
         "season": 1,
-        "episode": 10,
+        "episode": 7,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:5bcfe350:fly-by-night",
         "title": "Fly By Night",
         "season": 1,
-        "episode": 11,
+        "episode": 8,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:5bcfe350:snowbod",
         "title": "Snowbod",
         "season": 1,
-        "episode": 12,
+        "episode": 9,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:5bcfe350:paint-mix-fix",
         "title": "Paint Mix Fix",
         "season": 1,
-        "episode": 13,
+        "episode": 10,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:5bcfe350:wait-your-turn-lulu",
         "title": "Wait Your Turn Lulu",
         "season": 1,
-        "episode": 14,
+        "episode": 11,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       },
       {
         "id": "greek_tv:star_channel:5bcfe350:winner",
         "title": "Winner",
         "season": 1,
-        "episode": 15,
+        "episode": 12,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
       }
     ]

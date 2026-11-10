@@ -7,73 +7,59 @@
     "background": "https://www.star.gr/tv/images/640x360/jpg/files/starland/rainbow_bubblegem-1920x1080.jpg",
     "videos": [
       {
-        "id": "greek_tv:star_channel:2beb8cd4:find-the-treasure-ship",
-        "title": "11/10/2026",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/rainbow_bubblegem-1920x1080.jpg"
-      },
-      {
-        "id": "greek_tv:star_channel:2beb8cd4:purple-kings-visit",
-        "title": "11/10/2026",
-        "season": 1,
-        "episode": 2,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/rainbow_bubblegem-1920x1080.jpg"
-      },
-      {
         "id": "greek_tv:star_channel:2beb8cd4:burning-blue",
         "title": "18/10/2026",
         "season": 1,
-        "episode": 3,
+        "episode": 1,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/rainbow_bubblegem-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:2beb8cd4:abyssal-nightmare",
         "title": "18/10/2026",
         "season": 1,
-        "episode": 4,
+        "episode": 2,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/rainbow_bubblegem-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:2beb8cd4:birthday-surprise",
         "title": "25/10/2026",
         "season": 1,
-        "episode": 5,
+        "episode": 3,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/rainbow_bubblegem-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:2beb8cd4:volun-terrible",
         "title": "25/10/2026",
         "season": 1,
-        "episode": 6,
+        "episode": 4,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/rainbow_bubblegem-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:2beb8cd4:the-princesses-in-the-drawing",
         "title": "The Princesses In The Drawing",
         "season": 1,
-        "episode": 7,
+        "episode": 5,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/rainbow_bubblegem-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:2beb8cd4:art-room-mystery",
         "title": "Art Room Mystery",
         "season": 1,
-        "episode": 8,
+        "episode": 6,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/rainbow_bubblegem-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:2beb8cd4:bluetok-star",
         "title": "Bluetok Star",
         "season": 1,
-        "episode": 9,
+        "episode": 7,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/rainbow_bubblegem-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:2beb8cd4:a-long-day",
         "title": "A Long Day",
         "season": 1,
-        "episode": 10,
+        "episode": 8,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/rainbow_bubblegem-1920x1080.jpg"
       }
     ]

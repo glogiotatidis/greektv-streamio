@@ -285,6 +285,41 @@
         "season": 1,
         "episode": 40,
         "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mousika-toposima/mousika-toposima-ep40-biomatiko-mouseio-prosfygon-neokaisareias-4mbpsmp4-2026-11-04-10h33m37s712.jpg"
+      },
+      {
+        "id": "greek_tv:ert:af199f6b:mousika-toposema-41",
+        "title": "Μουσείο Φυσικής Ιστορίας Μηλιάς Γρεβενών",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mousika-toposima/mousika-toposima-ep41-mouseio-fysikhs-istorias-mhlias-grevenon-4mbpsmp4-2026-11-09-13h55m58s027.jpg"
+      },
+      {
+        "id": "greek_tv:ert:af199f6b:mousika-toposema-42",
+        "title": "Λαογραφικό Μουσείο Διδυμοτείχου",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mousika-toposima/mousika-toposima-ep42-laografiko-moyseio-didymoteixoy-antikatastasi-4mbpsmp4-2026-11-09-13h56m18s777.jpg"
+      },
+      {
+        "id": "greek_tv:ert:af199f6b:mousika-toposema-43",
+        "title": "Λαογραφικό Μουσείο Σπηλιάς Κισσάβου",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mousika-toposima/mousika-toposima-ep43-laografiko-mouseio-spilias-kissavou-4mbpsmp4-2026-11-09-13h56m53s501.jpg"
+      },
+      {
+        "id": "greek_tv:ert:af199f6b:mousika-toposema-44",
+        "title": "Διδυμότειχο",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mousika-toposima/moysika-toposhma-ep44-didymoteixo-4mbpsmp4-2026-11-09-13h57m18s851.jpg"
+      },
+      {
+        "id": "greek_tv:ert:af199f6b:mousika-toposema-45",
+        "title": "Λατομεία Ασβεστοχωρίου",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mousika-toposima/mousika-toposima-ep45-latomeia-asbestoxwrioy-4mbpsmp4-2026-11-09-13h58m01s513.jpg"
       }
     ]
   }
