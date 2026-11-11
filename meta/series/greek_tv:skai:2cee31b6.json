@@ -12,6 +12,13 @@
         "season": 1,
         "episode": 1,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/protagonistes/2026_2027/protagonistes_1_makrozoia.jpg"
+      },
+      {
+        "id": "greek_tv:skai:2cee31b6:2026-11-10-23",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/protagonistes/2026_2027/protagonistes_2_xtapodia.jpg"
       }
     ]
   }

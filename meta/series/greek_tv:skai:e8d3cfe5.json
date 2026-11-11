@@ -19,6 +19,13 @@
         "season": 1,
         "episode": 56,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg"
+      },
+      {
+        "id": "greek_tv:skai:e8d3cfe5:2026-11-10-09",
+        "title": "Επεισόδιο 57",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg"
       }
     ]
   }

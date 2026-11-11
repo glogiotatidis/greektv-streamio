@@ -7,13 +7,6 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/eco_green_landscape.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:5675e8cd:2026-10-13-20",
-        "title": "Επεισόδιο 19",
-        "season": 1,
-        "episode": 19,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/eco_green_landscape.jpg"
-      },
-      {
         "id": "greek_tv:skai:5675e8cd:2026-10-15-20",
         "title": "Επεισόδιο 20",
         "season": 1,
@@ -88,6 +81,13 @@
         "title": "Επεισόδιο 30",
         "season": 1,
         "episode": 30,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/eco_green_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:5675e8cd:2026-11-10-20",
+        "title": "Επεισόδιο 31",
+        "season": 1,
+        "episode": 31,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/eco_green_landscape.jpg"
       },
       {

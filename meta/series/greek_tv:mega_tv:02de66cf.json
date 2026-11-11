@@ -19,6 +19,20 @@
         "season": 1,
         "episode": 2,
         "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/08/Image_MAESTRO_960X600-1.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:02de66cf:epeisodio-3-90",
+        "title": "Επεισόδιο 3 | Season I - 1ος Κύκλος",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/08/Image_MAESTRO_960X600-1.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:02de66cf:epeisodio-4-90",
+        "title": "Επεισόδιο 4 | Season I - 1ος Κύκλος",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2022/08/Image_MAESTRO_960X600-1.jpg"
       }
     ]
   }

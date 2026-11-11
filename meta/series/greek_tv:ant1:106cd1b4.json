@@ -7,80 +7,94 @@
     "background": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:106cd1b4:dwgfk95psrrwza2y6k2r2t1g",
+        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 10/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
         "id": "greek_tv:ant1:106cd1b4:dvpf2ddjocqmstc89ejcj6q2",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 06/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:ga260vhplktlm43sg4cjddfe",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 05/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:k470l8mnpvkahp4z7ma0qn03",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 04/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:kgaeh844dmlwqhzjtmhz1c7r",
-        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 03/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:hob3eoly73iijytm2e8hr2ht",
-        "title": "Δύο πασίγνωστοι πρώην ποδοσφαιριστές και πρώην μπασκετμπολίστας φέρονται να εμπλέκονται στο κύκλωμα των 203 εκατομμυρίων",
+        "id": "greek_tv:ant1:106cd1b4:syfhal1oj8jtj3t6fyxr3asg",
+        "title": "Οι πρώτες δηλώσεις του Ερ. Πετιλόν αφού αφέθηκε ελεύθερος για το κύκλωμα των 203 εκατομμυρίων",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:c0b46jhr29cw0x4s6lral64p",
-        "title": "\"Φέσωσαν\" το ελληνικό δημόσιο και τα ασφαλιστικά ταμεία με 203 εκατομμύρια Ο Λευτέρης Μπλιώνας, δικηγόρος κατηγορούμενων επιχειρηματιών, μιλάει στις Αποκαλύψεις.",
+        "id": "greek_tv:ant1:106cd1b4:a45aet8jwab6sb9vl0vramxh",
+        "title": "Ο Οθ. Παπαδόπουλος, δικηγόρος Ερ. Πετιλόν, μιλάει στις Αποκαλύψεις",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:qf5uskf7fcah7owev7unanbx",
-        "title": "Τα επόμενα 24ωρα θα απολογηθούν οι 18 εμπλεκόμενοι στο κύκλωμα των 203 εκατομμυρίων Ο Αθανάσιος Ελευθεριάδης, δικηγόρος κατηγορούμενου λογιστή, μιλάει στις Αποκαλύψεις.",
+        "id": "greek_tv:ant1:106cd1b4:r7c7vaq7nu2lc09vxzxpu59j",
+        "title": "Ο πρώην επικεφαλής ΣΔΟΕ, Θεόδωρος Φλωράτος, στις Αποκαλύψεις Αποκαλυπτικά στοιχεία για το κύκλωμα μαμούθ στη Θεσσαλονίκη.",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:bv3ylmmp32fvmqd3hesq6x6g",
-        "title": "Πασίγνωστοι επιχειρηματίες της Θεσσαλονίκης φέρονται να εμπλέκονται στο κύκλωμα των 203 εκατομμυρίων Το κόλπο γκρόσο που \"ξεσκέπασαν\" οι αρχές.",
+        "id": "greek_tv:ant1:106cd1b4:roq1xfqg71lmse8fw3a2mrck",
+        "title": "Νέα ουσία που χορήγησαν στον Μαζωνάκη εντόπισε το εργαστήριο Ιατροδικαστικής & Τοξικολογίας του ΑΠΘ Ο Γρηγόρης Λέων, ιατροδικαστής, μιλάει στις Αποκαλύψεις.",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:lw6uj1u2t5ip0915jdleme00",
-        "title": "Υπόθεση Θεσσαλονίκης - Αντ. Κούδρογλου: \"Ένας εκ των τριών εντολέων μου εισήχθη στο νοσοκοκομείο\" Αντ. Κούδρογλου: \"Ένας εκ των τριών εντολέων μου εισήχθη στο νοσοκοκομείο και η κατάστασή του δεν...",
+        "id": "greek_tv:ant1:106cd1b4:zsm3lqr0m5ck8yizlro4s6zk",
+        "title": "Στις Αποκαλύψεις συγγενής νεκρού \"αχυρανθρώπου\" του κυκλώματος των 203 εκατομμυρίων",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:z4k4rfsteaknideytyrtb4zd",
-        "title": "Αγ. Παντελεήμονας: Ταυτοποιήθηκε το πτώμα της γυναίκας που βρέθηκε σε βαλίτσα",
+        "id": "greek_tv:ant1:106cd1b4:dtvxtbe8m6ruo1zzemprlfww",
+        "title": "Τα \"αμαρτωλά\" μηνύματα των μελών του κυκλώματος των 203 εκατομμυρίων",
         "season": 1,
         "episode": 10,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:106cd1b4:sk03lnlv1gdqm63gf16q9ogi",
+        "title": "Η αδελφή ενός εκ των νεκρών \"αχυρανθρώπων\" του κυκλώματος των 203 εκατομμυρίων, μιλάει στις Αποκαλύψεις",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:106cd1b4:mg3oyi0h8x0e88yihmbas2v1",
+        "title": "Εξελίξεις με τις απλήρωτες εργαζόμενες του ιατρείου της Καρνεάδου",
+        "season": 1,
+        "episode": 12,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:c6aewf4q6gzaxq64euikkpxm",
         "title": "Αποκαλύψεις - Καθημερινά στις 14:00",
         "season": 1,
-        "episode": 11,
+        "episode": 13,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       }
     ]

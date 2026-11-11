@@ -7,29 +7,29 @@
     "background": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarKairos_1920x1004.jpg",
     "videos": [
       {
-        "id": "greek_tv:star_channel:ccd0a80c:31102026-star-kairos",
-        "title": "31/10/2026",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarKairos_1920x1004.jpg"
-      },
-      {
         "id": "greek_tv:star_channel:ccd0a80c:01112026-star-kairos",
         "title": "01/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 1,
         "thumbnail": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarKairos_1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:ccd0a80c:02112026-star-kairos",
         "title": "02/11/2026",
         "season": 1,
-        "episode": 3,
+        "episode": 2,
         "thumbnail": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarKairos_1920x1004.jpg"
       },
       {
         "id": "greek_tv:star_channel:ccd0a80c:03112026-star-kairos",
         "title": "03/11/2026",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarKairos_1920x1004.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:ccd0a80c:10112026-star-kairos",
+        "title": "10/11/2026",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarKairos_1920x1004.jpg"

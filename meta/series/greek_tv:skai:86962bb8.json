@@ -7,6 +7,13 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/liveyou_landscape.jpg",
     "videos": [
       {
+        "id": "greek_tv:skai:86962bb8:2026-11-06-11",
+        "title": "06/11/2026",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
+      },
+      {
         "id": "greek_tv:skai:86962bb8:2026-11-03-11",
         "title": "Επεισόδιο 54",
         "season": 1,
@@ -14,10 +21,10 @@
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
       },
       {
-        "id": "greek_tv:skai:86962bb8:2026-11-06-11",
-        "title": "Επεισόδιο 57",
+        "id": "greek_tv:skai:86962bb8:2026-11-09-11",
+        "title": "Επεισόδιο 58",
         "season": 1,
-        "episode": 57,
+        "episode": 58,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
       }
     ]

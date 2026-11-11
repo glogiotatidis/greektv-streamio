@@ -7,17 +7,24 @@
     "background": "https://files2.app.ertflix.gr/files/enimerosi/live-now/live-now-new/live-now-logo-hbbtv-bg.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:f0b3dec9:live-now-283",
+        "title": "Τρίτη 10 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/live-now/20261110-live-now.jpg"
+      },
+      {
         "id": "greek_tv:ert:f0b3dec9:live-now-281",
         "title": "Δευτέρα 09 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/live-now/20261109-live-now.jpg"
       },
       {
         "id": "greek_tv:ert:f0b3dec9:live-now-282",
         "title": "Παρασκευή 06 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/live-now/20261106-live-now.jpg"
       }
     ]
