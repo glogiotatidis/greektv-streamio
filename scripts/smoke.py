@@ -50,18 +50,18 @@ BAD = "bad"    # 200 but not video (HTML error page, empty playlist)
 ADVISORY = {GEO, AUTH, NET}
 
 
-def _get(url, take=65536):
+def _get(url, take=None):
     request = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(request, timeout=TIMEOUT) as response:
         return (
             response.geturl(),
             response.status,
             response.headers.get("Content-Type", ""),
-            response.read(take),
+            response.read() if take is None else response.read(take),
         )
 
 
-def fetch(url, take=65536):
+def fetch(url, take=None):
     """GET with a retry for transport hiccups and 5xx; 4xx propagates immediately."""
     last = None
     for attempt in range(ATTEMPTS):
@@ -78,7 +78,7 @@ def fetch(url, take=65536):
 
 
 def json_get(url):
-    return json.loads(fetch(url)[3].decode("utf-8", "ignore"))
+    return json.loads(fetch(url)[3])
 
 
 def failure_kind(exc):
@@ -99,7 +99,7 @@ def failure_kind(exc):
 def playable(url, depth=0):
     """Return (kind, detail) for one published stream URL."""
     try:
-        final_url, status, ctype, body = fetch(url)
+        final_url, status, ctype, body = fetch(url, take=65536)
     except urllib.error.HTTPError as exc:
         return failure_kind(exc), f"HTTP {exc.code}: {exc.reason}"
     except Exception as exc:  # noqa: BLE001 -- transport errors are all advisory
