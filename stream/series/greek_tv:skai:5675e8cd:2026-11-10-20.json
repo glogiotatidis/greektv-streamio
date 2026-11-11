@@ -1,3 +1,8 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "Επεισόδιο 31",
+      "url": "https://videostream.skai.gr/skaivod/_definst_/mp4:skai/1media/enimerosi/news/econews20261110.mp4/chunklist.m3u8"
+    }
+  ]
 }

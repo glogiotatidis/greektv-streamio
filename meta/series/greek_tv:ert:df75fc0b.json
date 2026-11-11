@@ -110,6 +110,13 @@
         "season": 2,
         "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20261104-rizes-abroad.jpg"
+      },
+      {
+        "id": "greek_tv:ert:df75fc0b:rizes-abroad-16",
+        "title": "Τετάρτη 11 Νοεμβρίου 2026",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/rizes/20261111-rizes-abroad.jpg"
       }
     ]
   }

@@ -19,6 +19,20 @@
         "season": 1,
         "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/to-teleutaio-nisi/ps049822-to-teleutaio-nisi-i-afixi-ep02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61ad0f6e:to-teleutaio-nesi-4",
+        "title": "Η Αναμέτρηση",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/to-teleutaio-nisi/ps049823-to-teleutaio-nisi-i-anametrisi-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61ad0f6e:to-teleutaio-nesi-5",
+        "title": "Η Απόδραση",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/to-teleutaio-nisi/ps049824-to-teleutaio-nisi-i-apodrasi-ep04.jpg"
       }
     ]
   }

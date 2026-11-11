@@ -7,17 +7,10 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:d7ca8549:2026-10-23-15",
-        "title": "Επεισόδιο 40",
-        "season": 1,
-        "episode": 40,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_40.jpg"
-      },
-      {
         "id": "greek_tv:skai:d7ca8549:2026-10-26-15",
-        "title": "Επεισόδιο 41",
+        "title": "Studio στις 3 | Β' Κύκλος 26/10/2026",
         "season": 1,
-        "episode": 41,
+        "episode": 3,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_41.jpg"
       },
       {
@@ -81,13 +74,27 @@
         "title": "Επεισόδιο 50",
         "season": 1,
         "episode": 50,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg"
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_50.jpg"
       },
       {
         "id": "greek_tv:skai:d7ca8549:2026-11-09-15",
         "title": "Επεισόδιο 51",
         "season": 1,
         "episode": 51,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_51.jpg"
+      },
+      {
+        "id": "greek_tv:skai:d7ca8549:2026-11-10-15",
+        "title": "Επεισόδιο 52",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_52.jpg"
+      },
+      {
+        "id": "greek_tv:skai:d7ca8549:2026-11-11-15",
+        "title": "Επεισόδιο 53",
+        "season": 1,
+        "episode": 53,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg"
       }
     ]

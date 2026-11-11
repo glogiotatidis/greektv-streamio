@@ -7,13 +7,6 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:65fabb86:2026-11-08-15",
-        "title": "Επεισόδιο 77",
-        "season": 1,
-        "episode": 77,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/eco_landscape.jpg"
-      },
-      {
         "id": "greek_tv:skai:65fabb86:2026-11-09-13",
         "title": "Επεισόδιο 78",
         "season": 1,
@@ -26,6 +19,13 @@
         "season": 1,
         "episode": 79,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/deimezis_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:65fabb86:2026-11-11-13",
+        "title": "Επεισόδιο 80",
+        "season": 1,
+        "episode": 80,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
       }
     ]
   }

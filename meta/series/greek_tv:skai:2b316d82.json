@@ -7,17 +7,10 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/kairos_new_landscape.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:2b316d82:2026-11-09-09",
-        "title": "09/11/2026",
+        "id": "greek_tv:skai:2b316d82:2026-11-11-09",
+        "title": "Επεισόδιο 72",
         "season": 1,
-        "episode": 9,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/kairos_new_landscape.jpg"
-      },
-      {
-        "id": "greek_tv:skai:2b316d82:2026-11-10-09",
-        "title": "Επεισόδιο 71",
-        "season": 1,
-        "episode": 71,
+        "episode": 72,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/kairos_new_landscape.jpg"
       }
     ]

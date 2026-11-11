@@ -7,10 +7,17 @@
     "background": "https://www.megatv.com/wp-content/uploads/2026/09/Image_Apo_to_Xtes_sto_Avrio_960X600.jpg",
     "videos": [
       {
-        "id": "greek_tv:mega_tv:67259746:prostateyontas-tin-politistiki-klironomia-iera-moni-varnakovas",
+        "id": "greek_tv:mega_tv:67259746:to-mple-xrysafi-thalassa-zoi-kai-diplomatia",
         "title": "Τελ.Επεισόδιο",
         "season": 1,
         "episode": 1,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/09/Image_Apo_to_Xtes_sto_Avrio_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:67259746:prostateyontas-tin-politistiki-klironomia-iera-moni-varnakovas",
+        "title": "Play",
+        "season": 1,
+        "episode": 2,
         "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/09/Image_Apo_to_Xtes_sto_Avrio_960X600.jpg"
       }
     ]
