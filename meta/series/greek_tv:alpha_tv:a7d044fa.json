@@ -7,6 +7,20 @@
     "background": "https://www.alphatv.gr/wp-content/uploads/2018/10/ALITHINOI_EROTES.jpeg",
     "videos": [
       {
+        "id": "greek_tv:alpha_tv:a7d044fa:278535-alithinoi-erotes-s1-e1",
+        "title": "Αληθινοί Έρωτες S1 Ε1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/ALITHINOI_EROTES.jpeg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:a7d044fa:278507-alithinoi-erotes-s1-e2",
+        "title": "Αληθινοί Έρωτες S1 Ε2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/ALITHINOI_EROTES.jpeg"
+      },
+      {
         "id": "greek_tv:alpha_tv:a7d044fa:278482-alithinoi-erotes-s1-e3",
         "title": "Αληθινοί Έρωτες S1 Ε3",
         "season": 1,
@@ -130,6 +144,13 @@
         "title": "Αληθινοί Έρωτες S1 Ε20",
         "season": 1,
         "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/ALITHINOI_EROTES.jpeg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:a7d044fa:290835-sezon-1",
+        "title": "ΣΕΖΟΝ 1",
+        "season": 1,
+        "episode": 21,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/ALITHINOI_EROTES.jpeg"
       },
       {

@@ -7,94 +7,73 @@
     "background": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:106cd1b4:hh2wy2l2r2o3e7bslt8aoq6i",
+        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 12/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
         "id": "greek_tv:ant1:106cd1b4:ka6ta2ie4rm0ak4pmdz8v6ja",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 11/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:dwgfk95psrrwza2y6k2r2t1g",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 10/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:dvpf2ddjocqmstc89ejcj6q2",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 06/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:ga260vhplktlm43sg4cjddfe",
-        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 05/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:r3w4gdjz9sjswj7lcmu8cscg",
-        "title": "Η νέα ουσία που εντοπίστηκε στις τοξικολογικές του Μαζωνάκη",
+        "id": "greek_tv:ant1:106cd1b4:iwtj0k1cpnd0r9f3ebnpqgwc",
+        "title": "Ο Ερρίκος Πετιλόν μιλάει στις Αποκαλύψεις για τη ζωή του και για το κύκλωμα των 203 εκατομμυρίων",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:u8x4hdn6wst9mwe10eseqtna",
-        "title": "Υπόθεση Μαζωνάκη: Τι απαντά η αναισθησιολόγος για το θρίλερ με την προποφόλη",
+        "id": "greek_tv:ant1:106cd1b4:y4g8x4aig2qmtfkingznjka7",
+        "title": "Αγοράκι 4 μηνών σε σοβαρή κατάσταση – φέρει σημάδια από δαγκώματα τρωκτικών και είναι υποσιτισμένο Ο διευθυντής Παίδων «Καραμάνδειο», Β. Αλεξόπουλος μιλάει στις Αποκαλύψεις.",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:phhstzg6kmf1ov4ugdki08fy",
-        "title": "Κύκλωμα 203 εκατομμυρίων: Γνώριζαν ότι θα γίνουν έλεγχοι από την ΑΑΔΕ και έσβησαν αρχεία",
+        "id": "greek_tv:ant1:106cd1b4:yqxi364pcn99cygeb2yx1afy",
+        "title": "Ο διευθυντής ΜΕΘ Παίδων Νοσοκομείου Ρίου, Ανδρέας Ηλιάδης, μιλάει τις Αποκαλύψεις Ανδρέας Ηλιάδης: «Το βρέφος ήρθε με σοβαρή βραδυκαρδία – η εικόνα που είδαμε μας σόκαρε».",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:bcz9hhomlks5kw77xwyytt37",
-        "title": "Αποσφραγίστηκε το σπίτι του Γ. Μαζωνάκη μετά από αίτημα της οικογένειας",
+        "id": "greek_tv:ant1:106cd1b4:bpx2wlr0utnbrrbzh6x5ckak",
+        "title": "Η δικηγόρος του Γιάννη Μουρτζούκου, Χρ. Πολυμερά, μιλάει στις Αποκαλύψεις Χρ. Πολυμερά: «Το δικαστήριο απέρριψε το αίτημα μας για υποστήριξη της κατηγορίας».",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:i8hxosfnteblehntbnu3z5n7",
-        "title": "Ο πατέρας της Μυρτώς ανοίγει την καρδιά του στον Π. Κουσουλό 7 μήνες μετά το θάνατό της",
+        "id": "greek_tv:ant1:106cd1b4:oeugtmjkq8n7n11i1n02ofaa",
+        "title": "Το ξέσπασμα της Κατερίνας για την Ειρήνη Μουρτζούκου",
         "season": 1,
         "episode": 9,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:mez7h5h7rp55hygbyvkwtrlk",
-        "title": "Η Σταματία Μάρκου, δικηγόρος οικογένειας Μυρτώς, στις Αποκαλύψεις Πληροφορίες για αναβάθμιση του κατηγορητηρίου σε βάρος του διοικητή του νοσοκομείου και των...",
-        "season": 1,
-        "episode": 10,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:w5j2pe8aa3y5rtlq8n4h03dk",
-        "title": "Έβαλαν νεκρό στη λίστα με τους κατηγορούμενους για το κύκλωμα των 203 εκατομμυρίων",
-        "season": 1,
-        "episode": 11,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:zkvfxdt1iuhkkq8s73cmiefi",
-        "title": "O Αντώνης Κουδρόγλου, δικηγόρος λογιστών κυκλώματος, στις Αποκαλύψεις Στη φυλακή ο ένας εκ των δύο λογιστών. Στο νοσοκομείο θα απολογηθεί ο δεύτερος.",
-        "season": 1,
-        "episode": 12,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:c6aewf4q6gzaxq64euikkpxm",
         "title": "Αποκαλύψεις - Καθημερινά στις 14:00",
         "season": 1,
-        "episode": 13,
+        "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       }
     ]

@@ -7,24 +7,24 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:e8d3cfe5:2026-11-11-09",
-        "title": "11/11/2026",
-        "season": 1,
-        "episode": 11,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg"
-      },
-      {
-        "id": "greek_tv:skai:e8d3cfe5:2026-11-09-09",
-        "title": "Επεισόδιο 56",
-        "season": 1,
-        "episode": 56,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg"
-      },
-      {
         "id": "greek_tv:skai:e8d3cfe5:2026-11-10-09",
         "title": "Επεισόδιο 57",
         "season": 1,
         "episode": 57,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg"
+      },
+      {
+        "id": "greek_tv:skai:e8d3cfe5:2026-11-11-09",
+        "title": "Επεισόδιο 58",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg"
+      },
+      {
+        "id": "greek_tv:skai:e8d3cfe5:2026-11-12-09",
+        "title": "Επεισόδιο 59",
+        "season": 1,
+        "episode": 59,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg"
       }
     ]

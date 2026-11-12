@@ -173,6 +173,13 @@
         "season": 2,
         "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/ls029113-0004-20261021-prime.jpg"
+      },
+      {
+        "id": "greek_tv:ert:99ff75da:praim-23",
+        "title": "Τετάρτη 11 Νοεμβρίου 2026",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/praim/ls029113-0005-20261111-prime.jpg"
       }
     ]
   }

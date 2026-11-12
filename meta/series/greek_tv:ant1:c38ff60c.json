@@ -14,17 +14,24 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
       },
       {
-        "id": "greek_tv:ant1:c38ff60c:dietfltcce27bmkrilpl8sxd",
-        "title": "Πρόσωπο με πρόσωπο - Πέμπτη στις 24:00",
+        "id": "greek_tv:ant1:c38ff60c:j6zvhqzkjz7j6kke21r6taro",
+        "title": "Πρόσωπο με Πρόσωπο - Πέμπτη στις 24:00",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
       },
       {
-        "id": "greek_tv:ant1:c38ff60c:vl7jkg6y2f8go0cvcyhqjt0r",
-        "title": "Πρόσωπο με πρόσωπο - Πέμπτη στις 24:00",
+        "id": "greek_tv:ant1:c38ff60c:oqn2f8oppfomqeqauvwwzejl",
+        "title": "Πρόσωπο με Πρόσωπο - Πέμπτη στις 24:00",
         "season": 1,
         "episode": 3,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:c38ff60c:h36f89tl25llbfu1tpr84ioa",
+        "title": "Πρόσωπο με Πρόσωπο - Πέμπτη στις 24:00",
+        "season": 1,
+        "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
       }
     ]

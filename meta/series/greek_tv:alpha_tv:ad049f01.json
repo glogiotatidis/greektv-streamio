@@ -7,255 +7,500 @@
     "background": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg",
     "videos": [
       {
+        "id": "greek_tv:alpha_tv:ad049f01:656254-s9-epeisodio-130",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 130 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:656324-s9-epeisodio-131",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 131 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:656326-s9-epeisodio-132",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 132 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:656328-s9-epeisodio-133",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 133 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:656330-s9-epeisodio-134",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 134 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:656332-s9-epeisodio-135",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 135 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:684043-s9-epeisodio-136",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 136 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:684045-s9-epeisodio-137",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 137 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:684047-s9-epeisodio-138",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 138 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:686354-s9-epeisodio-140",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 140 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:686363-s9-epeisodio-141",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 141 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:686371-s9-epeisodio-139",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 139 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:687994-s9-epeisodio-142",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 142 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:687998-s9-epeisodio-143",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 143 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:689486-s9-epeisodio-144",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 144 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:689495-s9-epeisodio-145",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 145 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:690736-s9-epeisodio-146",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 146 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:691486-s9-epeisodio-147",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 147 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:693280-s9-epeisodio-151",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 151 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:694887-s9-epeisodio-152",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 152 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:695621-s9-epeisodio-153",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 153 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:695625-s9-epeisodio-154",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 154 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:696449-s9-epeisodio-155",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 155 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:696453-s9-epeisodio-156",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 156 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:697654-s9-epeisodio-157",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 157 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:697659-s9-epeisodio-158",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 158 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:699546-s9-epeisodio-159",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 159 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:699550-s9-epeisodio-160",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 160 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:699556-s9-epeisodio-161",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 161 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:701091-s9-epeisodio-162",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 162 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:701095-s9-epeisodio-163",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 163 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:701099-s9-epeisodio-164",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 164 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:702218-s9-epeisodio-165",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 165 Το επεισόδιο δεν είναι διαθέσιμο",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
         "id": "greek_tv:alpha_tv:ad049f01:702222-s9-epeisodio-166",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 166 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 1,
+        "episode": 34,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:704010-s9-epeisodio-167",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 167 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 2,
+        "episode": 35,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:704967-s9-epeisodio-168",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 168 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 3,
+        "episode": 36,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:704971-s9-epeisodio-169",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 169 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 4,
+        "episode": 37,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:705460-s9-epeisodio-170",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 170 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 5,
+        "episode": 38,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:755658-s9-epeisodio-171",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 171 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 6,
+        "episode": 39,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:755662-s9-epeisodio-172",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 172 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 7,
+        "episode": 40,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:755667-s9-epeisodio-173",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 173 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 8,
+        "episode": 41,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:755671-s9-epeisodio-174",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 174 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 9,
+        "episode": 42,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:755676-s9-epeisodio-175",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 175 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 10,
+        "episode": 43,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:759903-s9-epeisodio-176",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 176 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 11,
+        "episode": 44,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:759907-s9-epeisodio-177",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 177 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 12,
+        "episode": 45,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:759911-s9-epeisodio-178",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 178 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 13,
+        "episode": 46,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:759916-s9-epeisodio-179",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 179 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 14,
+        "episode": 47,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:759920-s9-epeisodio-180",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 180 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 15,
+        "episode": 48,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:763744-s9-epeisodio-181",
-        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 181",
+        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 181 Το επεισόδιο δεν είναι διαθέσιμο",
         "season": 1,
-        "episode": 16,
+        "episode": 49,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:763747-s9-epeisodio-182",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 182",
         "season": 1,
-        "episode": 17,
+        "episode": 50,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:763750-s9-epeisodio-183",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 183",
         "season": 1,
-        "episode": 18,
+        "episode": 51,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:763754-s9-epeisodio-184",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 184",
         "season": 1,
-        "episode": 19,
+        "episode": 52,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:763758-s9-epeisodio-185",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 185",
         "season": 1,
-        "episode": 20,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:ad049f01:768088-s9-epeisodio-186",
-        "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 186",
-        "season": 1,
-        "episode": 21,
+        "episode": 53,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:768093-s9-epeisodio-187",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 187",
         "season": 1,
-        "episode": 22,
+        "episode": 54,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:768096-s9-epeisodio-188",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 188",
         "season": 1,
-        "episode": 23,
+        "episode": 55,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:768099-s9-epeisodio-189",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 189",
         "season": 1,
-        "episode": 24,
+        "episode": 56,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:768102-s9-epeisodio-190",
         "title": "Σ9 – ΕΠΕΙΣΟΔΙΟ 190",
         "season": 1,
-        "episode": 25,
+        "episode": 57,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:772264-s10-epeisodio-1",
         "title": "Σ10 – ΕΠΕΙΣΟΔΙΟ 1",
         "season": 1,
-        "episode": 26,
+        "episode": 58,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:772267-s10-epeisodio-2",
         "title": "Σ10 – ΕΠΕΙΣΟΔΙΟ 2",
         "season": 1,
-        "episode": 27,
+        "episode": 59,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:772270-s10-epeisodio-3",
         "title": "Σ10 – ΕΠΕΙΣΟΔΙΟ 3",
         "season": 1,
-        "episode": 28,
+        "episode": 60,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:772273-s10-epeisodio-4",
         "title": "Σ10 – ΕΠΕΙΣΟΔΙΟ 4",
         "season": 1,
-        "episode": 29,
+        "episode": 61,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:772276-s10-epeisodio-5",
         "title": "Σ10 – ΕΠΕΙΣΟΔΙΟ 5",
         "season": 1,
-        "episode": 30,
+        "episode": 62,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:776843-s10-epeisodio-6",
         "title": "Σ10 – ΕΠΕΙΣΟΔΙΟ 6",
         "season": 1,
-        "episode": 31,
+        "episode": 63,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:776847-s10-epeisodio-7",
         "title": "Σ10 – ΕΠΕΙΣΟΔΙΟ 7",
         "season": 1,
-        "episode": 32,
+        "episode": 64,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:776850-s10-epeisodio-8",
         "title": "Σ10 – ΕΠΕΙΣΟΔΙΟ 8",
         "season": 1,
-        "episode": 33,
+        "episode": 65,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:776853-s10-epeisodio-9",
         "title": "Σ10 – ΕΠΕΙΣΟΔΙΟ 9",
         "season": 1,
-        "episode": 34,
+        "episode": 66,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:776858-s10-epeisodio-10",
         "title": "Σ10 – ΕΠΕΙΣΟΔΙΟ 10",
         "season": 1,
-        "episode": 35,
+        "episode": 67,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       },
       {
         "id": "greek_tv:alpha_tv:ad049f01:780415-s10-epeisodio-11",
         "title": "Σ10 – ΕΠΕΙΣΟΔΙΟ 11",
         "season": 1,
-        "episode": 36,
+        "episode": 68,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:780418-s10-epeisodio-12",
+        "title": "Σ10 – ΕΠΕΙΣΟΔΙΟ 12",
+        "season": 1,
+        "episode": 69,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:780421-s10-epeisodio-13",
+        "title": "Σ10 – ΕΠΕΙΣΟΔΙΟ 13",
+        "season": 1,
+        "episode": 70,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ad049f01:780424-s10-epeisodio-14",
+        "title": "Σ10 – ΕΠΕΙΣΟΔΙΟ 14",
+        "season": 1,
+        "episode": 71,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
       }
     ]

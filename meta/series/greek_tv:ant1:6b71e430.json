@@ -7,13 +7,6 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png",
     "videos": [
       {
-        "id": "greek_tv:ant1:6b71e430:bzlvf0zayrtdsnro01kpdvbb",
-        "title": "ΝΤΕΡΤΙ – ΕΠΕΙΣΟΔΙΟ 20",
-        "season": 1,
-        "episode": 20,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
-      },
-      {
         "id": "greek_tv:ant1:6b71e430:hrqf1q2cd0fia3l0rzmyobi1",
         "title": "ΝΤΕΡΤΙ – ΕΠΕΙΣΟΔΙΟ 21",
         "season": 1,
@@ -49,10 +42,17 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       },
       {
+        "id": "greek_tv:ant1:6b71e430:igy081ymz57gbco88g71q3r5",
+        "title": "ΝΤΕΡΤΙ – ΕΠΕΙΣΟΔΙΟ 24",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
+      },
+      {
         "id": "greek_tv:ant1:6b71e430:soio53ji7ksb3vpzac5r4jdq",
         "title": "Ντέρτι - Τετάρτη στις 22:30",
         "season": 1,
-        "episode": 26,
+        "episode": 27,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       }
     ]

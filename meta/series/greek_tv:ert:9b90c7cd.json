@@ -1048,6 +1048,13 @@
         "season": 5,
         "episode": 8,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20261028-sto-kentro.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9b90c7cd:sto-kentro-217",
+        "title": "Τετάρτη 11 Νοεμβρίου 2026",
+        "season": 5,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/20261111-sto-kentro-n.jpeg"
       }
     ]
   }
