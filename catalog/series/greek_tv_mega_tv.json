@@ -157,6 +157,12 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΙΣΤΟΡΙΕΣ-ΤΟΥ-ΤΟΠΟΥ-ΜΑΣ-1_Image_960X600.jpg"
     },
     {
+      "id": "greek_tv:mega_tv:5bfd68cc",
+      "type": "series",
+      "name": "Ελλήνων Έργα",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+    },
+    {
       "id": "greek_tv:mega_tv:e3015553",
       "type": "series",
       "name": "Αθήνα, Η Χαρά της Γης",
@@ -167,12 +173,6 @@
       "type": "series",
       "name": "Πειραιάς, το Λιμάνι της Ψυχής μας",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:5bfd68cc",
-      "type": "series",
-      "name": "Ελλήνων Έργα",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
     }
   ]
 }

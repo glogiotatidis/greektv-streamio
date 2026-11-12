@@ -37,10 +37,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/%CE%BF_%CE%B1%CE%BD%CF%84%CF%81%CE%B1%CF%82_%CF%84%CF%89%CE%BD_%CE%BF%CE%BD%CE%B5%CE%B9%CF%81%CF%89%CE%BD_%CE%BC%CE%BF%CF%85_1920x1004_logo_b.jpg"
     },
     {
-      "id": "greek_tv:star_channel:4d389c7f",
+      "id": "greek_tv:star_channel:8b7defca",
       "type": "series",
-      "name": "FIRST DATES",
-      "poster": "https://www.star.gr/tv/images/640x360/png/files/first_dates/2026/temp/first_dates_2026-27-1920x1080-temp.png"
+      "name": "AR3NA",
+      "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Arena_1920x1004_logo_b.jpg"
     },
     {
       "id": "greek_tv:star_channel:b3791b03",
@@ -73,16 +73,16 @@
       "poster": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarsSystem_1920x1004a_2021-22_logo.jpg"
     },
     {
+      "id": "greek_tv:star_channel:4d389c7f",
+      "type": "series",
+      "name": "FIRST DATES",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/first_dates/2026/temp/first_dates_2026-27-1920x1080-temp.png"
+    },
+    {
       "id": "greek_tv:star_channel:5fa4f9de",
       "type": "series",
       "name": "CASH OR TRASH",
       "poster": "https://www.star.gr/tv/images/640x360/png/files/cash_or_trash/2026-27/final/cot_2026-27-1920x1080-temp.png"
-    },
-    {
-      "id": "greek_tv:star_channel:8b7defca",
-      "type": "series",
-      "name": "AR3NA",
-      "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Arena_1920x1004_logo_b.jpg"
     },
     {
       "id": "greek_tv:star_channel:940c324d",

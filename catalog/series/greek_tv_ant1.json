@@ -67,10 +67,16 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
     },
     {
-      "id": "greek_tv:ant1:da74c78c",
+      "id": "greek_tv:ant1:35800f78",
       "type": "series",
-      "name": "SUPER BALL SHOW",
-      "poster": "https://www.antenna.gr/imgHandler/1920/Site_GFX_HEADER_c02b9d3ae4.jpg"
+      "name": "ΚΑΤΙ ΨΗΝΕΤΑΙ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:a9b22b95",
+      "type": "series",
+      "name": "THE ROADSHOW",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_The_Roadshow_3_1920x780_a3024e7003.jpg"
     },
     {
       "id": "greek_tv:ant1:059b1645",
@@ -115,16 +121,10 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/64facc74-1633-4fdc-a547-e80ca477527d.jpg"
     },
     {
-      "id": "greek_tv:ant1:35800f78",
+      "id": "greek_tv:ant1:da74c78c",
       "type": "series",
-      "name": "ΚΑΤΙ ΨΗΝΕΤΑΙ",
-      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
-    },
-    {
-      "id": "greek_tv:ant1:a9b22b95",
-      "type": "series",
-      "name": "THE ROADSHOW",
-      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_The_Roadshow_3_1920x780_a3024e7003.jpg"
+      "name": "SUPER BALL SHOW",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Site_GFX_HEADER_c02b9d3ae4.jpg"
     },
     {
       "id": "greek_tv:ant1:82eb81c2",
