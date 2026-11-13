@@ -7,27 +7,6 @@
     "background": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg",
     "videos": [
       {
-        "id": "greek_tv:alpha_tv:f5fba049:279027-s1-e1-ena-lepto-argotera",
-        "title": "S1 Ε1 Ένα λεπτό αργότερα",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:f5fba049:279018-s1-e3-apli-oikogeneiaki-istoria",
-        "title": "S1 Ε3 Απλή οικογενειακή ιστορία",
-        "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:f5fba049:279009-s1-e4-xoris-epistrofi",
-        "title": "S1 Ε4 Χωρίς επιστροφή",
-        "season": 1,
-        "episode": 4,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
-      },
-      {
         "id": "greek_tv:alpha_tv:f5fba049:279003-s1-e5-angelika-prosopa",
         "title": "S1 Ε5 Αγγελικά πρόσωπα",
         "season": 1,

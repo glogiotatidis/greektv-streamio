@@ -14,20 +14,6 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       },
       {
-        "id": "greek_tv:ant1:84d3e000:b2qhejg9qpqvmlurn6pzrgnr",
-        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 208 – 3η ΣΕΖΟΝ",
-        "season": 3,
-        "episode": 208,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:84d3e000:bt8qfx3zx1uugcb3eve6nwhk",
-        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 209 – 3η ΣΕΖΟΝ",
-        "season": 3,
-        "episode": 209,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
-      },
-      {
         "id": "greek_tv:ant1:84d3e000:gjbdmw4ezugf2rl9yi9csg6i",
         "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 210 – 3η ΣΕΖΟΝ",
         "season": 3,
@@ -39,6 +25,20 @@
         "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 211 – 3η ΣΕΖΟΝ",
         "season": 3,
         "episode": 211,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:84d3e000:yu1qgjfueu5am8ba5e2phqr8",
+        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 212 – 3η ΣΕΖΟΝ",
+        "season": 3,
+        "episode": 212,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:84d3e000:bas0dmoio3oveab536t45qfz",
+        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - SPECIAL EDITION – 4η ΣΕΖΟΝ – ΕΠΕΙΣΟΔΙΟ 16",
+        "season": 4,
+        "episode": 16,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       }
     ]

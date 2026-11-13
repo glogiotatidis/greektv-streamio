@@ -42,10 +42,17 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Krino_and_Agathi_1920x780_Full_Cast_V2_8ddf3e6d3b.jpg"
       },
       {
-        "id": "greek_tv:ant1:a6015cac:q8ow94n80gfz14fsc3p73ctu",
-        "title": "Κρίνο και Αγκάθι - Τετάρτη στις 21:00",
+        "id": "greek_tv:ant1:a6015cac:pgfqobe813tqmf62l4ge1rbv",
+        "title": "Κρίνο & Αγκάθι - Δευτέρα έως Τετάρτη στις 21:00",
         "season": 1,
         "episode": 24,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Krino_and_Agathi_1920x780_Full_Cast_V2_8ddf3e6d3b.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:a6015cac:fbqo9sk4ki8n7x9iifhoaxxs",
+        "title": "Κρίνο & Αγκάθι - Δευτέρα έως Τετάρτη στις 21:00 | Ντέρτι - Δευτέρα έως Τετάρτη στις 22:30",
+        "season": 1,
+        "episode": 25,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Krino_and_Agathi_1920x780_Full_Cast_V2_8ddf3e6d3b.jpg"
       }
     ]

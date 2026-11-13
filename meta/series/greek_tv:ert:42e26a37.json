@@ -7,59 +7,66 @@
     "background": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/elite-league-hbbtv-bg.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:42e26a37:mpasket-elite-league-2026-11",
+        "title": "ΑΕ Γλαύκου Εσπέρου Πατρών - ΑΣΑ Κόροιβος | 8η Αγωνιστική | 13.11.26",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/20261113-basket-elite-league-glaukos-koroivos.jpg"
+      },
+      {
         "id": "greek_tv:ert:42e26a37:mpasket-elite-league-2026-10",
         "title": "ΓΣ Σοφάδων ΒΙΚΟΣ COLA - Interplast ΓΑΣ Κομοτηνή | 7η Αγωνιστική | 06.11.26",
         "season": 2,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/baelep19-20261106-elite-sofadon-komotini.jpg"
       },
       {
         "id": "greek_tv:ert:42e26a37:mpasket-elite-league-2026-9",
         "title": "Evertech Παπάγου - Πανιώνιος Cosmorama Travel | 6η Αγωνιστική | 02.11.26",
         "season": 2,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/20261102-basket-elite-league-papagou-panionios.jpg"
       },
       {
         "id": "greek_tv:ert:42e26a37:mpasket-elite-league-2026-8",
         "title": "Interplast ΓΑΣ Κομοτηνή - Kerakoll ΑΓΕΧ | 6η Αγωνιστική | 30.10.26",
         "season": 2,
-        "episode": 3,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/20261030-basket-elite-league-komotini-age-chalkidas.jpg"
       },
       {
         "id": "greek_tv:ert:42e26a37:mpasket-elite-league-2026-7",
         "title": "Μέγαρα ONEX BC - Πανερυθραϊκός Α.Σ. | 6η Αγωνιστική | 26.10.26",
         "season": 2,
-        "episode": 4,
+        "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/20261026-megara-panetriakikos.jpg"
       },
       {
         "id": "greek_tv:ert:42e26a37:mpasket-elite-league-2026-6",
         "title": "Kronos BC Plasis - ΑΕ Ψυχικού | 5η Αγωνιστική | 23.10.26",
         "season": 2,
-        "episode": 5,
+        "episode": 6,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/20261023-basket-elite-league-kronos-psychiko.jpg"
       },
       {
         "id": "greek_tv:ert:42e26a37:mpasket-elite-league-2026-5",
         "title": "ΑΕ Γλαύκου Εσπέρου Πατρών - Kerakoll ΑΓΕΧ | 4η Αγωνιστική | 22.10.26",
         "season": 2,
-        "episode": 6,
+        "episode": 7,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/20261022-basket-elite-league-glaukos-agex.jpg"
       },
       {
         "id": "greek_tv:ert:42e26a37:mpasket-elite-league-2026-4",
         "title": "Kerakoll ΑΓΕΧ - Πανερυθραϊκός ΑΣ | 3η Αγωνιστική | 19.10.26",
         "season": 2,
-        "episode": 7,
+        "episode": 8,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/20261019-basket-elite-league-agex-panerythraikos-n.jpg"
       },
       {
         "id": "greek_tv:ert:42e26a37:mpasket-elite-league-2026-3",
         "title": "Evertech Παπάγου - ΑΕΟ Πρωτέας Βούλας | 3η Αγωνιστική | 16.10.26",
         "season": 2,
-        "episode": 8,
+        "episode": 9,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/baelep12-papagou-proteas-voulas.jpg"
       }
     ]

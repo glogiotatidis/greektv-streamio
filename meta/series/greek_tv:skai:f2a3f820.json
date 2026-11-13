@@ -8,37 +8,23 @@
     "videos": [
       {
         "id": "greek_tv:skai:f2a3f820:2026-11-11-20",
-        "title": "ΣΚΑΪ Αθλητικά by SUPERBET 11/11/2026",
+        "title": "Επεισόδιο 72",
         "season": 1,
-        "episode": 11,
+        "episode": 72,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/athlitika_sb_landscape.jpg"
       },
       {
         "id": "greek_tv:skai:f2a3f820:2026-11-12-20",
-        "title": "ΣΚΑΪ Αθλητικά by SUPERBET 12/11/2026",
+        "title": "Επεισόδιο 73",
         "season": 1,
-        "episode": 12,
+        "episode": 73,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/athlitika_sb_landscape.jpg"
       },
       {
-        "id": "greek_tv:skai:f2a3f820:2026-11-08-20",
-        "title": "Επεισόδιο 69",
+        "id": "greek_tv:skai:f2a3f820:2026-11-13-20",
+        "title": "Επεισόδιο 74",
         "season": 1,
-        "episode": 69,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/athlitika_sb_landscape.jpg"
-      },
-      {
-        "id": "greek_tv:skai:f2a3f820:2026-11-09-20",
-        "title": "Επεισόδιο 70",
-        "season": 1,
-        "episode": 70,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/athlitika_sb_landscape.jpg"
-      },
-      {
-        "id": "greek_tv:skai:f2a3f820:2026-11-10-20",
-        "title": "Επεισόδιο 71",
-        "season": 1,
-        "episode": 71,
+        "episode": 74,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/athlitika_sb_landscape.jpg"
       }
     ]

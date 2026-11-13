@@ -7,73 +7,94 @@
     "background": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:106cd1b4:nk3rpcnqx35fvolg0k0ys546",
+        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 13/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
         "id": "greek_tv:ant1:106cd1b4:hh2wy2l2r2o3e7bslt8aoq6i",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 12/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:ka6ta2ie4rm0ak4pmdz8v6ja",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 11/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:dwgfk95psrrwza2y6k2r2t1g",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 10/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:dvpf2ddjocqmstc89ejcj6q2",
-        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 06/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:iwtj0k1cpnd0r9f3ebnpqgwc",
-        "title": "Ο Ερρίκος Πετιλόν μιλάει στις Αποκαλύψεις για τη ζωή του και για το κύκλωμα των 203 εκατομμυρίων",
+        "id": "greek_tv:ant1:106cd1b4:s5urb10q2zdw1zl3h5qioesw",
+        "title": "Μ. Δημητρακόπουλος, δικηγόρος Οδ. Δήμα: \"Κάποια από τα φάρμακα τα χρησιμοποιούσε για τα σωματικά προβλήματα που αντιμετώπιζε\"",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:y4g8x4aig2qmtfkingznjka7",
-        "title": "Αγοράκι 4 μηνών σε σοβαρή κατάσταση – φέρει σημάδια από δαγκώματα τρωκτικών και είναι υποσιτισμένο Ο διευθυντής Παίδων «Καραμάνδειο», Β. Αλεξόπουλος μιλάει στις Αποκαλύψεις.",
+        "id": "greek_tv:ant1:106cd1b4:mh8s4bgv4xgdqur9g22cz0nd",
+        "title": "Ποινική δίωξη για κακούργημα σε βάρος του Οδυσσέα Δήμα",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:yqxi364pcn99cygeb2yx1afy",
-        "title": "Ο διευθυντής ΜΕΘ Παίδων Νοσοκομείου Ρίου, Ανδρέας Ηλιάδης, μιλάει τις Αποκαλύψεις Ανδρέας Ηλιάδης: «Το βρέφος ήρθε με σοβαρή βραδυκαρδία – η εικόνα που είδαμε μας σόκαρε».",
+        "id": "greek_tv:ant1:106cd1b4:hsma244wyduwk4iok2e5lkzx",
+        "title": "Ο πρόεδρος Εθνικού Οργανισμού Καταπολέμησης Ντόπινγκ, Γρ. Λέων, στις Αποκαλύψεις Γρ. Λέων: «Το 2024 βρήκαμε ντοπαρισμένους σχεδόν όλους τους αθλητές της εθνικής ομάδας άρσης βαρών»",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:bpx2wlr0utnbrrbzh6x5ckak",
-        "title": "Η δικηγόρος του Γιάννη Μουρτζούκου, Χρ. Πολυμερά, μιλάει στις Αποκαλύψεις Χρ. Πολυμερά: «Το δικαστήριο απέρριψε το αίτημα μας για υποστήριξη της κατηγορίας».",
+        "id": "greek_tv:ant1:106cd1b4:arvnewp6gwma9d8kxnsapdib",
+        "title": "Αποκλειστικό: Ονόματα αθλητών στις ιδιόχειρες σημειώσεις του Οδυσσέα Δήμα Ονόματα αθλητών στις ιδιόχειρες σημειώσεις του Οδυσσέα Δήμα, οι ουσίες οι οποίες τους χορηγούνταν...",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:oeugtmjkq8n7n11i1n02ofaa",
-        "title": "Το ξέσπασμα της Κατερίνας για την Ειρήνη Μουρτζούκου",
+        "id": "greek_tv:ant1:106cd1b4:y2th28n0poytphdel23wd8gv",
+        "title": "Χρ. Κωνσταντινίδης: «Είχα διαμαρτυρηθεί ως προς τον τρόπο χορήγησης των νόμιμων σκευασμάτων» Ο Χρήστος Κωνσταντινίδης, πρώην ομοσπονδιακός προπονητής-Ολυμπιονίκης, μιλάει στις Αποκαλύψεις",
         "season": 1,
         "episode": 9,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:106cd1b4:gz7sld6bbxdvgkjp06in1m1k",
+        "title": "Δελτία αθλητών του Π. Δήμα βρέθηκαν στην κατοχή του αδελφού του που συνελήφθη",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:106cd1b4:v5rlxu6pqgrkl9a17vsy94z5",
+        "title": "Ο Χρήστος Κωνσταντινίδης, πρώην ομοσπονδιακός προπονητής-Ολυμπιονίκης, στις Αποκαλύψεις Χρήστος Κωνσταντινίδης: «Είχα εκφράσει ενστάσεις στα συμπληρώματα διατροφής των αθλητών».",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:106cd1b4:glboi4zj2s9xz5126v8b8fz7",
+        "title": "H Βούλα Πατουλίδου στις Αποκαλύψεις για τη σύλληψη του Οδ. Δήμα",
+        "season": 1,
+        "episode": 12,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:c6aewf4q6gzaxq64euikkpxm",
         "title": "Αποκαλύψεις - Καθημερινά στις 14:00",
         "season": 1,
-        "episode": 10,
+        "episode": 13,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       }
     ]

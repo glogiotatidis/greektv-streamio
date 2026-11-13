@@ -89,6 +89,90 @@
         "season": 1,
         "episode": 33,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/2023_2024/geitonies_08.06.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ab42ce26:2023-03-05-17",
+        "title": "Επεισόδιο 13",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/food/geitonies-drapetsona.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ab42ce26:2023-03-12-17",
+        "title": "Επεισόδιο 14",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/food/geitonies-koukaki.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ab42ce26:2023-03-19-17",
+        "title": "Επεισόδιο 15",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/food/geitonies19.3.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ab42ce26:2023-03-26-17",
+        "title": "Επεισόδιο 16",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/food/geitobies26.3.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ab42ce26:2023-04-02-17",
+        "title": "Επεισόδιο 17",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/food/geitonies-patisia-paradeiso.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ab42ce26:2023-04-09-17",
+        "title": "Επεισόδιο 18",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/food/geitonies9.4.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ab42ce26:2023-04-23-17",
+        "title": "Επεισόδιο 19",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/test/geitonies_kaisariani.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ab42ce26:2023-04-30-17",
+        "title": "Επεισόδιο 20",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/test/geitones_sto_piato30.04_r.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ab42ce26:2023-05-07-17",
+        "title": "Επεισόδιο 21",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/test/geitonies07.05.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ab42ce26:2023-06-04-17",
+        "title": "Επεισόδιο 22",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/food/geitonies2.6.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ab42ce26:2023-06-11-17",
+        "title": "Επεισόδιο 23",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/food/geitonies_1.jpg"
+      },
+      {
+        "id": "greek_tv:skai:ab42ce26:2023-07-02-17",
+        "title": "Επεισόδιο 24",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/food/geitonies2.7.png"
       }
     ]
   }

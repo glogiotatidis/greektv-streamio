@@ -7,38 +7,45 @@
     "background": "https://files2.app.ertflix.gr/files/sports/volley-league-adron-2026-27/novibet-volley-league-andron-2026-27-hbbtv-bg.jpg",
     "videos": [
       {
-        "id": "greek_tv:ert:1966f29c:volley-league-andron-2026-5",
-        "title": "ΑΟ Καλαμάτα '80 AFFIDEA - ΠΑΟΚ | 3η Αγωνιστική | 09.11.26",
+        "id": "greek_tv:ert:1966f29c:volley-league-andron-2026-6",
+        "title": "ΠΑΟΚ Μateco - ΑΣ Άρης | 3η Αγωνιστική | 13.11.26",
         "season": 1,
         "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/volley-league-adron-2026-27/20261113-volleyleague-andrwn-paok-aris.jpg"
+      },
+      {
+        "id": "greek_tv:ert:1966f29c:volley-league-andron-2026-5",
+        "title": "ΑΟ Καλαμάτα '80 AFFIDEA - ΠΑΟΚ Μateco | 3η Αγωνιστική | 09.11.26",
+        "season": 1,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/volley-league-adron-2026-27/vlm2627ep05.jpg"
       },
       {
         "id": "greek_tv:ert:1966f29c:volley-league-andron-2026-4",
         "title": "Ολυμπιακός ΣΦΠ ONEX - ΑΟ Φλοίσβος Members ΠΑΡΟΝ | 3η Αγωνιστική | 07.11.26",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/volley-league-adron-2026-27/20261107-volleyleague-andrwn-olympiacos-floisvos.jpg"
       },
       {
         "id": "greek_tv:ert:1966f29c:volley-league-andron-2026-2",
         "title": "Μίλωνας - Ολυμπιακός | 2η Αγωνιστική | 31.10.26",
         "season": 1,
-        "episode": 3,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/volley-league-adron-2026-27/20261031-volleyleague-andrwn-milon-olumpiakos.jpg"
       },
       {
         "id": "greek_tv:ert:1966f29c:volley-league-andron-2026-3",
         "title": "ΑΟ Φοίνικας Σύρου - ΟΦΗ | 2η Αγωνιστική | 31.10.26",
         "season": 1,
-        "episode": 4,
+        "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/volley-league-adron-2026-27/20261031-volleyleague-andrwn-foinikas-syrou-ofh.jpg"
       },
       {
         "id": "greek_tv:ert:1966f29c:volley-league-andron-2026-1",
         "title": "ΑΟ Καλαμάτα '80 AFFIDEA - Παναθηναϊκός Α.Ο. | 1η Αγωνιστική | 24.10.26",
         "season": 1,
-        "episode": 5,
+        "episode": 6,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/volley-league-adron-2026-27/20261025-volleyleague-andrwn-kalamata-panathinaikos.jpg"
       }
     ]

@@ -28,17 +28,10 @@
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-salas/20261027-podosfairo-sallas-koridallos-pyrgos.jpg"
       },
       {
-        "id": "greek_tv:ert:b6a3ed60:podosphairo-salas-a-ethnike-2026-4",
-        "title": "Παναθηναϊκός Α.Ο. - ΠΑΟΚ PayspotLabraki | 4η Αγωνιστική | 20.10.26",
-        "season": 1,
-        "episode": 4,
-        "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-salas/20261020-panathinaikos-paok-hls.jpg"
-      },
-      {
         "id": "greek_tv:ert:b6a3ed60:podosphairo-salas-a-ethnike-2026-1",
         "title": "Α.Ο. Αθλητικού Οργανισμού Δήμου Κορυδαλλού - Ερμής Ζωγράφου | 1η Αγωνιστική | 22.09.26",
         "season": 1,
-        "episode": 5,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-salas/20260923-podosfairo-salas-koridallos-zografou.jpg"
       }
     ]

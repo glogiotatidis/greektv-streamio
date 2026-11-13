@@ -7,85 +7,85 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:4c6ac268:a9jqhmfxnc7xknvlb59yzrbv",
+        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 13/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
+      },
+      {
         "id": "greek_tv:ant1:4c6ac268:seaqs366yqghd7m0icenoeg9",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 12/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
         "id": "greek_tv:ant1:4c6ac268:jwljw4mz0qmib5g2k32vrzve",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 10/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
         "id": "greek_tv:ant1:4c6ac268:njrd36ysm4fuwvdvfa41bysb",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 09/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:4c6ac268:vxitfrq5qemxr3y6lc4329c2",
-        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 06/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:u44yhoav5f5nnrqwsqsn9a0t",
-        "title": "Η αποκάλυψη του Καλημέρα Ελλάδα για τη ρηματική διακοίνωση - 12/11/2026 Οι Δ. Καιρίδης και Γ. Μάζης μιλούν στο Καλημέρα Ελλάδα.",
+        "id": "greek_tv:ant1:4c6ac268:a24jflh5qms38xrcnzn9xijt",
+        "title": "Έπεσαν σοβάδες σε σχολείο του Πειραιά την ώρα του μαθήματος - Καλημέρα Ελλάδα - 13/11/2026",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:va1cna889sz2wz2h4g9mlzdk",
-        "title": "Συναγερμός για ύποπτη βαλίτσα στο κέντρο της Αθήνας - Καλημέρα Ελλάδα - 12/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:gssrlhfjnb2n8hrrjcgg40j8",
+        "title": "Με το βλέμμα στραμμένο στο γαλλικό ερευνητικό - Καλημέρα Ελλάδα - 13/11/2026 Ο Α. Λοβέρδος και ο Σ. Καλεντερίδης στο Καλημέρα Ελλάδα.",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:d4dr3uegjle1hmw54ekk3bv5",
-        "title": "Στην Αττάλεια ο πρώην δήμαρχος Αθηναίων, Κώστας Μπακογιάννης - Καλημέρα Ελλάδα - 12/11/2026 Ο Κώστας Μπακογιάννης, πρώην δήμαρχος Αθηναίων, μιλάει στο Καλημέρα Ελλάδα.",
+        "id": "greek_tv:ant1:4c6ac268:qtjnbs2vuhmht5su6ill1zti",
+        "title": "Σκάνδαλο Τσαβδαρίδη: Καταγγελία σοκ από γονέα για σχολικό πρωτάθλημα - Καλημέρα Ελλάδα - 13/11/2026 Το \"φύλλο αγώνα\" και η εικονική συμμετοχή στην ομάδα χάντμπολ.",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:ewrhmh2ktvglpqnjrh5gj08b",
-        "title": "Αττάλεια: Ο Ερντογάν αποχώρησε για να αποφύγει τον Χριστοδουλίδη - Καλημέρα Ελλάδα - 12/11/2026 Παρατράγουδο στην COP31 στην Αττάλλεια.",
+        "id": "greek_tv:ant1:4c6ac268:oyezfg8nhy74lik72sxvpxq4",
+        "title": "Τι αλλάζει για όσους διαθέτουν λίρες - Καλημέρα Ελλάδα - 13/11/2026",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:wy9ws4319n27jv2zccq99h0f",
-        "title": "Ο πρωθυπουργός έκανε δεκτή την παραίτηση Τσαβδαρίδη - Καλημέρα Ελλάδα - 12/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:ft6wti4koowjqfcdyecxtkwn",
+        "title": "Επιχείρηση του ελληνικού FBI στο Κιλκίς: Εξαρθρώθηκε κύκλωμα λαθραίων τσιγάρων - Καλημέρα Ελλάδα - 13/11/2026 Εξαρθρώθηκε κύκλωμα λαθραίων τσιγάρων με έδρα το Αγιονέρι - Πάνω από 3 εκατ. ευρώ οι διαφυγόντες...",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:a2up9me0naark55xgab3xdxj",
-        "title": "Υπόθεση Τσαβδαρίδη: Μόνο στον ANT1 - Γονέας αθλήτριας της Πυλαίας στο Καλημέρα Ελλάδα - 12/11/2026 Μαρτυρία πατέρα αθλητρίας χάντμπολ μιλάει στο Καλημέρα Ελλάδα.",
+        "id": "greek_tv:ant1:4c6ac268:kcy0035odllxcq3uanxotwgi",
+        "title": "Θεσσαλονίκη: Προφυλακίστηκαν λογιστές και ο δικηγόρος του κυκλώματος φοροδιαφυγής - Καλημέρα Ελλάδα - 13/11/2026",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:mu89wsdyeirrw4vsy7lsh945",
-        "title": "H Δόμνα Μιχαηλίδου, υπουργός Κοινωνικής Συνοχής και Οικογένειας, στο Καλημέρα Ελλάδα - 12/11/2026 Δ. Μιχαηλίδου: \"Έρχονται κοινωνικές κατοικίες σε Αθήνα, Θεσσαλονίκη και Πάτρα\"",
+        "id": "greek_tv:ant1:4c6ac268:b8bqf5y4akeamcznf3iskhlm",
+        "title": "Η υπουργός Παιδείας, Σοφία Ζαχαράκη στο Καλημέρα Ελλάδα - 13/11/2026 Σ. Ζαχαράκη: \"Ποτέ δεν ζήτησε ο κ. Τσαβδαρίδης ειδική μεταχείριση για την κόρη του\".",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:dhalvfv7jcerc6yh84rozinr",
-        "title": "Ο Γ. Λοβέρδος, υφυπ. Εξωτερικών και ο Κ. Τσουκαλάς, εκπρ. Τύπου του ΠΑΣΟΚ στο Καλημέρα Ελλάδα - 12/11/2026 Σάλος με τις δηλώσεις Τσαβδαρίδη στον ANT1.",
+        "id": "greek_tv:ant1:4c6ac268:lvvgnltag258odfa7i5i76ie",
+        "title": "\"Εμπόδια\" και \"λακκούβες\" στον δρόμο για την κάλπη - Καλημέρα Ελλάδα - 13/11/2026 Ο Κ. Γκιουλέκας, υφυπ. Μακεδονίας Θράκης και η Ευ. Λιακούλη, βουλευτής ΠΑΣΟΚ, μιλούν στο Καλημέρα...",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"

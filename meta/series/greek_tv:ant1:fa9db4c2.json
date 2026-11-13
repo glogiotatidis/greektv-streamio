@@ -7,94 +7,115 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:fa9db4c2:gl2jtkfqfzas6631tnj7quzs",
+        "title": "ΤΟ ΠΡΩΙΝΟ - 13/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
+      },
+      {
         "id": "greek_tv:ant1:fa9db4c2:lutx6alfdnhpac50txsuh1pu",
         "title": "ΤΟ ΠΡΩΙΝΟ - 12/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
       },
       {
         "id": "greek_tv:ant1:fa9db4c2:f39rrdicaoacomkjspq9q7dv",
         "title": "ΤΟ ΠΡΩΙΝΟ - 11/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
       },
       {
         "id": "greek_tv:ant1:fa9db4c2:mpo99ovuyi4m7hckyeolhjmw",
         "title": "ΤΟ ΠΡΩΙΝΟ - 10/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:fa9db4c2:f7nb1m3bg3zsy7q3lc7q6zfb",
-        "title": "ΤΟ ΠΡΩΙΝΟ - 09/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
       },
       {
-        "id": "greek_tv:ant1:fa9db4c2:dll9uhnhvyg4sx9xkuyt9opq",
-        "title": "Ποια είναι η εικόνα στο σπίτι του Γ. Μαζωνάκη στη Βούλα - Το Πρωινό - 12/11/2026 Συγκίνηση από τα μηνύματα αγάπης που αφήνουν οι θαυμαστές του.",
+        "id": "greek_tv:ant1:fa9db4c2:ceoritup4fkswdxmblje6ni5",
+        "title": "Η Ματίνα Παγώνη στο Πρωινό – 13/11/2026 Με νευρικό κλονισμό στο «Γεννηματάς» προϊστάμενη της Επιθεώρησης Εργασίας μετά από φραστικό...",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
       },
       {
-        "id": "greek_tv:ant1:fa9db4c2:ch5fkc3356s0b1w18h1bb7ve",
-        "title": "Στα δικαστήρια η Ε. Βατίδου για το τροχαίο στη Γλυφάδα το 2023 - Το Πρωινό - 12/11/2026",
+        "id": "greek_tv:ant1:fa9db4c2:mqu91mlplrqd0cebo39pgd9f",
+        "title": "Παγκόσμιο black out σε 74 χώρες – Τεχνικές λύσεις αναζητά η Microsoft – Το Πρωινό – 13/11/2026 Ο Νίκος Βασιλάκος μιλάει για την υπόθεση στο Πρωινό.",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
       },
       {
-        "id": "greek_tv:ant1:fa9db4c2:i3h0j3dmqwkoiwnlsjxl0pho",
-        "title": "Παραιτήθηκε ο υφυπουργός Ανάπτυξης Λ. Τσαβδαρίδης - Το Πρωινό - 12/11/2026 Παραιτήθηκε ο υφυπουργός Ανάπτυξης Λ. Τσαβδαρίδης για την υπόθεση με τα αθλητικά μόρια της κόρης...",
+        "id": "greek_tv:ant1:fa9db4c2:x3ec0wwvkn6d1im0nwxpmicm",
+        "title": "Ο δικηγόρος της Εύης Βατίδου, Οθ. Παπαδόπουλος μιλάει στο Πρωινό – 13/11/2026 Οθ. Παπαδόπουλος: «Εκβίαζαν την κυρία Βατίδου και θα βοηθήσουμε στην απαλλαγή της».",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
       },
       {
-        "id": "greek_tv:ant1:fa9db4c2:bthyqa5qqusl849od9k3nt2x",
-        "title": "Αισιόδοξα τα νέα για την υγεία του Δ. Καλλιβωκά - Το Πρωινό - 12/11/2026 Παραμένει στην ΜΕΘ. Τι λέει ο γιατρός του.",
+        "id": "greek_tv:ant1:fa9db4c2:pn8nj8p4rjyr906u5dg2bkjo",
+        "title": "Γιάννης Μαρακάκης: Τι απαντά για συμβιβασμό και χρηματισμό – Το Πρωινό – 13/11/2026 Γιάννης Μαρακάκης, δικηγόρος: «Θα καταθέσω τα μηνύματα που η κυρία Βατίδου φαίνεται να θέλει να...",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
       },
       {
-        "id": "greek_tv:ant1:fa9db4c2:uxxwou57msngrgtoy13pahb1",
-        "title": "H Αλεξάνδρα Παναγιώταρου μιλάει στο Πρωινό - 12/11/2026 Ο Γρηγόρης Μπάκας συνάντησε την Αλεξάνδρα Παναγιώταρου στο αεροδρόμιο και τα είπαν όλα.",
+        "id": "greek_tv:ant1:fa9db4c2:blf6jpe92dblzybw1intjkal",
+        "title": "Η έκκληση του Μιχάλη Αεράκη για τον Στάθη Μαντζώρο – Το Πρωινό – 13/11/2026 Μιχάλης Αεράκης: «Ο Στάθης μετά το εγκεφαλικό ταλαιπωρείται».",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
       },
       {
-        "id": "greek_tv:ant1:fa9db4c2:y2ykyda8lcswvwk83k09ybop",
-        "title": "Η Καλομοίρα καλεσμένη στο Πρωινό - 12/11/2026 Η Καλομοίρα σε μια εφ' όλης της ύλης συνέντευξη στο Πρωινό.",
+        "id": "greek_tv:ant1:fa9db4c2:epqp5z84ia9tu3jcm3smf9er",
+        "title": "Αποκλειστικό: Τι απάντησε ο Ολυμπιονίκης για τις κατηγορίες εις βάρος του αδερφού του – Το Πρωινό – 13/11/2026 Συνελήφθη 58χρονος προπονητής άρσης βαρών, αδελφός γνωστού Ολυμπιονίκη για ντόπινγκ σε αθλητές.",
         "season": 1,
         "episode": 10,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:fa9db4c2:qv8vjvg8mwj7j06udmd2c3bg",
+        "title": "Ο «Ηλίας Ψινάκης» από τη βίλα του στο Νέο Βουτζά σχολιάζει την επικαιρότητα – Το Πρωινό – 13/11/2026",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:fa9db4c2:ex1fqeh6a88mjou8gqs6nrtt",
+        "title": "Ανδρομάχη: «Είμαι χαρούμενη γιατί είναι καλά το παιδάκι μου» - Το Πρωινό – 13/11/2026 Ανδρομάχη: «Είμαι χαρούμενη γιατί είναι καλά το παιδάκι μου, είμαι καλά εγώ και ο μπαμπάς του. Τα...",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:fa9db4c2:qu8y3lgwa94ksu1tzi3km8y3",
+        "title": "Η Κατερίνα Γερονικολού καλεσμένη στο Πρωινό – 13/11/2026 Η Κατερίνα Γερονικολού μιλάει για τη ζωή και τα σχέδια της στο Πρωινό.",
+        "season": 1,
+        "episode": 13,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
       },
       {
         "id": "greek_tv:ant1:fa9db4c2:f0zlr0pikq7qpbwjc7kd32qh",
         "title": "Μόδα – Το Πρωινό – 05/11/2026 Προτάσεις μόδας από το Πρωινό.",
         "season": 1,
-        "episode": 11,
+        "episode": 14,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
       },
       {
         "id": "greek_tv:ant1:fa9db4c2:se6v1zuktzzgjjf0zjs4gypp",
         "title": "Ψητές πατάτες γεμιστές με καπνιστό regato και λαχανικά & croque monsieur με regato classic - Το Πρωινό - 12/11/2026 O Αλέξανδρος Παπανδρέου μας ετοιμάζει ψητές πατάτες γεμιστές με καπνιστό regato και λαχανικά &...",
         "season": 1,
-        "episode": 12,
+        "episode": 15,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
       },
       {
         "id": "greek_tv:ant1:fa9db4c2:kuk2jbs2wikdwxq72fe5zgn4",
         "title": "Το Πρωινό - Καθημερινά στις 09:50",
         "season": 1,
-        "episode": 13,
+        "episode": 16,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
       }
     ]

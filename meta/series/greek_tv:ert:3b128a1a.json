@@ -7,39 +7,39 @@
     "background": "https://files2.app.ertflix.gr/2026/news24/meta-tis-eideseis/meta-tis-eidhseis-hbbtv-bg.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:3b128a1a:meta-tis-eideseis-51",
+        "title": "Πέμπτη 12 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/meta-tis-eideseis/20261112-meta.jpg"
+      },
+      {
         "id": "greek_tv:ert:3b128a1a:meta-tis-eideseis-50",
         "title": "Τετάρτη 11 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261111-meta-tis-eidiseis.jpg"
       },
       {
         "id": "greek_tv:ert:3b128a1a:meta-tis-eideseis-49",
         "title": "Τρίτη 11 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261110-meta.jpg"
       },
       {
         "id": "greek_tv:ert:3b128a1a:meta-tis-eideseis-48",
         "title": "Δευτέρα 09 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 3,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261109-meta.jpg"
       },
       {
         "id": "greek_tv:ert:3b128a1a:meta-tis-eideseis-47",
         "title": "Παρασκευή 06 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 4,
-        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/meta-tis-eideseis/20261107-meta.jpg"
-      },
-      {
-        "id": "greek_tv:ert:3b128a1a:meta-tis-eideseis-46",
-        "title": "Πέμπτη 05 Νοεμβρίου 2026",
-        "season": 1,
         "episode": 5,
-        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/meta-tis-eideseis/20261105-meta-tis-eidhseis.jpg"
+        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/meta-tis-eideseis/20261107-meta.jpg"
       }
     ]
   }

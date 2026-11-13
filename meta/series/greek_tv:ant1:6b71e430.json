@@ -49,10 +49,24 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       },
       {
-        "id": "greek_tv:ant1:6b71e430:soio53ji7ksb3vpzac5r4jdq",
-        "title": "Ντέρτι - Τετάρτη στις 22:30",
+        "id": "greek_tv:ant1:6b71e430:mqppaw25c6luy6oi8ggqostx",
+        "title": "Ντέρτι - Δευτέρα έως Τετάρτη στις 22:30",
         "season": 1,
         "episode": 27,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
+      },
+      {
+        "id": "greek_tv:ant1:6b71e430:qxyjre35zwk28b2xhvmntmw6",
+        "title": "Ντέρτι – Δευτέρα έως Τετάρτη στις 22:30",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
+      },
+      {
+        "id": "greek_tv:ant1:6b71e430:fbqo9sk4ki8n7x9iifhoaxxs",
+        "title": "Κρίνο & Αγκάθι - Δευτέρα έως Τετάρτη στις 21:00 | Ντέρτι - Δευτέρα έως Τετάρτη στις 22:30",
+        "season": 1,
+        "episode": 29,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       }
     ]

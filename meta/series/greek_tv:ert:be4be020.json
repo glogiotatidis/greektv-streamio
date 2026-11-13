@@ -537,6 +537,13 @@
         "season": 5,
         "episode": 1,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/season-05/ps058451-0001.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-77",
+        "title": "Οι Αλεβίτες της Θράκης| 12.11.26",
+        "season": 5,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/season-05/365-stigmes-s05-e02-thraki.jpg"
       }
     ]
   }
