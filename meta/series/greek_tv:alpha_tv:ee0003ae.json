@@ -1148,703 +1148,1144 @@
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
+        "id": "greek_tv:alpha_tv:ee0003ae:272668-gia-tin-parea",
+        "title": "Για την παρέα",
+        "season": 3,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
         "id": "greek_tv:alpha_tv:ee0003ae:272672-o-mamakias",
         "title": "Ο μαμάκιας",
         "season": 3,
-        "episode": 9,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:272685-defteri-efkairia",
+        "title": "Δεύτερη ευκαιρία",
+        "season": 3,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:272773-i-mikropantremeni",
+        "title": "Η μικροπαντρεμένη",
+        "season": 3,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:272833-mavra-gialia",
+        "title": "Μαύρα γυαλιά",
+        "season": 3,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:272845-epikindino-internet",
+        "title": "Επικίνδυνο ίντερνετ",
+        "season": 3,
+        "episode": 14,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:272849-o-peirasmos",
         "title": "Ο πειρασμός",
         "season": 3,
-        "episode": 10,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:272865-i-kalosini-ton-xenon",
+        "title": "Η καλοσύνη των ξένων",
+        "season": 3,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:272877-erotas-me-diafora",
+        "title": "Έρωτας με διαφορά",
+        "season": 3,
+        "episode": 17,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:272966-mavri-lista",
         "title": "Μαύρη λίστα",
         "season": 3,
-        "episode": 11,
+        "episode": 18,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:273021-i-eisangeleas",
         "title": "Η εισαγγελέας",
         "season": 3,
-        "episode": 12,
+        "episode": 19,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:273046-goniki-sinainesi",
         "title": "Γονική συναίνεση",
         "season": 3,
-        "episode": 13,
+        "episode": 20,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:273067-sta-legame-emeis",
         "title": "Στα λέγαμε εμείς",
         "season": 3,
-        "episode": 14,
+        "episode": 21,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:273372-antras-palias-kopis",
+        "title": "Άντρας παλιάς κοπής",
+        "season": 3,
+        "episode": 22,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:273639-i-anakoxi",
+        "title": "Η ανακωχή",
+        "season": 3,
+        "episode": 23,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:273651-epangelma-influencer",
+        "title": "Επάγγελμα influencer",
+        "season": 3,
+        "episode": 24,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:273669-virtual-apistia",
+        "title": "Virtual απιστία",
+        "season": 3,
+        "episode": 25,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:273843-athina-thessaloniki",
         "title": "Αθήνα-Θεσσαλονίκη",
         "season": 3,
-        "episode": 15,
+        "episode": 26,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:273867-anergos-sta-40",
+        "title": "Άνεργος στα 40",
+        "season": 3,
+        "episode": 27,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:273885-antras-montelo",
+        "title": "Άντρας μοντέλο",
+        "season": 3,
+        "episode": 28,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:273903-oi-goneis-mas-ta-ftiaxane",
+        "title": "Οι γονείς μας τα φτιάξανε",
+        "season": 3,
+        "episode": 29,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:274210-psonizo-ara-iparxo",
+        "title": "Ψωνίζω άρα υπάρχω",
+        "season": 3,
+        "episode": 30,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:274229-antaftou",
+        "title": "Αντ’αυτού",
+        "season": 3,
+        "episode": 31,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:274241-dio-fores-paidi-mou",
+        "title": "Δυο φορές παιδί μου",
+        "season": 3,
+        "episode": 32,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:274367-o-somatofilakas",
         "title": "Ο σωματοφύλακας",
         "season": 3,
-        "episode": 16,
+        "episode": 33,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:274379-o-dikos-mou-anthropos",
         "title": "Ο δικός μου άνθρωπος",
         "season": 3,
-        "episode": 17,
+        "episode": 34,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:274584-i-klironomia",
         "title": "Η κληρονομιά",
         "season": 3,
-        "episode": 18,
+        "episode": 35,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:274798-to-montelo",
         "title": "Το μοντέλο",
         "season": 3,
-        "episode": 19,
+        "episode": 36,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:274916-personal-trainer",
+        "title": "Personal trainer",
+        "season": 3,
+        "episode": 37,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:274934-i-grammateas",
+        "title": "Η γραμματέας",
+        "season": 3,
+        "episode": 38,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:274952-i-alli-oikogeneia-tou-bampa-mou",
+        "title": "Η άλλη οικογένεια του μπαμπά μου",
+        "season": 3,
+        "episode": 39,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:274958-thisies-gia-tin-texni",
+        "title": "Θυσίες για την τέχνη",
+        "season": 3,
+        "episode": 40,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:275000-gia-ena-stoixima",
         "title": "Για ένα στοίχημα",
         "season": 3,
-        "episode": 20,
+        "episode": 41,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:275018-krifa-erotevmenos",
         "title": "Κρυφά ερωτευμένος",
         "season": 3,
-        "episode": 21,
+        "episode": 42,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:275184-to-ergostasio",
         "title": "Το εργοστάσιο",
         "season": 3,
-        "episode": 22,
+        "episode": 43,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:275300-krifo-talento",
+        "title": "Κρυφό ταλέντο",
+        "season": 3,
+        "episode": 44,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:275551-i-diprosopi-nifi",
+        "title": "Η διπρόσωπη νύφη",
+        "season": 3,
+        "episode": 45,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:275568-eleftheras",
+        "title": "Ελευθέρας",
+        "season": 3,
+        "episode": 46,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:275594-to-sxedio",
         "title": "Το σχέδιο",
         "season": 3,
-        "episode": 23,
+        "episode": 47,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:275660-i-parexigisi",
+        "title": "Η παρεξήγηση",
+        "season": 3,
+        "episode": 48,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:275678-tilergasia-kai-parenoxlisi",
+        "title": "Τηλεργασία και παρενόχληση",
+        "season": 3,
+        "episode": 49,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:275697-sak-vouagiaz",
+        "title": "Σακ βουαγιάζ",
+        "season": 3,
+        "episode": 50,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:275723-viral",
         "title": "Viral",
         "season": 3,
-        "episode": 24,
+        "episode": 51,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:275741-i-enallaktiki-lisi",
         "title": "Η εναλλακτική λύση",
         "season": 3,
-        "episode": 25,
+        "episode": 52,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:275986-logo-simferontos",
         "title": "Λόγω συμφέροντος",
         "season": 3,
-        "episode": 26,
+        "episode": 53,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:276353-oi-epiloges-mas",
         "title": "Οι επιλογές μας",
         "season": 3,
-        "episode": 27,
+        "episode": 54,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:276371-iatriko-aporrito",
         "title": "Ιατρικό απόρρητο",
         "season": 3,
-        "episode": 28,
+        "episode": 55,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:276424-gamilia-ekplixi",
+        "title": "Γαμήλια έκπληξη",
+        "season": 3,
+        "episode": 56,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:276436-i-kalipsi",
+        "title": "Η κάλυψη",
+        "season": 3,
+        "episode": 57,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:276454-i-psefto-maia",
+        "title": "Η ψευτο-μαία",
+        "season": 3,
+        "episode": 58,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:276472-epangelma-sizigos",
+        "title": "Επάγγελμα σύζυγος",
+        "season": 3,
+        "episode": 59,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:276501-to-baraki",
         "title": "Το μπαράκι",
         "season": 3,
-        "episode": 29,
+        "episode": 60,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:276688-piso-apo-enan-spoudaio-andra",
         "title": "Πίσω από έναν σπουδαίο άνδρα",
         "season": 3,
-        "episode": 30,
+        "episode": 61,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:276898-istoselida-gnorimion",
         "title": "Ιστοσελίδα γνωριμιών",
         "season": 3,
-        "episode": 31,
+        "episode": 62,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:276912-mitera-sta-46",
+        "title": "Μητέρα στα 46",
+        "season": 3,
+        "episode": 63,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:277207-i-diadoxi",
         "title": "Η διαδοχή",
         "season": 3,
-        "episode": 32,
+        "episode": 64,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:277216-o-sekiouritas",
+        "title": "Ο σεκιουριτάς",
+        "season": 3,
+        "episode": 65,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:277236-pateras-sta-20",
+        "title": "Πατέρας στα 20",
+        "season": 3,
+        "episode": 66,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:277366-i-epistrofi",
         "title": "Η επιστροφή",
         "season": 3,
-        "episode": 33,
+        "episode": 67,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:277495-i-aderfi-tou-kollitou-mou",
         "title": "Η αδερφή του κολλητού μου",
         "season": 3,
-        "episode": 34,
+        "episode": 68,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:277527-to-portreto",
+        "title": "Το πορτρετο",
+        "season": 3,
+        "episode": 69,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:277674-o-apeiros",
+        "title": "Ο άπειρος",
+        "season": 3,
+        "episode": 70,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:277684-to-mavro-provato",
+        "title": "Το μαύρο πρόβατο",
+        "season": 3,
+        "episode": 71,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:277699-to-koritsi-tou-filou-mou",
+        "title": "Το κορίτσι του φίλου μου",
+        "season": 3,
+        "episode": 72,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:277714-i-ekdikisi",
+        "title": "Η εκδίκηση",
+        "season": 3,
+        "episode": 73,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:277724-o-ekviasmos",
+        "title": "Ο εκβιασμός",
+        "season": 3,
+        "episode": 74,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:277799-iperano-pasis-ipopsias",
         "title": "Υπεράνω πάσης υποψίας",
         "season": 3,
-        "episode": 35,
+        "episode": 75,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:277844-i-prospoiisi",
         "title": "Η προσποίηση",
         "season": 3,
-        "episode": 36,
+        "episode": 76,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:277975-pseftogiatros",
         "title": "Ψευτογιατρός",
         "season": 3,
-        "episode": 37,
+        "episode": 77,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:278372-ek-ton-eso",
         "title": "Εκ των έσω",
         "season": 3,
-        "episode": 38,
+        "episode": 78,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:278409-se-exi-mines",
         "title": "Σε έξι μήνες",
         "season": 3,
-        "episode": 39,
+        "episode": 79,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:278467-to-mistiko",
+        "title": "Το μυστικό",
+        "season": 3,
+        "episode": 80,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:278516-ergazomeni-mitera",
         "title": "Εργαζόμενη μητέρα",
         "season": 3,
-        "episode": 40,
+        "episode": 81,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:278572-ginaikeia-allilengii",
+        "title": "Γυναικεία αλληλεγγύη",
+        "season": 3,
+        "episode": 82,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:278675-kathari-sineidisi",
         "title": "Καθαρή συνείδηση",
         "season": 3,
-        "episode": 41,
+        "episode": 83,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:278730-agapimenoi-geitones",
+        "title": "Αγαπημένοι γείτονες",
+        "season": 3,
+        "episode": 84,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:278734-sxedon-adelfia",
+        "title": "Σχεδόν αδέλφια",
+        "season": 3,
+        "episode": 85,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:278845-i-kontra",
         "title": "Η κόντρα",
         "season": 3,
-        "episode": 42,
+        "episode": 86,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:279048-i-lathos-agora",
+        "title": "Η λάθος αγορά",
+        "season": 3,
+        "episode": 87,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:279057-o-simvoulos-gamou",
+        "title": "Ο σύμβουλος γάμου",
+        "season": 3,
+        "episode": 88,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:279063-oi-vardies",
+        "title": "Οι βάρδιες",
+        "season": 3,
+        "episode": 89,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:279210-kagkela",
+        "title": "Κάγκελα",
+        "season": 3,
+        "episode": 90,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:279455-to-xrima",
+        "title": "Το χρήμα",
+        "season": 3,
+        "episode": 91,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:279488-to-kako-paradeigma",
+        "title": "Το κακό παράδειγμα",
+        "season": 3,
+        "episode": 92,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:279546-to-politismeno-mou-diazigio",
+        "title": "Το πολιτισμένο μου διαζύγιο",
+        "season": 3,
+        "episode": 93,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:279756-o-asotos",
+        "title": "Ο άσωτος",
+        "season": 3,
+        "episode": 94,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:279963-o-protoetis",
+        "title": "Ο πρωτοετής",
+        "season": 3,
+        "episode": 95,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:279972-prota-i-douleia",
+        "title": "Πρώτα η δουλειά",
+        "season": 3,
+        "episode": 96,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:280091-alitheies-kai-psemata",
+        "title": "Αλήθειες και ψέματα",
+        "season": 3,
+        "episode": 97,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:280100-agapate-allilous",
+        "title": "Αγαπάτε αλλήλους",
+        "season": 3,
+        "episode": 98,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:280368-o-ipopsifios",
+        "title": "Ο υποψήφιος",
+        "season": 3,
+        "episode": 99,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:280540-apo-ania",
+        "title": "Από ανία",
+        "season": 3,
+        "episode": 100,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:280552-o-doloplokos",
+        "title": "Ο δολοπλόκος",
+        "season": 3,
+        "episode": 101,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:280606-kai-tora-oi-dio-mas",
+        "title": "Και τώρα οι δυο μας",
+        "season": 3,
+        "episode": 102,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:280669-i-thavmastria",
+        "title": "Η θαυμάστρια",
+        "season": 3,
+        "episode": 103,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:280933-ta-dikaiomata",
+        "title": "Τα δικαιώματα",
+        "season": 3,
+        "episode": 104,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:280942-dio-kosmoi",
+        "title": "Δύο κόσμοι",
+        "season": 3,
+        "episode": 105,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281057-tha-ton-allaxo",
         "title": "Θα τον αλλάξω",
         "season": 3,
-        "episode": 43,
+        "episode": 106,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281132-i-antroparea",
         "title": "Η αντροπαρέα",
         "season": 3,
-        "episode": 44,
+        "episode": 107,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281328-xoris-allothi",
         "title": "Χωρίς άλλοθι",
         "season": 3,
-        "episode": 45,
+        "episode": 108,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281380-to-trito-prosopo",
         "title": "Το τρίτο πρόσωπο",
         "season": 3,
-        "episode": 46,
+        "episode": 109,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281519-allo-ego",
         "title": "Άλλο εγώ",
         "season": 3,
-        "episode": 47,
+        "episode": 110,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281595-mono-mia",
         "title": "Μόνο μία",
         "season": 3,
-        "episode": 48,
+        "episode": 111,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281613-o-sizigos-tis-douleias",
         "title": "Ο σύζυγος της δουλειάς",
         "season": 3,
-        "episode": 49,
+        "episode": 112,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281630-i-sigkrousi",
         "title": "Η σύγκρουση",
         "season": 3,
-        "episode": 50,
+        "episode": 113,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281665-epivevaiosi",
         "title": "Επιβεβαίωση",
         "season": 3,
-        "episode": 51,
+        "episode": 114,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281698-goniki-paroxi",
         "title": "Γονική παροχή",
         "season": 3,
-        "episode": 52,
+        "episode": 115,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281724-arivistas",
         "title": "Αριβίστας",
         "season": 3,
-        "episode": 53,
+        "episode": 116,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281763-krifi-zoi",
         "title": "Κρυφή ζωή",
         "season": 3,
-        "episode": 54,
+        "episode": 117,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281814-oti-lampei",
         "title": "Ο,τι λάμπει",
         "season": 3,
-        "episode": 55,
+        "episode": 118,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281836-xafnika-plousios",
         "title": "Ξαφνικά πλούσιος",
         "season": 3,
-        "episode": 56,
+        "episode": 119,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281868-apoxenosi",
         "title": "Αποξένωση",
         "season": 3,
-        "episode": 57,
+        "episode": 120,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281898-david-kai-goliath",
         "title": "Δαβίδ και Γολιάθ",
         "season": 3,
-        "episode": 58,
+        "episode": 121,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281932-to-pentastero",
         "title": "Το πεντάστερο",
         "season": 3,
-        "episode": 59,
+        "episode": 122,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281950-kainourgia-selida",
         "title": "Καινούργια Σελίδα",
         "season": 3,
-        "episode": 60,
+        "episode": 123,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:281972-sti-skia",
         "title": "Στη σκιά",
         "season": 3,
-        "episode": 61,
+        "episode": 124,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:282004-to-antitimo",
         "title": "Το αντίτιμο",
         "season": 3,
-        "episode": 62,
+        "episode": 125,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:282049-axizo",
         "title": "Αξίζω",
         "season": 3,
-        "episode": 63,
+        "episode": 126,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:282051-ex-agxisteias",
         "title": "Εξ αγχιστείας",
         "season": 3,
-        "episode": 64,
+        "episode": 127,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:282089-ragismeno-giali",
         "title": "Ραγισμένο γυαλί",
         "season": 3,
-        "episode": 65,
+        "episode": 128,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:282147-blogger",
         "title": "Blogger",
         "season": 3,
-        "episode": 66,
+        "episode": 129,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:282266-se-xena-xorafia",
         "title": "Σε ξένα χωράφια",
         "season": 3,
-        "episode": 67,
+        "episode": 130,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:282317-ekptotos-angelos",
         "title": "Έκπτωτος άγγελος",
         "season": 3,
-        "episode": 68,
+        "episode": 131,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:282475-i-megali-diafora",
         "title": "Η μεγάλη διαφορά",
         "season": 3,
-        "episode": 69,
+        "episode": 132,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:282574-to-sigkrotima",
         "title": "Το συγκρότημα",
         "season": 3,
-        "episode": 70,
+        "episode": 133,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:282579-ena-potiri-nero",
         "title": "Ένα ποτήρι νερό",
         "season": 3,
-        "episode": 71,
+        "episode": 134,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:282870-kathe-2i-efkairia",
         "title": "Κάθε 2η ευκαιρία",
         "season": 3,
-        "episode": 72,
+        "episode": 135,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:282946-o-mizeros",
         "title": "Ο μίζερος",
         "season": 3,
-        "episode": 73,
+        "episode": 136,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:282978-filoi-gia-panta",
         "title": "Φίλοι για πάντα",
         "season": 3,
-        "episode": 74,
+        "episode": 137,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283175-i-apati",
         "title": "Η απάτη",
         "season": 3,
-        "episode": 75,
+        "episode": 138,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283183-moiraia-elxi",
         "title": "Μοιραία έλξη",
         "season": 3,
-        "episode": 76,
+        "episode": 139,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283329-o-arxigos",
         "title": "Ο αρχηγός",
         "season": 3,
-        "episode": 77,
+        "episode": 140,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283368-o-foititis",
         "title": "Ο φοιτητής",
         "season": 3,
-        "episode": 78,
+        "episode": 141,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283495-i-pagida",
         "title": "Η παγίδα",
         "season": 3,
-        "episode": 79,
+        "episode": 142,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283535-goneis-kai-kidemones",
         "title": "Γονείς και κηδεμόνες",
         "season": 3,
-        "episode": 80,
+        "episode": 143,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283603-to-peisma",
         "title": "Το πείσμα",
         "season": 3,
-        "episode": 81,
+        "episode": 144,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283705-nero-kai-alati",
         "title": "Νερό και αλάτι",
         "season": 3,
-        "episode": 82,
+        "episode": 145,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283753-ena-akoma-diazigio",
         "title": "Ένα ακόμα διαζύγιο",
         "season": 3,
-        "episode": 83,
+        "episode": 146,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283792-i-ziliara",
         "title": "Η ζηλιάρα",
         "season": 3,
-        "episode": 84,
+        "episode": 147,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283810-xeiristiki-fili",
         "title": "Χειριστική φίλη",
         "season": 3,
-        "episode": 85,
+        "episode": 148,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283838-sta-prasa",
         "title": "Στα πράσα",
         "season": 3,
-        "episode": 86,
+        "episode": 149,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283843-o-simplegmatikos",
         "title": "Ο συμπλεγματικός",
         "season": 3,
-        "episode": 87,
+        "episode": 150,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283895-o-vasikos-ipefthinos",
         "title": "Ο βασικός υπεύθυνος",
         "season": 3,
-        "episode": 88,
+        "episode": 151,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283966-o-katapiesmenos",
         "title": "Ο καταπιεσμένος",
         "season": 3,
-        "episode": 89,
+        "episode": 152,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283977-eimaste-treis",
         "title": "Είμαστε τρεις",
         "season": 3,
-        "episode": 90,
+        "episode": 153,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:283991-xoris-filtra",
         "title": "Χωρίς φίλτρα",
         "season": 3,
-        "episode": 91,
+        "episode": 154,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284010-o-engonos",
         "title": "Ο εγγονός",
         "season": 3,
-        "episode": 92,
+        "episode": 155,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284071-diadiktiako-bullying",
         "title": "Διαδικτυακό bullying",
         "season": 3,
-        "episode": 93,
+        "episode": 156,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284090-omerta",
         "title": "Ομερτά",
         "season": 3,
-        "episode": 94,
+        "episode": 157,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284114-despotiki-mitera",
         "title": "Δεσποτική μητέρα",
         "season": 3,
-        "episode": 95,
+        "episode": 158,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284131-filiki-zoni",
         "title": "Φιλική ζώνη",
         "season": 3,
-        "episode": 96,
+        "episode": 159,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284237-i-fili",
         "title": "Η φίλη",
         "season": 3,
-        "episode": 97,
+        "episode": 160,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284240-sidira-kiria",
         "title": "Σιδηρά κυρία",
         "season": 3,
-        "episode": 98,
+        "episode": 161,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284282-kainourgia-zoi",
         "title": "Καινούργια ζωή",
         "season": 3,
-        "episode": 99,
+        "episode": 162,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284341-meta-ton-xorismo",
         "title": "Μετά τον χωρισμό",
         "season": 3,
-        "episode": 100,
+        "episode": 163,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284361-i-koutsompola",
         "title": "Η κουτσομπόλα",
         "season": 3,
-        "episode": 101,
+        "episode": 164,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284397-i-epilogi",
         "title": "Η επιλογή",
         "season": 3,
-        "episode": 102,
+        "episode": 165,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284400-dimosia-periousia",
         "title": "Δημόσια περιουσία",
         "season": 3,
-        "episode": 103,
+        "episode": 166,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284419-anarmosti-sxesi",
         "title": "Ανάρμοστη σχέση",
         "season": 3,
-        "episode": 104,
+        "episode": 167,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284440-sarantaris-monos-psaxnei",
         "title": "Σαραντάρης μόνος ψάχνει",
         "season": 3,
-        "episode": 105,
+        "episode": 168,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284519-o-mentoras",
         "title": "Ο μέντορας",
         "season": 3,
-        "episode": 106,
+        "episode": 169,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284522-to-tatouaz",
         "title": "Το τατουάζ",
         "season": 3,
-        "episode": 107,
+        "episode": 170,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:284602-to-thima",
         "title": "Το θύμα",
         "season": 3,
-        "episode": 108,
+        "episode": 171,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
@@ -4039,255 +4480,822 @@
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
+        "id": "greek_tv:alpha_tv:ee0003ae:401687-ta-akra-antitheta",
+        "title": "Τα άκρα αντίθετα",
+        "season": 6,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401688-diskolos-kairos",
+        "title": "Δύσκολος καιρός",
+        "season": 6,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401689-to-fragma",
+        "title": "Το φράγμα",
+        "season": 6,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401690-stoker",
+        "title": "Στόκερ",
+        "season": 6,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401691-to-trito-prosopo",
+        "title": "Το τρίτο πρόσωπο",
+        "season": 6,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401720-polemiki-texni",
+        "title": "Πολεμική τέχνη",
+        "season": 6,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401721-aithousa-anamonis",
+        "title": "Αίθουσα αναμονής",
+        "season": 6,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401722-seira",
+        "title": "Σειρά",
+        "season": 6,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401723-boumerangk",
+        "title": "Μπούμερανγκ",
+        "season": 6,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401724-red-flags",
+        "title": "Red flags",
+        "season": 6,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401751-xepareou",
+        "title": "Ξεπαρεού",
+        "season": 6,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401765-emeis-palia",
+        "title": "Εμείς παλιά",
+        "season": 6,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401766-aspro-provato",
+        "title": "Άσπρο πρόβατο",
+        "season": 6,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401767-kapnos",
+        "title": "Καπνός",
+        "season": 6,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401768-to-proto-vima",
+        "title": "Το πρώτο βήμα",
+        "season": 6,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401793-afiloxenos-topos",
+        "title": "Αφιλόξενος τόπος",
+        "season": 6,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401794-sintelesmenos-mellontas",
+        "title": "Συντελεσμένος μέλλοντας",
+        "season": 6,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401795-pseftika-diamantia",
+        "title": "Ψεύτικα διαμάντια",
+        "season": 6,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401796-poli-metaxi-mas",
+        "title": "Πολύ μεταξύ μας",
+        "season": 6,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401797-i-apaitisi",
+        "title": "Η απαίτηση",
+        "season": 6,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401836-i-gamovaftisi",
+        "title": "Η γαμοβάφτιση",
+        "season": 6,
+        "episode": 21,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401845-to-spiti",
+        "title": "Το σπίτι",
+        "season": 6,
+        "episode": 22,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401849-radiourgies",
+        "title": "Ραδιουργίες",
+        "season": 6,
+        "episode": 23,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401850-to-diazigio",
+        "title": "Το διαζύγιο",
+        "season": 6,
+        "episode": 24,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401878-me-olo-ton-sevasmo",
+        "title": "Με όλο τον σεβασμό",
+        "season": 6,
+        "episode": 25,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401879-proti-fora",
+        "title": "Πρώτη φορά",
+        "season": 6,
+        "episode": 26,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401880-apothimeno",
+        "title": "Απωθημένο",
+        "season": 6,
+        "episode": 27,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401881-o-megalos-adelfos",
+        "title": "Ο μεγάλος αδελφός",
+        "season": 6,
+        "episode": 28,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:401915-di-ekdikisi",
+        "title": "Δι-εκδίκηση",
+        "season": 6,
+        "episode": 29,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:413699-o-spatalos",
+        "title": "Ο σπάταλος",
+        "season": 6,
+        "episode": 30,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:413709-melvourni",
+        "title": "Μελβούρνη",
+        "season": 6,
+        "episode": 31,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:413718-apoliomai",
+        "title": "Απολύομαι",
+        "season": 6,
+        "episode": 32,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:413728-o-antras-mou",
+        "title": "Ο άντρας μου",
+        "season": 6,
+        "episode": 33,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:413738-psifiaki-apoxi",
+        "title": "Ψηφιακή αποχή",
+        "season": 6,
+        "episode": 34,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414116-oi-sinifades",
+        "title": "Οι συνυφάδες",
+        "season": 6,
+        "episode": 35,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414125-to-skandalo",
+        "title": "Το σκάνδαλο",
+        "season": 6,
+        "episode": 36,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414136-kathe-paraskevi",
+        "title": "Κάθε Παρασκευή",
+        "season": 6,
+        "episode": 37,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414145-esto-kai-arga",
+        "title": "Έστω και αργά",
+        "season": 6,
+        "episode": 38,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414157-o-mageiras",
+        "title": "Ο μάγειρας",
+        "season": 6,
+        "episode": 39,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414538-i-parapompi",
+        "title": "Η παραπομπή",
+        "season": 6,
+        "episode": 40,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414548-i-dianomi",
+        "title": "Η διανομή",
+        "season": 6,
+        "episode": 41,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414557-valantia",
+        "title": "Βαλάντια",
+        "season": 6,
+        "episode": 42,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414565-mazi-den-kanoume",
+        "title": "Μαζί δεν κάνουμε",
+        "season": 6,
+        "episode": 43,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414574-oikogeneiaki-ekdromi",
+        "title": "Οικογενειακή εκδρομή",
+        "season": 6,
+        "episode": 44,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414943-aitima-filias",
+        "title": "Αίτημα φιλίας",
+        "season": 6,
+        "episode": 45,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414952-pateras-x2",
+        "title": "Πατέρας Χ2",
+        "season": 6,
+        "episode": 46,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414961-o-dikigoros",
+        "title": "Ο δικηγόρος",
+        "season": 6,
+        "episode": 47,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414973-idiaiteri-patrida",
+        "title": "Ιδιαίτερη πατρίδα",
+        "season": 6,
+        "episode": 48,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:414983-megala-logia",
+        "title": "Μεγάλα λόγια",
+        "season": 6,
+        "episode": 49,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:415388-o-atixos",
+        "title": "Ο άτυχος",
+        "season": 6,
+        "episode": 50,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:415398-i-diakrisi",
+        "title": "Η διάκριση",
+        "season": 6,
+        "episode": 51,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:415411-idiaitera-mathimata",
+        "title": "Ιδιαίτερα μαθήματα",
+        "season": 6,
+        "episode": 52,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:415421-stin-arena",
+        "title": "Στην αρένα",
+        "season": 6,
+        "episode": 53,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:415432-kansel",
+        "title": "Κάνσελ",
+        "season": 6,
+        "episode": 54,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:416002-se-periptosi-pou",
+        "title": "Σε περίπτωση που",
+        "season": 6,
+        "episode": 55,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:416013-monaxia",
+        "title": "Μοναξιά",
+        "season": 6,
+        "episode": 56,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:416023-nai-kai-oxi",
+        "title": "Ναι και όχι",
+        "season": 6,
+        "episode": 57,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:416031-to-parti",
+        "title": "Το πάρτυ",
+        "season": 6,
+        "episode": 58,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:416043-mia-nifi-gia-ton-antra-mou",
+        "title": "Μια νύφη για τον άντρα μου",
+        "season": 6,
+        "episode": 59,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:416355-oi-kollitsides",
+        "title": "Οι κολλιτσίδες",
+        "season": 6,
+        "episode": 60,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:416434-athela-mou",
+        "title": "Άθελά μου",
+        "season": 6,
+        "episode": 61,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:416446-den-antexo-ti-douleia-mou",
+        "title": "Δεν αντέχω τη δουλειά μου",
+        "season": 6,
+        "episode": 62,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:416458-xriso-klouvi",
+        "title": "Χρυσό κλουβί",
+        "season": 6,
+        "episode": 63,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:416467-i-proti-anagnosi",
+        "title": "Η πρώτη ανάγνωση",
+        "season": 6,
+        "episode": 64,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:416785-aderfia",
+        "title": "Αδέρφια",
+        "season": 6,
+        "episode": 65,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:416795-met-empodion",
+        "title": "Μετ’ εμποδίων",
+        "season": 6,
+        "episode": 66,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:416804-to-anipsi-mou",
+        "title": "Το ανίψι μου",
+        "season": 6,
+        "episode": 67,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:417311-atairiasto-zevgari",
+        "title": "Αταίριαστο ζευγάρι",
+        "season": 6,
+        "episode": 68,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:417322-an-imoun-sti-thesi-sou",
+        "title": "Αν ήμουν στη θέση σου",
+        "season": 6,
+        "episode": 69,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:417333-xoristoi-dromoi",
+        "title": "Χωριστοί δρόμοι",
+        "season": 6,
+        "episode": 70,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:417342-to-gkroup",
+        "title": "Το γκρουπ",
+        "season": 6,
+        "episode": 71,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:417353-zevgaria",
+        "title": "Ζευγάρια",
+        "season": 6,
+        "episode": 72,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:417567-gia-onoma",
+        "title": "Για όνομα",
+        "season": 6,
+        "episode": 73,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:417577-dikaioma-metengrafis",
+        "title": "Δικαίωμα μετεγγραφής",
+        "season": 6,
+        "episode": 74,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:417587-mia-fora-apistos",
+        "title": "Μια φορά άπιστος",
+        "season": 6,
+        "episode": 75,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:417597-minas-melitos",
+        "title": "Μήνας μέλιτος",
+        "season": 6,
+        "episode": 76,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:417608-dianikterevon",
+        "title": "Διανυκτερεύον",
+        "season": 6,
+        "episode": 77,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:417994-episimi-gnorimia",
+        "title": "Επίσημη γνωριμία",
+        "season": 6,
+        "episode": 78,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:418004-i-proin-tou",
+        "title": "Η πρώην του",
+        "season": 6,
+        "episode": 79,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:418014-roua-mat",
+        "title": "Ρουά ματ",
+        "season": 6,
+        "episode": 80,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
+        "id": "greek_tv:alpha_tv:ee0003ae:418023-i-sef-kai-o-blogker",
+        "title": "Η σεφ και ο μπλόγκερ",
+        "season": 6,
+        "episode": 81,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      },
+      {
         "id": "greek_tv:alpha_tv:ee0003ae:418035-dio-xenoi",
         "title": "Δύο ξένοι",
         "season": 6,
-        "episode": 1,
+        "episode": 82,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:418283-allos-plironei",
         "title": "Άλλος πληρώνει",
         "season": 6,
-        "episode": 2,
+        "episode": 83,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:418293-xerei-i-mama",
         "title": "Ξέρει η μαμά",
         "season": 6,
-        "episode": 3,
+        "episode": 84,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:418303-gentle-parenting",
         "title": "Gentle parenting",
         "season": 6,
-        "episode": 4,
+        "episode": 85,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:418314-rematch",
         "title": "Rematch",
         "season": 6,
-        "episode": 5,
+        "episode": 86,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:418325-aftoptis-martiras",
         "title": "Αυτόπτης μάρτυρας",
         "season": 6,
-        "episode": 6,
+        "episode": 87,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:441145-prosexe-ti-efxesai",
         "title": "Πρόσεχε τι εύχεσαι",
         "season": 6,
-        "episode": 7,
+        "episode": 88,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:441146-i-fotografisi",
         "title": "Η φωτογράφιση",
         "season": 6,
-        "episode": 8,
+        "episode": 89,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:441147-o-mesitis",
         "title": "Ο μεσίτης",
         "season": 6,
-        "episode": 9,
+        "episode": 90,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:441148-ta-paidia-tou",
         "title": "Τα παιδιά του",
         "season": 6,
-        "episode": 10,
+        "episode": 91,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:441149-poios",
         "title": "Ποιος",
         "season": 6,
-        "episode": 11,
+        "episode": 92,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:441193-o-katastrofologos",
         "title": "Ο καταστροφολόγος",
         "season": 6,
-        "episode": 12,
+        "episode": 93,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:441203-kai-pali-files",
         "title": "Και πάλι φίλες",
         "season": 6,
-        "episode": 13,
+        "episode": 94,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:441204-zevgos-antitheseon",
         "title": "Ζεύγος αντιθέσεων",
         "season": 6,
-        "episode": 14,
+        "episode": 95,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:441205-o-kiknos",
         "title": "Ο κύκνος",
         "season": 6,
-        "episode": 15,
+        "episode": 96,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:441237-o-epomenos",
         "title": "Ο επόμενος",
         "season": 6,
-        "episode": 16,
+        "episode": 97,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:441238-journaling",
         "title": "Journaling",
         "season": 6,
-        "episode": 17,
+        "episode": 98,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:441239-i-moirasia",
         "title": "Η μοιρασιά",
         "season": 6,
-        "episode": 18,
+        "episode": 99,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:441240-enas-arithmos",
         "title": "Ένας αριθμός",
         "season": 6,
-        "episode": 19,
+        "episode": 100,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:441280-i-foni",
         "title": "Η φωνή",
         "season": 6,
-        "episode": 20,
+        "episode": 101,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656068-stand-up",
         "title": "Stand up",
         "season": 6,
-        "episode": 21,
+        "episode": 102,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656070-i-daskala",
         "title": "Η δασκάλα",
         "season": 6,
-        "episode": 22,
+        "episode": 103,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656072-i-kardia",
         "title": "Η καρδιά",
         "season": 6,
-        "episode": 23,
+        "episode": 104,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656074-folia",
         "title": "Φωλιά",
         "season": 6,
-        "episode": 24,
+        "episode": 105,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656160-aftoi-pou-menoun",
         "title": "Αυτοί που μένουν",
         "season": 6,
-        "episode": 25,
+        "episode": 106,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656162-o-teleftaios-engonos",
         "title": "Ο τελευταίος εγγονός",
         "season": 6,
-        "episode": 26,
+        "episode": 107,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656164-ekdikisi",
         "title": "Εκδίκηση",
         "season": 6,
-        "episode": 27,
+        "episode": 108,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656166-i-ginaika-tis-zois-mou",
         "title": "Η γυναίκα της ζωής μου",
         "season": 6,
-        "episode": 28,
+        "episode": 109,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656256-sto-gkaraz",
         "title": "Στο γκαράζ",
         "season": 6,
-        "episode": 29,
+        "episode": 110,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656258-epangelma-oikiaka",
         "title": "Επάγγελμα οικιακά",
         "season": 6,
-        "episode": 30,
+        "episode": 111,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656260-psixraimia",
         "title": "Ψυχραιμία",
         "season": 6,
-        "episode": 31,
+        "episode": 112,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656262-pepromeno",
         "title": "Πεπρωμένο",
         "season": 6,
-        "episode": 32,
+        "episode": 113,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656314-piso-apo-to-pliktrologio",
         "title": "Πίσω από το πληκτρολόγιο",
         "season": 6,
-        "episode": 33,
+        "episode": 114,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656316-koinoxristo-diamerisma",
         "title": "Κοινόχρηστο διαμέρισμα",
         "season": 6,
-        "episode": 34,
+        "episode": 115,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656318-mixanorafia",
         "title": "Μηχανοραφία",
         "season": 6,
-        "episode": 35,
+        "episode": 116,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       },
       {
         "id": "greek_tv:alpha_tv:ee0003ae:656320-ektos-paradosis",
         "title": "Εκτός παράδοσης",
         "season": 6,
-        "episode": 36,
+        "episode": 117,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
       }
     ]

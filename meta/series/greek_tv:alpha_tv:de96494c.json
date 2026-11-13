@@ -7,6 +7,146 @@
     "background": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg",
     "videos": [
       {
+        "id": "greek_tv:alpha_tv:de96494c:292099-s1-epeisodio-1",
+        "title": "Σ1 – Επεισόδιο 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:292350-s1-epeisodio-2",
+        "title": "Σ1 – Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:290910-s1-epeisodio-3",
+        "title": "Σ1 – Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:290959-s1-epeisodio-4",
+        "title": "Σ1 – Επεισόδιο 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:291755-s1-epeisodio-5",
+        "title": "Σ1 – Επεισόδιο 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:291903-s1-epeisodio-6",
+        "title": "Σ1 – Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:292621-s1-epeisodio-7",
+        "title": "Σ1 – Επεισόδιο 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:285302-s1-epeisodio-8",
+        "title": "Σ1 – Επεισόδιο 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:285411-s1-epeisodio-9",
+        "title": "Σ1 – Επεισόδιο 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:272922-s1-epeisodio-10",
+        "title": "Σ1 – Επεισόδιο 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:293006-s1-epeisodio-11",
+        "title": "Σ1 – Επεισόδιο 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:290337-s1-epeisodio-12",
+        "title": "Σ1 – Επεισόδιο 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:290701-s1-epeisodio-13",
+        "title": "Σ1 – Επεισόδιο 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:290731-s1-epeisodio-14",
+        "title": "Σ1 – Επεισόδιο 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:291137-s1-epeisodio-15",
+        "title": "Σ1 – Επεισόδιο 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:282841-s1-epeisodio-16",
+        "title": "Σ1 – Επεισόδιο 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:282985-s1-epeisodio-17",
+        "title": "Σ1 – Επεισόδιο 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:291329-s1-epeisodio-18",
+        "title": "Σ1 – Επεισόδιο 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:291490-s1-epeisodio-19",
+        "title": "Σ1 – Επεισόδιο 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:289747-s1-epeisodio-20",
+        "title": "Σ1 – Επεισόδιο 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
         "id": "greek_tv:alpha_tv:de96494c:289828-s1-epeisodio-21",
         "title": "Σ1 – Επεισόδιο 21",
         "season": 1,
@@ -130,6 +270,13 @@
         "title": "Σ1 – Επεισόδιο 38",
         "season": 1,
         "episode": 38,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:de96494c:287188-sezon-1",
+        "title": "ΣΕΖΟΝ 1",
+        "season": 1,
+        "episode": 39,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
       }
     ]

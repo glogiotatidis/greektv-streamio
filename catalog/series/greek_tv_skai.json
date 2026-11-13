@@ -91,12 +91,6 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/stin_agkalia_tou_fani/2026_2027/fanis_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:e35b780e",
-      "type": "series",
-      "name": "Happy Traveller",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/happy_traveller/2026_2027/happy_traveller_landscape.jpg"
-    },
-    {
       "id": "greek_tv:skai:6448dbc8",
       "type": "series",
       "name": "Kitchen Lab",
@@ -127,16 +121,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/psichagogia/2024_2025/vardis_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:d1def1ef",
+      "type": "series",
+      "name": "Prime Time",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/prime_time/2026_2027/prime_time_s3_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:441c8422",
       "type": "series",
       "name": "MOVIETIME",
       "poster": "https://media.skaitv.gr/images/1280/0/files/tainies/filakas_aggelos_epese_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:19a35167",
-      "type": "series",
-      "name": "Μέλλον Ένα με Ακουστική Περιγραφή (AD)",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_ad_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:ec495706",
@@ -175,58 +169,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/protagonistes/2026_2027/prwtagwnistes1_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:d1def1ef",
+      "id": "greek_tv:skai:19a35167",
       "type": "series",
-      "name": "Prime Time",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/prime_time/2026_2027/prime_time_s3_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:161b6c19",
-      "type": "series",
-      "name": "Πρωταγωνιστές Μικρού Μήκους",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/protagonistes_mikrou_mikous/theodwrakis_movie1_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:3a0e23be",
-      "type": "series",
-      "name": "Με Λένε Γιώργο",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mazw_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:383e7fb3",
-      "type": "series",
-      "name": "Στο Χιλιοστό",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/xiliosto/sto_xiliosto_new_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:bedc1e66",
-      "type": "series",
-      "name": "Φάκελος 17Ν",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/fakelos_17n/fakelos_17n_landscale.jpg"
-    },
-    {
-      "id": "greek_tv:skai:f26d1a38",
-      "type": "series",
-      "name": "Takis.",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/takis_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:fa309bea",
-      "type": "series",
-      "name": "Ίμια: 30 Χρόνια Μετά",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/imia/imia_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:d6a89f47",
-      "type": "series",
-      "name": "Σαββόπουλος \"Long Play\"",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/savvopoulos/savvopoulos1_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:a2c818b8",
-      "type": "series",
-      "name": "Η Ζωή σου Όλη",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/zoi_sou_oli/2025_2026/logos/i_zwi_sou_oli_landscape.jpg"
+      "name": "Μέλλον Ένα με Ακουστική Περιγραφή (AD)",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_ad_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:8b16f2d3",
@@ -247,10 +193,40 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/new_katastrofes_land.jpg"
     },
     {
-      "id": "greek_tv:skai:8ff8641b",
+      "id": "greek_tv:skai:bedc1e66",
       "type": "series",
-      "name": "Μικρά Ασία",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mikrasia.jpg"
+      "name": "Φάκελος 17Ν",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/fakelos_17n/fakelos_17n_landscale.jpg"
+    },
+    {
+      "id": "greek_tv:skai:3a0e23be",
+      "type": "series",
+      "name": "Με Λένε Γιώργο",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mazw_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:f26d1a38",
+      "type": "series",
+      "name": "Takis.",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/takis_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:d6a89f47",
+      "type": "series",
+      "name": "Σαββόπουλος \"Long Play\"",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/savvopoulos/savvopoulos1_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:a2c818b8",
+      "type": "series",
+      "name": "Η Ζωή σου Όλη",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/zoi_sou_oli/2025_2026/logos/i_zwi_sou_oli_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:161b6c19",
+      "type": "series",
+      "name": "Πρωταγωνιστές Μικρού Μήκους",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/protagonistes_mikrou_mikous/theodwrakis_movie1_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:5742ed47",
@@ -259,40 +235,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/prosfyges_land.jpg"
     },
     {
-      "id": "greek_tv:skai:98d56255",
+      "id": "greek_tv:skai:383e7fb3",
       "type": "series",
-      "name": "1821: Οι Ήρωες",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/1821_2.jpg"
+      "name": "Στο Χιλιοστό",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/xiliosto/sto_xiliosto_new_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:a71869e0",
+      "id": "greek_tv:skai:fa309bea",
       "type": "series",
-      "name": "Το Μέλλον του Στέμματος",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mellon_stemmatos_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:1df2e99d",
-      "type": "series",
-      "name": "The Presidents",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/presidents/presidents_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:bb308465",
-      "type": "series",
-      "name": "Israel and the Palestinians: The Road to 7th October",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/israel/israel_palestinians_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:279bb5b0",
-      "type": "series",
-      "name": "Ειδήσεις Ι Βραδινό Δελτίο",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/flitzani_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:65fabb86",
-      "type": "series",
-      "name": "Ειδήσεις Ι Μεσημβρινό Δελτίο",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
+      "name": "Ίμια: 30 Χρόνια Μετά",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/imia/imia_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:cddaf72d",
@@ -313,10 +265,52 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/athlitika_sb_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:8ff8641b",
+      "type": "series",
+      "name": "Μικρά Ασία",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mikrasia.jpg"
+    },
+    {
+      "id": "greek_tv:skai:98d56255",
+      "type": "series",
+      "name": "1821: Οι Ήρωες",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/1821_2.jpg"
+    },
+    {
+      "id": "greek_tv:skai:bb308465",
+      "type": "series",
+      "name": "Israel and the Palestinians: The Road to 7th October",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/israel/israel_palestinians_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:279bb5b0",
+      "type": "series",
+      "name": "Ειδήσεις Ι Βραδινό Δελτίο",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/flitzani_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:65fabb86",
+      "type": "series",
+      "name": "Ειδήσεις Ι Μεσημβρινό Δελτίο",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:4acf28c2",
       "type": "series",
       "name": "Πρώτη Εικόνα",
       "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
+    },
+    {
+      "id": "greek_tv:skai:a71869e0",
+      "type": "series",
+      "name": "Το Μέλλον του Στέμματος",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mellon_stemmatos_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:1df2e99d",
+      "type": "series",
+      "name": "The Presidents",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/presidents/presidents_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:05ca6b09",
@@ -443,6 +437,12 @@
       "type": "series",
       "name": "Τα Φιλικά Προετοιμασίας του Παναθηναϊκού",
       "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/panathinaikos/filikos_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:e35b780e",
+      "type": "series",
+      "name": "Happy Traveller",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/happy_traveller/2026_2027/happy_traveller_landscape.jpg"
     }
   ]
 }

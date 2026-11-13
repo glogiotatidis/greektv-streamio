@@ -91,16 +91,16 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png"
     },
     {
-      "id": "greek_tv:mega_tv:5085aff6",
-      "type": "series",
-      "name": "UCL Magazine",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/2-48.png"
-    },
-    {
       "id": "greek_tv:mega_tv:845da4c5",
       "type": "series",
       "name": "Mega Αθλητικά powered by Stoiximan",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:5085aff6",
+      "type": "series",
+      "name": "UCL Magazine",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/2-48.png"
     },
     {
       "id": "greek_tv:mega_tv:67259746",

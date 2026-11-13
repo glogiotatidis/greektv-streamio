@@ -175,10 +175,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/the_weasy_family-1920x1080.jpg"
     },
     {
-      "id": "greek_tv:star_channel:77be04b3",
+      "id": "greek_tv:star_channel:ccd0a80c",
       "type": "series",
-      "name": "BING",
-      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
+      "name": "STAR ΚΑΙΡΟΣ",
+      "poster": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarKairos_1920x1004.jpg"
     },
     {
       "id": "greek_tv:star_channel:3bce9aa6",
@@ -223,10 +223,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Tragomallou_1920x1004_2021-22.jpg"
     },
     {
-      "id": "greek_tv:star_channel:ccd0a80c",
+      "id": "greek_tv:star_channel:77be04b3",
       "type": "series",
-      "name": "STAR ΚΑΙΡΟΣ",
-      "poster": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarKairos_1920x1004.jpg"
+      "name": "BING",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/bing-1920x1080.jpg"
     }
   ]
 }
