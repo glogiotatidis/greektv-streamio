@@ -1,40 +1,16 @@
 {
   "metas": [
     {
-      "id": "greek_tv:mega_tv:ada42966",
-      "type": "series",
-      "name": "Markos by Night",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/03/MARKOS-BY-NIGHT_Image_960x600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:db76fffc",
-      "type": "series",
-      "name": "Αλ Τσαντίρι Νιουζ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:538e4c9e",
       "type": "series",
       "name": "Mega Ζην",
       "poster": "https://www.megatv.com/wp-content/uploads/2019/06/megaZin-1.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:b1d9fcd8",
+      "id": "greek_tv:mega_tv:de39529b",
       "type": "series",
-      "name": "Πάμε μια Βόλτα;",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/Image_pame_mia_volta_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:5e6158e2",
-      "type": "series",
-      "name": "ΣΤΟ ΠΑΡΑ ΠΕΝΤΕ – 20 ΧΡΟΝΙΑ ΜΕΤΑ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2025/09/Image_para5_960X600_3.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:f8ebfab5",
-      "type": "series",
-      "name": "Στον Δρόμο για το 5άρι",
-      "poster": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+      "name": "Χαμογέλα και Πάλι!",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_xamogela_960X600-b.jpg"
     },
     {
       "id": "greek_tv:mega_tv:d15612a7",
@@ -43,16 +19,46 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_theChase_960X600.jpg"
     },
     {
+      "id": "greek_tv:mega_tv:db76fffc",
+      "type": "series",
+      "name": "Αλ Τσαντίρι Νιουζ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:6e0150ed",
+      "type": "series",
+      "name": "Φως Στο Τούνελ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_fwsstotounel_960X600-1.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:ada42966",
+      "type": "series",
+      "name": "Markos by Night",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/03/MARKOS-BY-NIGHT_Image_960x600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:5e6158e2",
+      "type": "series",
+      "name": "ΣΤΟ ΠΑΡΑ ΠΕΝΤΕ – 20 ΧΡΟΝΙΑ ΜΕΤΑ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2025/09/Image_para5_960X600_3.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:b1d9fcd8",
+      "type": "series",
+      "name": "Πάμε μια Βόλτα;",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/Image_pame_mia_volta_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:f8ebfab5",
+      "type": "series",
+      "name": "Στον Δρόμο για το 5άρι",
+      "poster": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+    },
+    {
       "id": "greek_tv:mega_tv:45d0ffeb",
       "type": "series",
       "name": "Σύγκρουση",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Sygkroysi_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:e99ec70f",
-      "type": "series",
-      "name": "Κάμπινγκ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_Camping_960X600-c.jpg"
     },
     {
       "id": "greek_tv:mega_tv:bf96e796",
@@ -61,22 +67,40 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Ntanta_ths_geitonias_960X600-1.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:02de66cf",
-      "type": "series",
-      "name": "Maestro",
-      "poster": "https://www.megatv.com/wp-content/uploads/2022/08/Image_MAESTRO_960X600-1.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:1d3cff09",
       "type": "series",
       "name": "Δυο Μαύρα Πουκάμισα",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:6e0150ed",
+      "id": "greek_tv:mega_tv:e99ec70f",
       "type": "series",
-      "name": "Φως Στο Τούνελ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_fwsstotounel_960X600-1.jpg"
+      "name": "Κάμπινγκ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_Camping_960X600-c.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:02de66cf",
+      "type": "series",
+      "name": "Maestro",
+      "poster": "https://www.megatv.com/wp-content/uploads/2022/08/Image_MAESTRO_960X600-1.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:233653fe",
+      "type": "series",
+      "name": "UCL | Δείτε όλους τους αγώνες",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png"
+    },
+    {
+      "id": "greek_tv:mega_tv:5085aff6",
+      "type": "series",
+      "name": "UCL Magazine",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/2-48.png"
+    },
+    {
+      "id": "greek_tv:mega_tv:845da4c5",
+      "type": "series",
+      "name": "Mega Αθλητικά powered by Stoiximan",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
     },
     {
       "id": "greek_tv:mega_tv:67259746",
@@ -103,16 +127,16 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2025/10/27-1024x576.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:5085aff6",
+      "id": "greek_tv:mega_tv:4664701c",
       "type": "series",
-      "name": "UCL Magazine",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/2-48.png"
+      "name": "Οι Εικόνες Μιλούν",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΟΙ-ΕΙΚΟΝΕΣ-ΜΙΛΟΥΝ-2_Image_960X600.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:845da4c5",
+      "id": "greek_tv:mega_tv:1d56975e",
       "type": "series",
-      "name": "Mega Αθλητικά powered by Stoiximan",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+      "name": "Τα Μοναστήρια της Ορθοδοξίας",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/monastiria-orthodoxias_Image_960X600.jpg"
     },
     {
       "id": "greek_tv:mega_tv:5291cf2e",
@@ -127,42 +151,6 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2025/11/ΟΣΙΟΣ-ΙΩΑΝΝΗΣ-Ο-ΡΩΣΟΣ_Image_960X600.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:1d56975e",
-      "type": "series",
-      "name": "Τα Μοναστήρια της Ορθοδοξίας",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/monastiria-orthodoxias_Image_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:233653fe",
-      "type": "series",
-      "name": "UCL | Δείτε όλους τους αγώνες",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png"
-    },
-    {
-      "id": "greek_tv:mega_tv:e3015553",
-      "type": "series",
-      "name": "Αθήνα, Η Χαρά της Γης",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΑΘΗΝΑ-ΧΑΡΑ-ΤΗΣ-ΓΗΣ-2_Image_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:4664701c",
-      "type": "series",
-      "name": "Οι Εικόνες Μιλούν",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΟΙ-ΕΙΚΟΝΕΣ-ΜΙΛΟΥΝ-2_Image_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:de39529b",
-      "type": "series",
-      "name": "Χαμογέλα και Πάλι!",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_xamogela_960X600-b.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:5dbd021e",
-      "type": "series",
-      "name": "Πειραιάς, το Λιμάνι της Ψυχής μας",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:e944bf7f",
       "type": "series",
       "name": "Ιστορίες του Τόπου μας",
@@ -173,6 +161,18 @@
       "type": "series",
       "name": "Ελλήνων Έργα",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΕΛΛΗΝΩΝ-ΕΡΓΑ-2_Image_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:e3015553",
+      "type": "series",
+      "name": "Αθήνα, Η Χαρά της Γης",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΑΘΗΝΑ-ΧΑΡΑ-ΤΗΣ-ΓΗΣ-2_Image_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:5dbd021e",
+      "type": "series",
+      "name": "Πειραιάς, το Λιμάνι της Ψυχής μας",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΠΕΙΡΑΙΑΣ-ΤΟ-ΛΙΜΑΝΙ-ΤΗΣ-ΨΥΧΗΣ-ΜΑΣ-1_Image_960X600.jpg"
     }
   ]
 }

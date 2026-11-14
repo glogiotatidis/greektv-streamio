@@ -7,94 +7,87 @@
     "background": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/superbet-league-2-2026-2027-hbbtv-bg.jpg",
     "videos": [
       {
-        "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-19",
-        "title": "Ολυμπιακός Β' - Athens Kallithea | 5η Αγωνιστική | 14.10.26",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262719-olympiakos-athens-kalithea.jpg"
-      },
-      {
         "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-20",
         "title": "Αστέρας AKTOR Β' - Ζάκυνθος | 7η Αγωνιστική | 17.10.26",
         "season": 1,
-        "episode": 2,
+        "episode": 1,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/20261017-sl2-asteras-zakynthos.jpg"
       },
       {
         "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-21",
         "title": "ΑΕΛ Novibet - Πανσερραϊκός | 7η Αγωνιστική | 18.10.26",
         "season": 1,
-        "episode": 3,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262721-ael-panseraikos.jpg"
       },
       {
         "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-22",
         "title": "Νίκη Βόλου - Πανιώνιος | 7η Αγωνιστική | 19.10.26",
         "season": 1,
-        "episode": 4,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/20261019-nvolou-paniwnios-sl2.jpg"
       },
       {
         "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-23",
         "title": "Athens Kallithea - ΑΕΛ Novibet | 8η Αγωνιστική | 24.10.26",
         "season": 1,
-        "episode": 5,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262723-athens-kallithea-ael.jpg"
       },
       {
         "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-24",
         "title": "Πανιώνιος - Μαρκό | 8η Αγωνιστική | 25.10.26",
         "season": 1,
-        "episode": 6,
+        "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262724-panionios-marko.jpg"
       },
       {
         "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-25",
         "title": "Ζάκυνθος - Πύργος | 8η Αγωνιστική | 26.10.26",
         "season": 1,
-        "episode": 7,
+        "episode": 6,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/super-league-2/20261026-zakynthos-pyrgos.jpg"
       },
       {
         "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-26",
         "title": "Νίκη Βόλου - Αναγέννηση Καρδίτσας | 9η Αγωνιστική | 31.10.26",
         "season": 1,
-        "episode": 8,
+        "episode": 7,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/superlague2-highlights/20261031-nikh-bolou-karditsa.jpg"
       },
       {
         "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-28",
         "title": "ΑΕΛ Novibet - Ολυμπιακός Β' | 9η Αγωνιστική | 01.11.26",
         "season": 1,
-        "episode": 9,
+        "episode": 8,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262727-ael-olympiakos.jpg"
       },
       {
         "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-29",
         "title": "Πανιώνιος InDigital - Πανσερραϊκός | 9η Αγωνιστική | 01.11.26",
         "season": 1,
-        "episode": 10,
+        "episode": 9,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262728-panionios-panseraikos.jpg"
       },
       {
         "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-30",
         "title": "Πανσερραϊκός - Απόλλων Καλαμαριάς | 10η Αγωνιστική | 07.11.26",
         "season": 1,
-        "episode": 11,
+        "episode": 10,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262729-panseraikos-apollon.jpg"
       },
       {
         "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-31",
         "title": "Ολυμπιακός Β' - Ελλάς Σύρου | 10η Αγωνιστική | 08.11.26",
         "season": 1,
-        "episode": 12,
+        "episode": 11,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262730-olympiakos-ellas-syrou.jpg"
       },
       {
         "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-32",
         "title": "Athens Kallithea - Πανιώνιος InDigital | 10η Αγωνιστική | 08.11.26",
         "season": 1,
-        "episode": 13,
+        "episode": 12,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262731-kalithea-panionios.jpg"
       }
     ]

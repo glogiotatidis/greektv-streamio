@@ -8,37 +8,23 @@
     "videos": [
       {
         "id": "greek_tv:skai:05ca6b09:2026-11-11-06",
-        "title": "11/11/2026",
+        "title": "Επεισόδιο 59",
         "season": 1,
-        "episode": 11,
+        "episode": 59,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/simera_landscape_1.jpg"
       },
       {
         "id": "greek_tv:skai:05ca6b09:2026-11-12-06",
-        "title": "12/11/2026",
+        "title": "Επεισόδιο 60",
         "season": 1,
-        "episode": 12,
+        "episode": 60,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/simera_landscape_1.jpg"
       },
       {
         "id": "greek_tv:skai:05ca6b09:2026-11-13-06",
-        "title": "13/11/2026",
+        "title": "Επεισόδιο 61",
         "season": 1,
-        "episode": 13,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/simera_landscape_1.jpg"
-      },
-      {
-        "id": "greek_tv:skai:05ca6b09:2026-11-09-06",
-        "title": "Επεισόδιο 57",
-        "season": 1,
-        "episode": 57,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/simera_landscape_1.jpg"
-      },
-      {
-        "id": "greek_tv:skai:05ca6b09:2026-11-10-06",
-        "title": "Επεισόδιο 58",
-        "season": 1,
-        "episode": 58,
+        "episode": 61,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/simera_landscape_1.jpg"
       }
     ]

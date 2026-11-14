@@ -7,34 +7,6 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:b3714919:2026-11-12-18",
-        "title": "Διαχωρίζω τη Θέση Μου 12/11/2026",
-        "season": 1,
-        "episode": 12,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg"
-      },
-      {
-        "id": "greek_tv:skai:b3714919:2026-11-13-18",
-        "title": "Διαχωρίζω τη Θέση Μου 13/11/2026",
-        "season": 1,
-        "episode": 13,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg"
-      },
-      {
-        "id": "greek_tv:skai:b3714919:2026-10-26-18",
-        "title": "Επεισόδιο 26",
-        "season": 1,
-        "episode": 26,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg"
-      },
-      {
-        "id": "greek_tv:skai:b3714919:2026-10-27-18",
-        "title": "Επεισόδιο 27",
-        "season": 1,
-        "episode": 27,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg"
-      },
-      {
         "id": "greek_tv:skai:b3714919:2026-10-29-18",
         "title": "Επεισόδιο 28",
         "season": 1,
@@ -102,6 +74,20 @@
         "title": "Επεισόδιο 37",
         "season": 1,
         "episode": 37,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-11-12-18",
+        "title": "Επεισόδιο 38",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:b3714919:2026-11-13-18",
+        "title": "Επεισόδιο 39",
+        "season": 1,
+        "episode": 39,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2026_2027/diaxwrizw_landscape.jpg"
       }
     ]
