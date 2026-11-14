@@ -7,28 +7,10 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2019/06/megaZin-1.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:de39529b",
-      "type": "series",
-      "name": "Χαμογέλα και Πάλι!",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_xamogela_960X600-b.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:d15612a7",
       "type": "series",
       "name": "The Chase",
       "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_theChase_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:db76fffc",
-      "type": "series",
-      "name": "Αλ Τσαντίρι Νιουζ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:6e0150ed",
-      "type": "series",
-      "name": "Φως Στο Τούνελ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_fwsstotounel_960X600-1.jpg"
     },
     {
       "id": "greek_tv:mega_tv:ada42966",
@@ -37,16 +19,16 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2026/03/MARKOS-BY-NIGHT_Image_960x600.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:5e6158e2",
+      "id": "greek_tv:mega_tv:6e0150ed",
       "type": "series",
-      "name": "ΣΤΟ ΠΑΡΑ ΠΕΝΤΕ – 20 ΧΡΟΝΙΑ ΜΕΤΑ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2025/09/Image_para5_960X600_3.jpg"
+      "name": "Φως Στο Τούνελ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_fwsstotounel_960X600-1.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:b1d9fcd8",
+      "id": "greek_tv:mega_tv:de39529b",
       "type": "series",
-      "name": "Πάμε μια Βόλτα;",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/Image_pame_mia_volta_960X600.jpg"
+      "name": "Χαμογέλα και Πάλι!",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_xamogela_960X600-b.jpg"
     },
     {
       "id": "greek_tv:mega_tv:f8ebfab5",
@@ -59,6 +41,24 @@
       "type": "series",
       "name": "Σύγκρουση",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Sygkroysi_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:b1d9fcd8",
+      "type": "series",
+      "name": "Πάμε μια Βόλτα;",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/Image_pame_mia_volta_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:db76fffc",
+      "type": "series",
+      "name": "Αλ Τσαντίρι Νιουζ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:5e6158e2",
+      "type": "series",
+      "name": "ΣΤΟ ΠΑΡΑ ΠΕΝΤΕ – 20 ΧΡΟΝΙΑ ΜΕΤΑ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2025/09/Image_para5_960X600_3.jpg"
     },
     {
       "id": "greek_tv:mega_tv:bf96e796",

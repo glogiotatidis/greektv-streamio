@@ -7,28 +7,10 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2019/06/megaZin-1.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:de39529b",
-      "type": "series",
-      "name": "Χαμογέλα και Πάλι!",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_xamogela_960X600-b.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:d15612a7",
       "type": "series",
       "name": "The Chase",
       "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_theChase_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:db76fffc",
-      "type": "series",
-      "name": "Αλ Τσαντίρι Νιουζ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:6e0150ed",
-      "type": "series",
-      "name": "Φως Στο Τούνελ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_fwsstotounel_960X600-1.jpg"
     },
     {
       "id": "greek_tv:mega_tv:ada42966",
@@ -37,16 +19,16 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2026/03/MARKOS-BY-NIGHT_Image_960x600.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:5e6158e2",
+      "id": "greek_tv:mega_tv:6e0150ed",
       "type": "series",
-      "name": "ΣΤΟ ΠΑΡΑ ΠΕΝΤΕ – 20 ΧΡΟΝΙΑ ΜΕΤΑ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2025/09/Image_para5_960X600_3.jpg"
+      "name": "Φως Στο Τούνελ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_fwsstotounel_960X600-1.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:b1d9fcd8",
+      "id": "greek_tv:mega_tv:de39529b",
       "type": "series",
-      "name": "Πάμε μια Βόλτα;",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/Image_pame_mia_volta_960X600.jpg"
+      "name": "Χαμογέλα και Πάλι!",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_xamogela_960X600-b.jpg"
     },
     {
       "id": "greek_tv:mega_tv:f8ebfab5",
@@ -59,6 +41,24 @@
       "type": "series",
       "name": "Σύγκρουση",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Sygkroysi_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:b1d9fcd8",
+      "type": "series",
+      "name": "Πάμε μια Βόλτα;",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/Image_pame_mia_volta_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:db76fffc",
+      "type": "series",
+      "name": "Αλ Τσαντίρι Νιουζ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:5e6158e2",
+      "type": "series",
+      "name": "ΣΤΟ ΠΑΡΑ ΠΕΝΤΕ – 20 ΧΡΟΝΙΑ ΜΕΤΑ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2025/09/Image_para5_960X600_3.jpg"
     },
     {
       "id": "greek_tv:mega_tv:bf96e796",
@@ -265,12 +265,6 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/stin_agkalia_tou_fani/2026_2027/fanis_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:e35b780e",
-      "type": "series",
-      "name": "Happy Traveller",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/happy_traveller/2026_2027/happy_traveller_landscape.jpg"
-    },
-    {
       "id": "greek_tv:skai:6448dbc8",
       "type": "series",
       "name": "Kitchen Lab",
@@ -337,16 +331,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"
     },
     {
+      "id": "greek_tv:skai:d6a89f47",
+      "type": "series",
+      "name": "Σαββόπουλος \"Long Play\"",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/savvopoulos/savvopoulos1_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:2cee31b6",
       "type": "series",
       "name": "Πρωταγωνιστές",
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/protagonistes/2026_2027/prwtagwnistes1_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:d1def1ef",
-      "type": "series",
-      "name": "Prime Time",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/prime_time/2026_2027/prime_time_s3_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:161b6c19",
@@ -385,16 +379,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/imia/imia_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:d6a89f47",
-      "type": "series",
-      "name": "Σαββόπουλος \"Long Play\"",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/savvopoulos/savvopoulos1_landscape.jpg"
-    },
-    {
       "id": "greek_tv:skai:a2c818b8",
       "type": "series",
       "name": "Η Ζωή σου Όλη",
       "poster": "https://media.skaitv.gr/images/1280/0/files/zoi_sou_oli/2025_2026/logos/i_zwi_sou_oli_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:d1def1ef",
+      "type": "series",
+      "name": "Prime Time",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/prime_time/2026_2027/prime_time_s3_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:8b16f2d3",
@@ -841,10 +835,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarKairos_1920x1004.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:250e653f",
+      "id": "greek_tv:alpha_tv:f5fba049",
       "type": "series",
-      "name": "Μια Γυναίκα",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-mia-gineka-cover-horizontal-1.jpg"
+      "name": "10η Εντολή",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:2851e75f",
@@ -871,16 +865,16 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2026/02/alphatv-series-mpampa-sagapw-cover-horizontal1.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:288533c1",
+      "id": "greek_tv:alpha_tv:ee0003ae",
       "type": "series",
-      "name": "Μην αρχίζεις τη μουρμούρα",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-min-arxizeis-tin-mourmoura-cover-horizontal.jpg"
+      "name": "Οικογενειακές Ιστορίες",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
     },
     {
-      "id": "greek_tv:alpha_tv:f5fba049",
+      "id": "greek_tv:alpha_tv:250e653f",
       "type": "series",
-      "name": "10η Εντολή",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
+      "name": "Μια Γυναίκα",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-mia-gineka-cover-horizontal-1.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:8d208c3a",
@@ -895,16 +889,10 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-na-magapas-cover-horizontal1.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:16aaec68",
+      "id": "greek_tv:alpha_tv:d6958abd",
       "type": "series",
-      "name": "Να Με Λες Μαμά",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-na-me-les-mama-cover-horizontal.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:dd3a1b4a",
-      "type": "series",
-      "name": "Ο Σκαραβαίος",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      "name": "Άγιος Έρωτας",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2024/07/alphatv-series-agios-erotas-cover-horizontal-1.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:91f84ee5",
@@ -913,10 +901,10 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-porto-leone-cover-horizontal-3.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:09221ed6",
+      "id": "greek_tv:alpha_tv:16aaec68",
       "type": "series",
-      "name": "Η Λέξη Που Δε Λες",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-i-lejh-pou-den-les-cover-horizontal.jpg"
+      "name": "Να Με Λες Μαμά",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-na-me-les-mama-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:fb3a659f",
@@ -925,16 +913,46 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:7be2c053",
+      "id": "greek_tv:alpha_tv:dd3a1b4a",
       "type": "series",
-      "name": "Η Κατάρα της Τζέλας Δελαφράγκα",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-movies-i-katara-tis-tzelas-delafraga-cover-horizontal-5.png"
+      "name": "Ο Σκαραβαίος",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:83992f3c",
       "type": "series",
       "name": "Αυτή η νύχτα μένει",
       "poster": "https://www.alphatv.gr/wp-content/uploads/2022/06/alphatv-series-auti-i-nixta-menei-cover-horizontal.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:09221ed6",
+      "type": "series",
+      "name": "Η Λέξη Που Δε Λες",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-i-lejh-pou-den-les-cover-horizontal.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:0b21b2b8",
+      "type": "series",
+      "name": "Σασμός",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2021/07/alphatv-series-sasmos-cover-horizontal.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:550ba75e",
+      "type": "series",
+      "name": "Το Τατουάζ",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/to_tatouaz1-scaled.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:7be2c053",
+      "type": "series",
+      "name": "Η Κατάρα της Τζέλας Δελαφράγκα",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-movies-i-katara-tis-tzelas-delafraga-cover-horizontal-5.png"
+    },
+    {
+      "id": "greek_tv:alpha_tv:4a4c3230",
+      "type": "series",
+      "name": "Έλα στη θέση μου",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:1a66a3ad",
@@ -949,34 +967,10 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2021/08/INNER_ASE-MAS_2.png"
     },
     {
-      "id": "greek_tv:alpha_tv:d6958abd",
-      "type": "series",
-      "name": "Άγιος Έρωτας",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2024/07/alphatv-series-agios-erotas-cover-horizontal-1.jpg"
-    },
-    {
       "id": "greek_tv:alpha_tv:4eaca417",
       "type": "series",
       "name": "Κρατάς Μυστικό;",
       "poster": "https://www.alphatv.gr/wp-content/uploads/2019/08/alphatv-series-kratas-mystiko-cover-horizontal.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:550ba75e",
-      "type": "series",
-      "name": "Το Τατουάζ",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/to_tatouaz1-scaled.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:f53e36c9",
-      "type": "series",
-      "name": "Σαν Οικογένεια",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-san-oikogenia-cover-horizontal.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:935e36dc",
-      "type": "series",
-      "name": "Οι Ιστορίες του Αστυνόμου Μπέκα",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:de96494c",
@@ -985,16 +979,22 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2019/09/alphatv-movies-spiti-einai-cover-horizontal_1.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:0b21b2b8",
+      "id": "greek_tv:alpha_tv:6edef704",
       "type": "series",
-      "name": "Σασμός",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2021/07/alphatv-series-sasmos-cover-horizontal.jpg"
+      "name": "Αμφιβολίες",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:a7d044fa",
+      "id": "greek_tv:alpha_tv:935e36dc",
       "type": "series",
-      "name": "Αληθινοί Έρωτες",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/ALITHINOI_EROTES.jpeg"
+      "name": "Οι Ιστορίες του Αστυνόμου Μπέκα",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oi-istories-tou-astynomou-mpeka-cover-horizontal.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:f53e36c9",
+      "type": "series",
+      "name": "Σαν Οικογένεια",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-san-oikogenia-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:4ee03042",
@@ -1009,28 +1009,10 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:c3921d88",
+      "id": "greek_tv:alpha_tv:a7d044fa",
       "type": "series",
-      "name": "Υπέροχα Πλάσματα",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:78112dac",
-      "type": "series",
-      "name": "Χορεύοντας στη Σιωπή",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:03d2c488",
-      "type": "series",
-      "name": "Κόκκινο Νυφικό",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:f594c2f7",
-      "type": "series",
-      "name": "Αστέρας Ραχούλας",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-asteras-raxoulas-cover-horizontal.jpg"
+      "name": "Αληθινοί Έρωτες",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/ALITHINOI_EROTES.jpeg"
     },
     {
       "id": "greek_tv:alpha_tv:de93403f",
@@ -1039,16 +1021,28 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:2f5132aa",
+      "id": "greek_tv:alpha_tv:c8482976",
       "type": "series",
-      "name": "Happy Day στον Alpha",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-happy-day-ston-alpha-2026-2027-cover-horizontal-2.jpg"
+      "name": "Έχω ένα Μυστικό",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-exo-ena-mystiko-cover-horizontal.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:d0c0bb74",
+      "id": "greek_tv:alpha_tv:78112dac",
       "type": "series",
-      "name": "Θα σε Δω στο Πλοίο",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-tha-se-dw-sto-ploio-cover-horizontal-1.jpg"
+      "name": "Χορεύοντας στη Σιωπή",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:c3921d88",
+      "type": "series",
+      "name": "Υπέροχα Πλάσματα",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:f594c2f7",
+      "type": "series",
+      "name": "Αστέρας Ραχούλας",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-asteras-raxoulas-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:1e80f572",
@@ -1057,28 +1051,22 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-mou-to-kratas-maniatiko-cover-horizontal-1.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:ca251a0f",
+      "id": "greek_tv:alpha_tv:03d2c488",
       "type": "series",
-      "name": "Καλύτερα δε γίνεται!",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-kalitera-de-ginete-2026-2027-cover-horizontal-6.jpg"
+      "name": "Κόκκινο Νυφικό",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkino-nufiko-cover-horizontal-1.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:c8482976",
+      "id": "greek_tv:alpha_tv:d0c0bb74",
       "type": "series",
-      "name": "Έχω ένα Μυστικό",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-exo-ena-mystiko-cover-horizontal.jpg"
+      "name": "Θα σε Δω στο Πλοίο",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-tha-se-dw-sto-ploio-cover-horizontal-1.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:ee0003ae",
+      "id": "greek_tv:alpha_tv:1f47ae39",
       "type": "series",
-      "name": "Οικογενειακές Ιστορίες",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
-    },
-    {
-      "id": "greek_tv:alpha_tv:3a5c2a90",
-      "type": "series",
-      "name": "Σαββατοκύριακο με τον Μάνεση",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-sabbatokyriako-me-ton-niko-manesi-cover-horizontal1.jpg"
+      "name": "Καλά να Πάθεις",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:6344f274",
@@ -1087,16 +1075,58 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-entimotatoi-keratades-cover-horizontal-1.jpg"
     },
     {
+      "id": "greek_tv:alpha_tv:2f5132aa",
+      "type": "series",
+      "name": "Happy Day στον Alpha",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-happy-day-ston-alpha-2026-2027-cover-horizontal-2.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:c4903473",
+      "type": "series",
+      "name": "Super Κατερίνα",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2021/09/alphatv-show-super-katerina-2026-2027-cover-horizontal-1.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:ad049f01",
+      "type": "series",
+      "name": "Deal",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:e9aca907",
+      "type": "series",
+      "name": "Wipe Out USA",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-shows-wipe-out-usa-cover-horizontal.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:01b95e8d",
+      "type": "series",
+      "name": "Αυτοψία",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
+    },
+    {
+      "id": "greek_tv:alpha_tv:3a5c2a90",
+      "type": "series",
+      "name": "Σαββατοκύριακο με τον Μάνεση",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-sabbatokyriako-me-ton-niko-manesi-cover-horizontal1.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:bd5bf275",
+      "type": "series",
+      "name": "Πρωταγωνιστές",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+    },
+    {
       "id": "greek_tv:ert:66c767f5",
       "type": "series",
       "name": "67ο Φεστιβάλ Κινηματογράφου Θεσσαλονίκης",
       "poster": "https://files2.app.ertflix.gr/2026/festivals/67o-phestibal-kinematographou-thessalonikes/67o-festival-kinima-thess-horizontalposter.jpg"
     },
     {
-      "id": "greek_tv:ert:8de9addd",
+      "id": "greek_tv:ert:e536dbd8",
       "type": "series",
-      "name": "Κουτσουπιές",
-      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/koutsoupies/cc/koutsoupies-cc-ertflix-img.jpg"
+      "name": "Μέρα με Χρώμα",
+      "poster": "https://files2.app.ertflix.gr/2026/news24/mera-me-xroma/2026-2027-gfx/meramexrwma-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:1966f29c",
@@ -1129,16 +1159,16 @@
       "poster": "https://files2.app.ertflix.gr/2026/shows/perimetros-26-27/perimetros-ertflix-img-2026-2027.jpg"
     },
     {
-      "id": "greek_tv:ert:e536dbd8",
-      "type": "series",
-      "name": "Μέρα με Χρώμα",
-      "poster": "https://files2.app.ertflix.gr/2026/news24/mera-me-xroma/2026-2027-gfx/meramexrwma-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:663b2d6f",
       "type": "series",
       "name": "Νωρίς - Νωρίς",
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/2026-2027-noris-noris-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:8de9addd",
+      "type": "series",
+      "name": "Κουτσουπιές",
+      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/koutsoupies/cc/koutsoupies-cc-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:932eca03",
@@ -1183,18 +1213,6 @@
       "poster": "https://files2.app.ertflix.gr/files/sports/soccer-sallas-2026-27/futsalsuperleague26-27-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:0aba9315",
-      "type": "series",
-      "name": "Θάλασσες μας Χώρισαν",
-      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/cc/thalassesmaschorisan-cc-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:84f08fa8",
-      "type": "series",
-      "name": "(AD, CC) Θάλασσες μας Χώρισαν",
-      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/ad-cc/thalassesmaschorisan-ad-cc-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:a37db29d",
       "type": "series",
       "name": "Ευθέως",
@@ -1219,10 +1237,10 @@
       "poster": "https://files2.app.ertflix.gr/2026/documentaries/una-faccia-una-razza/unafacciaunarazza-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:8f5d2f8e",
+      "id": "greek_tv:ert:23c536ae",
       "type": "series",
-      "name": "Προσωπικές Διαδρομές",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/prosopikes-diadromes/prosopikes-diadromes-2026-27-ertflix-img.jpg"
+      "name": "Ποδόσφαιρο Γυναικών | Α' Εθνική 2026-27",
+      "poster": "https://files2.app.ertflix.gr/files/sports/podosfairo-a1-gynaikwn/womensfootballleague26-27-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:ef78b13c",
@@ -1243,16 +1261,16 @@
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/live-now-sk/live-now-sabbatokyriako-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:23c536ae",
-      "type": "series",
-      "name": "Ποδόσφαιρο Γυναικών | Α' Εθνική 2026-27",
-      "poster": "https://files2.app.ertflix.gr/files/sports/podosfairo-a1-gynaikwn/womensfootballleague26-27-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:98d742ed",
       "type": "series",
       "name": "Στάση ΕΡΤ3",
       "poster": "https://files2.app.ertflix.gr/2026/news24/stash-ert3/2026-2027-gfx/stash-ert3-ertflix-img-2026-2027.jpg"
+    },
+    {
+      "id": "greek_tv:ert:8f5d2f8e",
+      "type": "series",
+      "name": "Προσωπικές Διαδρομές",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/prosopikes-diadromes/prosopikes-diadromes-2026-27-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:001eaaf6",
@@ -2257,52 +2275,34 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_BRAVE_NEW_GREECE_fc0f52f075.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:6edef704",
+      "id": "greek_tv:ert:84f08fa8",
       "type": "series",
-      "name": "Αμφιβολίες",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2022/07/alphatv-series-amfivolies-cover-horizontal.jpg"
+      "name": "(AD, CC) Θάλασσες μας Χώρισαν",
+      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/ad-cc/thalassesmaschorisan-ad-cc-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:1f47ae39",
+      "id": "greek_tv:ert:0aba9315",
       "type": "series",
-      "name": "Καλά να Πάθεις",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
+      "name": "Θάλασσες μας Χώρισαν",
+      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/cc/thalassesmaschorisan-cc-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:e9aca907",
+      "id": "greek_tv:skai:e35b780e",
       "type": "series",
-      "name": "Wipe Out USA",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-shows-wipe-out-usa-cover-horizontal.jpg"
+      "name": "Happy Traveller",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/happy_traveller/2026_2027/happy_traveller_landscape.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:bd5bf275",
+      "id": "greek_tv:alpha_tv:288533c1",
       "type": "series",
-      "name": "Πρωταγωνιστές",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2021/10/alphatv-shows-protagonistes-cover-horizontal-1.jpg"
+      "name": "Μην αρχίζεις τη μουρμούρα",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-min-arxizeis-tin-mourmoura-cover-horizontal.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:ad049f01",
+      "id": "greek_tv:alpha_tv:ca251a0f",
       "type": "series",
-      "name": "Deal",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:4a4c3230",
-      "type": "series",
-      "name": "Έλα στη θέση μου",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-ela-sti-thesi-mou-cover-horizontal1.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:01b95e8d",
-      "type": "series",
-      "name": "Αυτοψία",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-shows-aftopsia-cover-horizontal-1024x576.png"
-    },
-    {
-      "id": "greek_tv:alpha_tv:c4903473",
-      "type": "series",
-      "name": "Super Κατερίνα",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2021/09/alphatv-show-super-katerina-2026-2027-cover-horizontal-1.jpg"
+      "name": "Καλύτερα δε γίνεται!",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-kalitera-de-ginete-2026-2027-cover-horizontal-6.jpg"
     }
   ]
 }
