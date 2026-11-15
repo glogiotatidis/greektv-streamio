@@ -488,6 +488,20 @@
         "season": 1,
         "episode": 69,
         "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0074-tok-tok-xathika-ti-kanw-twra.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-70",
+        "title": "Η Οικογένεια των Θεών του Ολύμπου",
+        "season": 1,
+        "episode": 70,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0073-tok-tok-h-oikogeneia-twn-thewn-ston-olumpo.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-71",
+        "title": "Ο μύθος της Αθήνας",
+        "season": 1,
+        "episode": 71,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0078-tok-tok-o-muthos-ths-athinas.jpg"
       }
     ]
   }

@@ -61,6 +61,13 @@
         "season": 1,
         "episode": 8,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/2e-photo-odos-tripodon.jpg"
+      },
+      {
+        "id": "greek_tv:ert:9cbc9441:osa-phernei-e-mneme-9",
+        "title": "Γιάννης Φαφούτης",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/2e-photo-9o-epeisodio-giannes-phaphoutes.jpg"
       }
     ]
   }

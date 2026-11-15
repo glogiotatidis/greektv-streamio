@@ -495,6 +495,13 @@
         "season": 2,
         "episode": 8,
         "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20261107-mz.jpg"
+      },
+      {
+        "id": "greek_tv:ert:8300898f:mindzet-73",
+        "title": "67ο Φεστιβάλ Κινηματογράφου Θεσσαλονίκης - Μέρος 2ο | 14.11.26",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/shows/mindzet/20261114-mindz.jpg"
       }
     ]
   }

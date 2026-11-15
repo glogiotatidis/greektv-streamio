@@ -54,6 +54,13 @@
         "season": 1,
         "episode": 7,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/stigmiotupo-othones-2026-11-03-131431.jpg"
+      },
+      {
+        "id": "greek_tv:ert:632d8eda:ekhos-tou-borra-8",
+        "title": "Η Γενιά που Άλλαξε τον Ρυθμό",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/master-epis08-47min-ert-viewingmp4-2026-11-10-13h09m27s091.jpg"
       }
     ]
   }

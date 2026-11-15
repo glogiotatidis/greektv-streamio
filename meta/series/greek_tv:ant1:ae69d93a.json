@@ -14,13 +14,6 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Ygeia_Panp_Ap_Ola_1920x780_8d6243d4aa.jpg"
       },
       {
-        "id": "greek_tv:ant1:ae69d93a:obngndqybdbb5pal4iyd411z",
-        "title": "ΥΓΕΙΑ ΠΑΝΩ ΑΠ ΟΛΑ – ΕΠΕΙΣΟΔΙΟ 11 – 15ος ΚΥΚΛΟΣ",
-        "season": 15,
-        "episode": 11,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Ygeia_Panp_Ap_Ola_1920x780_8d6243d4aa.jpg"
-      },
-      {
         "id": "greek_tv:ant1:ae69d93a:yd7bdwpze54itql7ebg18cbo",
         "title": "ΥΓΕΙΑ ΠΑΝΩ ΑΠ ΟΛΑ – ΕΠΕΙΣΟΔΙΟ 12 – 15ος ΚΥΚΛΟΣ",
         "season": 15,
@@ -39,6 +32,13 @@
         "title": "ΥΓΕΙΑ ΠΑΝΩ ΑΠ ΟΛΑ – ΕΠΕΙΣΟΔΙΟ 14 – 15ος ΚΥΚΛΟΣ",
         "season": 15,
         "episode": 14,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Ygeia_Panp_Ap_Ola_1920x780_8d6243d4aa.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:ae69d93a:z24ian0p3h6tbvqsflpz0sgm",
+        "title": "ΥΓΕΙΑ ΠΑΝΩ ΑΠ ΟΛΑ – ΕΠΕΙΣΟΔΙΟ 15 – 15ος ΚΥΚΛΟΣ",
+        "season": 15,
+        "episode": 15,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Ygeia_Panp_Ap_Ola_1920x780_8d6243d4aa.jpg"
       }
     ]

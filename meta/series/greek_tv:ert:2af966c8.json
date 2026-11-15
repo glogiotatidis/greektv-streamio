@@ -75,6 +75,13 @@
         "season": 1,
         "episode": 10,
         "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048833-tvland-ep10.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2af966c8:tv-land-11",
+        "title": "Τελικά Ίσως το 1284 να μην Ήταν Καταραμένο",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048834-tvland-ep11.jpg"
       }
     ]
   }

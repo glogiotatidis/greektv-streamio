@@ -26,6 +26,13 @@
         "season": 1,
         "episode": 83,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/flitzani_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:279bb5b0:2026-11-14-19",
+        "title": "Επεισόδιο 84",
+        "season": 1,
+        "episode": 84,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/vidou_landscape.jpg"
       }
     ]
   }

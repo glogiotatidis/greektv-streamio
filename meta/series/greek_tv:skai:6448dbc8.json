@@ -82,6 +82,13 @@
         "season": 1,
         "episode": 12,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/kitchen_lab/2026_2027/kitchen_12.jpg"
+      },
+      {
+        "id": "greek_tv:skai:6448dbc8:2026-11-14-16",
+        "title": "Kitchen Lab 14/11/2026",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/kitchen_lab/2026_2027/kitchen_13.jpg"
       }
     ]
   }
