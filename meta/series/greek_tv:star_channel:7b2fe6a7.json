@@ -7,17 +7,31 @@
     "background": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ki___hi-1920x1080.jpg",
     "videos": [
       {
+        "id": "greek_tv:star_channel:7b2fe6a7:the-night-of-the-spirits",
+        "title": "15/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ki___hi-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:7b2fe6a7:clash-of-the-titans",
+        "title": "15/11/2026",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ki___hi-1920x1080.jpg"
+      },
+      {
         "id": "greek_tv:star_channel:7b2fe6a7:the-maleficent-twins",
         "title": "The Maleficent Twins",
         "season": 1,
-        "episode": 1,
+        "episode": 3,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ki___hi-1920x1080.jpg"
       },
       {
         "id": "greek_tv:star_channel:7b2fe6a7:at-your-service",
         "title": "At Your Service",
         "season": 1,
-        "episode": 2,
+        "episode": 4,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ki___hi-1920x1080.jpg"
       }
     ]

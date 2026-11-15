@@ -19,6 +19,13 @@
         "season": 1,
         "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/stash-ert3/20261114-stasi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:98d742ed:stase-60",
+        "title": "Κυριακή 15 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261115-stasi.jpg"
       }
     ]
   }

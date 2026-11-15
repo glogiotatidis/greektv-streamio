@@ -82,6 +82,13 @@
         "season": 1,
         "episode": 11,
         "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048834-tvland-ep11.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2af966c8:tv-land-12",
+        "title": "My Heart Βelongs To-",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048834-tvland-ep12.jpg"
       }
     ]
   }

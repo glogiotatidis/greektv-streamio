@@ -278,6 +278,13 @@
         "season": 2,
         "episode": 7,
         "thumbnail": "https://files2.app.ertflix.gr/2026/shows/diaspora-26-27/20261108-diaspora.jpg"
+      },
+      {
+        "id": "greek_tv:ert:d73a4f68:diaspora-107",
+        "title": "Ομογενειακά Νέα | 15.11.26",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261115-diaspora.jpg"
       }
     ]
   }

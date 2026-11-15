@@ -33,6 +33,13 @@
         "season": 1,
         "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-a1-gynaikwn/20261108-volos-sirines.jpg"
+      },
+      {
+        "id": "greek_tv:ert:23c536ae:podosphairo-gunaikon-a-ethnike-2026-7",
+        "title": "ΠΑΟΚ ΑΣ - Παναθηναϊκός ΑΟ | 11η Αγωνιστική | 15.11.26",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-a1-gynaikwn/20261115-paok-fc-panathinaikos-fc.jpg"
       }
     ]
   }
