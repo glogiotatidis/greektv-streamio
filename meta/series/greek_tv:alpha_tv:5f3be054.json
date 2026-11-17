@@ -7,48 +7,6 @@
     "background": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg",
     "videos": [
       {
-        "id": "greek_tv:alpha_tv:5f3be054:277646-kokkinos-kiklos-ep-1",
-        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.1",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:5f3be054:277664-kokkinos-kiklos-ep-2",
-        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.2",
-        "season": 1,
-        "episode": 2,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:5f3be054:277675-kokkinos-kiklos-ep-3",
-        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.3",
-        "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:5f3be054:277701-kokkinos-kiklos-ep-4",
-        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.4",
-        "season": 1,
-        "episode": 4,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:5f3be054:277711-kokkinos-kiklos-ep-5",
-        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.5",
-        "season": 1,
-        "episode": 5,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
-      },
-      {
-        "id": "greek_tv:alpha_tv:5f3be054:277727-kokkinos-kiklos-ep-6",
-        "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.6",
-        "season": 1,
-        "episode": 6,
-        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kokkinos-kyklos-cover-horizontal.jpg"
-      },
-      {
         "id": "greek_tv:alpha_tv:5f3be054:277742-kokkinos-kiklos-ep-7",
         "title": "ΚΟΚΚΙΝΟΣ ΚΥΚΛΟΣ ΕΠ.7",
         "season": 1,

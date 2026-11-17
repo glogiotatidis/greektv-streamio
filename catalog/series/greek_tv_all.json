@@ -307,6 +307,12 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/geitones_sto_piato_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:441c8422",
+      "type": "series",
+      "name": "MOVIETIME",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/tainies/filakas_aggelos_epese_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:19a35167",
       "type": "series",
       "name": "Μέλλον Ένα με Ακουστική Περιγραφή (AD)",
@@ -454,7 +460,7 @@
       "id": "greek_tv:skai:279bb5b0",
       "type": "series",
       "name": "Ειδήσεις Ι Βραδινό Δελτίο",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/vidou_landscape.jpg"
+      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/flitzani_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:65fabb86",
@@ -817,10 +823,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/oddbods-1920x1080.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:2851e75f",
+      "id": "greek_tv:star_channel:cf1c01f3",
       "type": "series",
-      "name": "Οι Κόρες της Αρετής",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-i-kores-tis-aretis-cover-horizontal.jpg"
+      "name": "BOOBA",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
     },
     {
       "id": "greek_tv:star_channel:d7d6af2c",
@@ -865,16 +871,16 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-mia-gineka-cover-horizontal-1.jpg"
     },
     {
+      "id": "greek_tv:alpha_tv:2851e75f",
+      "type": "series",
+      "name": "Οι Κόρες της Αρετής",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-i-kores-tis-aretis-cover-horizontal.jpg"
+    },
+    {
       "id": "greek_tv:alpha_tv:7d15f92d",
       "type": "series",
       "name": "Το Σόι σου",
       "poster": "https://www.alphatv.gr/wp-content/uploads/2026/03/alphaty-series-to-soi-sou-cover-horozontal-hp-3.jpg"
-    },
-    {
-      "id": "greek_tv:star_channel:cf1c01f3",
-      "type": "series",
-      "name": "BOOBA",
-      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:35ed0a8d",
@@ -2183,6 +2189,12 @@
       "type": "series",
       "name": "Σύγχρονη Παραδοσιακή Μουσική",
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/ertflix-sixroni-paradosiaki-mousiki-640x360.jpg"
+    },
+    {
+      "id": "greek_tv:ert:d8c3b682",
+      "type": "series",
+      "name": "News Room",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/news-room-new-photo/newsroom-siadimas-ertflix-img-new.jpg"
     },
     {
       "id": "greek_tv:ant1:4c6ac268",

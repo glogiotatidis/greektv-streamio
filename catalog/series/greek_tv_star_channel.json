@@ -187,6 +187,12 @@
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/oddbods-1920x1080.jpg"
     },
     {
+      "id": "greek_tv:star_channel:cf1c01f3",
+      "type": "series",
+      "name": "BOOBA",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
+    },
+    {
       "id": "greek_tv:star_channel:d7d6af2c",
       "type": "series",
       "name": "Η ΜΑΣΑ ΚΑΙ Ο ΑΡΚΟΥΔΟΣ (MASHA AND THE BEAR)",
@@ -221,12 +227,6 @@
       "type": "series",
       "name": "STAR ΚΑΙΡΟΣ",
       "poster": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarKairos_1920x1004.jpg"
-    },
-    {
-      "id": "greek_tv:star_channel:cf1c01f3",
-      "type": "series",
-      "name": "BOOBA",
-      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/booba-1920x1004.jpg"
     }
   ]
 }

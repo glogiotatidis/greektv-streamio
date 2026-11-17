@@ -7,94 +7,101 @@
     "background": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:106cd1b4:cizbkwlz1twdsibhi929tlh4",
+        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 16/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
         "id": "greek_tv:ant1:106cd1b4:nk3rpcnqx35fvolg0k0ys546",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 13/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:hh2wy2l2r2o3e7bslt8aoq6i",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 12/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:ka6ta2ie4rm0ak4pmdz8v6ja",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 11/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:dwgfk95psrrwza2y6k2r2t1g",
-        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 10/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:s5urb10q2zdw1zl3h5qioesw",
-        "title": "Μ. Δημητρακόπουλος, δικηγόρος Οδ. Δήμα: \"Κάποια από τα φάρμακα τα χρησιμοποιούσε για τα σωματικά προβλήματα που αντιμετώπιζε\"",
+        "id": "greek_tv:ant1:106cd1b4:sc9hwp6guk6lvnxkyzy0od85",
+        "title": "Αποκαλυπτικά στοιχεία: Στο μικροσκόπιο τα τρία σκευάσματα που βρέθηκαν στην κατοχή του Οδυσσέα Δήμα Ο Γρηγόρης Λέων, διοικητής εθνικού οργανισμού καταπολέμησης ντόπινγκ στις Αποκαλύψεις.",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:mh8s4bgv4xgdqur9g22cz0nd",
-        "title": "Ποινική δίωξη για κακούργημα σε βάρος του Οδυσσέα Δήμα",
+        "id": "greek_tv:ant1:106cd1b4:erlapmmeugjoqgrxd79b8h8u",
+        "title": "Ο Ν. Νυφούδης, αναπληρωτής εκπρόσωπος Τύπου ΕΛ. Α. Σ στις Αποκαλύψεις «Χρυσές» αναθέσεις από δήμους έξι νησιών στην αδελφή του υφυπουργού Εσωτερικών Β. Λιάκου.",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:hsma244wyduwk4iok2e5lkzx",
-        "title": "Ο πρόεδρος Εθνικού Οργανισμού Καταπολέμησης Ντόπινγκ, Γρ. Λέων, στις Αποκαλύψεις Γρ. Λέων: «Το 2024 βρήκαμε ντοπαρισμένους σχεδόν όλους τους αθλητές της εθνικής ομάδας άρσης βαρών»",
+        "id": "greek_tv:ant1:106cd1b4:wzmbh5szf78i6ya6svcga3ab",
+        "title": "Ο Δήμαρχος Αγκιστρίου, Δημήτριος Αναστασίου, στις Αποκαλύψεις Δημήτριος Αναστασίου: «Η κ. Λιάκου δεν μου είπε ποτέ ότι ο αδερφός της είναι βουλευτής».",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:arvnewp6gwma9d8kxnsapdib",
-        "title": "Αποκλειστικό: Ονόματα αθλητών στις ιδιόχειρες σημειώσεις του Οδυσσέα Δήμα Ονόματα αθλητών στις ιδιόχειρες σημειώσεις του Οδυσσέα Δήμα, οι ουσίες οι οποίες τους χορηγούνταν...",
+        "id": "greek_tv:ant1:106cd1b4:uquaywg1el8lkqepcapnlign",
+        "title": "Αποκαλυπτικά στοιχεία: Έξι δήμοι νησιών της Α Πειραιά έδιναν απευθείας αναθέσεις στην αδελφή του υφυπ. Εσωτερικών Βαγγέλη Λιάκου",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:y2th28n0poytphdel23wd8gv",
-        "title": "Χρ. Κωνσταντινίδης: «Είχα διαμαρτυρηθεί ως προς τον τρόπο χορήγησης των νόμιμων σκευασμάτων» Ο Χρήστος Κωνσταντινίδης, πρώην ομοσπονδιακός προπονητής-Ολυμπιονίκης, μιλάει στις Αποκαλύψεις",
+        "id": "greek_tv:ant1:106cd1b4:klqd5sv1q6alw4uw78b3f1m8",
+        "title": "Μαρτυρία-φωτιά από πρώην προπονητή άρσης βαρών για τον Οδυσσέα Δήμα Πρώην προπονητής: «Προσπαθούσαν να μου κλέψουν τους αθλητές».",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:gz7sld6bbxdvgkjp06in1m1k",
-        "title": "Δελτία αθλητών του Π. Δήμα βρέθηκαν στην κατοχή του αδελφού του που συνελήφθη",
+        "id": "greek_tv:ant1:106cd1b4:xyiafnwcnu1zpryxt9tm9hxm",
+        "title": "Δήλωση του Οδυσσέα Δήμα μέσα από τα κρατητήρια Οδυσσέας Δήμας: «Νιώθω μεγάλη συντριβή, γίνεται παραπληροφόρηση σε βάρος μου».",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:v5rlxu6pqgrkl9a17vsy94z5",
-        "title": "Ο Χρήστος Κωνσταντινίδης, πρώην ομοσπονδιακός προπονητής-Ολυμπιονίκης, στις Αποκαλύψεις Χρήστος Κωνσταντινίδης: «Είχα εκφράσει ενστάσεις στα συμπληρώματα διατροφής των αθλητών».",
+        "id": "greek_tv:ant1:106cd1b4:a4ewewqjwxfzuog2r7ao280h",
+        "title": "Στις Αποκαλύψεις μιλάει πρωταθλητής της άρσης βαρών για τον Οδυσσέα Δήμα «Ποτέ δεν μας πρότεινε αναβολικά»",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:glboi4zj2s9xz5126v8b8fz7",
-        "title": "H Βούλα Πατουλίδου στις Αποκαλύψεις για τη σύλληψη του Οδ. Δήμα",
+        "id": "greek_tv:ant1:106cd1b4:zeijcw9o8jz4rcye1stbhuje",
+        "title": "Αποκάλυψη: Απευθείας αναθέσεις και στην άλλη αδελφή του υφυπουργού Εσωτερικών Βαγγέλη Λιάκου",
         "season": 1,
         "episode": 12,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:106cd1b4:ycdec9twjrqtz9o900po3gn3",
+        "title": "Αναβλήθηκε για τις 3 Φεβρουαρίου η δίκη σε 2ο βαθμό για τη σεξουαλική κακοποίηση και εκμετάλλευση της 12χρονης στον Κολωνό",
+        "season": 1,
+        "episode": 13,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:c6aewf4q6gzaxq64euikkpxm",
         "title": "Αποκαλύψεις - Καθημερινά στις 14:00",
         "season": 1,
-        "episode": 13,
+        "episode": 14,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       }
     ]

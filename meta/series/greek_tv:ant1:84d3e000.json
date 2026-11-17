@@ -7,17 +7,10 @@
     "background": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg",
     "videos": [
       {
-        "id": "greek_tv:ant1:84d3e000:bxl3jsix90vf8zlt6b6okee2",
-        "title": "Ποιος θέλει να γίνει εκατομμυριούχος; - Δευτέρα έως Κυριακή στις 20:00",
+        "id": "greek_tv:ant1:84d3e000:kvvd99kjlhahwj447xldxx7v",
+        "title": "Ποιος θέλει να γίνει εκατομμυριούχος; - Πέμπτη στις 20:00",
         "season": 1,
         "episode": 1,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:84d3e000:nentsui8xhyvmcl55bxn97qt",
-        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 211 – 3η ΣΕΖΟΝ",
-        "season": 3,
-        "episode": 211,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       },
       {
@@ -35,10 +28,17 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       },
       {
-        "id": "greek_tv:ant1:84d3e000:bas0dmoio3oveab536t45qfz",
-        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - SPECIAL EDITION – 4η ΣΕΖΟΝ – ΕΠΕΙΣΟΔΙΟ 16",
-        "season": 4,
-        "episode": 16,
+        "id": "greek_tv:ant1:84d3e000:rxk9blyyarjmwraxyzpy00ga",
+        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 214 – 3η ΣΕΖΟΝ",
+        "season": 3,
+        "episode": 214,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:84d3e000:elsue0chj0wskeppievc3aa1",
+        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 215 – 3η ΣΕΖΟΝ",
+        "season": 3,
+        "episode": 215,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       }
     ]
