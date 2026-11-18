@@ -145,6 +145,20 @@
         "season": 1,
         "episode": 20,
         "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_Camping_960X600-c.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e99ec70f:epeisodio-21-86",
+        "title": "Επεισόδιο 21 -",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_Camping_960X600-c.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:e99ec70f:epeisodio-22-86",
+        "title": "Επεισόδιο 22 -",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/07/Image_Camping_960X600-c.jpg"
       }
     ]
   }

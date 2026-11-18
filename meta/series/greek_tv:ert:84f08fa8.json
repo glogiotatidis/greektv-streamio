@@ -26,6 +26,13 @@
         "season": 1,
         "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/ps050144-thalasses-mas-xorisan-s01-ep03.jpg"
+      },
+      {
+        "id": "greek_tv:ert:84f08fa8:ad-cc-thalasses-mas-khorisan-4",
+        "title": "(AD, CC) Θάλασσες μας Χώρισαν",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/ps050145-thalasses-mas-xorisan-s01-ep04.jpg"
       }
     ]
   }

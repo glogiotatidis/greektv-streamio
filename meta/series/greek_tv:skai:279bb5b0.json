@@ -14,13 +14,6 @@
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/flitzani_landscape.jpg"
       },
       {
-        "id": "greek_tv:skai:279bb5b0:2026-11-12-19",
-        "title": "12/11/2026",
-        "season": 1,
-        "episode": 12,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/flitzani_landscape.jpg"
-      },
-      {
         "id": "greek_tv:skai:279bb5b0:2026-11-13-19",
         "title": "13/11/2026",
         "season": 1,
@@ -29,9 +22,9 @@
       },
       {
         "id": "greek_tv:skai:279bb5b0:2026-11-14-19",
-        "title": "Επεισόδιο 84",
+        "title": "14/11/2026",
         "season": 1,
-        "episode": 84,
+        "episode": 14,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/vidou_landscape.jpg"
       },
       {
@@ -46,6 +39,13 @@
         "title": "Επεισόδιο 86",
         "season": 1,
         "episode": 86,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/flitzani_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:279bb5b0:2026-11-17-19",
+        "title": "Επεισόδιο 87",
+        "season": 1,
+        "episode": 87,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/flitzani_landscape.jpg"
       }
     ]

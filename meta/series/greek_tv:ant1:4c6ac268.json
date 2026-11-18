@@ -7,85 +7,85 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:4c6ac268:aqyrv8z32s8nu24sa0bo7a24",
+        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 17/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
+      },
+      {
         "id": "greek_tv:ant1:4c6ac268:bnbgd1teao72w4ikqibbgo0d",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 16/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
         "id": "greek_tv:ant1:4c6ac268:a9jqhmfxnc7xknvlb59yzrbv",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 13/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
         "id": "greek_tv:ant1:4c6ac268:seaqs366yqghd7m0icenoeg9",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 12/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:4c6ac268:jwljw4mz0qmib5g2k32vrzve",
-        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 10/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:bluvrcn64ke4ep3ufpctut93",
-        "title": "Πότε θα καταβληθεί η επιστροφή ενοικίου - Καλημέρα Ελλάδα - 16/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:cna8nob0gvibx0gc2f0g3ief",
+        "title": "Αναστάτωση στο υπουργείο Προστασίας του Πολίτη - Βρέθηκε ύποπτος φάκελος με σκόνη - Καλημέρα Ελλάδα - 18/11/2026 Η Κωνσταντία Δημογλίδου, εκπρόσωπος Τύπου της ΕΛ.ΑΣ. στο Καλημέρα Ελλάδα.",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:pwsm24z6gu4c974r0emrbdum",
-        "title": "Κορωνοϊός και γρίπη πάλι σε έξαρση - Καλημέρα Ελλάδα - 16/11/2026 Αυξήθηκαν οι εισαγωγές στα νοσοκομεία.",
+        "id": "greek_tv:ant1:4c6ac268:pq4jhci2jgpxxnmxz62625wt",
+        "title": "Πέντε συλλήψεις: Ιρανικό κύκλωμα σχεδίαζε εκτέλεση στην Ελλάδα - Καλημέρα Ελλάδα - 18/11/2026 Κατασκοπευτικό θρίλερ στην Ελλάδα - Μαφιόζοι από τα Σκόπια σχεδίαζαν εκτέλεση στελέχους μεγάλης...",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:cr91i9fwyj686k3jmjw9no8q",
-        "title": "53η επέτειος του Πολυτεχνείου: Κυκλοφοριακές ρυθμίσεις και μέτρα της αστυνομίας - Καλημέρα Ελλάδα - 16/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:y4n1fe39lc5atoaylq3fuqa3",
+        "title": "Επίθεση αστυνομικού σε διαδηλώτρια στην Λ. Αλεξάνδρας - Καλημέρα Ελλάδα - 18/11/2026 Η Κωνσταντία Δημογλίδου, εκπρόσωπος Τύπου της ΕΛ.ΑΣ. στο Καλημέρα Ελλάδα.",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:j58md47ru7lpb2d7waafaeab",
-        "title": "Ζεφύρι: Θρήνος και καταγγελίες για τον θάνατο των πυροσβεστών - Καλημέρα Ελλάδα - 16/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:c2hcynisz370983bm3ybgmsw",
+        "title": "Έφτασε το Χριστουγεννιάτικο δέντρο στο Σύνταγμα - Καλημέρα Ελλάδα - 18/11/2026",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:l6tbxrqxcyhc7ua1vw1tqkw3",
-        "title": "Ελευθέριος Μηλιός: \"Η αεροπορική βιομηχανία τηρεί όλα τα πρωτόκολλα ασφαλείας\" - Καλημέρα Ελλάδα - 16/11/2026 Τι προκάλεσε την κρίση στα αεροδρόμια των ΗΠΑ.",
+        "id": "greek_tv:ant1:4c6ac268:gxwj22d37mro1pqdl20q742g",
+        "title": "Έρευνα για ίχνη κυβερνοεπίθεσης - \"Έπεσε\" το εσωτερικό δίκτυο της NSA - Καλημέρα Ελλάδα - 18/11/2026",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:ux0bg3drszqu7ucckkij3v4h",
-        "title": "Τι προκάλεσε την κρίση στα αεροδρόμια των ΗΠΑ - Καλημέρα Ελλάδα - 16/11/2026 Μάχη για την αποκατάσταση του χάους.",
+        "id": "greek_tv:ant1:4c6ac268:vfz6z5bnbmzmjl9o7g8mppvn",
+        "title": "Θεσσαλονίκη: 53η επέτειος του Πολυτεχνείου - Καλημέρα Ελλάδα - 18/11/2026 Εκδηλώσεις μνήμης και πορεία.",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:cpuq93w0a2jjh4ie91rvnsbt",
-        "title": "Ο υπουργός Περιβάλλοντος και Ενέργειας, Σταύρος Παπασταύρου, στο Καλημέρα Ελλάδα - 16/11/2026 Παραμένει εφιάλτης για πολλά νοικοκυριά η ενέργεια.",
+        "id": "greek_tv:ant1:4c6ac268:rw9flhp6f1y4yscgs4sg0hqz",
+        "title": "Προσαγωγές και επεισόδια στην πορεία του Πολυτεχνείου - Καλημέρα Ελλάδα - 18/11/2026 Τραυματίστηκε γυναίκα ειδικός φρουρός από πέτρα στο κεφάλι.",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:d3qn2dq4frk46koawsrwpwk0",
-        "title": "Εκρηκτικό το κλίμα στη διάσκεψη των προέδρων - Καλημέρα Ελλάδα - 16/11/2026 Ο Στέλιος Πέτσας και ο Μιχάλης Κατρίνης καλεσμένοι στο Καλημέρα Ελλάδα.",
+        "id": "greek_tv:ant1:4c6ac268:hkjmpo208dfmadl1jvphmn74",
+        "title": "Τα \"έσοδα\", τα \"έξοδα\", οι αναθέσεις και η \"σκιά\" της διαφθοράς... - Καλημέρα Ελλάδα - 18/11/2026 Οι Νότης Μηταράκης και Βασίλης Κόκκαλης στο Καλημέρα Ελλάδα",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"

@@ -7,29 +7,29 @@
     "background": "https://www.antenna.gr/imgHandler/1920/ANT_1_Sports_Telekom_F_1920_00ec843a34.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:82eb81c2:x1l6tnqdblx1e4k15e016jus",
+        "title": "ΑΝΤ1 Sports – 17-11-2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/ANT_1_Sports_Telekom_F_1920_00ec843a34.jpg"
+      },
+      {
         "id": "greek_tv:ant1:82eb81c2:l6l0qzd6634grizttbs148c7",
         "title": "ΑΝΤ1 Sports – 16-11-2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/ANT_1_Sports_Telekom_F_1920_00ec843a34.jpg"
       },
       {
         "id": "greek_tv:ant1:82eb81c2:cveiz9l4lveckgnzq5setwqc",
         "title": "ΑΝΤ1 Sports – 15-11-2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/ANT_1_Sports_Telekom_F_1920_00ec843a34.jpg"
       },
       {
         "id": "greek_tv:ant1:82eb81c2:it16dwou5ji6ygzkdvlx8vma",
         "title": "ΑΝΤ1 Sports – 14-11-2026",
-        "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/ANT_1_Sports_Telekom_F_1920_00ec843a34.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:82eb81c2:c2zdvx9vj2rtxip2wyfynhd5",
-        "title": "ΑΝΤ1 Sports – 13-11-2026",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/ANT_1_Sports_Telekom_F_1920_00ec843a34.jpg"

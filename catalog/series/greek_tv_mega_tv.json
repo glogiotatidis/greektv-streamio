@@ -55,6 +55,12 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
     },
     {
+      "id": "greek_tv:mega_tv:1d3cff09",
+      "type": "series",
+      "name": "Δυο Μαύρα Πουκάμισα",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
+    },
+    {
       "id": "greek_tv:mega_tv:45d0ffeb",
       "type": "series",
       "name": "Σύγκρουση",
@@ -65,12 +71,6 @@
       "type": "series",
       "name": "Νταντά της Γειτονιάς",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Ntanta_ths_geitonias_960X600-1.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:1d3cff09",
-      "type": "series",
-      "name": "Δυο Μαύρα Πουκάμισα",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
     },
     {
       "id": "greek_tv:mega_tv:e99ec70f",

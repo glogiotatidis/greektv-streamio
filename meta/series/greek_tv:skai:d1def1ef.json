@@ -14,6 +14,13 @@
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/prime_time/2026_2027/prime_1_germania.jpg"
       },
       {
+        "id": "greek_tv:skai:d1def1ef:2026-11-17-23",
+        "title": "Επεισόδιο 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/prime_time/2026_2027/prime_2_giatroi.jpg"
+      },
+      {
         "id": "greek_tv:skai:d1def1ef:2026-01-28-00",
         "title": "Επεισόδιο 7",
         "season": 2,

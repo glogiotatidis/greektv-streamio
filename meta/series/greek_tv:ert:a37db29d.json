@@ -68,6 +68,13 @@
         "season": 1,
         "episode": 9,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/20261109-eytheos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:a37db29d:eutheos-10",
+        "title": "Δευτέρα 16 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/ls029109-0011-20261116-eftheos.jpg"
       }
     ]
   }

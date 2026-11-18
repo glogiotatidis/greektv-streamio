@@ -7,101 +7,80 @@
     "background": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:106cd1b4:kuqh7fhst070agc5tzr6f1d5",
+        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 17/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
         "id": "greek_tv:ant1:106cd1b4:cizbkwlz1twdsibhi929tlh4",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 16/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:nk3rpcnqx35fvolg0k0ys546",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 13/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:hh2wy2l2r2o3e7bslt8aoq6i",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 12/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:ka6ta2ie4rm0ak4pmdz8v6ja",
-        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 11/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:sc9hwp6guk6lvnxkyzy0od85",
-        "title": "Αποκαλυπτικά στοιχεία: Στο μικροσκόπιο τα τρία σκευάσματα που βρέθηκαν στην κατοχή του Οδυσσέα Δήμα Ο Γρηγόρης Λέων, διοικητής εθνικού οργανισμού καταπολέμησης ντόπινγκ στις Αποκαλύψεις.",
+        "id": "greek_tv:ant1:106cd1b4:gyku0nzzhlfemhme0z9dx739",
+        "title": "Στις Αποκαλύψεις ο πατέρας και η μητέρα του Γιώργου Ζυμπίδη",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:erlapmmeugjoqgrxd79b8h8u",
-        "title": "Ο Ν. Νυφούδης, αναπληρωτής εκπρόσωπος Τύπου ΕΛ. Α. Σ στις Αποκαλύψεις «Χρυσές» αναθέσεις από δήμους έξι νησιών στην αδελφή του υφυπουργού Εσωτερικών Β. Λιάκου.",
+        "id": "greek_tv:ant1:106cd1b4:tslfjm89jizaod85104kej13",
+        "title": "Τι λέει ο πυροσβέστης που σώθηκε από την πυρκαγιά στο Ζεφύρι",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:wzmbh5szf78i6ya6svcga3ab",
-        "title": "Ο Δήμαρχος Αγκιστρίου, Δημήτριος Αναστασίου, στις Αποκαλύψεις Δημήτριος Αναστασίου: «Η κ. Λιάκου δεν μου είπε ποτέ ότι ο αδερφός της είναι βουλευτής».",
+        "id": "greek_tv:ant1:106cd1b4:lr639cx0k9y6mgjogzaxct0p",
+        "title": "53 χρόνια από την εξέγερση του Πολυτεχνείου",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:uquaywg1el8lkqepcapnlign",
-        "title": "Αποκαλυπτικά στοιχεία: Έξι δήμοι νησιών της Α Πειραιά έδιναν απευθείας αναθέσεις στην αδελφή του υφυπ. Εσωτερικών Βαγγέλη Λιάκου",
+        "id": "greek_tv:ant1:106cd1b4:pj68s4wdp5397jybvv1z12ds",
+        "title": "Ιρανικό δίκτυο σχεδίαζε δολοφονία στην Ελλάδα με Σκοπιανούς εκτελεστές Πέντε συλλήψεις σε Αθήνα και Βόρεια Μακεδονία.",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:klqd5sv1q6alw4uw78b3f1m8",
-        "title": "Μαρτυρία-φωτιά από πρώην προπονητή άρσης βαρών για τον Οδυσσέα Δήμα Πρώην προπονητής: «Προσπαθούσαν να μου κλέψουν τους αθλητές».",
+        "id": "greek_tv:ant1:106cd1b4:q4qhfrfd7cohzntwqfeekfgf",
+        "title": "Νέα προθεσμία έλαβαν η 34χρονη και οι κόρες της για τη φωτιά στο Ζεφύρι",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:xyiafnwcnu1zpryxt9tm9hxm",
-        "title": "Δήλωση του Οδυσσέα Δήμα μέσα από τα κρατητήρια Οδυσσέας Δήμας: «Νιώθω μεγάλη συντριβή, γίνεται παραπληροφόρηση σε βάρος μου».",
+        "id": "greek_tv:ant1:106cd1b4:q63c5zj7w75bi833wqcafqhw",
+        "title": "Το τελευταίο αντίο στον πυροσβέστη Γ. Ζυμπίδη που έχασε τη ζωή του το πρωί του Σαββάτου στο Ζεφύρι Ο θείος του Γιώργου Ζυμπίδη στις Αποκαλύψεις",
         "season": 1,
         "episode": 10,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:a4ewewqjwxfzuog2r7ao280h",
-        "title": "Στις Αποκαλύψεις μιλάει πρωταθλητής της άρσης βαρών για τον Οδυσσέα Δήμα «Ποτέ δεν μας πρότεινε αναβολικά»",
-        "season": 1,
-        "episode": 11,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:zeijcw9o8jz4rcye1stbhuje",
-        "title": "Αποκάλυψη: Απευθείας αναθέσεις και στην άλλη αδελφή του υφυπουργού Εσωτερικών Βαγγέλη Λιάκου",
-        "season": 1,
-        "episode": 12,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:ycdec9twjrqtz9o900po3gn3",
-        "title": "Αναβλήθηκε για τις 3 Φεβρουαρίου η δίκη σε 2ο βαθμό για τη σεξουαλική κακοποίηση και εκμετάλλευση της 12χρονης στον Κολωνό",
-        "season": 1,
-        "episode": 13,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:c6aewf4q6gzaxq64euikkpxm",
         "title": "Αποκαλύψεις - Καθημερινά στις 14:00",
         "season": 1,
-        "episode": 14,
+        "episode": 11,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       }
     ]

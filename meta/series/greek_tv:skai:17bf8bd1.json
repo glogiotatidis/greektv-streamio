@@ -40,6 +40,13 @@
         "season": 1,
         "episode": 5,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/all_in/2026_2027/all_in_5.jpg"
+      },
+      {
+        "id": "greek_tv:skai:17bf8bd1:2026-11-17-00",
+        "title": "Επεισόδιο 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/all_in/2026_2027/all_in_6.jpg"
       }
     ]
   }

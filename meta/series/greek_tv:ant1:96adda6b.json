@@ -7,80 +7,59 @@
     "background": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:96adda6b:an70xa6v1t33f9zl5szwgja0",
+        "title": "THE 2NIGHT SHOW – Στέλιος Μάινας Ο Γρηγόρης Αρναούτογλου υποδέχεται στο «The 2Night Show» τον Στέλιο Μάινα, ο οποίος πρωταγωνιστεί...",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:96adda6b:u6r7vm0ajhqumqsf5mr6ait4",
+        "title": "THE 2NIGHT SHOW – Τζένη Μπότση Ο Γρηγόρης Αρναούτογλου καλωσορίζει για πρώτη φορά στο «The 2Night Show» την Τζένη Μπότση.",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:96adda6b:tc2uyg0d1plng071ui4dvkzz",
+        "title": "THE 2NIGHT SHOW – Τάσος Τσιλίκουνας Ο Γρηγόρης Αρναούτογλου φιλοξενεί «The 2Night Show» και τον Τάσο Τσιλίκουνα, τον μπάρμαν του «First...",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
+      },
+      {
         "id": "greek_tv:ant1:96adda6b:wkmkevx7ijbqo3ga3rxh0fkj",
         "title": "THE 2NIGHT SHOW – Διονύσης Παπανδρέου Ο Γρηγόρης Αρναούτογλου υποδέχεται στο «The 2Night Show» τον Διονύση Παπανδρέου, ο οποίος φέτος...",
         "season": 1,
-        "episode": 1,
+        "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       },
       {
         "id": "greek_tv:ant1:96adda6b:axqhnmq1dqaxom1zp97v5x7u",
         "title": "THE 2NIGHT SHOW – Αντώνης Μυριαγκός Ο Γρηγόρης Αρναούτογλου φιλοξενεί για πρώτη φορά στο «The 2Night Show» τον Αντώνη Μυριαγκό.",
         "season": 1,
-        "episode": 2,
+        "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       },
       {
         "id": "greek_tv:ant1:96adda6b:cq93vy1ucty9rokihvopogx2",
         "title": "THE 2NIGHT SHOW – Μαρία Ηλιάκη Ο Γρηγόρης Αρναούτογλου καλωσορίζει στο αποψινό «The 2Night Show» και την Μαρία Ηλιάκη.",
         "season": 1,
-        "episode": 3,
+        "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       },
       {
         "id": "greek_tv:ant1:96adda6b:ebl3gt1ta9c267dwpdbsyv8z",
         "title": "THE 2NIGHT SHOW – Γιάννης Στάνκογλου - Κρατερός Κατσούλης Ο Γρηγόρης Αρναούτογλου υποδέχεται στο «The 2Night Show» τον Γιάννη Στάνκογλου και τον Κρατερό...",
         "season": 1,
-        "episode": 4,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:96adda6b:p652yjadpi514dd7pz1zxi3u",
-        "title": "THE 2NIGHT SHOW – Steve Toumpas Ο Γρηγόρης Αρναούτογλου καλωσορίζει στο αποψινό «The 2Night Show» και τον επιχειρηματία και viral...",
-        "season": 1,
-        "episode": 5,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:96adda6b:jeclfze5f9qfgwie4z6tqayq",
-        "title": "THE 2NIGHT SHOW - Εφραιμία Ο Γρηγόρης Αρναούτογλου φιλοξενεί στο «The 2Night Show» και την ταλαντούχα τραγουδίστρια Εφραιμία.",
-        "season": 1,
-        "episode": 6,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:96adda6b:f3tp11kpnsfu5s2jdiyg41iv",
-        "title": "THE 2NIGHT SHOW – Νικόλας Χαλκιαδάκης Ο Γρηγόρης Αρναούτογλου υποδέχεται στο «The 2Night Show» τον Νικόλα Χαλκιαδάκη, που φέτος...",
-        "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       },
       {
-        "id": "greek_tv:ant1:96adda6b:kxzjtdc5mgonodmo136j8qpn",
-        "title": "The 2night Show - Δευτέρα στις 24:00",
+        "id": "greek_tv:ant1:96adda6b:bto6rbxfa52vo8c1lq0rz3l5",
+        "title": "Τhe 2night Show - Τρίτη στις 24:00",
         "season": 1,
         "episode": 8,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:96adda6b:sbx5n996b2q0sm2hne1h3g87",
-        "title": "The 2night Show - Τρίτη στις 24:00",
-        "season": 1,
-        "episode": 9,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:96adda6b:vvnfv7yhebzru2ysgodjtnx4",
-        "title": "THE 2NIGHT SHOW – ΕΠΕΙΣΟΔΙΟ 09 – 11ος ΚΥΚΛΟΣ",
-        "season": 11,
-        "episode": 9,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:96adda6b:uk7t87wyc476sy6yhms5ghed",
-        "title": "THE 2NIGHT SHOW – ΕΠΕΙΣΟΔΙΟ 10 – 11ος ΚΥΚΛΟΣ",
-        "season": 11,
-        "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       },
       {
@@ -91,10 +70,24 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       },
       {
+        "id": "greek_tv:ant1:96adda6b:xd3lbvz75gn5bb46gcdodro0",
+        "title": "THE 2NIGHT SHOW – ΕΠΕΙΣΟΔΙΟ 12 – 11ος ΚΥΚΛΟΣ",
+        "season": 11,
+        "episode": 12,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:96adda6b:jxmyj9cvhbaei2g1gwwnl4ol",
+        "title": "THE 2NIGHT SHOW – ΕΠΕΙΣΟΔΙΟ 13 – 11ος ΚΥΚΛΟΣ",
+        "season": 11,
+        "episode": 13,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
+      },
+      {
         "id": "greek_tv:ant1:96adda6b:kq9jxt5ucg3i43d6bp7en74p",
         "title": "THE 2NIGHT SHOW - BEST OF - 11ος ΚΥΚΛΟΣ",
         "season": 11,
-        "episode": 12,
+        "episode": 14,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       }
     ]

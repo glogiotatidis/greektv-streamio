@@ -33,6 +33,13 @@
         "season": 1,
         "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/to-teleutaio-nisi/ps049824-to-teleutaio-nisi-i-apodrasi-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61ad0f6e:to-teleutaio-nesi-6",
+        "title": "Η Δεύτερη Ευκαιρία",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/to-teleutaio-nisi/ps049825-to-teleytaio-nisi-deyteres-eykairies.jpg"
       }
     ]
   }
