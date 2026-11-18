@@ -25,16 +25,16 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_ANT_1_NEWS_03_a05a83d976.jpg"
     },
     {
+      "id": "greek_tv:ant1:059b1645",
+      "type": "series",
+      "name": "ΕΝΩΠΙΟΣ ΕΝΩΠΙΩ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/7027ab07-570d-4ee0-9071-500da4a822f8.jpg"
+    },
+    {
       "id": "greek_tv:ant1:fa9db4c2",
       "type": "series",
       "name": "ΤΟ ΠΡΩΙΝΟ",
       "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_To_Prwino_1920x780_2c97fba98c.jpg"
-    },
-    {
-      "id": "greek_tv:ant1:84d3e000",
-      "type": "series",
-      "name": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ;",
-      "poster": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
     },
     {
       "id": "greek_tv:ant1:f60aef3a",
@@ -79,10 +79,10 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_The_Roadshow_3_1920x780_a3024e7003.jpg"
     },
     {
-      "id": "greek_tv:ant1:059b1645",
+      "id": "greek_tv:ant1:84d3e000",
       "type": "series",
-      "name": "ΕΝΩΠΙΟΣ ΕΝΩΠΙΩ",
-      "poster": "https://www.antenna.gr/imgHandler/1920/7027ab07-570d-4ee0-9071-500da4a822f8.jpg"
+      "name": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ;",
+      "poster": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
     },
     {
       "id": "greek_tv:ant1:4638e85a",

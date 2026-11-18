@@ -79,12 +79,6 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-na-me-les-mama-cover-horizontal.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:7be2c053",
-      "type": "series",
-      "name": "Η Κατάρα της Τζέλας Δελαφράγκα",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-movies-i-katara-tis-tzelas-delafraga-cover-horizontal-5.png"
-    },
-    {
       "id": "greek_tv:alpha_tv:dd3a1b4a",
       "type": "series",
       "name": "Ο Σκαραβαίος",
@@ -125,6 +119,12 @@
       "type": "series",
       "name": "Τρομεροί Γονείς",
       "poster": "https://www.alphatv.gr/wp-content/uploads/2025/07/alphatv-series-agios-erotas-cover-horizontal1.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:7be2c053",
+      "type": "series",
+      "name": "Η Κατάρα της Τζέλας Δελαφράγκα",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-movies-i-katara-tis-tzelas-delafraga-cover-horizontal-5.png"
     },
     {
       "id": "greek_tv:alpha_tv:4a4c3230",
@@ -187,16 +187,16 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/ALITHINOI_EROTES.jpeg"
     },
     {
+      "id": "greek_tv:alpha_tv:6344f274",
+      "type": "series",
+      "name": "Εντιμότατοι Κερατάδες",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-entimotatoi-keratades-cover-horizontal-1.jpg"
+    },
+    {
       "id": "greek_tv:alpha_tv:de93403f",
       "type": "series",
       "name": "Για την Καρδιά ενός Αγγέλου",
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:c8482976",
-      "type": "series",
-      "name": "Έχω ένα Μυστικό",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-exo-ena-mystiko-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:78112dac",
@@ -241,10 +241,10 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-kala-na-patheis-cover-horizontal-1.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:6344f274",
+      "id": "greek_tv:alpha_tv:c8482976",
       "type": "series",
-      "name": "Εντιμότατοι Κερατάδες",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-entimotatoi-keratades-cover-horizontal-1.jpg"
+      "name": "Έχω ένα Μυστικό",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-exo-ena-mystiko-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:2f5132aa",
