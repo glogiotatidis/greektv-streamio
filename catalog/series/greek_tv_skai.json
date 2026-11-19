@@ -7,16 +7,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/ellinikes_seires/ble_ores/ble_wres_landscape1.jpg"
     },
     {
-      "id": "greek_tv:skai:44d8b4ff",
-      "type": "series",
-      "name": "The Voice of Greece powered by Telekom",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/voice/2026_2027/voice_new_landscape.jpg"
-    },
-    {
       "id": "greek_tv:skai:09d30e99",
       "type": "series",
       "name": "Αντώνιος & Κλεοπάτρα",
       "poster": "https://media.skaitv.gr/images/1280/0/files/ellinikes_seires/antonios__kleopatra/2026_2027/antonios_kleopatra_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:4a16248c",
+      "type": "series",
+      "name": "Τότε και Τώρα",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/tote_vs_tora/2026_2027/tote_kai_twra_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:7bb6ae88",
@@ -55,10 +55,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/1920x1080_8lexeis-b_1.jpg"
     },
     {
-      "id": "greek_tv:skai:4a16248c",
+      "id": "greek_tv:skai:44d8b4ff",
       "type": "series",
-      "name": "Τότε και Τώρα",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/tote_vs_tora/2026_2027/tote_kai_twra_landscape.jpg"
+      "name": "The Voice of Greece powered by Telekom",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/voice/2026_2027/voice_new_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:d7ca8549",
@@ -335,18 +335,6 @@
       "type": "series",
       "name": "Live You",
       "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:5ddd967f",
-      "type": "series",
-      "name": "Καλημέρα",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/kalimera_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:f793384c",
-      "type": "series",
-      "name": "Ρεπορτάζ στις 10",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/reportaz10_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:25e6ca35",

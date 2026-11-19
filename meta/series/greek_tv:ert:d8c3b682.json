@@ -7,17 +7,24 @@
     "background": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/news-room-new-photo/newsroom-siadimas-hbbtv-bg-new.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:d8c3b682:news-room-1178",
+        "title": "Τετάρτη 18 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/20261118-newsroom.jpg"
+      },
+      {
         "id": "greek_tv:ert:d8c3b682:news-room-1177",
         "title": "Τρίτη 17 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/20261117-newsroom.jpg"
       },
       {
         "id": "greek_tv:ert:d8c3b682:news-room-1176",
         "title": "Δευτέρα 16 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/newsroom/20261116-newsroom.jpg"
       }
     ]

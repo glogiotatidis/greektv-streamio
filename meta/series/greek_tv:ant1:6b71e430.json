@@ -7,13 +7,6 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png",
     "videos": [
       {
-        "id": "greek_tv:ant1:6b71e430:jn3tszid6chl5dynb17so5y7",
-        "title": "ΝΤΕΡΤΙ – ΕΠΕΙΣΟΔΙΟ 23",
-        "season": 1,
-        "episode": 23,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
-      },
-      {
         "id": "greek_tv:ant1:6b71e430:igy081ymz57gbco88g71q3r5",
         "title": "ΝΤΕΡΤΙ – ΕΠΕΙΣΟΔΙΟ 24",
         "season": 1,
@@ -35,29 +28,29 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       },
       {
-        "id": "greek_tv:ant1:6b71e430:z41416m6supenuknhqgd2da8",
-        "title": "ΝΤΕΡΤΙ – SNEAK PREVIEW 01 – ΕΠΕΙΣΟΔΙΟ 26",
+        "id": "greek_tv:ant1:6b71e430:e1mpmxv122tlrfza7v1f5a17",
+        "title": "ΝΤΕΡΤΙ – ΕΠΕΙΣΟΔΙΟ 27",
         "season": 1,
         "episode": 27,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       },
       {
-        "id": "greek_tv:ant1:6b71e430:b070o2d8s2ty68e0dr6m6fnn",
-        "title": "ΝΤΕΡΤΙ – SNEAK PREVIEW 02 – ΕΠΕΙΣΟΔΙΟ 26",
+        "id": "greek_tv:ant1:6b71e430:a8wgd7oggyrime6n0m1e4ows",
+        "title": "ΝΤΕΡΤΙ – SNEAK PREVIEW 01 – ΕΠΕΙΣΟΔΙΟ 27",
         "season": 1,
         "episode": 28,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       },
       {
-        "id": "greek_tv:ant1:6b71e430:u8ok9hdqrwmbfxnoemdxeqao",
-        "title": "Ντέρτι – Τετάρτη στις 22:30",
+        "id": "greek_tv:ant1:6b71e430:fzv9t2tulnwnpmqyuexsr3qx",
+        "title": "ΝΤΕΡΤΙ – SNEAK PREVIEW 02 – ΕΠΕΙΣΟΔΙΟ 27",
         "season": 1,
         "episode": 29,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       },
       {
-        "id": "greek_tv:ant1:6b71e430:fbqo9sk4ki8n7x9iifhoaxxs",
-        "title": "Κρίνο & Αγκάθι - Δευτέρα έως Τετάρτη στις 21:00 | Ντέρτι - Δευτέρα έως Τετάρτη στις 22:30",
+        "id": "greek_tv:ant1:6b71e430:of821psj3a9rqzdra7gyiqai",
+        "title": "Ντέρτι – Δευτέρα έως Τετάρτη στις 22:30",
         "season": 1,
         "episode": 30,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"

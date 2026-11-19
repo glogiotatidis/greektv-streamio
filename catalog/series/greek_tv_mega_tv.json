@@ -61,6 +61,12 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Sygkroysi_960X600.jpg"
     },
     {
+      "id": "greek_tv:mega_tv:bf96e796",
+      "type": "series",
+      "name": "Νταντά της Γειτονιάς",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Ntanta_ths_geitonias_960X600-1.jpg"
+    },
+    {
       "id": "greek_tv:mega_tv:1d3cff09",
       "type": "series",
       "name": "Δυο Μαύρα Πουκάμισα",
@@ -89,12 +95,6 @@
       "type": "series",
       "name": "UCL Magazine",
       "poster": "https://www.megatv.com/wp-content/uploads/2024/09/2-48.png"
-    },
-    {
-      "id": "greek_tv:mega_tv:bf96e796",
-      "type": "series",
-      "name": "Νταντά της Γειτονιάς",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/10/Image_Ntanta_ths_geitonias_960X600-1.jpg"
     },
     {
       "id": "greek_tv:mega_tv:845da4c5",

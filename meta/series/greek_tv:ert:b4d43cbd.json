@@ -222,6 +222,13 @@
         "season": 2,
         "episode": 8,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/20261110-force.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4d43cbd:force-70",
+        "title": "Τρίτη 17 Νοεμβρίου 2026",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/ls029110-0009-20261117-force.jpg"
       }
     ]
   }

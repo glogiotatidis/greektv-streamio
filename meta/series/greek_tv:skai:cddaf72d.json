@@ -7,6 +7,27 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg",
     "videos": [
       {
+        "id": "greek_tv:skai:cddaf72d:2026-11-17-18",
+        "title": "17/11/2026",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:cddaf72d:2026-11-18-18",
+        "title": "18/11/2026",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:cddaf72d:2026-11-10-18",
+        "title": "Επεισόδιο 79",
+        "season": 1,
+        "episode": 79,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
+      },
+      {
         "id": "greek_tv:skai:cddaf72d:2026-11-11-18",
         "title": "Επεισόδιο 80",
         "season": 1,
@@ -46,13 +67,6 @@
         "title": "Επεισόδιο 85",
         "season": 1,
         "episode": 85,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
-      },
-      {
-        "id": "greek_tv:skai:cddaf72d:2026-11-17-18",
-        "title": "Επεισόδιο 86",
-        "season": 1,
-        "episode": 86,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/noimatiki_new_landscape.jpg"
       }
     ]

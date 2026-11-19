@@ -7,80 +7,73 @@
     "background": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:106cd1b4:wzbe2g5h21cdbu4abj8dlaeh",
+        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 18/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
         "id": "greek_tv:ant1:106cd1b4:kuqh7fhst070agc5tzr6f1d5",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 17/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:cizbkwlz1twdsibhi929tlh4",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 16/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:nk3rpcnqx35fvolg0k0ys546",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 13/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:hh2wy2l2r2o3e7bslt8aoq6i",
-        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 12/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:gyku0nzzhlfemhme0z9dx739",
-        "title": "Στις Αποκαλύψεις ο πατέρας και η μητέρα του Γιώργου Ζυμπίδη",
+        "id": "greek_tv:ant1:106cd1b4:a5ul7469nl90ce1bpi652met",
+        "title": "Η πρώτη αντίδραση της Μαρίας Μαζωνάκη για τα αποτελέσματα των τοξικολογικών εξετάσεων Μαρία Μαζωνάκη: «Το έφαγαν το παιδί».",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:tslfjm89jizaod85104kej13",
-        "title": "Τι λέει ο πυροσβέστης που σώθηκε από την πυρκαγιά στο Ζεφύρι",
+        "id": "greek_tv:ant1:106cd1b4:uv06iujdzgk13e4hd2vrmeh0",
+        "title": "Στις Αποκαλύψεις για πρώτη φορά η δικηγόρος της αναισθησιολόγου της Καρνεάδου",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:lr639cx0k9y6mgjogzaxct0p",
-        "title": "53 χρόνια από την εξέγερση του Πολυτεχνείου",
+        "id": "greek_tv:ant1:106cd1b4:vrhg6ojvgwrvgcf1jez8fzj2",
+        "title": "Οι Δήμοι Σπετσών και Αίγινας έδωσαν απευθείας αναθέσεις και στις δύο αδελφές του υφυπ. Εσωτερικών Βαγγέλη Λιάκου Αποκαλυπτικά στοιχεία.",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:pj68s4wdp5397jybvv1z12ds",
-        "title": "Ιρανικό δίκτυο σχεδίαζε δολοφονία στην Ελλάδα με Σκοπιανούς εκτελεστές Πέντε συλλήψεις σε Αθήνα και Βόρεια Μακεδονία.",
+        "id": "greek_tv:ant1:106cd1b4:pv5xlj6qwgs3ikjkqdp4muqv",
+        "title": "Στις Αποκαλύψεις μιλάει ο πρώτος εργοδότης του Ηλία Βαλάτσου, που έπεσε στο καθήκον Ο Γιάννης Παντελάκης, στις Αποκαλύψεις.",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:q4qhfrfd7cohzntwqfeekfgf",
-        "title": "Νέα προθεσμία έλαβαν η 34χρονη και οι κόρες της για τη φωτιά στο Ζεφύρι",
+        "id": "greek_tv:ant1:106cd1b4:gzv67en5ca12oaymfrua9ck6",
+        "title": "Η μητέρα του 23χρονου πυροσβέστη Γ. Ζυμπίδη, που έπεσε στο καθήκον, μιλάει στις Αποκαλύψεις Μητέρα του 23χρονου πυροσβέστη Γ. Ζυμπίδη: «Ο χρόνος σταμάτησε εκεί, στο πρώτο τηλεφώνημα».",
         "season": 1,
         "episode": 9,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:q63c5zj7w75bi833wqcafqhw",
-        "title": "Το τελευταίο αντίο στον πυροσβέστη Γ. Ζυμπίδη που έχασε τη ζωή του το πρωί του Σαββάτου στο Ζεφύρι Ο θείος του Γιώργου Ζυμπίδη στις Αποκαλύψεις",
-        "season": 1,
-        "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:c6aewf4q6gzaxq64euikkpxm",
         "title": "Αποκαλύψεις - Καθημερινά στις 14:00",
         "season": 1,
-        "episode": 11,
+        "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       }
     ]

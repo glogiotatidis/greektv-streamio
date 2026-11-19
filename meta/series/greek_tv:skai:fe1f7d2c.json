@@ -7,13 +7,6 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/ellinikes_seires/ble_ores/ble_wres_landscape1.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:fe1f7d2c:2026-10-30-21",
-        "title": "Επεισόδιο 40",
-        "season": 1,
-        "episode": 40,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/ble_ores/ble_40.jpg"
-      },
-      {
         "id": "greek_tv:skai:fe1f7d2c:2026-11-02-21",
         "title": "Επεισόδιο 41",
         "season": 1,
@@ -88,6 +81,20 @@
         "title": "Επεισόδιο 51",
         "season": 1,
         "episode": 51,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/ble_ores/ble_51.jpg"
+      },
+      {
+        "id": "greek_tv:skai:fe1f7d2c:2026-11-17-21",
+        "title": "Επεισόδιο 52",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/ble_ores/ble_wres_landscape1.jpg"
+      },
+      {
+        "id": "greek_tv:skai:fe1f7d2c:2026-11-18-21",
+        "title": "Μπλε Ώρες | Επεισόδιο 53 18/11/2026",
+        "season": 1,
+        "episode": 53,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/ble_ores/ble_wres_landscape1.jpg"
       }
     ]

@@ -19,16 +19,16 @@
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
     },
     {
-      "id": "greek_tv:star_channel:e0e660bb",
-      "type": "series",
-      "name": "ΠΡΩΤΟΣ ΚΑΦΕΣ ΜΕ ΤΗ ΖΗΝΑ",
-      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
-    },
-    {
       "id": "greek_tv:star_channel:85137388",
       "type": "series",
       "name": "ΕΡΩΤΑΣ ΜΕ ΔΙΑΦΟΡΑ",
       "poster": "https://www.star.gr/tv/images/640x360/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:c3eaa682",
+      "type": "series",
+      "name": "Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ",
+      "poster": "https://www.star.gr/tv/images/640x360/4/jpg/files/%CE%97_%CE%9C%CE%91%CE%9C%CE%91_%CE%9B%CE%95%CE%99%CE%A0%CE%95%CE%99_%CE%A4%CE%91%CE%9E%CE%99%CE%94%CE%99_%CE%93%CE%99%CE%91_%CE%94%CE%9F%CE%A5%CE%9B%CE%95%CE%99%CE%95%CE%A3__6.jpg"
     },
     {
       "id": "greek_tv:star_channel:f7833bfc",
@@ -61,10 +61,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"
     },
     {
-      "id": "greek_tv:star_channel:c3eaa682",
+      "id": "greek_tv:star_channel:e0e660bb",
       "type": "series",
-      "name": "Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ",
-      "poster": "https://www.star.gr/tv/images/640x360/4/jpg/files/%CE%97_%CE%9C%CE%91%CE%9C%CE%91_%CE%9B%CE%95%CE%99%CE%A0%CE%95%CE%99_%CE%A4%CE%91%CE%9E%CE%99%CE%94%CE%99_%CE%93%CE%99%CE%91_%CE%94%CE%9F%CE%A5%CE%9B%CE%95%CE%99%CE%95%CE%A3__6.jpg"
+      "name": "ΠΡΩΤΟΣ ΚΑΦΕΣ ΜΕ ΤΗ ΖΗΝΑ",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/protos_kafes_me_ti_zina/2026-27/test/protos_kafes_me_ti_zina-1920x1080-test.jpg"
     },
     {
       "id": "greek_tv:star_channel:312da8f0",
