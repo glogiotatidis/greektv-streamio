@@ -31,10 +31,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/4/jpg/files/%CE%97_%CE%9C%CE%91%CE%9C%CE%91_%CE%9B%CE%95%CE%99%CE%A0%CE%95%CE%99_%CE%A4%CE%91%CE%9E%CE%99%CE%94%CE%99_%CE%93%CE%99%CE%91_%CE%94%CE%9F%CE%A5%CE%9B%CE%95%CE%99%CE%95%CE%A3__6.jpg"
     },
     {
-      "id": "greek_tv:star_channel:f7833bfc",
+      "id": "greek_tv:star_channel:4d389c7f",
       "type": "series",
-      "name": "Ο ΑΝΤΡΑΣ ΤΩΝ ΟΝΕΙΡΩΝ ΜΟΥ",
-      "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/%CE%BF_%CE%B1%CE%BD%CF%84%CF%81%CE%B1%CF%82_%CF%84%CF%89%CE%BD_%CE%BF%CE%BD%CE%B5%CE%B9%CF%81%CF%89%CE%BD_%CE%BC%CE%BF%CF%85_1920x1004_logo_b.jpg"
+      "name": "FIRST DATES",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/first_dates/2026/temp/first_dates_2026-27-1920x1080-temp.png"
     },
     {
       "id": "greek_tv:star_channel:8b7defca",
@@ -43,10 +43,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Arena_1920x1004_logo_b.jpg"
     },
     {
-      "id": "greek_tv:star_channel:b3791b03",
+      "id": "greek_tv:star_channel:f7833bfc",
       "type": "series",
-      "name": "ΤΟ ΜΠΕΡΔΕΜΑ",
-      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
+      "name": "Ο ΑΝΤΡΑΣ ΤΩΝ ΟΝΕΙΡΩΝ ΜΟΥ",
+      "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/%CE%BF_%CE%B1%CE%BD%CF%84%CF%81%CE%B1%CF%82_%CF%84%CF%89%CE%BD_%CE%BF%CE%BD%CE%B5%CE%B9%CF%81%CF%89%CE%BD_%CE%BC%CE%BF%CF%85_1920x1004_logo_b.jpg"
     },
     {
       "id": "greek_tv:star_channel:3f92c17e",
@@ -73,12 +73,6 @@
       "poster": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarsSystem_1920x1004a_2021-22_logo.jpg"
     },
     {
-      "id": "greek_tv:star_channel:4d389c7f",
-      "type": "series",
-      "name": "FIRST DATES",
-      "poster": "https://www.star.gr/tv/images/640x360/png/files/first_dates/2026/temp/first_dates_2026-27-1920x1080-temp.png"
-    },
-    {
       "id": "greek_tv:star_channel:5fa4f9de",
       "type": "series",
       "name": "CASH OR TRASH",
@@ -89,6 +83,12 @@
       "type": "series",
       "name": "ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ",
       "poster": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"
+    },
+    {
+      "id": "greek_tv:star_channel:b3791b03",
+      "type": "series",
+      "name": "ΤΟ ΜΠΕΡΔΕΜΑ",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
     },
     {
       "id": "greek_tv:star_channel:4922bd32",
