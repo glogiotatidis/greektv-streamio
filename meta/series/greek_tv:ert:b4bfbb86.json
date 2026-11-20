@@ -397,6 +397,13 @@
         "season": 4,
         "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/andreadakis-2026-11-10-10h47m02s334.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b4bfbb86:start-58",
+        "title": "Χρίστος Γαλιλαίας",
+        "season": 4,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/start-s04-ep05-xristos-galileas.jpg"
       }
     ]
   }

@@ -7,24 +7,10 @@
     "background": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg",
     "videos": [
       {
-        "id": "greek_tv:ant1:35800f78:dvn10urxu92sxp2b4kuxq8le",
-        "title": "Κάτι Ψήνεται - Καθημερινά στις 17:30",
+        "id": "greek_tv:ant1:35800f78:g1fb364lxtmr9kb32jf1hgj5",
+        "title": "Κάτι Ψήνεται – Καθημερινά στις 17:30",
         "season": 1,
         "episode": 1,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:35800f78:y85h2qdcs8nczsrn2qdqvco8",
-        "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 35",
-        "season": 3,
-        "episode": 35,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:35800f78:apcn6t6k9jxkw75l130avu1h",
-        "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 36",
-        "season": 3,
-        "episode": 36,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
       },
       {
@@ -39,6 +25,20 @@
         "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 38",
         "season": 3,
         "episode": 38,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:35800f78:jxk8jwx7qu8kx8l16luhbwdj",
+        "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 39",
+        "season": 3,
+        "episode": 39,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:35800f78:iq7umjbrx9xaokotwirq8rbr",
+        "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 40",
+        "season": 3,
+        "episode": 40,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
       }
     ]

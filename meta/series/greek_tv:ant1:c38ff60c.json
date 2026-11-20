@@ -7,35 +7,35 @@
     "background": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:c38ff60c:nxqtghwasl344rtp8jhyxe4s",
+        "title": "ΠΡΟΣΩΠΟ ΜΕ ΠΡΟΣΩΠΟ - 19/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
+      },
+      {
         "id": "greek_tv:ant1:c38ff60c:fzd1lvruj7qffl21s99zbysj",
         "title": "ΠΡΟΣΩΠΟ ΜΕ ΠΡΟΣΩΠΟ - 12/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
       },
       {
         "id": "greek_tv:ant1:c38ff60c:ifc8q0twxgr1e0vpppj61uxp",
         "title": "ΠΡΟΣΩΠΟ ΜΕ ΠΡΟΣΩΠΟ - 03/11/2026",
         "season": 1,
-        "episode": 2,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:c38ff60c:o6s0kt5uqe0l6bdn7mcv6q72",
-        "title": "Πρόσωπο με Πρόσωπο - Πέμπτη στις 24:00",
-        "season": 1,
         "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
       },
       {
-        "id": "greek_tv:ant1:c38ff60c:ssc7w7j40llkt5jp49ndqprz",
+        "id": "greek_tv:ant1:c38ff60c:clu736wbquzhbsfd5uwzhkkm",
         "title": "Πρόσωπο με Πρόσωπο - Πέμπτη στις 24:00",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
       },
       {
-        "id": "greek_tv:ant1:c38ff60c:bspj834i48jyuk0f0bydqej1",
+        "id": "greek_tv:ant1:c38ff60c:nfatjdy7bd4xzn52kynj7t1d",
         "title": "Πρόσωπο με Πρόσωπο - Πέμπτη στις 24:00",
         "season": 1,
         "episode": 5,

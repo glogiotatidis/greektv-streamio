@@ -7,43 +7,43 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_ANT_1_NEWS_03_a05a83d976.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:3fd4340e:wg131yf1acxcg3ygadehuvra",
+        "title": "ANT1 NEWS 20-11-2026 ΣΤΙΣ 18:45",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_ANT_1_NEWS_03_a05a83d976.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:3fd4340e:qdr85qasc8lo706y3gnxa9mw",
+        "title": "ANT1 NEWS 19-11-2026 ΣΤΙΣ 18:45",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_ANT_1_NEWS_03_a05a83d976.jpg"
+      },
+      {
         "id": "greek_tv:ant1:3fd4340e:hi2g7ewssqroqi3sh35vhivb",
         "title": "ANT1 NEWS 18-11-2026 ΣΤΙΣ 18:45",
         "season": 1,
-        "episode": 1,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_ANT_1_NEWS_03_a05a83d976.jpg"
       },
       {
         "id": "greek_tv:ant1:3fd4340e:iuxe7tutk2hsk38sjq2qcmer",
         "title": "ANT1 NEWS 17-11-2026 ΣΤΙΣ 18:45",
         "season": 1,
-        "episode": 2,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_ANT_1_NEWS_03_a05a83d976.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:3fd4340e:ritzxtwquiake6f9khuvi8b7",
-        "title": "ANT1 NEWS 16-11-2026 ΣΤΙΣ 18:45",
-        "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_ANT_1_NEWS_03_a05a83d976.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:3fd4340e:d2gs6852966qeja7p2bjelyu",
-        "title": "ANT1 NEWS 15-11-2026 ΣΤΙΣ 18:45",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_ANT_1_NEWS_03_a05a83d976.jpg"
       },
       {
-        "id": "greek_tv:ant1:3fd4340e:qngenrawvzbfw1q95ixu5gc2",
-        "title": "ANT1 NEWS 18-11-2026 ΣΤΙΣ 13:00",
+        "id": "greek_tv:ant1:3fd4340e:pj1l3w6hvg63iz5xat27zmzv",
+        "title": "ANT1 NEWS 20-11-2026 ΣΤΙΣ 13:00",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_ANT_1_NEWS_03_a05a83d976.jpg"
       },
       {
-        "id": "greek_tv:ant1:3fd4340e:b4noe2x3rut33dky0p4ll78u",
-        "title": "ANT1 NEWS 18-11-2026 ΣΤΗ ΝΟΗΜΑΤΙΚΗ",
+        "id": "greek_tv:ant1:3fd4340e:s5dtvorz28ct2wzg9phtfbl2",
+        "title": "ANT1 NEWS 20-11-2026 ΣΤΗ ΝΟΗΜΑΤΙΚΗ",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_ANT_1_NEWS_03_a05a83d976.jpg"

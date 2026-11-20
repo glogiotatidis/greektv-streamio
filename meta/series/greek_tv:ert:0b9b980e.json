@@ -460,6 +460,34 @@
         "season": 2,
         "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds022732-0005-istorima-s02.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-108",
+        "title": "Η Γυναίκα που Aκούει τις Mνήμες",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds022732-0006.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-109",
+        "title": "Ο Αρβανίτης Τσαμπουνιέρης",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds022732-0007.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-110",
+        "title": "Οι Τελευταίοι Κάτοικοι του Κάβο Ντόρο",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds022732-0008.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0b9b980e:istorima-111",
+        "title": "Ο Αυτοδίδακτος Βιολιτζής",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/istorima/ds022732-0009.jpg"
       }
     ]
   }

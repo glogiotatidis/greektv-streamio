@@ -8,16 +8,16 @@
     "videos": [
       {
         "id": "greek_tv:skai:86962bb8:2026-11-16-11",
-        "title": "Επεισόδιο 61",
+        "title": "16/11/2026",
         "season": 1,
-        "episode": 61,
+        "episode": 16,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
       },
       {
         "id": "greek_tv:skai:86962bb8:2026-11-17-11",
-        "title": "Επεισόδιο 62",
+        "title": "17/11/2026",
         "season": 1,
-        "episode": 62,
+        "episode": 17,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
       },
       {
@@ -25,6 +25,20 @@
         "title": "Επεισόδιο 63",
         "season": 1,
         "episode": 63,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:86962bb8:2026-11-19-11",
+        "title": "Επεισόδιο 64",
+        "season": 1,
+        "episode": 64,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:86962bb8:2026-11-20-11",
+        "title": "Επεισόδιο 65",
+        "season": 1,
+        "episode": 65,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
       }
     ]

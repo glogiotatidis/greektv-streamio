@@ -8,23 +8,23 @@
     "videos": [
       {
         "id": "greek_tv:skai:4acf28c2:2026-11-18-05",
-        "title": "18/11/2026",
+        "title": "Επεισόδιο 63",
         "season": 1,
-        "episode": 18,
+        "episode": 63,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
       },
       {
-        "id": "greek_tv:skai:4acf28c2:2026-11-16-05",
-        "title": "Επεισόδιο 61",
+        "id": "greek_tv:skai:4acf28c2:2026-11-19-05",
+        "title": "Επεισόδιο 64",
         "season": 1,
-        "episode": 61,
+        "episode": 64,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
       },
       {
-        "id": "greek_tv:skai:4acf28c2:2026-11-17-05",
-        "title": "Επεισόδιο 62",
+        "id": "greek_tv:skai:4acf28c2:2026-11-20-05",
+        "title": "Επεισόδιο 65",
         "season": 1,
-        "episode": 62,
+        "episode": 65,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
       }
     ]

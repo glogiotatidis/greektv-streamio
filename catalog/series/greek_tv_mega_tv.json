@@ -7,6 +7,24 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2019/06/megaZin-1.jpg"
     },
     {
+      "id": "greek_tv:mega_tv:de39529b",
+      "type": "series",
+      "name": "Χαμογέλα και Πάλι!",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_xamogela_960X600-b.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:d15612a7",
+      "type": "series",
+      "name": "The Chase",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_theChase_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:db76fffc",
+      "type": "series",
+      "name": "Αλ Τσαντίρι Νιουζ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
+    },
+    {
       "id": "greek_tv:mega_tv:6e0150ed",
       "type": "series",
       "name": "Φως Στο Τούνελ",
@@ -35,24 +53,6 @@
       "type": "series",
       "name": "Στον Δρόμο για το 5άρι",
       "poster": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:de39529b",
-      "type": "series",
-      "name": "Χαμογέλα και Πάλι!",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_xamogela_960X600-b.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:d15612a7",
-      "type": "series",
-      "name": "The Chase",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_theChase_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:db76fffc",
-      "type": "series",
-      "name": "Αλ Τσαντίρι Νιουζ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
     },
     {
       "id": "greek_tv:mega_tv:28961fc6",
@@ -85,12 +85,6 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2022/08/Image_MAESTRO_960X600-1.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:233653fe",
-      "type": "series",
-      "name": "UCL | Δείτε όλους τους αγώνες",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png"
-    },
-    {
       "id": "greek_tv:mega_tv:5085aff6",
       "type": "series",
       "name": "UCL Magazine",
@@ -101,6 +95,12 @@
       "type": "series",
       "name": "Mega Αθλητικά powered by Stoiximan",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:233653fe",
+      "type": "series",
+      "name": "UCL | Δείτε όλους τους αγώνες",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png"
     },
     {
       "id": "greek_tv:mega_tv:67259746",
@@ -127,16 +127,16 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2025/10/27-1024x576.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:1d56975e",
-      "type": "series",
-      "name": "Τα Μοναστήρια της Ορθοδοξίας",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/monastiria-orthodoxias_Image_960X600.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:4664701c",
       "type": "series",
       "name": "Οι Εικόνες Μιλούν",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΟΙ-ΕΙΚΟΝΕΣ-ΜΙΛΟΥΝ-2_Image_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:1d56975e",
+      "type": "series",
+      "name": "Τα Μοναστήρια της Ορθοδοξίας",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/monastiria-orthodoxias_Image_960X600.jpg"
     },
     {
       "id": "greek_tv:mega_tv:5291cf2e",

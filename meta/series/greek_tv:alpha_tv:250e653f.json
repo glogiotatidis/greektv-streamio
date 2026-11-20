@@ -89,6 +89,20 @@
         "season": 1,
         "episode": 12,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-mia-gineka-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:250e653f:787329-s1-epeisodio-13-3",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-mia-gineka-cover-horizontal-1.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:250e653f:787332-s1-epeisodio-14-2",
+        "title": "Σ1 – ΕΠΕΙΣΟΔΙΟ 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-mia-gineka-cover-horizontal-1.jpg"
       }
     ]
   }

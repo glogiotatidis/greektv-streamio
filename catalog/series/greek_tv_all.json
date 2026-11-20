@@ -7,6 +7,24 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2019/06/megaZin-1.jpg"
     },
     {
+      "id": "greek_tv:mega_tv:de39529b",
+      "type": "series",
+      "name": "Χαμογέλα και Πάλι!",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_xamogela_960X600-b.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:d15612a7",
+      "type": "series",
+      "name": "The Chase",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_theChase_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:db76fffc",
+      "type": "series",
+      "name": "Αλ Τσαντίρι Νιουζ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
+    },
+    {
       "id": "greek_tv:mega_tv:6e0150ed",
       "type": "series",
       "name": "Φως Στο Τούνελ",
@@ -35,24 +53,6 @@
       "type": "series",
       "name": "Στον Δρόμο για το 5άρι",
       "poster": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:de39529b",
-      "type": "series",
-      "name": "Χαμογέλα και Πάλι!",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_xamogela_960X600-b.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:d15612a7",
-      "type": "series",
-      "name": "The Chase",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/Image_theChase_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:db76fffc",
-      "type": "series",
-      "name": "Αλ Τσαντίρι Νιουζ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/10/AL-TSANTIRI_STILL_01-1024x576.jpg"
     },
     {
       "id": "greek_tv:mega_tv:28961fc6",
@@ -85,12 +85,6 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2022/08/Image_MAESTRO_960X600-1.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:233653fe",
-      "type": "series",
-      "name": "UCL | Δείτε όλους τους αγώνες",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png"
-    },
-    {
       "id": "greek_tv:mega_tv:5085aff6",
       "type": "series",
       "name": "UCL Magazine",
@@ -101,6 +95,12 @@
       "type": "series",
       "name": "Mega Αθλητικά powered by Stoiximan",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:233653fe",
+      "type": "series",
+      "name": "UCL | Δείτε όλους τους αγώνες",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png"
     },
     {
       "id": "greek_tv:mega_tv:67259746",
@@ -127,16 +127,16 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2025/10/27-1024x576.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:1d56975e",
-      "type": "series",
-      "name": "Τα Μοναστήρια της Ορθοδοξίας",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/monastiria-orthodoxias_Image_960X600.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:4664701c",
       "type": "series",
       "name": "Οι Εικόνες Μιλούν",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/02/ΟΙ-ΕΙΚΟΝΕΣ-ΜΙΛΟΥΝ-2_Image_960X600.jpg"
+    },
+    {
+      "id": "greek_tv:mega_tv:1d56975e",
+      "type": "series",
+      "name": "Τα Μοναστήρια της Ορθοδοξίας",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/02/monastiria-orthodoxias_Image_960X600.jpg"
     },
     {
       "id": "greek_tv:mega_tv:5291cf2e",
@@ -253,10 +253,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/all_in/2026_2027/all_in_landscape1.jpg"
     },
     {
-      "id": "greek_tv:skai:5b34d49a",
+      "id": "greek_tv:skai:ab42ce26",
       "type": "series",
-      "name": "Dragons’ Den",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/dragons_den/2026_2027/dd_landscape.jpg"
+      "name": "Γειτονιές στο Πιάτο",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/geitones_sto_piato_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:7fcc3c0c",
@@ -301,22 +301,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/psichagogia/2024_2025/vardis_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:ab42ce26",
-      "type": "series",
-      "name": "Γειτονιές στο Πιάτο",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/geitones_sto_piato_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:441c8422",
-      "type": "series",
-      "name": "MOVIETIME",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/tainies/filakas_aggelos_epese_landscape.jpg"
-    },
-    {
       "id": "greek_tv:skai:19a35167",
       "type": "series",
       "name": "Μέλλον Ένα με Ακουστική Περιγραφή (AD)",
       "poster": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_ad_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:5b34d49a",
+      "type": "series",
+      "name": "Dragons’ Den",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/dragons_den/2026_2027/dd_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:ec495706",
@@ -511,6 +505,12 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:5ddd967f",
+      "type": "series",
+      "name": "Καλημέρα",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/kalimera_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:25e6ca35",
       "type": "series",
       "name": "Weekend Live",
@@ -637,6 +637,12 @@
       "poster": "https://www.star.gr/tv/images/640x360/png/files/seires/iq_160/season_4/final/iq_160-s4-1920x1080-new.png"
     },
     {
+      "id": "greek_tv:star_channel:41aa8960",
+      "type": "series",
+      "name": "ΣΤΑ ΣΥΝΟΡΑ",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
+    },
+    {
       "id": "greek_tv:star_channel:85137388",
       "type": "series",
       "name": "ΕΡΩΤΑΣ ΜΕ ΔΙΑΦΟΡΑ",
@@ -673,12 +679,6 @@
       "poster": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png"
     },
     {
-      "id": "greek_tv:star_channel:41aa8960",
-      "type": "series",
-      "name": "ΣΤΑ ΣΥΝΟΡΑ",
-      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
-    },
-    {
       "id": "greek_tv:star_channel:cc3be537",
       "type": "series",
       "name": "GREECE'S NEXT TOP MODEL",
@@ -703,16 +703,16 @@
       "poster": "https://www.star.gr/tv/images/640x360/png/files/first_dates/2026/temp/first_dates_2026-27-1920x1080-temp.png"
     },
     {
-      "id": "greek_tv:star_channel:f46058ae",
-      "type": "series",
-      "name": "ΜΑΡΣΟΥΠΙΛΑΜΙ (THE MARSUPILAMIS)",
-      "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
-    },
-    {
       "id": "greek_tv:star_channel:5fa4f9de",
       "type": "series",
       "name": "CASH OR TRASH",
       "poster": "https://www.star.gr/tv/images/640x360/png/files/cash_or_trash/2026-27/final/cot_2026-27-1920x1080-temp.png"
+    },
+    {
+      "id": "greek_tv:star_channel:940c324d",
+      "type": "series",
+      "name": "ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"
     },
     {
       "id": "greek_tv:star_channel:4922bd32",
@@ -721,16 +721,16 @@
       "poster": "https://www.star.gr/tv/images/640x360/png/files/1_percent_club/semifinal/1_percent_club-1920x1080-semifinal.png"
     },
     {
-      "id": "greek_tv:star_channel:5bcfe350",
-      "type": "series",
-      "name": "MINIBODS",
-      "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
-    },
-    {
       "id": "greek_tv:star_channel:d347ead7",
       "type": "series",
       "name": "LINGO",
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/lingo/final/lingo-1920x1080-final-with_logo.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:85ebe5a1",
+      "type": "series",
+      "name": "TRACTION",
+      "poster": "https://www.star.gr/tv/images/640x360/5/jpg/files/2022-01-11/traction_2021-22/traction_1920x1004a_21-22.jpg"
     },
     {
       "id": "greek_tv:star_channel:6e2ec62f",
@@ -757,10 +757,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/pocoyo-1920x1080.jpg"
     },
     {
-      "id": "greek_tv:star_channel:940c324d",
+      "id": "greek_tv:star_channel:f46058ae",
       "type": "series",
-      "name": "ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ",
-      "poster": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"
+      "name": "ΜΑΡΣΟΥΠΙΛΑΜΙ (THE MARSUPILAMIS)",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
     },
     {
       "id": "greek_tv:star_channel:738afbce",
@@ -775,10 +775,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
     },
     {
-      "id": "greek_tv:star_channel:85ebe5a1",
+      "id": "greek_tv:star_channel:5bcfe350",
       "type": "series",
-      "name": "TRACTION",
-      "poster": "https://www.star.gr/tv/images/640x360/5/jpg/files/2022-01-11/traction_2021-22/traction_1920x1004a_21-22.jpg"
+      "name": "MINIBODS",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
     },
     {
       "id": "greek_tv:star_channel:2beb8cd4",
@@ -1501,10 +1501,10 @@
       "poster": "https://files2.app.ertflix.gr/2026/news24/me-apofasistikotita/me-apofasistikotita-nohm-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:e7ad0baf",
+      "id": "greek_tv:ert:9cf4d351",
       "type": "series",
-      "name": "Πόλεις",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/poleis/polis-ertflix-img.jpg"
+      "name": "Καλά θα Πάει κι Αυτό",
+      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/new-eikastika/kala-tha-paei-ki-ayto-ertflix-img-cc.jpg"
     },
     {
       "id": "greek_tv:ert:0135d36c",
@@ -1555,22 +1555,22 @@
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:9cf4d351",
-      "type": "series",
-      "name": "Καλά θα Πάει κι Αυτό",
-      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/new-eikastika/kala-tha-paei-ki-ayto-ertflix-img-cc.jpg"
-    },
-    {
-      "id": "greek_tv:ert:2e5fdcf6",
-      "type": "series",
-      "name": "Ανακαλύπτοντας τον Κόσμο",
-      "poster": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontastonkosmo-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:676bfeec",
       "type": "series",
       "name": "Σπόρος",
       "poster": "https://files2.app.ertflix.gr/2025/imgs/sporos-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:e7ad0baf",
+      "type": "series",
+      "name": "Πόλεις",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/poleis/polis-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:9f54cc2c",
+      "type": "series",
+      "name": "Θάλαττα - Τα Μυστικά του Αιγαίου",
+      "poster": "https://files2.app.ertflix.gr/wunderland/thalatta-tamystikatouaigaiou-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:06e2b61d",
@@ -1615,10 +1615,10 @@
       "poster": "https://files2.app.ertflix.gr/files/mousiki/85-xronia-mikis-theodorakis/85-xronia-mikis-theodorakis-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:9f54cc2c",
+      "id": "greek_tv:ert:2e5fdcf6",
       "type": "series",
-      "name": "Θάλαττα - Τα Μυστικά του Αιγαίου",
-      "poster": "https://files2.app.ertflix.gr/wunderland/thalatta-tamystikatouaigaiou-ertflix-img.jpg"
+      "name": "Ανακαλύπτοντας τον Κόσμο",
+      "poster": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontastonkosmo-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:108a2e78",
@@ -1687,6 +1687,12 @@
       "poster": "https://files2.app.ertflix.gr/2024/series/vivlio-anoixto/anoixto-biblio-ertflix-img.jpg"
     },
     {
+      "id": "greek_tv:ert:1e0e1ea8",
+      "type": "series",
+      "name": "Είναι στο Χέρι σου",
+      "poster": "https://files2.app.ertflix.gr/2025/shows-25/einai-sto-xeri-sou-se03/einaistoxerisou-ertflix-img.jpg"
+    },
+    {
       "id": "greek_tv:ert:6c224256",
       "type": "series",
       "name": "Μαμά-δες",
@@ -1727,12 +1733,6 @@
       "type": "series",
       "name": "Αληθινή Ζωή",
       "poster": "https://files2.app.ertflix.gr/2024/series/true-life/alhthinh-zoh-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:1e0e1ea8",
-      "type": "series",
-      "name": "Είναι στο Χέρι σου",
-      "poster": "https://files2.app.ertflix.gr/2025/shows-25/einai-sto-xeri-sou-se03/einaistoxerisou-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:12c8536c",
@@ -1951,10 +1951,10 @@
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:3be01a29",
+      "id": "greek_tv:ert:38ea7244",
       "type": "series",
-      "name": "Μουσικές Οικογένειες",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-ertflix-img.jpg"
+      "name": "Μια Κληρονομιά",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-klironomia/mia-klhronomia-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:9513e4ef",
@@ -2005,16 +2005,16 @@
       "poster": "https://files2.app.ertflix.gr/files/synentefxeis/van-life/van-life-ertflix-poster.jpg"
     },
     {
+      "id": "greek_tv:ert:3be01a29",
+      "type": "series",
+      "name": "Μουσικές Οικογένειες",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-ertflix-img.jpg"
+    },
+    {
       "id": "greek_tv:ert:300a4390",
       "type": "series",
       "name": "Όψον και Ψαλμός",
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-opson-psalmos-500x750.jpg"
-    },
-    {
-      "id": "greek_tv:ert:38ea7244",
-      "type": "series",
-      "name": "Μια Κληρονομιά",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-klironomia/mia-klhronomia-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:31edeb0e",
@@ -2177,6 +2177,12 @@
       "type": "series",
       "name": "Σύγχρονη Παραδοσιακή Μουσική",
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/ertflix-sixroni-paradosiaki-mousiki-640x360.jpg"
+    },
+    {
+      "id": "greek_tv:ert:ae484152",
+      "type": "series",
+      "name": "Στο Δια Ταύτα",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/sto-dia-tauta/sto-dia-tauta-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ant1:4c6ac268",

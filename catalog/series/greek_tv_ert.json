@@ -355,10 +355,10 @@
       "poster": "https://files2.app.ertflix.gr/2026/news24/me-apofasistikotita/me-apofasistikotita-nohm-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:e7ad0baf",
+      "id": "greek_tv:ert:9cf4d351",
       "type": "series",
-      "name": "Πόλεις",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/poleis/polis-ertflix-img.jpg"
+      "name": "Καλά θα Πάει κι Αυτό",
+      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/new-eikastika/kala-tha-paei-ki-ayto-ertflix-img-cc.jpg"
     },
     {
       "id": "greek_tv:ert:0135d36c",
@@ -409,22 +409,22 @@
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:9cf4d351",
-      "type": "series",
-      "name": "Καλά θα Πάει κι Αυτό",
-      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/kala-tha-paei-ki-afto/new-eikastika/kala-tha-paei-ki-ayto-ertflix-img-cc.jpg"
-    },
-    {
-      "id": "greek_tv:ert:2e5fdcf6",
-      "type": "series",
-      "name": "Ανακαλύπτοντας τον Κόσμο",
-      "poster": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontastonkosmo-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:676bfeec",
       "type": "series",
       "name": "Σπόρος",
       "poster": "https://files2.app.ertflix.gr/2025/imgs/sporos-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:e7ad0baf",
+      "type": "series",
+      "name": "Πόλεις",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/poleis/polis-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:9f54cc2c",
+      "type": "series",
+      "name": "Θάλαττα - Τα Μυστικά του Αιγαίου",
+      "poster": "https://files2.app.ertflix.gr/wunderland/thalatta-tamystikatouaigaiou-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:06e2b61d",
@@ -469,10 +469,10 @@
       "poster": "https://files2.app.ertflix.gr/files/mousiki/85-xronia-mikis-theodorakis/85-xronia-mikis-theodorakis-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:9f54cc2c",
+      "id": "greek_tv:ert:2e5fdcf6",
       "type": "series",
-      "name": "Θάλαττα - Τα Μυστικά του Αιγαίου",
-      "poster": "https://files2.app.ertflix.gr/wunderland/thalatta-tamystikatouaigaiou-ertflix-img.jpg"
+      "name": "Ανακαλύπτοντας τον Κόσμο",
+      "poster": "https://files2.app.ertflix.gr/files/paidika/anakalyptontas-ton-kosmo/anakalyptontastonkosmo-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:108a2e78",
@@ -541,6 +541,12 @@
       "poster": "https://files2.app.ertflix.gr/2024/series/vivlio-anoixto/anoixto-biblio-ertflix-img.jpg"
     },
     {
+      "id": "greek_tv:ert:1e0e1ea8",
+      "type": "series",
+      "name": "Είναι στο Χέρι σου",
+      "poster": "https://files2.app.ertflix.gr/2025/shows-25/einai-sto-xeri-sou-se03/einaistoxerisou-ertflix-img.jpg"
+    },
+    {
       "id": "greek_tv:ert:6c224256",
       "type": "series",
       "name": "Μαμά-δες",
@@ -581,12 +587,6 @@
       "type": "series",
       "name": "Αληθινή Ζωή",
       "poster": "https://files2.app.ertflix.gr/2024/series/true-life/alhthinh-zoh-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:1e0e1ea8",
-      "type": "series",
-      "name": "Είναι στο Χέρι σου",
-      "poster": "https://files2.app.ertflix.gr/2025/shows-25/einai-sto-xeri-sou-se03/einaistoxerisou-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:12c8536c",
@@ -805,10 +805,10 @@
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:3be01a29",
+      "id": "greek_tv:ert:38ea7244",
       "type": "series",
-      "name": "Μουσικές Οικογένειες",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-ertflix-img.jpg"
+      "name": "Μια Κληρονομιά",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-klironomia/mia-klhronomia-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:9513e4ef",
@@ -859,16 +859,16 @@
       "poster": "https://files2.app.ertflix.gr/files/synentefxeis/van-life/van-life-ertflix-poster.jpg"
     },
     {
+      "id": "greek_tv:ert:3be01a29",
+      "type": "series",
+      "name": "Μουσικές Οικογένειες",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/mousikes-oikogeneies/mousikes-oikogeneies-ertflix-img.jpg"
+    },
+    {
       "id": "greek_tv:ert:300a4390",
       "type": "series",
       "name": "Όψον και Ψαλμός",
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-poster-opson-psalmos-500x750.jpg"
-    },
-    {
-      "id": "greek_tv:ert:38ea7244",
-      "type": "series",
-      "name": "Μια Κληρονομιά",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/mia-klironomia/mia-klhronomia-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:31edeb0e",
@@ -1031,6 +1031,12 @@
       "type": "series",
       "name": "Σύγχρονη Παραδοσιακή Μουσική",
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/ertflix-sixroni-paradosiaki-mousiki-640x360.jpg"
+    },
+    {
+      "id": "greek_tv:ert:ae484152",
+      "type": "series",
+      "name": "Στο Δια Ταύτα",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/sto-dia-tauta/sto-dia-tauta-ertflix-img.jpg"
     }
   ]
 }
