@@ -13,12 +13,6 @@
       "poster": "https://www.star.gr/tv/images/640x360/png/files/seires/iq_160/season_4/final/iq_160-s4-1920x1080-new.png"
     },
     {
-      "id": "greek_tv:star_channel:41aa8960",
-      "type": "series",
-      "name": "ΣΤΑ ΣΥΝΟΡΑ",
-      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
-    },
-    {
       "id": "greek_tv:star_channel:85137388",
       "type": "series",
       "name": "ΕΡΩΤΑΣ ΜΕ ΔΙΑΦΟΡΑ",
@@ -31,10 +25,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/4/jpg/files/%CE%97_%CE%9C%CE%91%CE%9C%CE%91_%CE%9B%CE%95%CE%99%CE%A0%CE%95%CE%99_%CE%A4%CE%91%CE%9E%CE%99%CE%94%CE%99_%CE%93%CE%99%CE%91_%CE%94%CE%9F%CE%A5%CE%9B%CE%95%CE%99%CE%95%CE%A3__6.jpg"
     },
     {
-      "id": "greek_tv:star_channel:4d389c7f",
+      "id": "greek_tv:star_channel:f7833bfc",
       "type": "series",
-      "name": "FIRST DATES",
-      "poster": "https://www.star.gr/tv/images/640x360/png/files/first_dates/2026/temp/first_dates_2026-27-1920x1080-temp.png"
+      "name": "Ο ΑΝΤΡΑΣ ΤΩΝ ΟΝΕΙΡΩΝ ΜΟΥ",
+      "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/%CE%BF_%CE%B1%CE%BD%CF%84%CF%81%CE%B1%CF%82_%CF%84%CF%89%CE%BD_%CE%BF%CE%BD%CE%B5%CE%B9%CF%81%CF%89%CE%BD_%CE%BC%CE%BF%CF%85_1920x1004_logo_b.jpg"
     },
     {
       "id": "greek_tv:star_channel:8b7defca",
@@ -43,16 +37,22 @@
       "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Arena_1920x1004_logo_b.jpg"
     },
     {
-      "id": "greek_tv:star_channel:f7833bfc",
+      "id": "greek_tv:star_channel:b3791b03",
       "type": "series",
-      "name": "Ο ΑΝΤΡΑΣ ΤΩΝ ΟΝΕΙΡΩΝ ΜΟΥ",
-      "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/%CE%BF_%CE%B1%CE%BD%CF%84%CF%81%CE%B1%CF%82_%CF%84%CF%89%CE%BD_%CE%BF%CE%BD%CE%B5%CE%B9%CF%81%CF%89%CE%BD_%CE%BC%CE%BF%CF%85_1920x1004_logo_b.jpg"
+      "name": "ΤΟ ΜΠΕΡΔΕΜΑ",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
     },
     {
       "id": "greek_tv:star_channel:3f92c17e",
       "type": "series",
       "name": "ΜΑΥΡΟΙ ΠΙΝΑΚΕΣ",
       "poster": "https://www.star.gr/tv/images/640x360/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-1920x1080-temp.png"
+    },
+    {
+      "id": "greek_tv:star_channel:41aa8960",
+      "type": "series",
+      "name": "ΣΤΑ ΣΥΝΟΡΑ",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/seires/sta_sunora/final/sta_synora-1920x1080.jpg"
     },
     {
       "id": "greek_tv:star_channel:cc3be537",
@@ -73,22 +73,22 @@
       "poster": "https://www.star.gr/tv/images/640x360/3/jpg/files/StarsSystem_1920x1004a_2021-22_logo.jpg"
     },
     {
+      "id": "greek_tv:star_channel:4d389c7f",
+      "type": "series",
+      "name": "FIRST DATES",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/first_dates/2026/temp/first_dates_2026-27-1920x1080-temp.png"
+    },
+    {
+      "id": "greek_tv:star_channel:f46058ae",
+      "type": "series",
+      "name": "ΜΑΡΣΟΥΠΙΛΑΜΙ (THE MARSUPILAMIS)",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
+    },
+    {
       "id": "greek_tv:star_channel:5fa4f9de",
       "type": "series",
       "name": "CASH OR TRASH",
       "poster": "https://www.star.gr/tv/images/640x360/png/files/cash_or_trash/2026-27/final/cot_2026-27-1920x1080-temp.png"
-    },
-    {
-      "id": "greek_tv:star_channel:940c324d",
-      "type": "series",
-      "name": "ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ",
-      "poster": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"
-    },
-    {
-      "id": "greek_tv:star_channel:b3791b03",
-      "type": "series",
-      "name": "ΤΟ ΜΠΕΡΔΕΜΑ",
-      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/seires/to_mperdema/to_mperdema-1903x650a.jpg"
     },
     {
       "id": "greek_tv:star_channel:4922bd32",
@@ -97,16 +97,16 @@
       "poster": "https://www.star.gr/tv/images/640x360/png/files/1_percent_club/semifinal/1_percent_club-1920x1080-semifinal.png"
     },
     {
+      "id": "greek_tv:star_channel:5bcfe350",
+      "type": "series",
+      "name": "MINIBODS",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
+    },
+    {
       "id": "greek_tv:star_channel:d347ead7",
       "type": "series",
       "name": "LINGO",
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/lingo/final/lingo-1920x1080-final-with_logo.jpg"
-    },
-    {
-      "id": "greek_tv:star_channel:85ebe5a1",
-      "type": "series",
-      "name": "TRACTION",
-      "poster": "https://www.star.gr/tv/images/640x360/5/jpg/files/2022-01-11/traction_2021-22/traction_1920x1004a_21-22.jpg"
     },
     {
       "id": "greek_tv:star_channel:6e2ec62f",
@@ -133,10 +133,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/pocoyo-1920x1080.jpg"
     },
     {
-      "id": "greek_tv:star_channel:f46058ae",
+      "id": "greek_tv:star_channel:940c324d",
       "type": "series",
-      "name": "ΜΑΡΣΟΥΠΙΛΑΜΙ (THE MARSUPILAMIS)",
-      "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
+      "name": "ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/ttt_2026-27/final/troxos_tis_tuxis_2026-27-1920x1080.png"
     },
     {
       "id": "greek_tv:star_channel:738afbce",
@@ -151,10 +151,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/ninja_express-1920x1080b.jpg"
     },
     {
-      "id": "greek_tv:star_channel:5bcfe350",
+      "id": "greek_tv:star_channel:85ebe5a1",
       "type": "series",
-      "name": "MINIBODS",
-      "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/minibods-1920x1080.png"
+      "name": "TRACTION",
+      "poster": "https://www.star.gr/tv/images/640x360/5/jpg/files/2022-01-11/traction_2021-22/traction_1920x1004a_21-22.jpg"
     },
     {
       "id": "greek_tv:star_channel:2beb8cd4",
