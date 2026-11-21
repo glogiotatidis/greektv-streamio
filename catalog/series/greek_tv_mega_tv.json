@@ -55,6 +55,12 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
     },
     {
+      "id": "greek_tv:mega_tv:e99ec70f",
+      "type": "series",
+      "name": "Κάμπινγκ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_Camping_960X600-c.jpg"
+    },
+    {
       "id": "greek_tv:mega_tv:28961fc6",
       "type": "series",
       "name": "Σύγκρουση",
@@ -73,22 +79,16 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:e99ec70f",
-      "type": "series",
-      "name": "Κάμπινγκ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_Camping_960X600-c.jpg"
-    },
-    {
       "id": "greek_tv:mega_tv:02de66cf",
       "type": "series",
       "name": "Maestro",
       "poster": "https://www.megatv.com/wp-content/uploads/2022/08/Image_MAESTRO_960X600-1.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:5085aff6",
+      "id": "greek_tv:mega_tv:233653fe",
       "type": "series",
-      "name": "UCL Magazine",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/2-48.png"
+      "name": "UCL | Δείτε όλους τους αγώνες",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png"
     },
     {
       "id": "greek_tv:mega_tv:845da4c5",
@@ -97,10 +97,10 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_mega-athlitika_powered_by_stoiximan_960X600.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:233653fe",
+      "id": "greek_tv:mega_tv:5085aff6",
       "type": "series",
-      "name": "UCL | Δείτε όλους τους αγώνες",
-      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/1-58.png"
+      "name": "UCL Magazine",
+      "poster": "https://www.megatv.com/wp-content/uploads/2024/09/2-48.png"
     },
     {
       "id": "greek_tv:mega_tv:67259746",
