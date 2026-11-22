@@ -7,18 +7,18 @@
     "background": "https://files2.app.ertflix.gr/2026/news24/stash-ert3/2026-2027-gfx/stash-ert3-hbbtv-bg-2026-2027.jpg",
     "videos": [
       {
-        "id": "greek_tv:ert:98d742ed:stase-59",
-        "title": "Σάββατο 14 Νοεμβρίου 2026",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/stash-ert3/20261114-stasi.jpg"
-      },
-      {
         "id": "greek_tv:ert:98d742ed:stase-60",
         "title": "Κυριακή 15 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 2,
+        "episode": 1,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261115-stasi.jpg"
+      },
+      {
+        "id": "greek_tv:ert:98d742ed:stase-61",
+        "title": "Σάββατο 21 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/stash-ert3/ert3-2026-11-21-15h37m51s420.jpg"
       }
     ]
   }

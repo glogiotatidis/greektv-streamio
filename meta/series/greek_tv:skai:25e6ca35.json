@@ -8,9 +8,9 @@
     "videos": [
       {
         "id": "greek_tv:skai:25e6ca35:2026-10-03-14",
-        "title": "Επεισόδιο 8",
+        "title": "Weekend Live 03/10/2026",
         "season": 1,
-        "episode": 8,
+        "episode": 3,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/weekend_live/2026_2027/weekend_8.jpg"
       },
       {
@@ -89,6 +89,13 @@
         "season": 1,
         "episode": 20,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/weekend_live/2026_2027/weekend_19.jpg"
+      },
+      {
+        "id": "greek_tv:skai:25e6ca35:2026-11-21-14",
+        "title": "Επεισόδιο 21",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/weekend_live/2026_2027/weekwnd_live_landscape.jpg"
       }
     ]
   }

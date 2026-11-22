@@ -70,13 +70,6 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       },
       {
-        "id": "greek_tv:ant1:96adda6b:f9n2qmvtofkbgn50lsw1l6lc",
-        "title": "THE 2NIGHT SHOW – ΕΠΕΙΣΟΔΙΟ 11 – 11ος ΚΥΚΛΟΣ",
-        "season": 11,
-        "episode": 11,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
-      },
-      {
         "id": "greek_tv:ant1:96adda6b:xd3lbvz75gn5bb46gcdodro0",
         "title": "THE 2NIGHT SHOW – ΕΠΕΙΣΟΔΙΟ 12 – 11ος ΚΥΚΛΟΣ",
         "season": 11,
@@ -91,10 +84,17 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       },
       {
+        "id": "greek_tv:ant1:96adda6b:vsdqzz246a1lrz1lk81mb9i4",
+        "title": "THE 2NIGHT SHOW – BEST OF – 11ος ΚΥΚΛΟΣ",
+        "season": 11,
+        "episode": 14,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
+      },
+      {
         "id": "greek_tv:ant1:96adda6b:kq9jxt5ucg3i43d6bp7en74p",
         "title": "THE 2NIGHT SHOW - BEST OF - 11ος ΚΥΚΛΟΣ",
         "season": 11,
-        "episode": 14,
+        "episode": 15,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       }
     ]

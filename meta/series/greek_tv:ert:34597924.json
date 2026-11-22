@@ -502,6 +502,20 @@
         "season": 1,
         "episode": 71,
         "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0078-tok-tok-o-muthos-ths-athinas.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-72",
+        "title": "Ήρθε ένα μωράκι στο σπίτι",
+        "season": 1,
+        "episode": 72,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0080-tok-tok-hrthe-ena-mwraki-sto-spiti.jpg"
+      },
+      {
+        "id": "greek_tv:ert:34597924:tok-tok-73",
+        "title": "Πάμε για εμβόλιο στον παιδίατρο",
+        "season": 1,
+        "episode": 73,
+        "thumbnail": "https://files2.app.ertflix.gr/files/paidika/tok-tok/ks011162-0076-tok-tok-pame-ston-paidiatro-gia-embolio.jpg"
       }
     ]
   }

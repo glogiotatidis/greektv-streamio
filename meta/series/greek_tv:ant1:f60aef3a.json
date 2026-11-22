@@ -7,92 +7,92 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:f60aef3a:sfvtqjmang0drp1v3ffcppxc",
+        "title": "FOR YOU – 21/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
+      },
+      {
         "id": "greek_tv:ant1:f60aef3a:kfgxdo149crylmtr189n50dy",
         "title": "FOR YOU – 15/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
         "id": "greek_tv:ant1:f60aef3a:wnghbffg9keuvydqbv4q0ow7",
         "title": "FOR YOU – 14/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
         "id": "greek_tv:ant1:f60aef3a:q128rscs448er537yh7ptbp4",
         "title": "FOR YOU – 08/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:f60aef3a:h118aq2ptbua13ssdxkxhfon",
-        "title": "FOR YOU – 07/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:h2xgy5rns8bf2uimwlpjcd60",
-        "title": "Ο εγγονός του Μίκη Θεοδωράκη, Άγγελος, στο For You - 15/11/2026 Άγγελος Θεοδωράκης: \"Το τελευταίο τραγούδι δεν πρόλαβε να το ακούσει ο παππούς μου (Μίκης...",
+        "id": "greek_tv:ant1:f60aef3a:tqsglgmnilpzymr54k5ioj38",
+        "title": "Κ. Μαρκουλάκης: \"Δεν λέω τα προσωπικά μου on air για να μη τα γρουσουζέψω\"- For You - 21/11/2026 Ο Κωνσταντίνος Μαρκουλάκης μιλάει στο For You.",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:peobrr4wkqdg117b4ocvpstc",
-        "title": "Χρ. Θεοδωροπούλου: \"Το εγγόνι μου είναι το μόνο πράγμα που με κάνει αυτή τη στιγμή ευτυχισμένη, αλλιώς θα είχα καταρρεύσει\" - For You - 15/11/2026 Η Χριστίνα Θεοδωροπούλου μιλάει στο For You.",
+        "id": "greek_tv:ant1:f60aef3a:hqr7ieqi5w4s9npth0bxmxsd",
+        "title": "The Roadshow: Επόμενος σταθμός η Κρήτη- For You - 21/11/2026 The Roadshow με τον Γρηγόρη Αρναούτογλου, Σάββατο στις 21:00 στον ΑΝΤ1.",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:pa47f3v5xbosjlbmk3rscx01",
-        "title": "Ο Πρωτοπρεσβύτερος π. Κωνσταντίνος Ταμπάκης για την πρώτη Θεία Λειτουργία στο σπίτι του Αγίου Παϊσίου - For You - 15/11/2026",
+        "id": "greek_tv:ant1:f60aef3a:l3mn77u3620bqgths05d2kah",
+        "title": "Η Πίτσα Παπαδοπούλου μιλάει στο For You - 21/11/2026 Ο Γάμος του γιού της, η ζωή στο σπίτι και η εξομολόγηση για τον Γιώργο Μαζωνάκη.",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:k2eg2477e21goulv4j7wd8j8",
-        "title": "Ο Μιχάλης Ρακιντζής στο For You - 15/11/2026 Μ. Ρακιντζής: \"Το \"Μη μου μιλάς καλοκαίρια\" το έγραψα 15 ετών\"",
+        "id": "greek_tv:ant1:f60aef3a:x0zpqsp8g7gngyxbq42g7qju",
+        "title": "Extreme make over home edition: Η πρώτη οικογένεια που άλλαξε η ζωή της - For You - 21/11/2026",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:l1sp42bck7yi7elm0p9m75z0",
-        "title": "Η Ειρήνη Φαναριώτη στο - For You - 15/11/2026 Ει. Φαναριώτη: \"Εγώ ήθελα να κάνω από μικρή παιδιά\".",
+        "id": "greek_tv:ant1:f60aef3a:a9tz9kvgibrujt6jhcx2mmh8",
+        "title": "Ξεκίνησαν στην Κρήτη τα γυρίσματα της ταινίας για τη ζωή του Νίκου Ξυλούρη- For You - 21/11/2026 Η Κ. Μπέη, ο Σ. Κεφαλογιάννης, η Ουρ. Ξυλούρη, ο Μ. Αεράκης και ο Λουδοβίκος των Ανωγείων μίλησαν...",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:brlp0z0cq5ai3vigv7x5ggm3",
-        "title": "Α. Φόνσου: \"Βλέπω συνέχεια τη Ζωζώ Σαπουντζάκη - Περνάει μία κρίση\" - For You - 15/11/2026 Η Άννα Φόνσου μιλάει στο For You.",
+        "id": "greek_tv:ant1:f60aef3a:mww0slu8ic6hnfzk9k53extb",
+        "title": "Η απάντηση του Χάρη Δούκα στον Λάκη Λαζόπουλο - For You - 21/11/2026 Ο Δήμαρχος Αθηναίων για το φετινό άναμμα του δέντρου, τους καλεσμένους αλλά και τον Λάκη Λαζόπουλο.",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:v7mzysx0yzitrm10xa9miove",
-        "title": "Ο Αιμίλιος Χειλάκης και η Αθηνά Μαξίμου στο For You – 14/11/2026 Ο Αιμίλιος Χειλάκης και η Αθηνά Μαξίμου σε μια συνέντευξη εφ' όλης της ύλης στο For You.",
+        "id": "greek_tv:ant1:f60aef3a:cdf55gg4zgejlmts5fl9aeoh",
+        "title": "Ο Νίκος Κουρής στο For You – 21/11/2026 Ο Νίκος Κουρής σε μια συνέντευξη εφ' όλης της ύλης στο For You.",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:vqlppxh83uouece5f2x31fzr",
-        "title": "Μοσχάρι κοκκινιστό με σοκολάτα και πουρέ πατάτας - For You - 15/11/2026 Ο chef Γιώργος Τσούλης ετοιμάζει μοσχάρι κοκκινιστό με σοκολάτα και πουρέ πατάτας.",
+        "id": "greek_tv:ant1:f60aef3a:qiqpww6mq9rhpptzhwfpgre7",
+        "title": "Γεμιστά κανελόνια με σπανάκι - For You - 21/11/2026 Ο chef Γιώργος Τσούλης ετοιμάζει γεμιστά κανελόνια με σπανάκι.",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
       },
       {
-        "id": "greek_tv:ant1:f60aef3a:pnzrhc15p7qx3256czz54yqq",
-        "title": "For You – Σάββατο στις 09:50",
+        "id": "greek_tv:ant1:f60aef3a:dj38oice1vqgcbd2trt7quxj",
+        "title": "For You – Κυριακή στις 09:50",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"

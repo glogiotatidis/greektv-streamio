@@ -7,34 +7,6 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:d7ca8549:2026-11-20-15",
-        "title": "Studio στις 3 20/11/2026",
-        "season": 1,
-        "episode": 3,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg"
-      },
-      {
-        "id": "greek_tv:skai:d7ca8549:2026-11-19-15",
-        "title": "Studio στις 3 | Β' Κύκλος 19/11/2026",
-        "season": 1,
-        "episode": 4,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_59.jpg"
-      },
-      {
-        "id": "greek_tv:skai:d7ca8549:2026-11-03-15",
-        "title": "Επεισόδιο 47",
-        "season": 1,
-        "episode": 47,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_47.jpg"
-      },
-      {
-        "id": "greek_tv:skai:d7ca8549:2026-11-04-15",
-        "title": "Επεισόδιο 48",
-        "season": 1,
-        "episode": 48,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_48.jpg"
-      },
-      {
         "id": "greek_tv:skai:d7ca8549:2026-11-05-15",
         "title": "Επεισόδιο 49",
         "season": 1,
@@ -102,6 +74,20 @@
         "title": "Επεισόδιο 58",
         "season": 1,
         "episode": 58,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_58.jpg"
+      },
+      {
+        "id": "greek_tv:skai:d7ca8549:2026-11-19-15",
+        "title": "Επεισόδιο 59",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_59.jpg"
+      },
+      {
+        "id": "greek_tv:skai:d7ca8549:2026-11-20-15",
+        "title": "Επεισόδιο 60",
+        "season": 1,
+        "episode": 60,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg"
       }
     ]

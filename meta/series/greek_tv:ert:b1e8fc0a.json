@@ -544,6 +544,13 @@
         "season": 3,
         "episode": 9,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/2026-2027/ps058555-0009-synthesis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:b1e8fc0a:suntheseis-82",
+        "title": "Η Εκδίκηση του Πυριτίου | 21.11.26",
+        "season": 3,
+        "episode": 10,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syntheseis/2026-2027/ps058555-0011-synthesis-i-ekdikisi-tou-pyritiou.jpg"
       }
     ]
   }

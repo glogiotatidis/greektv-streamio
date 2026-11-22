@@ -537,6 +537,13 @@
         "season": 3,
         "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/2026-2027/parea-s03-ep04-afieroma-ston-dimitri-starova-horizontal-poster.jpg"
+      },
+      {
+        "id": "greek_tv:ert:24a6f915:parea-80",
+        "title": "Αφιέρωμα στον «Άρχοντα του Μινόρε», Σταύρο Κουγιουμτζή",
+        "season": 3,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/parea/2026-2027/ps058530-0007-parea-s03-afieroma-kougioumtzis.jpg"
       }
     ]
   }

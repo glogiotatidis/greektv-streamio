@@ -12,6 +12,13 @@
         "season": 1,
         "episode": 9,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/gbl/aris_olympiakos_gbl_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:e985bf45:2026-11-21-17",
+        "title": "Επεισόδιο 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/athlitika/2026_2027/gbl/paok_aris_gbl_landscape.jpg"
       }
     ]
   }

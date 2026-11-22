@@ -14,13 +14,6 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       },
       {
-        "id": "greek_tv:ant1:84d3e000:lywck9abhqc2yamepsk7ews7",
-        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 01 – 4η ΣΕΖΟΝ",
-        "season": 4,
-        "episode": 1,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
-      },
-      {
         "id": "greek_tv:ant1:84d3e000:cz47n094dvv4ogghw4c7jiry",
         "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 02 – 4η ΣΕΖΟΝ",
         "season": 4,
@@ -39,6 +32,13 @@
         "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 04 – 4η ΣΕΖΟΝ",
         "season": 4,
         "episode": 4,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:84d3e000:rlh1pxx0g65ys0qxl5eki5vb",
+        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 05 – 4η ΣΕΖΟΝ",
+        "season": 4,
+        "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       }
     ]

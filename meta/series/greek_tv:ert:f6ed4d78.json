@@ -89,6 +89,13 @@
         "season": 1,
         "episode": 12,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/suplea2262734-panionios-olympiakos.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f6ed4d78:podosphairo-superbet-league-2-2026-36",
+        "title": "ΑΕΛ Novibet - Αστέρας AKTOR Β' | 12η Αγωνιστική | 21.11.26",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/super-league-2/20261121-ael-asteras-sl2.jpg"
       }
     ]
   }

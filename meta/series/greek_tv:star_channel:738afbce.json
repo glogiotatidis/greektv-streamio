@@ -7,10 +7,17 @@
     "background": "https://www.star.gr/tv/images/640x360/jpg/files/starland/doug_unplugs-1920x1080.jpg",
     "videos": [
       {
-        "id": "greek_tv:star_channel:738afbce:camper-bots-bots-to-read",
-        "title": "14/11/2026",
+        "id": "greek_tv:star_channel:738afbce:like-botter-like-son-give-it-a-bot",
+        "title": "21/11/2026",
         "season": 1,
         "episode": 1,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/doug_unplugs-1920x1080.jpg"
+      },
+      {
+        "id": "greek_tv:star_channel:738afbce:camper-bots-bots-to-read",
+        "title": "Camper Bots Bots To Read",
+        "season": 1,
+        "episode": 2,
         "thumbnail": "https://www.star.gr/tv/images/640x360/jpg/files/starland/doug_unplugs-1920x1080.jpg"
       }
     ]
