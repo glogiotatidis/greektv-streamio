@@ -79,10 +79,10 @@
       "poster": "https://www.star.gr/tv/images/640x360/png/files/first_dates/2026/temp/first_dates_2026-27-1920x1080-temp.png"
     },
     {
-      "id": "greek_tv:star_channel:5fa4f9de",
+      "id": "greek_tv:star_channel:f46058ae",
       "type": "series",
-      "name": "CASH OR TRASH",
-      "poster": "https://www.star.gr/tv/images/640x360/png/files/cash_or_trash/2026-27/final/cot_2026-27-1920x1080-temp.png"
+      "name": "ΜΑΡΣΟΥΠΙΛΑΜΙ (THE MARSUPILAMIS)",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
     },
     {
       "id": "greek_tv:star_channel:940c324d",
@@ -127,22 +127,16 @@
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/farma_2025/final/farma_2025-1920x1080.jpg"
     },
     {
-      "id": "greek_tv:star_channel:d344ae8e",
-      "type": "series",
-      "name": "POCOYO",
-      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/pocoyo-1920x1080.jpg"
-    },
-    {
-      "id": "greek_tv:star_channel:f46058ae",
-      "type": "series",
-      "name": "ΜΑΡΣΟΥΠΙΛΑΜΙ (THE MARSUPILAMIS)",
-      "poster": "https://www.star.gr/tv/images/640x360/png/files/starland/the_marsupilamis-1920x1080.png"
-    },
-    {
       "id": "greek_tv:star_channel:738afbce",
       "type": "series",
       "name": "Ο ΝΤΑΓΚ ΑΠΟΣΥΝΔΕΕΤΑΙ (DOUG UNPLUGS)",
       "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/doug_unplugs-1920x1080.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:d344ae8e",
+      "type": "series",
+      "name": "POCOYO",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/starland/pocoyo-1920x1080.jpg"
     },
     {
       "id": "greek_tv:star_channel:ee50d207",
@@ -199,12 +193,6 @@
       "poster": "https://www.star.gr/tv/images/640x360/1/jpg/files/Masa_and_the_Bear_1920x1004.jpg"
     },
     {
-      "id": "greek_tv:star_channel:5ebc346e",
-      "type": "series",
-      "name": "ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ",
-      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/%CE%B5%CE%BD%CE%B7%CE%BC%CE%B5%CF%81%CF%89%CF%83%CE%B7_2025-26/parousiastes/1920x1080_zaxarea.jpg"
-    },
-    {
       "id": "greek_tv:star_channel:923c28e6",
       "type": "series",
       "name": "ΜΕΣΗΜΕΡΙΑΝΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ",
@@ -215,6 +203,18 @@
       "type": "series",
       "name": "ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ ΣΑΒΒΑΤΟΚΥΡΙΑΚΟΥ",
       "poster": "https://www.star.gr/tv/images/640x360/2/jpg/files/Lamrpou_1920x1004_2021-22.jpg"
+    },
+    {
+      "id": "greek_tv:star_channel:5fa4f9de",
+      "type": "series",
+      "name": "CASH OR TRASH",
+      "poster": "https://www.star.gr/tv/images/640x360/png/files/cash_or_trash/2026-27/final/cot_2026-27-1920x1080-temp.png"
+    },
+    {
+      "id": "greek_tv:star_channel:5ebc346e",
+      "type": "series",
+      "name": "ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ",
+      "poster": "https://www.star.gr/tv/images/640x360/jpg/files/%CE%B5%CE%BD%CE%B7%CE%BC%CE%B5%CF%81%CF%89%CF%83%CE%B7_2025-26/parousiastes/1920x1080_zaxarea.jpg"
     },
     {
       "id": "greek_tv:star_channel:b526c6d4",

@@ -955,10 +955,10 @@
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/axones-anaptixis/axonesanaptixis-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:141c6d14",
+      "id": "greek_tv:ert:fb99ab2a",
       "type": "series",
-      "name": "Κείμενα του '21",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-keimena21-640x360.jpg"
+      "name": "Τοπόσημα του 1821",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/toposima1821/toposima1821-img-cc.jpg"
     },
     {
       "id": "greek_tv:ert:70ab22be",
@@ -1009,16 +1009,16 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/prasines-istories/prasines-istories-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:fb99ab2a",
-      "type": "series",
-      "name": "Τοπόσημα του 1821",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/toposima1821/toposima1821-img-cc.jpg"
-    },
-    {
       "id": "greek_tv:ert:d162ac97",
       "type": "series",
       "name": "Ένα Απότομο Ξύπνημα",
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/enaapotomoxipnima-photo.jpg"
+    },
+    {
+      "id": "greek_tv:ert:141c6d14",
+      "type": "series",
+      "name": "Κείμενα του '21",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/ertflix-keimena21-640x360.jpg"
     },
     {
       "id": "greek_tv:ert:3015be56",
