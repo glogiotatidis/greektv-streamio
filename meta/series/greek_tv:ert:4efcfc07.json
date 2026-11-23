@@ -306,6 +306,13 @@
         "season": 3,
         "episode": 6,
         "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps058445-0002-oti-axizei.jpg"
+      },
+      {
+        "id": "greek_tv:ert:4efcfc07:oti-axizei-45",
+        "title": "Κάλυμνος, Ζώντας στο Όριο",
+        "season": 3,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/ps058445-0008-oti-axizei-s03-ep07-kalymnos.jpg"
       }
     ]
   }

@@ -1,16 +1,10 @@
 {
   "metas": [
     {
-      "id": "greek_tv:alpha_tv:7d15f92d",
+      "id": "greek_tv:alpha_tv:8d208c3a",
       "type": "series",
-      "name": "Το Σόι σου",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/03/alphaty-series-to-soi-sou-cover-horozontal-hp-3.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:ee0003ae",
-      "type": "series",
-      "name": "Οικογενειακές Ιστορίες",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+      "name": "Το Σπίτι Δίπλα στο Ποτάμι",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-spiti-dipla-sto-potami-cover-horizontal-1.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:250e653f",
@@ -19,10 +13,10 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-mia-gineka-cover-horizontal-1.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:2851e75f",
+      "id": "greek_tv:alpha_tv:7d15f92d",
       "type": "series",
-      "name": "Οι Κόρες της Αρετής",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-i-kores-tis-aretis-cover-horizontal.jpg"
+      "name": "Το Σόι σου",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/03/alphaty-series-to-soi-sou-cover-horozontal-hp-3.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:35ed0a8d",
@@ -37,6 +31,12 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2026/02/alphatv-series-mpampa-sagapw-cover-horizontal1.jpg"
     },
     {
+      "id": "greek_tv:alpha_tv:ee0003ae",
+      "type": "series",
+      "name": "Οικογενειακές Ιστορίες",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-oikogeneiakes-istories-cover-horizontal-1.png"
+    },
+    {
       "id": "greek_tv:alpha_tv:288533c1",
       "type": "series",
       "name": "Μην αρχίζεις τη μουρμούρα",
@@ -49,10 +49,10 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:dd3a1b4a",
+      "id": "greek_tv:alpha_tv:2851e75f",
       "type": "series",
-      "name": "Ο Σκαραβαίος",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
+      "name": "Οι Κόρες της Αρετής",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-i-kores-tis-aretis-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:432608b9",
@@ -79,10 +79,10 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-na-me-les-mama-cover-horizontal.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:8d208c3a",
+      "id": "greek_tv:alpha_tv:dd3a1b4a",
       "type": "series",
-      "name": "Το Σπίτι Δίπλα στο Ποτάμι",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2025/06/alphatv-series-spiti-dipla-sto-potami-cover-horizontal-1.jpg"
+      "name": "Ο Σκαραβαίος",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2024/01/alphatv-series-skaravaios-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:1a66a3ad",
@@ -193,16 +193,16 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/09/GIA_THN_KARDIA_ENOS_AGGELOU_THUMBNAILS.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:2f5132aa",
-      "type": "series",
-      "name": "Happy Day στον Alpha",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-happy-day-ston-alpha-2026-2027-cover-horizontal-2.jpg"
-    },
-    {
       "id": "greek_tv:alpha_tv:c8482976",
       "type": "series",
       "name": "Έχω ένα Μυστικό",
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-exo-ena-mystiko-cover-horizontal.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:78112dac",
+      "type": "series",
+      "name": "Χορεύοντας στη Σιωπή",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:c3921d88",
@@ -247,10 +247,10 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-entimotatoi-keratades-cover-horizontal-1.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:78112dac",
+      "id": "greek_tv:alpha_tv:2f5132aa",
       "type": "series",
-      "name": "Χορεύοντας στη Σιωπή",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-xoreuontas-stin-siopi-cover-horizontal.jpg"
+      "name": "Happy Day στον Alpha",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-happy-day-ston-alpha-2026-2027-cover-horizontal-2.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:c4903473",

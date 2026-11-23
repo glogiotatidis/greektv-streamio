@@ -7,25 +7,11 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/iwannidis_landscape.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:65fabb86:2026-11-16-13",
-        "title": "16/11/2026",
+        "id": "greek_tv:skai:65fabb86:2026-11-22-13",
+        "title": "22/11/2026",
         "season": 1,
-        "episode": 16,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
-      },
-      {
-        "id": "greek_tv:skai:65fabb86:2026-11-17-13",
-        "title": "17/11/2026",
-        "season": 1,
-        "episode": 17,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
-      },
-      {
-        "id": "greek_tv:skai:65fabb86:2026-11-18-13",
-        "title": "18/11/2026",
-        "season": 1,
-        "episode": 18,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
+        "episode": 22,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/iwannidis_landscape.jpg"
       },
       {
         "id": "greek_tv:skai:65fabb86:2026-11-19-13",

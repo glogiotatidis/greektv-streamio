@@ -7,53 +7,53 @@
     "background": "https://files2.app.ertflix.gr/2026/shows/perimetros-26-27/perimetros-hbbtv-bg-2026-2027.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:737c8407:perimetros-1563",
+        "title": "Κυριακή 22 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/greece-1080-hd-nov22-13-00-21.jpg"
+      },
+      {
         "id": "greek_tv:ert:737c8407:perimetros-1562",
         "title": "Σάββατο 21 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/ert3-2026-11-21-15h53m03s058.jpg"
       },
       {
         "id": "greek_tv:ert:737c8407:perimetros-1561",
         "title": "Παρασκευή 20 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261120-perimetros.jpg"
       },
       {
         "id": "greek_tv:ert:737c8407:perimetros-1560",
         "title": "Πέμπτη 19 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 3,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261119-perimetros.jpg"
       },
       {
         "id": "greek_tv:ert:737c8407:perimetros-1559",
         "title": "Τετάρτη 18 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 4,
+        "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261118-perimetros.jpg"
       },
       {
         "id": "greek_tv:ert:737c8407:perimetros-1558",
         "title": "Τρίτη 17 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 5,
+        "episode": 6,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261117-perimetros.jpg"
       },
       {
         "id": "greek_tv:ert:737c8407:perimetros-1557",
         "title": "Δευτέρα 16 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 6,
-        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261116-perimetros.jpg"
-      },
-      {
-        "id": "greek_tv:ert:737c8407:perimetros-1556",
-        "title": "Κυριακή 15 Νοεμβρίου 2026",
-        "season": 1,
         "episode": 7,
-        "thumbnail": "https://files2.app.ertflix.gr/2026/images/20261115-perimetros.jpg"
+        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/perimetros/20261116-perimetros.jpg"
       }
     ]
   }

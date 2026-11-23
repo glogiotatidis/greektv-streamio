@@ -96,6 +96,13 @@
         "season": 1,
         "episode": 13,
         "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048836.jpg"
+      },
+      {
+        "id": "greek_tv:ert:2af966c8:tv-land-14",
+        "title": "Η Μέρα της Μαρμότας",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/tv-land/ps048837.jpg"
       }
     ]
   }

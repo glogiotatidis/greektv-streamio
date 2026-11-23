@@ -14,17 +14,10 @@
         "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/03/MARKOS-BY-NIGHT_Image_960x600.jpg"
       },
       {
-        "id": "greek_tv:mega_tv:ada42966:50-apoxroseis-tou-greece",
-        "title": "50 Αποχρώσεις του Greece -",
-        "season": 1,
-        "episode": 2,
-        "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/03/MARKOS-BY-NIGHT_Image_960x600.jpg"
-      },
-      {
         "id": "greek_tv:mega_tv:ada42966:souleimark-o-megaloprepis",
         "title": "Σουλειμάρκ ο Μεγαλοπρεπής -",
         "season": 1,
-        "episode": 3,
+        "episode": 2,
         "thumbnail": "https://www.megatv.com/wp-content/uploads/2026/03/MARKOS-BY-NIGHT_Image_960x600.jpg"
       }
     ]

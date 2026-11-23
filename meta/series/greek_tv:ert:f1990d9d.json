@@ -614,6 +614,13 @@
         "season": 7,
         "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/keraia/s07/ps058452-0003-keraia-s07.jpg"
+      },
+      {
+        "id": "greek_tv:ert:f1990d9d:keraia-90",
+        "title": "Κώστας Τσόκλης | 22.11.26",
+        "season": 7,
+        "episode": 4,
+        "thumbnail": "https://files2.app.ertflix.gr/files/synentefxeis/keraia/ps058452-0004-keraia-s07.jpg"
       }
     ]
   }

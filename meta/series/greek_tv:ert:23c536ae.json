@@ -33,6 +33,13 @@
         "season": 1,
         "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-a1-gynaikwn/20261115-paok-fc-panathinaikos-fc.jpg"
+      },
+      {
+        "id": "greek_tv:ert:23c536ae:podosphairo-gunaikon-a-ethnike-2026-8",
+        "title": "Παναθηναϊκός ΑΟ - ΑΕΚ | 12η Αγωνιστική | 22.11.26",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/podosfairo-a1-gynaikwn/20261122-panathinaikos-aek-hls.jpg"
       }
     ]
   }

@@ -26,20 +26,6 @@
         "season": 1,
         "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:c38ff60c:clu736wbquzhbsfd5uwzhkkm",
-        "title": "Πρόσωπο με Πρόσωπο - Πέμπτη στις 24:00",
-        "season": 1,
-        "episode": 4,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:c38ff60c:nfatjdy7bd4xzn52kynj7t1d",
-        "title": "Πρόσωπο με Πρόσωπο - Πέμπτη στις 24:00",
-        "season": 1,
-        "episode": 5,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
       }
     ]
   }
