@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "greek_tv:ert:e92f15a0",
+    "type": "series",
+    "name": "20ο Φεστιβάλ Ελληνικού Ντοκιμαντέρ Χαλκίδας",
+    "poster": "https://files2.app.ertflix.gr/2026/festivals/20o-festival-ntokimanter-xalkidas/festibal-ntokimanter-chalkidas-2026-ertflix-img.jpg",
+    "background": "https://files2.app.ertflix.gr/2026/festivals/20o-festival-ntokimanter-xalkidas/festibal-ntokimanter-chalkidas-2026-hbbtv-bg.jpg",
+    "videos": [
+      {
+        "id": "greek_tv:ert:e92f15a0:20o-phestibal-ellenikou-ntokimanter-khalkidas-0",
+        "title": "Δευτέρα 23 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/festivals/20o-festival-ntokimanter-xalkidas/20261123-docfest-2026-day-0.jpg"
+      }
+    ]
+  }
+}

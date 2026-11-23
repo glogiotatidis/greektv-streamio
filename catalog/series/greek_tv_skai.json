@@ -103,6 +103,12 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/kitchen_lab/2026_2027/kithen_lab_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:ec495706",
+      "type": "series",
+      "name": "Μέλλον Ένα",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:04d929c3",
       "type": "series",
       "name": "The Voice of Greece | Αφιέρωμα στον Γιώργο Μαζωνάκη",
@@ -127,22 +133,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/psichagogia/2024_2025/vardis_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:ab42ce26",
-      "type": "series",
-      "name": "Γειτονιές στο Πιάτο",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/geitones_sto_piato_landscape.jpg"
-    },
-    {
       "id": "greek_tv:skai:19a35167",
       "type": "series",
       "name": "Μέλλον Ένα με Ακουστική Περιγραφή (AD)",
       "poster": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_ad_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:ec495706",
+      "id": "greek_tv:skai:ab42ce26",
       "type": "series",
-      "name": "Μέλλον Ένα",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/mellon_ena/logos/mellon_landscape.jpg"
+      "name": "Γειτονιές στο Πιάτο",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/geitones_sto_piato_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:d72ef6cd",
@@ -223,22 +223,22 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/zoi_sou_oli/2025_2026/logos/i_zwi_sou_oli_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:1df2e99d",
+      "id": "greek_tv:skai:8b16f2d3",
       "type": "series",
-      "name": "The Presidents",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/presidents/presidents_landscape.jpg"
+      "name": "Σκοτεινή Δεκαετία 1964-1974",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg"
     },
     {
-      "id": "greek_tv:skai:bb308465",
+      "id": "greek_tv:skai:bb0dd0d2",
       "type": "series",
-      "name": "Israel and the Palestinians: The Road to 7th October",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/israel/israel_palestinians_landscape.jpg"
+      "name": "Κύπρος: 50 Χρόνια μετά την Εισβολή του Αττίλα",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/new_kypros1.jpg"
     },
     {
-      "id": "greek_tv:skai:279bb5b0",
+      "id": "greek_tv:skai:7f261c6c",
       "type": "series",
-      "name": "Ειδήσεις Ι Βραδινό Δελτίο",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/vidou_landscape.jpg"
+      "name": "Καταστροφές και Θρίαμβοι",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/new_katastrofes_land.jpg"
     },
     {
       "id": "greek_tv:skai:8ff8641b",
@@ -265,28 +265,28 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/mellon_stemmatos_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:1df2e99d",
+      "type": "series",
+      "name": "The Presidents",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/presidents/presidents_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:bb308465",
+      "type": "series",
+      "name": "Israel and the Palestinians: The Road to 7th October",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/israel/israel_palestinians_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:279bb5b0",
+      "type": "series",
+      "name": "Ειδήσεις Ι Βραδινό Δελτίο",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/vidou_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:65fabb86",
       "type": "series",
       "name": "Ειδήσεις Ι Μεσημβρινό Δελτίο",
       "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/iwannidis_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:8b16f2d3",
-      "type": "series",
-      "name": "Σκοτεινή Δεκαετία 1964-1974",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg"
-    },
-    {
-      "id": "greek_tv:skai:bb0dd0d2",
-      "type": "series",
-      "name": "Κύπρος: 50 Χρόνια μετά την Εισβολή του Αττίλα",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/new_kypros1.jpg"
-    },
-    {
-      "id": "greek_tv:skai:7f261c6c",
-      "type": "series",
-      "name": "Καταστροφές και Θρίαμβοι",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/docs/docs/new_katastrofes_land.jpg"
     },
     {
       "id": "greek_tv:skai:cddaf72d",
@@ -415,6 +415,12 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/monobala/monobala_landscape.jpg"
     },
     {
+      "id": "greek_tv:skai:39e7ad6b",
+      "type": "series",
+      "name": "Η Δίκη στον ΣΚΑΪ",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2024_2025/diki_land.jpg"
+    },
+    {
       "id": "greek_tv:skai:7005b395",
       "type": "series",
       "name": "STOIXIMAN SUPER CUP BASKET 2026",
@@ -443,12 +449,6 @@
       "type": "series",
       "name": "Τα Φιλικά Προετοιμασίας του Παναθηναϊκού",
       "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/panathinaikos/filikos_landscape.jpg"
-    },
-    {
-      "id": "greek_tv:skai:39e7ad6b",
-      "type": "series",
-      "name": "Η Δίκη στον ΣΚΑΪ",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2024_2025/diki_land.jpg"
     }
   ]
 }

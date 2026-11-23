@@ -43,10 +43,10 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_1920x780_FOR_YOU_5c2f3d2385.jpg"
     },
     {
-      "id": "greek_tv:ant1:ae69d93a",
+      "id": "greek_tv:ant1:880223c8",
       "type": "series",
-      "name": "ΥΓΕΙΑ ΠΑΝΩ ΑΠ’ ΟΛΑ",
-      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Ygeia_Panp_Ap_Ola_1920x780_8d6243d4aa.jpg"
+      "name": "ΣΠΙΛΙΑΔΕΣ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Spiliades_1920x780_5f0b81ffdd.jpg"
     },
     {
       "id": "greek_tv:ant1:570c2277",
@@ -97,6 +97,12 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/3e3c7eed-2432-43b3-ad58-24ced417b757.jpg"
     },
     {
+      "id": "greek_tv:ant1:ae69d93a",
+      "type": "series",
+      "name": "ΥΓΕΙΑ ΠΑΝΩ ΑΠ’ ΟΛΑ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Ygeia_Panp_Ap_Ola_1920x780_8d6243d4aa.jpg"
+    },
+    {
       "id": "greek_tv:ant1:f81c6aae",
       "type": "series",
       "name": "MOMENTS",
@@ -107,12 +113,6 @@
       "type": "series",
       "name": "YOUR FACE SOUNDS FAMILIAR",
       "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_YFSF_PRESENTER_3c838a07cb.jpg"
-    },
-    {
-      "id": "greek_tv:ant1:880223c8",
-      "type": "series",
-      "name": "ΣΠΙΛΙΑΔΕΣ",
-      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Spiliades_1920x780_5f0b81ffdd.jpg"
     },
     {
       "id": "greek_tv:ant1:02d9b2dd",
