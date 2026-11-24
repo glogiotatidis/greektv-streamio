@@ -529,12 +529,6 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/eco_green_landscape.jpg"
     },
     {
-      "id": "greek_tv:skai:5a3e5d5a",
-      "type": "series",
-      "name": "Η Ευρωπαϊκή Στήριξη στην Ελλάδα",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2025_2026/extra_ekpompes/european_commission_landscape.jpg"
-    },
-    {
       "id": "greek_tv:skai:303e1052",
       "type": "series",
       "name": "Δράσεις από το Ίδρυμα Vodafone",
@@ -581,6 +575,12 @@
       "type": "series",
       "name": "SUPERBET ΚΥΠΕΛΛΟ ΕΛΛΑΔΑΣ TV ONLY",
       "poster": "https://media.skaitv.gr/images/1280/0/files/athlitika/2026_2027/kypello_elladas/generic_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:5a3e5d5a",
+      "type": "series",
+      "name": "Η Ευρωπαϊκή Στήριξη στην Ελλάδα",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2025_2026/extra_ekpompes/european_commission_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:5d4daf14",
@@ -1063,10 +1063,10 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-yperoxa-plasmata-cover-horizontal.jpg"
     },
     {
-      "id": "greek_tv:alpha_tv:ca251a0f",
+      "id": "greek_tv:alpha_tv:f594c2f7",
       "type": "series",
-      "name": "Καλύτερα δε γίνεται!",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-kalitera-de-ginete-2026-2027-cover-horizontal-6.jpg"
+      "name": "Αστέρας Ραχούλας",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-asteras-raxoulas-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:1e80f572",
@@ -1117,16 +1117,16 @@
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-deal-cover-horizontal-4.jpg"
     },
     {
+      "id": "greek_tv:alpha_tv:ca251a0f",
+      "type": "series",
+      "name": "Καλύτερα δε γίνεται!",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-show-kalitera-de-ginete-2026-2027-cover-horizontal-6.jpg"
+    },
+    {
       "id": "greek_tv:alpha_tv:e9aca907",
       "type": "series",
       "name": "Wipe Out USA",
       "poster": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-shows-wipe-out-usa-cover-horizontal.jpg"
-    },
-    {
-      "id": "greek_tv:alpha_tv:f594c2f7",
-      "type": "series",
-      "name": "Αστέρας Ραχούλας",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-asteras-raxoulas-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:01b95e8d",
@@ -1957,10 +1957,10 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoxenoumenoi-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:266cbe87",
+      "id": "greek_tv:ert:f80d159a",
       "type": "series",
-      "name": "Ώρα Χορού",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-ertflix-img.jpg"
+      "name": "Διασπορά-Παροικίες-Ευεργεσία. Από το Εγώ στο Εμείς",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/diasporaegwemeis/diasporaegwemeis-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:38ea7244",
@@ -2005,10 +2005,10 @@
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/ertflix-banner-alati-ghs-640x360-1.jpg"
     },
     {
-      "id": "greek_tv:ert:f80d159a",
+      "id": "greek_tv:ert:266cbe87",
       "type": "series",
-      "name": "Διασπορά-Παροικίες-Ευεργεσία. Από το Εγώ στο Εμείς",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/diasporaegwemeis/diasporaegwemeis-ertflix-img.jpg"
+      "name": "Ώρα Χορού",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:c7dc38bd",
@@ -2095,10 +2095,10 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/anthropoi-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:f1990d9d",
+      "id": "greek_tv:ert:8bf0f3a4",
       "type": "series",
-      "name": "Κεραία",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/keraia/s07/kerea-2026-27-ertflix-img.jpg"
+      "name": "Μουσικό Κουτί",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/mousiko-kouti-2022-2023/mousiko-kouti-2022-23-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:95f8da50",
@@ -2143,10 +2143,10 @@
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/ertflix-banner-aytos-kai-o-allos-640x360.jpg"
     },
     {
-      "id": "greek_tv:ert:8bf0f3a4",
+      "id": "greek_tv:ert:f1990d9d",
       "type": "series",
-      "name": "Μουσικό Κουτί",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/mousiko-kouti-2022-2023/mousiko-kouti-2022-23-ertflix-img.jpg"
+      "name": "Κεραία",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/keraia/s07/kerea-2026-27-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:4afc7cfb",
