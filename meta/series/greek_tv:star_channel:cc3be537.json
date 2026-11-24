@@ -49,6 +49,13 @@
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"
       },
       {
+        "id": "greek_tv:star_channel:cc3be537:gntm-7-apokleistiko-apospasma-apo-to-simerino-epeisodio-2311",
+        "title": "Επεισόδιο 2311",
+        "season": 1,
+        "episode": 2311,
+        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"
+      },
+      {
         "id": "greek_tv:star_channel:cc3be537:gntm-7-apokleistiko-apospasma-apo-to-simerino-epeisodio-2610",
         "title": "Επεισόδιο 2610",
         "season": 1,
@@ -77,8 +84,8 @@
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"
       },
       {
-        "id": "greek_tv:star_channel:cc3be537:gntm-2026-trailer-18ou-epeisodiou-deutera-2311",
-        "title": "Gntm 2026 Trailer 18Ou Epeisodiou Deutera 2311",
+        "id": "greek_tv:star_channel:cc3be537:gntm-2026-trailer-19ou-epeisodiou-triti-2411",
+        "title": "Gntm 2026 Trailer 19Ou Epeisodiou Triti 2411",
         "season": 1,
         "episode": 2614,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/gntm7/new/gntm_2026-27-1920x1080-new.png"

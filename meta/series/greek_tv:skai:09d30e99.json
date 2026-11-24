@@ -7,13 +7,6 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/ellinikes_seires/antonios__kleopatra/2026_2027/antonios_kleopatra_landscape.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:09d30e99:2026-11-05-18",
-        "title": "Επεισόδιο 33",
-        "season": 1,
-        "episode": 33,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/antonios__kleopatra/2026_2027/antonios_33.jpg"
-      },
-      {
         "id": "greek_tv:skai:09d30e99:2026-11-06-18",
         "title": "Επεισόδιο 34",
         "season": 1,
@@ -88,6 +81,13 @@
         "title": "Επεισόδιο 44",
         "season": 1,
         "episode": 44,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/antonios__kleopatra/2026_2027/antonios_44.jpg"
+      },
+      {
+        "id": "greek_tv:skai:09d30e99:2026-11-23-18",
+        "title": "Επεισόδιο 45",
+        "season": 1,
+        "episode": 45,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/antonios__kleopatra/2026_2027/antonios_kleopatra_landscape.jpg"
       }
     ]

@@ -7,24 +7,24 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:4acf28c2:2026-11-18-05",
-        "title": "18/11/2026",
-        "season": 1,
-        "episode": 18,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
-      },
-      {
-        "id": "greek_tv:skai:4acf28c2:2026-11-19-05",
-        "title": "19/11/2026",
-        "season": 1,
-        "episode": 19,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
-      },
-      {
         "id": "greek_tv:skai:4acf28c2:2026-11-20-05",
-        "title": "Επεισόδιο 65",
+        "title": "20/11/2026",
         "season": 1,
-        "episode": 65,
+        "episode": 20,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
+      },
+      {
+        "id": "greek_tv:skai:4acf28c2:2026-11-23-05",
+        "title": "Επεισόδιο 66",
+        "season": 1,
+        "episode": 66,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
+      },
+      {
+        "id": "greek_tv:skai:4acf28c2:2026-11-24-05",
+        "title": "Επεισόδιο 67",
+        "season": 1,
+        "episode": 67,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/prwti_eikona_landscape_1.%5B1%5D.jpg"
       }
     ]

@@ -35,17 +35,10 @@
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/meta-tis-eideseis/20261117-meta-tis-eidhseis-n.jpg"
       },
       {
-        "id": "greek_tv:ert:3b128a1a:meta-tis-eideseis-53",
-        "title": "Δευτέρα 16 Νοεμβρίου 2026",
-        "season": 1,
-        "episode": 5,
-        "thumbnail": "https://files2.app.ertflix.gr/2026/news24/meta-tis-eideseis/20261117-meta-tis-eidhseis.jpg"
-      },
-      {
         "id": "greek_tv:ert:3b128a1a:meta-tis-eideseis-47",
         "title": "Παρασκευή 06 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 6,
+        "episode": 5,
         "thumbnail": "https://files2.app.ertflix.gr/2026/news24/meta-tis-eideseis/20261107-meta.jpg"
       }
     ]

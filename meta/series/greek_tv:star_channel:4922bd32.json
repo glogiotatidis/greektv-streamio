@@ -7,31 +7,24 @@
     "background": "https://www.star.gr/tv/images/640x360/png/files/1_percent_club/semifinal/1_percent_club-1920x1080-semifinal.png",
     "videos": [
       {
-        "id": "greek_tv:star_channel:4922bd32:23102026-1-club",
-        "title": "23/10/2026",
-        "season": 1,
-        "episode": 1,
-        "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/1_percent_club/semifinal/1_percent_club-1920x1080-semifinal.png"
-      },
-      {
         "id": "greek_tv:star_channel:4922bd32:30102026-1-club",
         "title": "30/10/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 1,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/1_percent_club/semifinal/1_percent_club-1920x1080-semifinal.png"
       },
       {
         "id": "greek_tv:star_channel:4922bd32:20112026-1-club",
         "title": "20/11/2026",
         "season": 1,
-        "episode": 3,
+        "episode": 2,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/1_percent_club/semifinal/1_percent_club-1920x1080-semifinal.png"
       },
       {
         "id": "greek_tv:star_channel:4922bd32:6112026-1-club",
         "title": "6112026 1 Club",
         "season": 1,
-        "episode": 4,
+        "episode": 3,
         "thumbnail": "https://www.star.gr/tv/images/640x360/png/files/1_percent_club/semifinal/1_percent_club-1920x1080-semifinal.png"
       }
     ]

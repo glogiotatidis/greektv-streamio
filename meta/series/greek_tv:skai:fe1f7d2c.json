@@ -8,7 +8,7 @@
     "videos": [
       {
         "id": "greek_tv:skai:fe1f7d2c:2026-11-05-21",
-        "title": "Επεισόδιο 44",
+        "title": "Μπλε Ώρες | Επεισόδιο 44 05/11/2026",
         "season": 1,
         "episode": 44,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/ble_ores/ble_44.jpg"
@@ -88,6 +88,13 @@
         "title": "Επεισόδιο 55",
         "season": 1,
         "episode": 55,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/ble_ores/ble_55.jpg"
+      },
+      {
+        "id": "greek_tv:skai:fe1f7d2c:2026-11-23-21",
+        "title": "Επεισόδιο 56",
+        "season": 1,
+        "episode": 56,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/ellinikes_seires/ble_ores/ble_wres_landscape1.jpg"
       }
     ]

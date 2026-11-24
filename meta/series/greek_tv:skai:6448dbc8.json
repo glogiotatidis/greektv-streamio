@@ -7,6 +7,13 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/kitchen_lab/2026_2027/kithen_lab_landscape.jpg",
     "videos": [
       {
+        "id": "greek_tv:skai:6448dbc8:2026-10-10-16",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/kitchen_lab/2026_2027/kitchen_3.jpg"
+      },
+      {
         "id": "greek_tv:skai:6448dbc8:2026-10-11-15",
         "title": "Επεισόδιο 4",
         "season": 1,
@@ -85,9 +92,9 @@
       },
       {
         "id": "greek_tv:skai:6448dbc8:2026-11-22-16",
-        "title": "Επεισόδιο 15",
+        "title": "Kitchen Lab 22/11/2026",
         "season": 1,
-        "episode": 15,
+        "episode": 22,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/kitchen_lab/2026_2027/kitchen_16.jpg"
       }
     ]

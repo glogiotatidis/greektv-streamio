@@ -7,13 +7,6 @@
     "background": "https://www.megatv.com/wp-content/uploads/2024/09/Image_theChase_960X600.jpg",
     "videos": [
       {
-        "id": "greek_tv:mega_tv:d15612a7:epeisodio-26-16",
-        "title": "Επεισόδιο 26 -",
-        "season": 1,
-        "episode": 26,
-        "thumbnail": "https://www.megatv.com/wp-content/uploads/2024/09/Image_theChase_960X600.jpg"
-      },
-      {
         "id": "greek_tv:mega_tv:d15612a7:epeisodio-27-17",
         "title": "Επεισόδιο 27 -",
         "season": 1,
@@ -165,6 +158,13 @@
         "title": "Επεισόδιο 48 -",
         "season": 1,
         "episode": 48,
+        "thumbnail": "https://www.megatv.com/wp-content/uploads/2024/09/Image_theChase_960X600.jpg"
+      },
+      {
+        "id": "greek_tv:mega_tv:d15612a7:epeisodio-49-15",
+        "title": "Επεισόδιο 49 -",
+        "season": 1,
+        "episode": 49,
         "thumbnail": "https://www.megatv.com/wp-content/uploads/2024/09/Image_theChase_960X600.jpg"
       }
     ]

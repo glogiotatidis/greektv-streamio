@@ -7,85 +7,85 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:4c6ac268:szgdcvy6ft6l3rn9hgp965n1",
+        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 23/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
+      },
+      {
         "id": "greek_tv:ant1:4c6ac268:yl4el4mg8e6egvpo6q0c1t2h",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 20/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
         "id": "greek_tv:ant1:4c6ac268:fnjj71wb05na24wjd5agykhq",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 19/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
         "id": "greek_tv:ant1:4c6ac268:w0fgnd6idl7qmn0ee8htruh2",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 18/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:4c6ac268:aqyrv8z32s8nu24sa0bo7a24",
-        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 17/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:kz2789hw8r2fexz4hcxr1hut",
-        "title": "Πέραμα: Σε εξέλιξη οι εργασίες αποκατάστασης της βλάβης - Καλημέρα Ελλάδα - 23/11/2026 Κυκλοφοριακό χάος στο Πέραμα.",
+        "id": "greek_tv:ant1:4c6ac268:idrkzskh5bjmd13x2axs9uqr",
+        "title": "Ο αστυνόμος που \"αγκάλιασε\" τα εγκαταλελειμμένα παιδιά στη Θεσσαλονίκη στο Καλημέρα Ελλάδα - 24/11/2026 Ο Ιωάννης Χατζηηλίας, ανθυπαστυνόμος άμεσης δράσης μιλάει στο Καλημέρα Ελλάδα.",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:vqh6cknvgv1r75i2zgm374tr",
-        "title": "Απίστευτες εικόνες με γυναίκα οδηγό, μετά την καταδίωξη σε ψυχιατρική κλινική - Καλημέρα Ελλάδα - 23/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:j32o3hhv07asss3iul2mduo5",
+        "title": "Έκρηξη στη Νέα Ιωνία: Υλικές ζημιές και σε γειτονικά καταστήματα - Καλημέρα Ελλάδα - 24/11/2026 Ισχυρή έκρηξη σε καφετέρια στη Νέα Ιωνία.",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:ffrm6kd46tjrnjyfd88w3uka",
-        "title": "Θεσσαλονίκη: Δύο παιδιά ανάμεσα σε σκουπίδια και αθλιότητα - Καλημέρα Ελλάδα - 23/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:n3u737glsnxbpom0yie0ponv",
+        "title": "Νέα πρόκληση της Άγκυρας στο Αιγαίο - Στέλνουν το «Τσεσμέ» στο Καστελλόριζο - Καλημέρα Ελλάδα - 24/11/2026 Ο Δ.Καιρίδης, διεθνολόγος και βουλευτής της ΝΔ καλεσμένος στο Καλημέρα Ελλάδα.",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:x6ed2z5e6auev8jyrv5c768u",
-        "title": "\"ANTENNA Είμαστε Ένα\": Προστασία των παιδιών από το σωματείο \"Ελίζα\" σε παιδιατρικά νοσοκομεία της χώρας - Καλημέρα Ελλάδα - 20/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:jzv0c4dxgh438s9x12emttr0",
+        "title": "Έκρηξη σε καφετέρια στη Νέα Ιωνία- Καλημέρα Ελλάδα - 24/11/2026",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:fbdr4wkw39x4ssp1yh5y7t5t",
-        "title": "Μόνο στον ANT1: Συγκλονιστική μαρτυρία για τις πρακτικές των παράνομων στοιχηματικών - Καλημέρα Ελλάδα - 20/11/2026 Τα \"δολώματα\" για τους νεαρούς παίκτες.",
+        "id": "greek_tv:ant1:4c6ac268:u6wlr9kgyrb0h8l2qk1yxm53",
+        "title": "Φωταγωγείται το χριστουγεννιάτικο δέντρο στο Σύνταγμα - Καλημέρα Ελλάδα - 24/11/2026 Η Αθήνα φοράει τα γιορτινά της.",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:f1fmlooq8k8q1xlzs2nypbrq",
-        "title": "Ο Θεόδωρος Βασιλακόπουλος, πρόεδρος ΕΟΔΥ, στο Καλημέρα Ελλάδα - 20/11/2026 233 νέες εισαγωγές για Covid, 99 για γρίπη και ένας θάνατος.",
+        "id": "greek_tv:ant1:4c6ac268:jogadvhh0ay8fv507t1a6z80",
+        "title": "Δύσκολη χρονιά για τους ελαιοπαραγωγούς - Καλημέρα Ελλάδα - 24/11/2026 Η κλιματική κρίση συρρίκνωσε την παραγωγή.",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:axfufs1enpu243pb7m0odkf5",
-        "title": "Τεταμένο το κλίμα μεταξύ ΠΑΣΟΚ και ΕΛΑΣ - Καλημέρα Ελλάδα - 23/11/2026 Η Όλγα Μαρκογιαννάκη, αναπληρώτρια εκπρόσωπος Τύπου του ΠΑΣΟΚ και η Μαριζέτα Αντωνοπούλου, στέλεχος...",
+        "id": "greek_tv:ant1:4c6ac268:of8bu9rgi6tddj9skzsloqis",
+        "title": "Ο Κωστής Χατζηδάκης στο Καλημέρα Ελλάδα - 24/11/2026 Ο αντιπρόεδρος της Κυβέρνησης, βουλευτής Βόρειου Τομέα Β’ Αθηνών Κωστής Χατζηδάκης στο Καλημέρα...",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:wsivkdl8hcwvrrtc54vdx3nl",
-        "title": "Τα \"κόκκινα δάνεια\", τα funds και η εξεταστική επιτροπή - Καλημέρα Ελλάδα - 20/11/2026 Η Φ. Αραμπατζή και ο Α. Βορύλλας, μιλούν στο Καλημέρα Ελλάδα.",
+        "id": "greek_tv:ant1:4c6ac268:mm7sik6oxx5pimrdmfyt1kfq",
+        "title": "Σκληραίνει επικίνδυνα η πολιτική αντιπαράθεση- Καλημέρα Ελλάδα - 24/11/2026 Η Χ. Αλεξοπούλου και ο Α. Σαουλίδης στο Καλημέρα Ελλάδα.",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"

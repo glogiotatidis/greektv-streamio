@@ -19,6 +19,13 @@
         "season": 1,
         "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/sports/handball-premiere-2026-27/20261116-handball-premier-paok-diomidis.jpg"
+      },
+      {
+        "id": "greek_tv:ert:55d2768c:handball-premier-2026-8",
+        "title": "Α.Ο. Διομήδης Άργους - Άρης Νίκαιας | 9η Αγωνιστική | 23.11.26",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/sports/handball-premiere-2026-27/20261123-handball-premier-diomidis-argous-aris-nikaias.jpg"
       }
     ]
   }
