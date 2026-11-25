@@ -7,6 +7,12 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2019/06/megaZin-1.jpg"
     },
     {
+      "id": "greek_tv:mega_tv:f8ebfab5",
+      "type": "series",
+      "name": "Στον Δρόμο για το 5άρι",
+      "poster": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+    },
+    {
       "id": "greek_tv:mega_tv:de39529b",
       "type": "series",
       "name": "Χαμογέλα και Πάλι!",
@@ -49,10 +55,10 @@
       "poster": "https://www.megatv.com/wp-content/uploads/2026/02/Image_pame_mia_volta_960X600.jpg"
     },
     {
-      "id": "greek_tv:mega_tv:f8ebfab5",
+      "id": "greek_tv:mega_tv:e99ec70f",
       "type": "series",
-      "name": "Στον Δρόμο για το 5άρι",
-      "poster": "https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg"
+      "name": "Κάμπινγκ",
+      "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_Camping_960X600-c.jpg"
     },
     {
       "id": "greek_tv:mega_tv:28961fc6",
@@ -71,12 +77,6 @@
       "type": "series",
       "name": "Δυο Μαύρα Πουκάμισα",
       "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_DuoMauraPoukamisa_960X600.jpg"
-    },
-    {
-      "id": "greek_tv:mega_tv:e99ec70f",
-      "type": "series",
-      "name": "Κάμπινγκ",
-      "poster": "https://www.megatv.com/wp-content/uploads/2026/07/Image_Camping_960X600-c.jpg"
     },
     {
       "id": "greek_tv:mega_tv:02de66cf",

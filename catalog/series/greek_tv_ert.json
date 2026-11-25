@@ -7,18 +7,6 @@
       "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/koutsoupies/cc/koutsoupies-cc-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:55d2768c",
-      "type": "series",
-      "name": "Handball Premier 2026-27",
-      "poster": "https://files2.app.ertflix.gr/files/sports/handball-premiere-2026-27/handball-premier-1-2026-27-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:f6ed4d78",
-      "type": "series",
-      "name": "Ποδόσφαιρο | Superbet League 2 2026-27",
-      "poster": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/superbet-league-2-2026-2027-flat-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:fe84da86",
       "type": "series",
       "name": "ΠΟΠ Μαγειρική",
@@ -49,16 +37,52 @@
       "poster": "https://files2.app.ertflix.gr/2026/news24/mera-me-xroma/2026-2027-gfx/meramexrwma-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:663b2d6f",
-      "type": "series",
-      "name": "Νωρίς - Νωρίς",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/2026-2027-noris-noris-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:932eca03",
       "type": "series",
       "name": "Συνδέσεις",
       "poster": "https://files2.app.ertflix.gr/syndesies-new/syndeseis2526-ertflix-img-new.jpg"
+    },
+    {
+      "id": "greek_tv:ert:3ab63262",
+      "type": "series",
+      "name": "Off the Record",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/off-the-record-ertflix-poster.jpg"
+    },
+    {
+      "id": "greek_tv:ert:a37db29d",
+      "type": "series",
+      "name": "Ευθέως",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/eythews-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:3b128a1a",
+      "type": "series",
+      "name": "Μετά τις Ειδήσεις",
+      "poster": "https://files2.app.ertflix.gr/2026/news24/meta-tis-eideseis/meta-tis-eidhseis-horizontalposter.jpg"
+    },
+    {
+      "id": "greek_tv:ert:42e26a37",
+      "type": "series",
+      "name": "Μπάσκετ | Elite League 2026-27",
+      "poster": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/elite-league-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:55d2768c",
+      "type": "series",
+      "name": "Handball Premier 2026-27",
+      "poster": "https://files2.app.ertflix.gr/files/sports/handball-premiere-2026-27/handball-premier-1-2026-27-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:f6ed4d78",
+      "type": "series",
+      "name": "Ποδόσφαιρο | Superbet League 2 2026-27",
+      "poster": "https://files2.app.ertflix.gr/files/sports/sl2-26-27/superbet-league-2-2026-2027-flat-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:663b2d6f",
+      "type": "series",
+      "name": "Νωρίς - Νωρίς",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/noris-noris/2026-2027-noris-noris-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:2af966c8",
@@ -163,34 +187,16 @@
       "poster": "https://files2.app.ertflix.gr/2026/news24/stash-ert3/2026-2027-gfx/stash-ert3-ertflix-img-2026-2027.jpg"
     },
     {
+      "id": "greek_tv:ert:66c767f5",
+      "type": "series",
+      "name": "67ο Φεστιβάλ Κινηματογράφου Θεσσαλονίκης",
+      "poster": "https://files2.app.ertflix.gr/2026/festivals/67o-phestibal-kinematographou-thessalonikes/67o-festival-kinima-thess-horizontalposter.jpg"
+    },
+    {
       "id": "greek_tv:ert:34597924",
       "type": "series",
       "name": "Τοκ - Τοκ",
       "poster": "https://files2.app.ertflix.gr/files/paidika/tok-tok/tok-tok-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:3ab63262",
-      "type": "series",
-      "name": "Off the Record",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/off-the-record/off-the-record-ertflix-poster.jpg"
-    },
-    {
-      "id": "greek_tv:ert:b78206b9",
-      "type": "series",
-      "name": "Ένας κι Ένας",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/enas-ki-enas/2026-2027/2026-2027-enas-ki-enas-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:3b128a1a",
-      "type": "series",
-      "name": "Μετά τις Ειδήσεις",
-      "poster": "https://files2.app.ertflix.gr/2026/news24/meta-tis-eideseis/meta-tis-eidhseis-horizontalposter.jpg"
-    },
-    {
-      "id": "greek_tv:ert:42e26a37",
-      "type": "series",
-      "name": "Μπάσκετ | Elite League 2026-27",
-      "poster": "https://files2.app.ertflix.gr/files/sports/basket-elite-league/elite-league-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:ae484152",
@@ -223,10 +229,10 @@
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/sto-kentro/sto-kentro-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:b4d43cbd",
+      "id": "greek_tv:ert:36ba2715",
       "type": "series",
-      "name": "Forcé",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/force-2026-27-ertflix-img.jpg"
+      "name": "Άμυνα Ζώνης",
+      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/amyna-zonis/amyna-zonis-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:b6a3ed60",
@@ -235,16 +241,10 @@
       "poster": "https://files2.app.ertflix.gr/files/sports/soccer-sallas-2026-27/futsalsuperleague26-27-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:a37db29d",
+      "id": "greek_tv:ert:b78206b9",
       "type": "series",
-      "name": "Ευθέως",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/eutheos/eythews-ertflix-img.jpg"
-    },
-    {
-      "id": "greek_tv:ert:66c767f5",
-      "type": "series",
-      "name": "67ο Φεστιβάλ Κινηματογράφου Θεσσαλονίκης",
-      "poster": "https://files2.app.ertflix.gr/2026/festivals/67o-phestibal-kinematographou-thessalonikes/67o-festival-kinima-thess-horizontalposter.jpg"
+      "name": "Ένας κι Ένας",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/enas-ki-enas/2026-2027/2026-2027-enas-ki-enas-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:0aba9315",
@@ -283,10 +283,10 @@
       "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/oneiro-htan/oneirohtan-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:36ba2715",
+      "id": "greek_tv:ert:b4d43cbd",
       "type": "series",
-      "name": "Άμυνα Ζώνης",
-      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/amyna-zonis/amyna-zonis-ertflix-img.jpg"
+      "name": "Forcé",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/force/2026-2027/force-2026-27-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:6a2ddf74",
@@ -361,10 +361,10 @@
       "poster": "https://files2.app.ertflix.gr/2026/shows/mindzet/2026-2027-gfx/mindzet-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:82a92b18",
+      "id": "greek_tv:ert:4efcfc07",
       "type": "series",
-      "name": "με Αποφασιστικότητα",
-      "poster": "https://files2.app.ertflix.gr/2026/news24/me-apofasistikotita/me-apofasistikotita-nohm-ertflix-img.jpg"
+      "name": "Ό,τι Αξίζει",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:e7ad0baf",
@@ -379,10 +379,10 @@
       "poster": "https://files2.app.ertflix.gr/2026/documentaries/gia-ta-panigiria/gia-ta-panigyria-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:61ad0f6e",
+      "id": "greek_tv:ert:9f54cc2c",
       "type": "series",
-      "name": "Το Τελευταίο Νησί",
-      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/to-teleutaio-nisi/toteleytaionisi-ertflix-img-cc.jpg"
+      "name": "Θάλαττα - Τα Μυστικά του Αιγαίου",
+      "poster": "https://files2.app.ertflix.gr/wunderland/thalatta-tamystikatouaigaiou-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:48c26b03",
@@ -415,10 +415,10 @@
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/oi-kyries-tou-rembetikou/oi-kyries-tou-rembetikou-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:4efcfc07",
+      "id": "greek_tv:ert:82a92b18",
       "type": "series",
-      "name": "Ό,τι Αξίζει",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/oti-axizei-new/oti-axizei-ertflix-img.jpg"
+      "name": "με Αποφασιστικότητα",
+      "poster": "https://files2.app.ertflix.gr/2026/news24/me-apofasistikotita/me-apofasistikotita-nohm-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:9cf4d351",
@@ -433,10 +433,10 @@
       "poster": "https://files2.app.ertflix.gr/2025/imgs/sporos-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:9f54cc2c",
+      "id": "greek_tv:ert:61ad0f6e",
       "type": "series",
-      "name": "Θάλαττα - Τα Μυστικά του Αιγαίου",
-      "poster": "https://files2.app.ertflix.gr/wunderland/thalatta-tamystikatouaigaiou-ertflix-img.jpg"
+      "name": "Το Τελευταίο Νησί",
+      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/to-teleutaio-nisi/toteleytaionisi-ertflix-img-cc.jpg"
     },
     {
       "id": "greek_tv:ert:06e2b61d",
@@ -811,10 +811,10 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/filoksenoumenoi/filoxenoumenoi-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:f80d159a",
+      "id": "greek_tv:ert:266cbe87",
       "type": "series",
-      "name": "Διασπορά-Παροικίες-Ευεργεσία. Από το Εγώ στο Εμείς",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/diasporaegwemeis/diasporaegwemeis-ertflix-img.jpg"
+      "name": "Ώρα Χορού",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:38ea7244",
@@ -859,10 +859,10 @@
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/ertflix-banner-alati-ghs-640x360-1.jpg"
     },
     {
-      "id": "greek_tv:ert:266cbe87",
+      "id": "greek_tv:ert:f80d159a",
       "type": "series",
-      "name": "Ώρα Χορού",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/ora-xorou/ora-xorou-ertflix-img.jpg"
+      "name": "Διασπορά-Παροικίες-Ευεργεσία. Από το Εγώ στο Εμείς",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/diasporaegwemeis/diasporaegwemeis-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:c7dc38bd",
@@ -949,10 +949,10 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/synanthropoi/anthropoi-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:8bf0f3a4",
+      "id": "greek_tv:ert:f1990d9d",
       "type": "series",
-      "name": "Μουσικό Κουτί",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/mousiko-kouti-2022-2023/mousiko-kouti-2022-23-ertflix-img.jpg"
+      "name": "Κεραία",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/keraia/s07/kerea-2026-27-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:95f8da50",
@@ -997,10 +997,10 @@
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/ertflix-banner-aytos-kai-o-allos-640x360.jpg"
     },
     {
-      "id": "greek_tv:ert:f1990d9d",
+      "id": "greek_tv:ert:8bf0f3a4",
       "type": "series",
-      "name": "Κεραία",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/keraia/s07/kerea-2026-27-ertflix-img.jpg"
+      "name": "Μουσικό Κουτί",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/mousiko-kouti-2022-2023/mousiko-kouti-2022-23-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:4afc7cfb",
