@@ -7,6 +7,13 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/eco_green_landscape.jpg",
     "videos": [
       {
+        "id": "greek_tv:skai:5675e8cd:2026-11-24-20",
+        "title": "24/11/2026",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/eco_green_landscape.jpg"
+      },
+      {
         "id": "greek_tv:skai:5675e8cd:2026-10-27-20",
         "title": "Επεισόδιο 25",
         "season": 1,

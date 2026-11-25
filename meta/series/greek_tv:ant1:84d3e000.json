@@ -7,24 +7,10 @@
     "background": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg",
     "videos": [
       {
-        "id": "greek_tv:ant1:84d3e000:jsh7wiyncj1gjobmmg8zvp41",
-        "title": "Ποιος θέλει να γίνει εκατομμυριούχος; - Παρασκευή στις 20:00",
+        "id": "greek_tv:ant1:84d3e000:jybbqeo7siyfsodir5ivcnyu",
+        "title": "Ποιος θέλει να γίνει εκατομμυριούχος; - Δευτέρα έως Κυριακή στις 20:00",
         "season": 1,
         "episode": 1,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:84d3e000:dwwz583zwss5zk7297man4in",
-        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 03 – 4η ΣΕΖΟΝ",
-        "season": 4,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:84d3e000:pob7l0ei0a8nq12oyfs9lred",
-        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 04 – 4η ΣΕΖΟΝ",
-        "season": 4,
-        "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       },
       {
@@ -39,6 +25,20 @@
         "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 06 – 4η ΣΕΖΟΝ",
         "season": 4,
         "episode": 6,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:84d3e000:o4ncrqu4khkmilvmjuapx833",
+        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 07 – 4η ΣΕΖΟΝ",
+        "season": 4,
+        "episode": 7,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:84d3e000:sw9dflezsrw0ldblbssxkojv",
+        "title": "ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; - ΕΠΕΙΣΟΔΙΟ 08 – 4η ΣΕΖΟΝ",
+        "season": 4,
+        "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/cea0f55e-d6b4-4fe9-b23d-e7ff567fc69f.jpg"
       }
     ]

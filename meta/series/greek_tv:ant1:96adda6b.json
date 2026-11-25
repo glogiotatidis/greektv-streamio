@@ -7,73 +7,45 @@
     "background": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:96adda6b:bizisgmehfxahkstocpmimk5",
+        "title": "THE 2NIGHT SHOW - Αντιγόνη Νεοφύτου Ο Γρηγόρης Αρναούτογλου φιλοξενεί στο «The 2Night Show» την Αντιγόνη Νεοφύτου, την οποία φέτος...",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:96adda6b:wr6zm0xxbmye6jqhu17ewth0",
+        "title": "THE 2NIGHT SHOW - Θανάσης Τσαλταμπάσης - Ίαν Στρατής O Γρηγόρης Αρναούτογλου υποδέχεται στο «The 2Night Show» τον Θανάση Τσαλταμπάση και τον Ίαν Στρατή.",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:96adda6b:f6gx9z1u16kahfruivl9egu7",
+        "title": "THE 2NIGHT SHOW – Ηλίας Βρεττός Ο Γρηγόρης Αρναούτογλου καλωσορίζει στο «The 2Night Show» και τον Ηλία Βρεττό.",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
+      },
+      {
         "id": "greek_tv:ant1:96adda6b:p5j2oakwikceceh6fbk9mj5u",
         "title": "THE 2NIGHT SHOW – Βασίλης Χαραλαμπόπουλος Ο Γρηγόρης Αρναούτογλου υποδέχεται στο «The 2Night Show» τον Βασίλη Χαραλαμπόπουλο.",
         "season": 1,
-        "episode": 1,
+        "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       },
       {
         "id": "greek_tv:ant1:96adda6b:m32riv2vx0ytpfcq5u30nfyc",
         "title": "THE 2NIGHT SHOW – Ζενεβιέβ Μαζαρί Ο Γρηγόρης Αρναούτογλου φιλοξενεί στο «The 2Night Show» τη Ζενεβιέβ Μαζαρί.",
         "season": 1,
-        "episode": 2,
+        "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       },
       {
         "id": "greek_tv:ant1:96adda6b:nmzvxx6tpms1c57fql8ys8te",
         "title": "THE 2NIGHT SHOW – Στέφανος Τσιτσιπάς Ο Γρηγόρης Αρναούτογλου υποδέχεται στο «The 2Night Show» τον Στέφανο Τσιτσιπά, τον κορυφαίο Έλληνα...",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:96adda6b:bnegebzdhh1ozqy297cm5vry",
-        "title": "THE 2NIGHT SHOW – Απόστολος Γκλέτσος Ο Γρηγόρης Αρναούτογλου φιλοξενεί στο «The 2Night Show» τον Απόστολο Γκλέτσο.",
-        "season": 1,
-        "episode": 4,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:96adda6b:an70xa6v1t33f9zl5szwgja0",
-        "title": "THE 2NIGHT SHOW – Στέλιος Μάινας Ο Γρηγόρης Αρναούτογλου υποδέχεται στο «The 2Night Show» τον Στέλιο Μάινα, ο οποίος πρωταγωνιστεί...",
-        "season": 1,
-        "episode": 5,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:96adda6b:u6r7vm0ajhqumqsf5mr6ait4",
-        "title": "THE 2NIGHT SHOW – Τζένη Μπότση Ο Γρηγόρης Αρναούτογλου καλωσορίζει για πρώτη φορά στο «The 2Night Show» την Τζένη Μπότση.",
-        "season": 1,
         "episode": 6,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:96adda6b:tc2uyg0d1plng071ui4dvkzz",
-        "title": "THE 2NIGHT SHOW – Τάσος Τσιλίκουνας Ο Γρηγόρης Αρναούτογλου φιλοξενεί «The 2Night Show» και τον Τάσο Τσιλίκουνα, τον μπάρμαν του «First...",
-        "season": 1,
-        "episode": 7,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:96adda6b:wkmkevx7ijbqo3ga3rxh0fkj",
-        "title": "THE 2NIGHT SHOW – Διονύσης Παπανδρέου Ο Γρηγόρης Αρναούτογλου υποδέχεται στο «The 2Night Show» τον Διονύση Παπανδρέου, ο οποίος φέτος...",
-        "season": 1,
-        "episode": 8,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:96adda6b:zld689xpgcx6x5zb5y666xwu",
-        "title": "The 2night Show - Τρίτη στις 24:00",
-        "season": 1,
-        "episode": 9,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:96adda6b:xd3lbvz75gn5bb46gcdodro0",
-        "title": "THE 2NIGHT SHOW – ΕΠΕΙΣΟΔΙΟ 12 – 11ος ΚΥΚΛΟΣ",
-        "season": 11,
-        "episode": 12,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       },
       {
@@ -91,10 +63,17 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       },
       {
+        "id": "greek_tv:ant1:96adda6b:ptxo85eyxzh4zejdr9nxnxqo",
+        "title": "THE 2NIGHT SHOW – ΕΠΕΙΣΟΔΙΟ 15 – 11ος ΚΥΚΛΟΣ",
+        "season": 11,
+        "episode": 15,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
+      },
+      {
         "id": "greek_tv:ant1:96adda6b:vsdqzz246a1lrz1lk81mb9i4",
         "title": "THE 2NIGHT SHOW – BEST OF – 11ος ΚΥΚΛΟΣ",
         "season": 11,
-        "episode": 15,
+        "episode": 16,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_The_2_Night_Show_65c7d1d29c.jpg"
       }
     ]

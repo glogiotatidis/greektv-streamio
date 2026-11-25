@@ -8,16 +8,9 @@
     "videos": [
       {
         "id": "greek_tv:skai:f793384c:2026-11-22-09",
-        "title": "Ρεπορτάζ στις 10 22/11/2026",
+        "title": "Επεισόδιο 26",
         "season": 1,
-        "episode": 10,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/reportaz10_landscape.jpg"
-      },
-      {
-        "id": "greek_tv:skai:f793384c:2026-11-21-09",
-        "title": "Επεισόδιο 25",
-        "season": 1,
-        "episode": 25,
+        "episode": 26,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/reportaz10_landscape.jpg"
       }
     ]

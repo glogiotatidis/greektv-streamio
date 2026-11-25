@@ -19,6 +19,13 @@
         "season": 1,
         "episode": 2,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/protagonistes/2026_2027/protagonistes_2_xtapodia.jpg"
+      },
+      {
+        "id": "greek_tv:skai:2cee31b6:2026-11-24-23",
+        "title": "Επεισόδιο 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/docs/protagonistes/2026_2027/protagonistes_3_idones.jpg"
       }
     ]
   }

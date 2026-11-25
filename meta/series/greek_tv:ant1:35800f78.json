@@ -14,20 +14,6 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
       },
       {
-        "id": "greek_tv:ant1:35800f78:gvh5kdzljhrzzrvxdx8s3qg0",
-        "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 38",
-        "season": 3,
-        "episode": 38,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:35800f78:jxk8jwx7qu8kx8l16luhbwdj",
-        "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 39",
-        "season": 3,
-        "episode": 39,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
-      },
-      {
         "id": "greek_tv:ant1:35800f78:iq7umjbrx9xaokotwirq8rbr",
         "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 40",
         "season": 3,
@@ -39,6 +25,20 @@
         "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 41",
         "season": 3,
         "episode": 41,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:35800f78:rmfj70ktsbts56ah8a891ikv",
+        "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 42",
+        "season": 3,
+        "episode": 42,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:35800f78:e6lik5tnlp6rh0fw1b0r90r3",
+        "title": "ΚΑΤΙ ΨΗΝΕΤΑΙ – ΣΕΖΟΝ 03 – ΕΠΕΙΣΟΔΙΟ 43",
+        "season": 3,
+        "episode": 43,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
       }
     ]

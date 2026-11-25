@@ -7,24 +7,24 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:65fabb86:2026-11-21-13",
-        "title": "Επεισόδιο 90",
-        "season": 1,
-        "episode": 90,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/iwannidis_landscape.jpg"
-      },
-      {
-        "id": "greek_tv:skai:65fabb86:2026-11-22-13",
-        "title": "Επεισόδιο 91",
-        "season": 1,
-        "episode": 91,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/iwannidis_landscape.jpg"
-      },
-      {
         "id": "greek_tv:skai:65fabb86:2026-11-23-13",
         "title": "Επεισόδιο 92",
         "season": 1,
         "episode": 92,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:65fabb86:2026-11-24-13",
+        "title": "Επεισόδιο 93",
+        "season": 1,
+        "episode": 93,
+        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
+      },
+      {
+        "id": "greek_tv:skai:65fabb86:2026-11-25-13",
+        "title": "Επεισόδιο 94",
+        "season": 1,
+        "episode": 94,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/parousiastes/2026_2027/magiriadis_landscape.jpg"
       }
     ]

@@ -7,20 +7,6 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png",
     "videos": [
       {
-        "id": "greek_tv:ant1:6b71e430:uwp5wariw3p89lxzvg5sivwy",
-        "title": "ΝΤΕΡΤΙ – ΕΠΕΙΣΟΔΙΟ 26",
-        "season": 1,
-        "episode": 26,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
-      },
-      {
-        "id": "greek_tv:ant1:6b71e430:p40rii70mny9zlex2j3m4k6d",
-        "title": "ΝΤΕΡΤΙ – ΕΠΕΙΣΟΔΙΟ 27",
-        "season": 1,
-        "episode": 27,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
-      },
-      {
         "id": "greek_tv:ant1:6b71e430:h1x5xi7ni1lopk58e2vpj3mx",
         "title": "ΝΤΕΡΤΙ – ΕΠΕΙΣΟΔΙΟ 28",
         "season": 1,
@@ -28,22 +14,22 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       },
       {
-        "id": "greek_tv:ant1:6b71e430:xfmn2i9xp95pdtmonor6k5xx",
-        "title": "ΝΤΕΡΤΙ – SNEAK PREVIEW 01 – ΕΠΕΙΣΟΔΙΟ 28",
+        "id": "greek_tv:ant1:6b71e430:eppmvq29jqle3ce1zgnuwua3",
+        "title": "ΝΤΕΡΤΙ – ΕΠΕΙΣΟΔΙΟ 29",
         "season": 1,
         "episode": 29,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       },
       {
-        "id": "greek_tv:ant1:6b71e430:m3oazesescw9r737mfvnyph8",
-        "title": "ΝΤΕΡΤΙ – SNEAK PREVIEW 02 – ΕΠΕΙΣΟΔΙΟ 28",
+        "id": "greek_tv:ant1:6b71e430:f9ii40465iukeyzgcc3nzajy",
+        "title": "ΝΤΕΡΤΙ – SNEAK PREVIEW – ΕΠΕΙΣΟΔΙΟ 30",
         "season": 1,
         "episode": 30,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       },
       {
-        "id": "greek_tv:ant1:6b71e430:jank7dtg42md02v5qlltqtsn",
-        "title": "Ντέρτι - Τρίτη στις 22:30",
+        "id": "greek_tv:ant1:6b71e430:vaczdmu4bors27jrq9czxvg8",
+        "title": "Ντέρτι - Τετάρτη στις 22:30",
         "season": 1,
         "episode": 31,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
