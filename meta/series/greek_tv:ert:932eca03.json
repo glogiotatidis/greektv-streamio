@@ -7,39 +7,39 @@
     "background": "https://files2.app.ertflix.gr/files/enimerosi/syndeseisnl-hbbtv-bg.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:932eca03:sundeseis-1387",
+        "title": "Πέμπτη 26 Νοεμβρίου 2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syndeseis-2025-2026/20261126-syndeseis.jpg"
+      },
+      {
         "id": "greek_tv:ert:932eca03:sundeseis-1386",
         "title": "Τετάρτη 25 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syndeseis-2025-2026/20261125-syndeseis.jpg"
       },
       {
         "id": "greek_tv:ert:932eca03:sundeseis-1385",
         "title": "Τρίτη 24 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syndeseis-2025-2026/20261124-syndeseis.jpg"
       },
       {
         "id": "greek_tv:ert:932eca03:sundeseis-1384",
         "title": "Δευτέρα 23 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 3,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syndeseis-2025-2026/20261123-syndeseis.jpg"
       },
       {
         "id": "greek_tv:ert:932eca03:sundeseis-1383",
         "title": "Παρασκευή 20 Νοεμβρίου 2026",
         "season": 1,
-        "episode": 4,
-        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syndeseis-2025-2026/20261120-syndeseis.jpg"
-      },
-      {
-        "id": "greek_tv:ert:932eca03:sundeseis-1382",
-        "title": "Πέμπτη 19 Νοεμβρίου 2026",
-        "season": 1,
         "episode": 5,
-        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syndeseis-2025-2026/20261119-syndeseis.jpg"
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/syndeseis-2025-2026/20261120-syndeseis.jpg"
       }
     ]
   }

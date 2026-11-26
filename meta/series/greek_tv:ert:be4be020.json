@@ -544,6 +544,13 @@
         "season": 5,
         "episode": 2,
         "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/season-05/365-stigmes-s05-e02-thraki.jpg"
+      },
+      {
+        "id": "greek_tv:ert:be4be020:365-stigmes-78",
+        "title": "Στα Ίχνη του Δασκαλογιάννη, του Ήρωα της Κρήτης | 26.11.2026",
+        "season": 5,
+        "episode": 3,
+        "thumbnail": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/365-stigmes-s05-e03.png"
       }
     ]
   }

@@ -7,73 +7,80 @@
     "background": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:106cd1b4:kvlhvcj6til272gwb1ga7ev5",
+        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 26/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
         "id": "greek_tv:ant1:106cd1b4:wifu83vygvrf7cnrs1icfr9c",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 25/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:ktsu35ryzg5dh867hwft6sf2",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 24/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:dwqseizpqkofh3q01c4q69bm",
         "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 23/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:106cd1b4:rrigt5dxy0yf0g1xboy9r3xu",
-        "title": "ΑΠΟΚΑΛΥΨΕΙΣ - 20/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:g3w5k91ma4sgadxl5m2h5t8n",
-        "title": "Ο πρόεδρος της Ελληνικής Λύσης, Κυριάκος Βελόπουλος, μιλάει στις Αποκαλύψεις",
+        "id": "greek_tv:ant1:106cd1b4:m880nxecey7d5s4gr3as4wiy",
+        "title": "Εργαζόμενη στα σπιτάκια ανακύκλωσης μιλάει στις Αποκαλύψεις Εργαζόμενη στα σπιτάκια ανακύκλωσης: «Δεχόμασταν καθημερινά απειλές να παραιτηθούμε – πήγαμε στην...",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:rpla23133dtdy1g1w0qrff61",
-        "title": "Σοκ από την ποσότητα προποφόλης που βρέθηκε στις τοξικολογικές του Γιώργου Μαζωνάκη",
+        "id": "greek_tv:ant1:106cd1b4:g36ryun8awn64fjg6trla8on",
+        "title": "Επιχείρηση «σκούπα» από την ευρωπαϊκή εισαγγελία Συνέλαβαν εκδότες και επιχειρηματίες.",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:s4x7sav3sn3so8zasw64833q",
-        "title": "Η συνέργεια των ουσιών που βρέθηκαν στις τοξικολογικές του Γιώργου Μαζωνάκη Ο ιατροδικαστής Παντελής Αλεξάνδρου μιλάει στις Αποκαλύψεις",
+        "id": "greek_tv:ant1:106cd1b4:svsjsand2nzlixzzskyagcp8",
+        "title": "Αποκλειστική συνέντευξη του 63χρονου που συνελήφθη για τη δολοφονία της γυναίκας του στο Θησείο",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:z4l3aap17qkqko3ey2azlka7",
-        "title": "Στις Αποκαλύψεις μιλάει η δικηγόρος της αναισθησιολόγου της Καρνεάδου",
+        "id": "greek_tv:ant1:106cd1b4:mkdh38c77ftieopl8rbfqqxc",
+        "title": "15χρονος μεταφέρθηκε από ιδιωτικό σχολείο στο νοσοκομείο σε ημιλιπόθυμη κατάσταση Ερευνάται αν προηγήθηκε χρήση ουσιών",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
-        "id": "greek_tv:ant1:106cd1b4:oqlo1wum6g154hwu64i5vlac",
-        "title": "Αποκλειστικό: Η βιντεοκλήση της ντροπής ανάμεσα σε σχολική νοσηλεύτρια και 13χρονο Η βιντεοκλήση της ντροπής ανάμεσα σε σχολική νοσηλεύτρια και 13χρονο από την Δυτική Αττική –...",
+        "id": "greek_tv:ant1:106cd1b4:gwrnmyeyxpxlefswfvupbqvq",
+        "title": "Ο Γρηγόρης Κωνσταντέλλος, Δήμαρχος Βάρης-Βούλας-Βουλιαγμένης, μιλάει στις Αποκαλύψεις Γρηγόρης Κωνσταντέλλος: «Δέχθηκα πιέσεις για όσα υποστήριξα σχετικά με τα σπιτάκια ανακύκλωσης»",
         "season": 1,
         "episode": 9,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:106cd1b4:lo5y5fpwmp529h61gdyhpi26",
+        "title": "Αποκλειστικό: Το ανώνυμο e-mail που ξεσκέπασε τη δράση του κυκλώματος των ένστολων και των λογιστών",
+        "season": 1,
+        "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       },
       {
         "id": "greek_tv:ant1:106cd1b4:c6aewf4q6gzaxq64euikkpxm",
         "title": "Αποκαλύψεις - Καθημερινά στις 14:00",
         "season": 1,
-        "episode": 10,
+        "episode": 11,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
       }
     ]

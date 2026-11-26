@@ -7,85 +7,85 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:4c6ac268:dp0qj844im3cvh69za56fdg6",
+        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 26/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
+      },
+      {
         "id": "greek_tv:ant1:4c6ac268:bb6ah8dufpy8te583waupfqw",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 25/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
         "id": "greek_tv:ant1:4c6ac268:ccmjiqvjx4lxmhlu2jvpcq4a",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 24/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
         "id": "greek_tv:ant1:4c6ac268:szgdcvy6ft6l3rn9hgp965n1",
         "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 23/11/2026",
         "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:4c6ac268:yl4el4mg8e6egvpo6q0c1t2h",
-        "title": "ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ – 20/11/2026",
-        "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:pop705cgyinmoeshwqglgct8",
-        "title": "Κύκλωμα απάτης με εικονικές αποδείξεις - Καλημέρα Ελλάδα - 25/11/2026 Στο μικροσκόπιο στρατιωτικοί, αστυνομικοί και πυροσβέστες.",
+        "id": "greek_tv:ant1:4c6ac268:c1nmihvx4n1lq76eejyhqvhn",
+        "title": "Ο Κώστας Ζαχαριάδης, στέλεχος ΕΛ.Α.Σ. στο Καλημέρα Ελλάδα – 26/11/2026",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:p3ekvt8g75xgb3jrf22lwwoz",
-        "title": "Black Friday: Τι πρέπει να προσέξουν οι καταναλωτές -Καλημέρα Ελλάδα - 25/11/2026 Η ψυχολογία πίσω από τις αγορές και το πως επηρεάζει το μυαλό μας.",
+        "id": "greek_tv:ant1:4c6ac268:y9wadnxey6d0gi5fy5abgg92",
+        "title": "Αποκαλύψεις, παρασκήνιο και σκιές στην πολιτική αντιπαράθεση - Καλημέρα Ελλάδα - 26/11/2026 Ο Μ.Βορίδης, βουλευτής της ΝΔ και ο Δ. Μάντζος, βουλευτής του ΠΑΣΟΚ βρέθηκαν καλεσμένοι στο Καλημέρα...",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:v6he0f4rk0rwoo1swlk3lxu2",
-        "title": "Θεσσαλονίκη: Από τα σκουπίδια στο Ιπποκράτειο νοσοκομείο τα δυο παιδάκια - Καλημέρα Ελλάδα - 25/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:n4qfvyexfjcm91mcu4ps9vh0",
+        "title": "Ο Γιώργος Φλωρίδης, υπουργός Δικαιοσύνης στο Καλημέρα Ελλάδα – 26/11/2026",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:qdj3trcf9jvqj6jxb1j8vkqc",
-        "title": "Φωταγωγήθηκε το χριστουγεννιάτικο δέντρο στο Σύνταγμα - Καλημέρα Ελλάδα - 25/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:f0w86nhyg1ov6fbu0t035a2p",
+        "title": "Ένστολοι με χειροπέδες - Μεγάλη η μπίζνα με τις εικονικές αποδείξεις - Καλημέρα Ελλάδα - 26/11/2026",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:knmsz6ds13d8np16ey8udhb8",
-        "title": "Σέρρες: \"Φτερά\" έκαναν 100.000 ευρώ, 78 χρυσές λίρες και κοσμήματα - Καλημέρα Ελλάδα - 25/11/2026 Στο στόχαστρο ηλικιωμένοι.",
+        "id": "greek_tv:ant1:4c6ac268:u812y0zv7w8l4dsk9h7oeuj5",
+        "title": "Επιπλέον 20% στην Κίνα - Ο Τραμπ βάζει επιπλέον δασμούς σε 14 εμπορικούς εταίρους - Καλημέρα Ελλάδα - 26/11/2026",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:dfth09lmepgskuuru0s6r991",
-        "title": "Βρήκαμε το \"GTA\" για... γκριζομάλληδες- Καλημέρα Ελλάδα - 25/11/2026 Ο Ηλίας Τσιντάβης, υπεύθυνος μουσείου \"Arcade\", στο Καλημέρα Ελλάδα.",
+        "id": "greek_tv:ant1:4c6ac268:awk01yazn8bnbejgmi6xkfb5",
+        "title": "Ανήλικος από το Παίδων «Αγία Σοφία» το έσκασε από το νοσοκομείο με τον ορό στο χέρι - Καλημέρα Ελλάδα - 26/11/2026",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:up7stlcd87q7h1s6v3blx5cg",
-        "title": "Ο κυβερνητικός εκπρόσωπος, Παύλος Μαρινάκης, στο Καλημέρα Ελλάδα – 25/11/2026",
+        "id": "greek_tv:ant1:4c6ac268:lznq077tnrtfxdxuzv5lwkj0",
+        "title": "Τα διπλωματικά παιχνίδια της Τουρκίας και η στάση της Ελλάδας - Καλημέρα Ελλάδα - 26/11/2026 Ο Τ. Χατζηβασιλείου, υφυπουργός Εξωτερικών και ο Σ. Καλεντερίδης στρατιωτικός αναλυτής βρέθηκαν...",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"
       },
       {
-        "id": "greek_tv:ant1:4c6ac268:r0cd3eyu1bbbf5zp46ad33h9",
-        "title": "Ανακατωσούρα απευθείας αναθέσεων - Στα άκρα η πολιτική αντιπαράθεση -Καλημέρα Ελλάδα - 25/11/2026 Ο Κ.Κυρανάκης, γραμματέας της ΝΔ και ο Κ. Τσουκαλάς, Εκπρ. Τύπου του ΠΑΣΟΚ βρέθηκαν καλεσμένοι στο...",
+        "id": "greek_tv:ant1:4c6ac268:w21lfjyrwqct15w7krvj0i1a",
+        "title": "50 χρόνια ιστορίας γιορτάζει η Ιταλική εφημερίδα \"La Repubblica\" του Ομιλίου ΑΝΤΕΝΝΑ - Καλημέρα Ελλάδα - 26/11/2026",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_1920x780_Kalimera_Ellada_b434e69395.jpg"

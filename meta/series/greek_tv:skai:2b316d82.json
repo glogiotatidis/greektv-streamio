@@ -7,17 +7,10 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/kairos_new_landscape.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:2b316d82:2026-11-25-09",
-        "title": "25/11/2026",
+        "id": "greek_tv:skai:2b316d82:2026-11-26-09",
+        "title": "Επεισόδιο 87",
         "season": 1,
-        "episode": 25,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/kairos_new_landscape.jpg"
-      },
-      {
-        "id": "greek_tv:skai:2b316d82:2026-11-24-09",
-        "title": "Επεισόδιο 85",
-        "season": 1,
-        "episode": 85,
+        "episode": 87,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/eidiseis/logos/2025_2026/kairos_new_landscape.jpg"
       }
     ]

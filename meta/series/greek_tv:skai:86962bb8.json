@@ -8,23 +8,23 @@
     "videos": [
       {
         "id": "greek_tv:skai:86962bb8:2026-11-24-11",
-        "title": "24/11/2026",
+        "title": "Επεισόδιο 67",
         "season": 1,
-        "episode": 24,
+        "episode": 67,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
       },
       {
         "id": "greek_tv:skai:86962bb8:2026-11-25-11",
-        "title": "25/11/2026",
+        "title": "Επεισόδιο 68",
         "season": 1,
-        "episode": 25,
+        "episode": 68,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
       },
       {
-        "id": "greek_tv:skai:86962bb8:2026-11-23-11",
-        "title": "Επεισόδιο 66",
+        "id": "greek_tv:skai:86962bb8:2026-11-26-11",
+        "title": "Επεισόδιο 69",
         "season": 1,
-        "episode": 66,
+        "episode": 69,
         "thumbnail": "https://media.skaitv.gr/images/450/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
       }
     ]

@@ -33,6 +33,13 @@
         "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Site_GFX_HEADER_c02b9d3ae4.jpg"
+      },
+      {
+        "id": "greek_tv:ant1:da74c78c:nblu6iwlpmmdt135mi7fhzt0",
+        "title": "Super Ball Show – Παρασκευή στις 01:15 και Σάββατο στις 00:45",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Site_GFX_HEADER_c02b9d3ae4.jpg"
       }
     ]
   }

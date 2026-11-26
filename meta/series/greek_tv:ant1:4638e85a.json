@@ -7,29 +7,29 @@
     "background": "https://www.antenna.gr/imgHandler/1920/Header_Antenna_gr_1920x780_Nixta_Apokalipseon_a83726da94.jpg",
     "videos": [
       {
+        "id": "greek_tv:ant1:4638e85a:fgx3hqfd75xuz1xe70gutsjg",
+        "title": "ΝΥΧΤΑ ΑΠΟΚΑΛΥΨΕΩΝ – 25/11/2026",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Antenna_gr_1920x780_Nixta_Apokalipseon_a83726da94.jpg"
+      },
+      {
         "id": "greek_tv:ant1:4638e85a:cl9iv34qcxrqhxvo1ger8f7x",
         "title": "ΝΥΧΤΑ ΑΠΟΚΑΛΥΨΕΩΝ – 18/11/2026",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Antenna_gr_1920x780_Nixta_Apokalipseon_a83726da94.jpg"
       },
       {
         "id": "greek_tv:ant1:4638e85a:npsewkhkmrehqrl1p6kmuz88",
         "title": "ΝΥΧΤΑ ΑΠΟΚΑΛΥΨΕΩΝ – 11/11/2026",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Antenna_gr_1920x780_Nixta_Apokalipseon_a83726da94.jpg"
       },
       {
         "id": "greek_tv:ant1:4638e85a:zfjnc4ips9zm79duryhfn8mo",
         "title": "ΝΥΧΤΑ ΑΠΟΚΑΛΥΨΕΩΝ – 04/11/2026",
-        "season": 1,
-        "episode": 3,
-        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Antenna_gr_1920x780_Nixta_Apokalipseon_a83726da94.jpg"
-      },
-      {
-        "id": "greek_tv:ant1:4638e85a:e80j26hrhpci24sd16x5hghi",
-        "title": "ΝΥΧΤΑ ΑΠΟΚΑΛΥΨΕΩΝ – 28/10/2026",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Antenna_gr_1920x780_Nixta_Apokalipseon_a83726da94.jpg"

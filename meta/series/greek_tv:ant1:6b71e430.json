@@ -21,17 +21,24 @@
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       },
       {
-        "id": "greek_tv:ant1:6b71e430:f9ii40465iukeyzgcc3nzajy",
-        "title": "ΝΤΕΡΤΙ – SNEAK PREVIEW – ΕΠΕΙΣΟΔΙΟ 30",
+        "id": "greek_tv:ant1:6b71e430:o7p8p8lj6ffx0w7gh8ufu9ku",
+        "title": "ΝΤΕΡΤΙ – ΕΠΕΙΣΟΔΙΟ 30",
         "season": 1,
         "episode": 30,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       },
       {
-        "id": "greek_tv:ant1:6b71e430:vaczdmu4bors27jrq9czxvg8",
-        "title": "Ντέρτι - Τετάρτη στις 22:30",
+        "id": "greek_tv:ant1:6b71e430:f9ii40465iukeyzgcc3nzajy",
+        "title": "ΝΤΕΡΤΙ – SNEAK PREVIEW – ΕΠΕΙΣΟΔΙΟ 30",
         "season": 1,
         "episode": 31,
+        "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
+      },
+      {
+        "id": "greek_tv:ant1:6b71e430:vykdpz2fkgg34n2zmuh6asy8",
+        "title": "Ντέρτι – Δευτέρα έως Τετάρτη στις 22:30",
+        "season": 1,
+        "episode": 32,
         "thumbnail": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
       }
     ]

@@ -7,17 +7,31 @@
     "background": "https://files2.app.ertflix.gr/2026/festivals/20o-festival-ntokimanter-xalkidas/festibal-ntokimanter-chalkidas-2026-hbbtv-bg.jpg",
     "videos": [
       {
+        "id": "greek_tv:ert:e92f15a0:20o-phestibal-ellenikou-ntokimanter-khalkidas-2",
+        "title": "Μέρα 4η",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/docfest-2026-day-3-4mbpsmp4-2026-11-26-09h51m26s853.jpg"
+      },
+      {
+        "id": "greek_tv:ert:e92f15a0:20o-phestibal-ellenikou-ntokimanter-khalkidas-1",
+        "title": "Μέρα 3η",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://files2.app.ertflix.gr/2026/images/docfest-2026-day-2mp4-2026-11-25-09h57m24s314.jpg"
+      },
+      {
         "id": "greek_tv:ert:e92f15a0:20o-phestibal-ellenikou-ntokimanter-khalkidas",
         "title": "Μέρα 2η",
         "season": 1,
-        "episode": 1,
+        "episode": 3,
         "thumbnail": "https://files2.app.ertflix.gr/2026/images/docfest-2026-day-1mp4-2026-11-24-09h30m25s510.jpg"
       },
       {
         "id": "greek_tv:ert:e92f15a0:20o-phestibal-ellenikou-ntokimanter-khalkidas-0",
         "title": "Μέρα 1η",
         "season": 1,
-        "episode": 2,
+        "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/2026/festivals/20o-festival-ntokimanter-xalkidas/20261123-docfest-2026-day-0.jpg"
       }
     ]

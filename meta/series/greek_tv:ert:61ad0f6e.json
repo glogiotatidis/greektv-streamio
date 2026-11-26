@@ -54,6 +54,13 @@
         "season": 1,
         "episode": 7,
         "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/to-teleutaio-nisi/ps049827-to-teleytaio-nisi-h-kakokairia.jpg"
+      },
+      {
+        "id": "greek_tv:ert:61ad0f6e:to-teleutaio-nesi-9",
+        "title": "Το Σκάφανδρο",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/to-teleutaio-nisi/ps049828-to-teleutaio-nisi-to-skafandro.jpg"
       }
     ]
   }
