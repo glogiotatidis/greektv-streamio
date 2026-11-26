@@ -13,10 +13,10 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Nterti_1920x780_76ed10278e.png"
     },
     {
-      "id": "greek_tv:ant1:a6015cac",
+      "id": "greek_tv:ant1:35800f78",
       "type": "series",
-      "name": "ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ",
-      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Krino_and_Agathi_1920x780_Full_Cast_V2_8ddf3e6d3b.jpg"
+      "name": "ΚΑΤΙ ΨΗΝΕΤΑΙ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
     },
     {
       "id": "greek_tv:ant1:3fd4340e",
@@ -67,16 +67,16 @@
       "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_APOKALYPSEIS_345dba9dab.jpg"
     },
     {
-      "id": "greek_tv:ant1:35800f78",
-      "type": "series",
-      "name": "ΚΑΤΙ ΨΗΝΕΤΑΙ",
-      "poster": "https://www.antenna.gr/imgHandler/1920/HEADER_Minisite_KATI_PSINETE_NEW_453a472b17.jpg"
-    },
-    {
       "id": "greek_tv:ant1:a9b22b95",
       "type": "series",
       "name": "THE ROADSHOW",
       "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_The_Roadshow_3_1920x780_a3024e7003.jpg"
+    },
+    {
+      "id": "greek_tv:ant1:a6015cac",
+      "type": "series",
+      "name": "ΚΡΙΝΟ ΚΑΙ ΑΓΚΑΘΙ",
+      "poster": "https://www.antenna.gr/imgHandler/1920/Header_Minisite_Krino_and_Agathi_1920x780_Full_Cast_V2_8ddf3e6d3b.jpg"
     },
     {
       "id": "greek_tv:ant1:059b1645",

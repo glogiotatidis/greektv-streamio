@@ -313,22 +313,22 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/simera_landscape_1.jpg"
     },
     {
-      "id": "greek_tv:skai:582e1281",
-      "type": "series",
-      "name": "ALZHEIMER ΜΙΛΑΜΕ ΑΝΟΙΧΤΑ",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/enimerwsi/24-7_1080x1080_alzheimer2_1280x720.jpg"
-    },
-    {
       "id": "greek_tv:skai:e8d3cfe5",
       "type": "series",
       "name": "Αταίριαστοι",
       "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/atairiastoi_landscape_1.jpg"
     },
     {
-      "id": "greek_tv:skai:b368edc1",
+      "id": "greek_tv:skai:86962bb8",
       "type": "series",
-      "name": "Όπου Υπάρχει Ελλάδα",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/opou_yparxei_ellada/2024_2025/logos/ellada_new_landscape.jpg"
+      "name": "Live You",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
+    },
+    {
+      "id": "greek_tv:skai:f793384c",
+      "type": "series",
+      "name": "Ρεπορτάζ στις 10",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/reportaz10_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:25e6ca35",
@@ -361,10 +361,10 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2025_2026/vodafone.jpg"
     },
     {
-      "id": "greek_tv:skai:86962bb8",
+      "id": "greek_tv:skai:582e1281",
       "type": "series",
-      "name": "Live You",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/liveyou_landscape.jpg"
+      "name": "ALZHEIMER ΜΙΛΑΜΕ ΑΝΟΙΧΤΑ",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/enimerwsi/24-7_1080x1080_alzheimer2_1280x720.jpg"
     },
     {
       "id": "greek_tv:skai:91f3bebb",
@@ -373,16 +373,16 @@
       "poster": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/emporiko/dei_land1.jpg"
     },
     {
+      "id": "greek_tv:skai:b368edc1",
+      "type": "series",
+      "name": "Όπου Υπάρχει Ελλάδα",
+      "poster": "https://media.skaitv.gr/images/1280/0/files/opou_yparxei_ellada/2024_2025/logos/ellada_new_landscape.jpg"
+    },
+    {
       "id": "greek_tv:skai:34b4b592",
       "type": "series",
       "name": "Έκτακτη Επικαιρότητα",
       "poster": "https://media.skaitv.gr/images/1280/0/files/eidiseis/logos/2025_2026/ektakti_epikairotita.jpg"
-    },
-    {
-      "id": "greek_tv:skai:f793384c",
-      "type": "series",
-      "name": "Ρεπορτάζ στις 10",
-      "poster": "https://media.skaitv.gr/images/1280/0/files/enimerosi/2026_2027/reportaz10_landscape.jpg"
     },
     {
       "id": "greek_tv:skai:36874385",

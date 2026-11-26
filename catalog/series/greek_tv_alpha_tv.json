@@ -1,12 +1,6 @@
 {
   "metas": [
     {
-      "id": "greek_tv:alpha_tv:f5fba049",
-      "type": "series",
-      "name": "10η Εντολή",
-      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
-    },
-    {
       "id": "greek_tv:alpha_tv:250e653f",
       "type": "series",
       "name": "Μια Γυναίκα",
@@ -47,6 +41,12 @@
       "type": "series",
       "name": "Μην αρχίζεις τη μουρμούρα",
       "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-min-arxizeis-tin-mourmoura-cover-horizontal.jpg"
+    },
+    {
+      "id": "greek_tv:alpha_tv:f5fba049",
+      "type": "series",
+      "name": "10η Εντολή",
+      "poster": "https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-dekati-entoli-cover-horizontal.jpg"
     },
     {
       "id": "greek_tv:alpha_tv:8d208c3a",
