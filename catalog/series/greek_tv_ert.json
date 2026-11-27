@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "greek_tv:ert:84f08fa8",
+      "type": "series",
+      "name": "(AD, CC) Θάλασσες μας Χώρισαν",
+      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/ad-cc/thalassesmaschorisan-ad-cc-ertflix-img.jpg"
+    },
+    {
       "id": "greek_tv:ert:8de9addd",
       "type": "series",
       "name": "Κουτσουπιές",
@@ -253,12 +259,6 @@
       "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/cc/thalassesmaschorisan-cc-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:84f08fa8",
-      "type": "series",
-      "name": "(AD, CC) Θάλασσες μας Χώρισαν",
-      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/ad-cc/thalassesmaschorisan-ad-cc-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:890d264d",
       "type": "series",
       "name": "Χάντμπολ Α1 Γυναικών 2026-27",
@@ -343,16 +343,16 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/istorima/nea-dimiourgika-2024/istorima-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:616c9323",
-      "type": "series",
-      "name": "Άιντε Βαλκάνια",
-      "poster": "https://files2.app.ertflix.gr/2026/documentaries/come-on-balkans/ainte-balkania-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:d73a4f68",
       "type": "series",
       "name": "Διασπορά",
       "poster": "https://files2.app.ertflix.gr/2026/shows/diaspora-26-27/diaspora-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:0da863e7",
+      "type": "series",
+      "name": "Από Ήλιο σε Ήλιο",
+      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/apo-hlio-se-hlio/apo-hlio-se-hlio-ertflix-img-cc.jpg"
     },
     {
       "id": "greek_tv:ert:8300898f",
@@ -391,10 +391,10 @@
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/f-zin/f-zhn-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:0da863e7",
+      "id": "greek_tv:ert:616c9323",
       "type": "series",
-      "name": "Από Ήλιο σε Ήλιο",
-      "poster": "https://files2.app.ertflix.gr/files/ellinikes-seires/apo-hlio-se-hlio/apo-hlio-se-hlio-ertflix-img-cc.jpg"
+      "name": "Άιντε Βαλκάνια",
+      "poster": "https://files2.app.ertflix.gr/2026/documentaries/come-on-balkans/ainte-balkania-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:4e13db68",
@@ -631,10 +631,10 @@
       "poster": "https://files2.app.ertflix.gr/files/psychagogia/ma-pws-ftiaxnete/ma-pos-ftiaxnete-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:4eaac8e0",
+      "id": "greek_tv:ert:17a41927",
       "type": "series",
-      "name": "Βαλκάνια Εξπρές",
-      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkania-exrpess-ertflix-img.jpg"
+      "name": "Φάσμα",
+      "poster": "https://files2.app.ertflix.gr/files/enimerosi/fasma/2026-2027/fasma-kv-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:ca6e851d",
@@ -685,16 +685,16 @@
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/365stigmes/season-05/365-stigmes-2026-2027-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:17a41927",
-      "type": "series",
-      "name": "Φάσμα",
-      "poster": "https://files2.app.ertflix.gr/files/enimerosi/fasma/2026-2027/fasma-kv-ertflix-img.jpg"
-    },
-    {
       "id": "greek_tv:ert:ec7196be",
       "type": "series",
       "name": "Οι Έλληνες του Κόσμου",
       "poster": "https://files2.app.ertflix.gr/files/enimerosi/oi-ellines-tou-kosmou/oi-ellines-tou-kosmou-ertflix-img.jpg"
+    },
+    {
+      "id": "greek_tv:ert:4eaac8e0",
+      "type": "series",
+      "name": "Βαλκάνια Εξπρές",
+      "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/balkania-express/balkania-exrpess-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:084da574",
@@ -793,10 +793,10 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/mnimi-mou-se-lene-ponto/mnimipontos-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:f6b5ba36",
+      "id": "greek_tv:ert:c72943d2",
       "type": "series",
-      "name": "Art Week",
-      "poster": "https://files2.app.ertflix.gr/files/synentefxeis/ertflix-banner-artweek-640x360.jpg"
+      "name": "Η Αυλή των Χρωμάτων",
+      "poster": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/h-aylh-twn-xrwmatwn-2022-ertflix-img.jpg"
     },
     {
       "id": "greek_tv:ert:e024275e",
@@ -847,10 +847,10 @@
       "poster": "https://files2.app.ertflix.gr/files/elllinika-docs/trains/istoria-ellinikon-sidirodromon-ertflix-img.jpg"
     },
     {
-      "id": "greek_tv:ert:c72943d2",
+      "id": "greek_tv:ert:f6b5ba36",
       "type": "series",
-      "name": "Η Αυλή των Χρωμάτων",
-      "poster": "https://files2.app.ertflix.gr/files/psychagogia/i-avli-twn-xrwmatwn/h-aylh-twn-xrwmatwn-2022-ertflix-img.jpg"
+      "name": "Art Week",
+      "poster": "https://files2.app.ertflix.gr/files/synentefxeis/ertflix-banner-artweek-640x360.jpg"
     },
     {
       "id": "greek_tv:ert:e5548b9e",
