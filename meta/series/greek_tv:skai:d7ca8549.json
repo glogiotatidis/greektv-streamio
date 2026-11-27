@@ -7,13 +7,6 @@
     "background": "https://media.skaitv.gr/images/1280/0/files/studio_stis_3/2026_2027/studio_stis3_landscape2.jpg",
     "videos": [
       {
-        "id": "greek_tv:skai:d7ca8549:2026-11-10-15",
-        "title": "Studio στις 3 | Β' Κύκλος 10/11/2026",
-        "season": 1,
-        "episode": 3,
-        "thumbnail": "https://media.skaitv.gr/images/450/0/files/studio_stis_3/2026_2027/studio_52.jpg"
-      },
-      {
         "id": "greek_tv:skai:d7ca8549:2026-11-11-15",
         "title": "Επεισόδιο 53",
         "season": 1,
