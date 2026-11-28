@@ -152,6 +152,13 @@
         "season": 2,
         "episode": 9,
         "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-fonoi-sto-kabanario-2-cover-horizontal-3.jpg"
+      },
+      {
+        "id": "greek_tv:alpha_tv:35ed0a8d:792544-s2-epeisodio-10",
+        "title": "Σ2 – ΕΠΕΙΣΟΔΙΟ 10",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://www.alphatv.gr/wp-content/uploads/2026/07/alphatv-series-fonoi-sto-kabanario-2-cover-horizontal-3.jpg"
       }
     ]
   }

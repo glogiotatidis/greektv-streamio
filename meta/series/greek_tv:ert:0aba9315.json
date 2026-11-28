@@ -33,6 +33,34 @@
         "season": 1,
         "episode": 4,
         "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/ps050145-thalasses-mas-xorisan-s01-ep04.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0aba9315:thalasses-mas-khorisan-5",
+        "title": "Θάλασσες μας Χώρισαν",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/ps050146-thalasses-mas-xorisan-ep05.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0aba9315:thalasses-mas-khorisan-6",
+        "title": "Θάλασσες μας Χώρισαν",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/ps050147-thalasses-mas-xorisan-ep06.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0aba9315:thalasses-mas-khorisan-7",
+        "title": "Θάλασσες μας Χώρισαν",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/ps050148-thalasses-mas-xorisan-ep07-n.jpg"
+      },
+      {
+        "id": "greek_tv:ert:0aba9315:thalasses-mas-khorisan-8",
+        "title": "Θάλασσες μας Χώρισαν",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://files2.app.ertflix.gr/files/ellinikes-seires/thalasses-mas-xorisan/ps050149-thalasses-mas-xorisan-ep08.jpg"
       }
     ]
   }
